@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>CSS Media Query</title>
+
+	<style>
+	*, *:after, *:before { box-sizing: border-box; }
+
+	.prvni, .druhy {
+		padding: 20px;
+		margin: 20px;
+		color: white;
+	}
+
+	.prvni {
+		background-color: green;
+		font-size: 24px;
+	}
+
+	.druhy {
+		display: none;
+		background-color: purple;
+	}
+
+
+	@media (min-width: 768px) {
+		/* pokud je sirka okna vetsi nez 640px, aplikuji se tyto styly */
+
+		.prvni {
+			background-color: red;
+		}
+
+		.druhy {
+			display: block;
+		}
+
+	}
+
+	</style>
+</head>
+<body>
+
+
+<div class="prvni">
+	<p>Malý jsem zelený, velký jsem červený!</p>
+</div>
+
+<div class="druhy">
+	<p>Na mobilu nejsem vidět, zmizím!</p>
+</div>
+
+
+</body>
+</html>
