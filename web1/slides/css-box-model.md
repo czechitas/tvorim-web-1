@@ -1,6 +1,6 @@
 # Box-model
 
-<pre class="c-text-large fragment" contenteditable><code class="lang-css stretch" data-noescape><span class="fragment">width: 300px;</span>
+<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape><span class="fragment">width: 300px;</span>
 <span class="fragment">height: 100px;</span>
 <span class="fragment">margin: 10px;</span>
 <span class="fragment">border: 1px solid black;</span>

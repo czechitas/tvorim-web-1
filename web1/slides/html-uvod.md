@@ -26,7 +26,7 @@
 	vysvobozený Pú!
 </p>
 ```
-<!-- .element: class="c-text-large stretch" -->
+<!-- .element: class="c-text-md stretch" -->
 
 >>>
 * Jednou z nejčastěji používaných značek je vyznačování odstavce.
@@ -54,7 +54,7 @@
     </body>
 </html>
 ```
-<!-- .element: class="c-text-large stretch" -->
+<!-- .element: class="c-text-md stretch" -->
 
 >>>
 * Každý HTML dokument má mít tuto strukturu.

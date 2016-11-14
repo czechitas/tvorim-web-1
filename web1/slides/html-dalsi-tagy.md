@@ -1,6 +1,8 @@
 # Další tagy
 
-<pre class="c-text-large" contenteditable><code class="lang-html stretch" data-noescape>&lt;h1&gt;Hlavní nadpis&lt;/h1&gt;
+---
+
+<pre class="c-text-md" contenteditable><code class="lang-html stretch" data-noescape>&lt;h1&gt;Hlavní nadpis&lt;/h1&gt;
 
 <span class="fragment">&lt;h2&gt;Nadpis 2. úrovně&lt;/h2&gt;</span>
 

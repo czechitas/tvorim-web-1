@@ -1,6 +1,6 @@
 # Pseudotřídy
 
-<pre class="c-text-large fragment" contenteditable><code class="lang-css stretch" data-noescape>a { color: navy; }<span class="fragment">
+<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape>a { color: navy; }<span class="fragment">
 
 a:link {color: blue;} /* nenavštívený */
 

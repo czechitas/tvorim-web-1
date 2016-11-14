@@ -1,6 +1,6 @@
 # Obrázky
 
-<pre class="c-text-large" contenteditable><code class="lang-html" data-noescape><span class="fragmentx">&lt;img
+<pre class="c-text-md" contenteditable><code class="lang-html" data-noescape><span class="fragmentx">&lt;img
   <span class="fragment">src="<span class="fragment">https://example.com/pooh.jpg</span>"</span>
   <span class="fragment">alt="<span class="fragment">medvěd v lese</span>"</span>
   <span class="fragment">width="<span class="fragment">400</span>"</span>
