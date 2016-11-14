@@ -241,9 +241,12 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
     body.print-pdf & {
         .slide-background { background-color: #eee; }
     }
-
 }
 
+
+.c-slide-inter {
+    .slide-background { background: #b82c7f; }
+}
 
 .reveal {
     @mixin c-postit() {
