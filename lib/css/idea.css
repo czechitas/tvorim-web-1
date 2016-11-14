@@ -29,7 +29,7 @@ Intellij Idea-like styling (c) Vasily Polovnyov <vast@whiteants.net>
 }
 
 .hljs-tag {
-  background: #efefef;
+  background: transparent;
 }
 
 .hljs-section,
