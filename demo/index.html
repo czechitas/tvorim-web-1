@@ -1,0 +1,130 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Demo</title>
+
+		<link rel="stylesheet" href="/css/reveal.css">
+		<link rel="stylesheet" href="/css/theme/solarized.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="/lib/css/idea.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '/css/print/pdf.css' : '/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<script>
+			document.body.setAttribute('spellcheck', false);
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown="slides/demo1.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n===\r?\n$" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/demo2.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n===\r?\n$" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/demo3.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n===\r?\n$" data-separator-vertical="^\r?\n---\r?\n$"></section>
+			</div>
+		</div>
+
+		<script src="/lib/js/head.min.js"></script>
+		<script src="/js/reveal.js"></script>
+		<script src="/plugin/sampler/example/lib/js/jquery-1.12.2.min.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+				width: 1920, height: 1080,
+				// Uncomment for printing
+				// width: 297*7, height: 210*7,
+				// Factor of the display size that should remain empty around the content
+				margin: 0.05,
+
+				// Bounds for smallest/largest possible scale to apply to content
+				minScale: 0.1,
+				maxScale: 8,
+
+				// other settings
+				slideNumber: true,
+				mouseWheel: true,
+				backgroundTransition: 'none',
+				transitionSpeed: 'fast',
+				previewLinks: true,
+
+				// dev settings
+				fragments: false,   // vypnout postupné zobrazování prvků s třídou fragment
+				transition: 'none', // vypnout efekty na přechodu mezi slajdy
+				showNotes: true,    // zapnout viditelné poznámky
+
+
+				menu: {
+					side: 'left',
+					numbers: false,
+					titleSelector: 'h1, h2, h3, h4, h5, h6',
+
+					hideMissingTitles: false,
+
+					markers: true,
+
+					custom: false,
+
+					// Specifies the themes that will be available in the themes
+					// menu panel. Set to 'false' to hide themes panel.
+					themes: false,
+
+					// Specifies if the transitions menu panel will be shown.
+					transitions: true,
+
+					// Adds a menu button to the slides to open the menu panel.
+					// Set to 'false' to hide the button.
+					openButton: true,
+
+					openSlideNumber: false,
+
+					keyboard: true
+				},
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: '/plugin/markdown/marked.js' },
+					{ src: '/plugin/markdown/markdown.js' },
+					{ src: '/plugin/sampler/sampler.js' },
+					{ src: '/plugin/notes/notes.js', async: true },
+					{
+						src: '/plugin/highlight/highlight.js', async: true, callback: function(){
+						hljs.initHighlightingOnLoad();
+					}
+					},
+					{ src: '/plugin/menu/menu.js' }
+				]
+			});
+
+			// Vypnenout a zapnout vlastnosti pro urcite slajdy
+			Reveal.addEventListener('slidechanged', function(event){
+				if (event.currentSlide.attributes.getNamedItem('data-state')){
+					var currentSlideState = event.currentSlide.attributes.getNamedItem('data-state').nodeValue;
+				}
+
+				if (currentSlideState == 'c-slide-blank' || currentSlideState == 'c-slide-video'){
+					Reveal.configure({
+						controls: false,
+						margin: 0
+					});
+				} else {
+					Reveal.configure({
+						controls: true,
+						margin: 0.05
+					});
+				}
+			});
+
+		</script>
+	</body>
+</html>
