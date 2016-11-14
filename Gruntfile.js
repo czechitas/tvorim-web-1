@@ -132,7 +132,7 @@ module.exports = function(grunt) {
 				files: [ '*.md' ]
 			},
 			options: {
-				livereload: true
+				livereload: false
 			}
 		},
 		browserSync: {
