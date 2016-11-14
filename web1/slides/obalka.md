@@ -1,7 +1,8 @@
-<!-- .slide: data-background="#b82c7f" -->
+<!-- .slide: data-state="c-slide-inter" -->
 
-# Tvořím web 2
+
+# Tvořím web 1
 
 ## Czechitas
 
-### 28. května 2016
+### 19. listopadu 2016

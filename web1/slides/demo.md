@@ -1,4 +1,4 @@
-<!-- .slide: data-background="#b82c7f" -->
+<!-- .slide: data-state="c-slide-inter" -->
 
 # Demo prvků
 
