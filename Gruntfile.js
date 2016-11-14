@@ -134,6 +134,30 @@ module.exports = function(grunt) {
 			options: {
 				livereload: true
 			}
+		},
+		browserSync: {
+			dev: {
+				bsFiles: {
+					src: [
+						'**/*.html',
+						'**/*.md',
+						'css/**/*.css',
+						'js/**/*.js'
+					]
+				},
+				options: {
+					server: {
+						baseDir: './',
+						watchTask: true
+					},
+					injectChanges: false,
+					watchTask: true,
+					port: port,
+					ghostMode: false,
+					notify: false,
+					open: false
+				}
+			}
 		}
 
 	});
@@ -148,6 +172,8 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-contrib-connect' );
 	grunt.loadNpmTasks( 'grunt-autoprefixer' );
 	grunt.loadNpmTasks( 'grunt-zip' );
+    grunt.loadNpmTasks( 'grunt-browser-sync' );
+
 
 	// Default task
 	grunt.registerTask( 'default', [ 'css', 'js' ] );
@@ -169,6 +195,9 @@ module.exports = function(grunt) {
 
 	// Serve presentation locally
 	grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
+
+	// Serve presentation locally with reload
+	grunt.registerTask( 'servebs', [  'browserSync', 'watch' ] );
 
 	// Run tests
 	grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
