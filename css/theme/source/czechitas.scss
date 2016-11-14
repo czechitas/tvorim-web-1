@@ -134,21 +134,24 @@ section.has-dark-background {
     .c-text-center { text-align: center; }
 
     .c-text-xs,
-    .c-text-xs code { font-size: 38px; }
+    .c-text-xs code { font-size: 40px; }
 
     .c-text-sm,
     .c-text-sm code { font-size: 56px; }
 
     pre code {
-        font-size: 100px;
+        font-size: 78px;
         letter-spacing: -0.03em;
     }
 
     .c-text-md,
-    .c-text-md code { font-size: 120px; }
+    .c-text-md code { font-size: 78px; }
 
     .c-text-lg,
-    .c-text-lg code { font-size: 145px; }
+    .c-text-lg code { font-size: 110px; }
+
+    .c-text-xl,
+    .c-text-xl code { font-size: 150px; }
 
     .c-cols {
         display: flex;

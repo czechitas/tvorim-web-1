@@ -357,23 +357,27 @@ body {
 
 .reveal .c-text-xs,
 .reveal .c-text-xs code {
-  font-size: 38px; }
+  font-size: 40px; }
 
 .reveal .c-text-sm,
 .reveal .c-text-sm code {
   font-size: 56px; }
 
 .reveal pre code {
-  font-size: 100px;
+  font-size: 78px;
   letter-spacing: -0.03em; }
 
 .reveal .c-text-md,
 .reveal .c-text-md code {
-  font-size: 120px; }
+  font-size: 78px; }
 
 .reveal .c-text-lg,
 .reveal .c-text-lg code {
-  font-size: 145px; }
+  font-size: 110px; }
+
+.reveal .c-text-xl,
+.reveal .c-text-xl code {
+  font-size: 150px; }
 
 .reveal .c-cols {
   display: flex;
