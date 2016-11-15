@@ -2,14 +2,10 @@
  * Czechitas theme for reveal.js. Based on white theme
  *
  */
-
-
 // Default mixins and settings -----------------
 @import "../template/mixins";
 @import "../template/settings";
 // ---------------------------------------------
-
-
 // Include theme-specific fonts
 //@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,300,300italic,400italic,500,500italic,700italic,700,900,900italic&subset=latin,latin-ext');
@@ -30,26 +26,27 @@ $headingLetterSpacing: normal;
 $headingTextTransform: normal;
 $headingFontWeight: 700;
 $linkColor: #888888;
-$linkColorHover: lighten( $linkColor, 15% );
-$selectionBackgroundColor: lighten( $linkColor, 25% );
+$linkColorHover: lighten($linkColor, 15%);
+$selectionBackgroundColor: lighten($linkColor, 25%);
 
-$heading1Size: 4.0em;
-$heading2Size: 3.0em;
-$heading3Size: 2.0em;
-$heading4Size: 1.6em;
+$headingSizeRatio: 0.66;
+$interHeadingSizeRatio: 1.8;
+$codeSizeRatio: 0.6;
+
+$heading1Size: 4.0em * $headingSizeRatio;
+$heading2Size: 3.0em * $headingSizeRatio;
+$heading3Size: 2.0em * $headingSizeRatio;
+$heading4Size: 1.6em * $headingSizeRatio;
 
 section.has-dark-background {
-	&, h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
-	}
+    &, h1, h2, h3, h4, h5, h6 {
+        color: #ffffff;
+    }
 }
-
 
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
-
-
 
 /*
 * custom Czechitas prez style
@@ -62,13 +59,15 @@ section.has-dark-background {
 */
 
 .reveal {
-    /*h1, h2, h3, h4, h5, h6, p, ul, ol {
+    h1, h2, h3, h4, h5, h6, p, ul, ol {
         text-align: left;
-	}*/
-    
-    code {
-        font-family: 'Roboto Mono', monospace;
     }
+
+    h1, h2, h3, h4, h5, h6 {
+        line-height: 0.9;
+    }
+
+    code { font-family: 'Roboto Mono', monospace; }
 
     pre {
         -moz-tab-size: 4; /* Firefox 4+ */
@@ -80,12 +79,10 @@ section.has-dark-background {
         padding-top: 10px;
     }
 
-    pre + pre{
-        border-top:none;
-    }
+    pre + pre { border-top: none; }
 
     pre code {
-        line-height: 1.15;
+        line-height: 1.1;
         padding: 0 0 12px;
     }
 
@@ -108,7 +105,7 @@ section.has-dark-background {
         font-size: 26px;
         line-height: 1.15;
         color: #000;
-        background-color: rgba(255,255,255,0.75);
+        background-color: rgba(255, 255, 255, 0.75);
     }
 
     iframe {
@@ -134,24 +131,24 @@ section.has-dark-background {
     .c-text-center { text-align: center; }
 
     .c-text-xs,
-    .c-text-xs code { font-size: 40px; }
+    .c-text-xs code { font-size: 40px * $codeSizeRatio; }
 
     .c-text-sm,
-    .c-text-sm code { font-size: 56px; }
+    .c-text-sm code { font-size: 56px * $codeSizeRatio; }
 
     pre code {
-        font-size: 78px;
+        font-size: 78px * $codeSizeRatio;
         letter-spacing: -0.03em;
     }
 
     .c-text-md,
-    .c-text-md code { font-size: 78px; }
+    .c-text-md code { font-size: 78px * $codeSizeRatio; }
 
     .c-text-lg,
-    .c-text-lg code { font-size: 110px; }
+    .c-text-lg code { font-size: 110px * $codeSizeRatio; }
 
     .c-text-xl,
-    .c-text-xl code { font-size: 150px; }
+    .c-text-xl code { font-size: 150px * $codeSizeRatio; }
 
     .c-cols {
         display: flex;
@@ -161,7 +158,7 @@ section.has-dark-background {
         align-items: stretch;
 
         > * {
-            margin-right: 1em ;
+            margin-right: 1em;
             width: 0;
             flex-grow: 1;
             flex-shrink: 1;
@@ -197,7 +194,6 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
     color: #bbb;
     text-align: right;
     letter-spacing: 0;
-
 }
 
 .lang-css:before {
@@ -217,7 +213,6 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
 
 /* věci extra, které standardně neučíme */
 .c-extra { display: none; }
-
 
 .c-slide-half .slide-background {
     background-image: url("/css/theme/czechitas/czechitas-tile.png");
@@ -246,20 +241,29 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
     }
 }
 
-
 .c-slide-inter {
     .slide-background { background: #b82c7f; }
+
+    .reveal {
+        h1, h2, h3, h4, h5, h6 { line-height: 0.8; }
+        h1 { font-size: $heading1Size * $interHeadingSizeRatio; }
+        h2 { font-size: $heading2Size * $interHeadingSizeRatio; }
+        h3 { font-size: $heading3Size * $interHeadingSizeRatio; }
+    }
 }
 
 .reveal {
     @mixin c-postit() {
         box-sizing: border-box;
-        padding-top: 1em;
         display: inline-block;
-        width: 4em;
-        height: 4em;
-        font-size: 300%;
+        width: 3em;
+        height: 3em;
+        padding: 0.5em 0.2em 0;
+        overflow: hidden;
+        font-size: 150%;
         line-height: 1;
+        text-align: center;
+        font-family: $headingFont;
     }
 
     .c-postit-green {
@@ -279,12 +283,12 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
     .c-url {
         text-align: left;
         font-size: 0;
-        font-family: 'Roboto Mono',monospace;
-        font-weight:bold;
+        font-family: 'Roboto Mono', monospace;
+        font-weight: bold;
 
         b {
             background-color: white;
-            font-size: 50px;
+            font-size: 28px;
             display: inline-block;
         }
     }

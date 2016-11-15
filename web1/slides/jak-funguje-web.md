@@ -22,7 +22,7 @@
 
 ---
 
-# Prohlížeč je stahuje a skládá z nich web
+# Prohlížeč je stahuje a skládá z&nbsp;nich web
 
 >>>
 * Prohlížeč si soubory přečte pochopí je a pak podle nich nakreslí stránku, pokud je v pořádku.
@@ -30,7 +30,7 @@
 
 ---
 
-# Je možné mít web i jen na svém počítači
+# Je možné mít web i&nbsp;jen na svém počítači
 
 >>>
 * Web na svém počítači, tedy lokálně, se používá často při vývoji.
