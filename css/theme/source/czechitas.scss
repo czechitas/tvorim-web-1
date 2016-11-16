@@ -133,6 +133,9 @@ section.has-dark-background {
 
     .c-text-center { text-align: center; }
 
+    .c-text-xxs,
+    .c-text-xxs code { font-size: 28px * $codeSizeRatio; }
+
     .c-text-xs,
     .c-text-xs code { font-size: 40px; }
 

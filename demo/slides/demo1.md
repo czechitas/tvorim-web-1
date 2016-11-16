@@ -5,6 +5,11 @@
 This is written in Markdown.
 
 ```html
+<a href="#">Code xxs</a>
+```
+<!-- .element: class="c-text-xxs" -->
+
+```html
 <a href="#">Code xs</a>
 ```
 <!-- .element: class="c-text-xs" -->
