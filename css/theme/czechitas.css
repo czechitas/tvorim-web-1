@@ -364,6 +364,10 @@ body {
 .reveal .c-text-center {
   text-align: center; }
 
+.reveal .c-text-xxs,
+.reveal .c-text-xxs code {
+  font-size: 16.8px; }
+
 .reveal .c-text-xs,
 .reveal .c-text-xs code {
   font-size: 24px; }
