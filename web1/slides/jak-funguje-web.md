@@ -27,11 +27,3 @@
 >>>
 * Prohlížeč si soubory přečte pochopí je a pak podle nich nakreslí stránku, pokud je v pořádku.
 * Nejdříve se načte HTML, v kterém se prohlížeč dočte, jestli nepotřebuje další soubory, pokud ano, řekne si o ně stejně jako o HTML.
-
----
-
-# Je možné mít web i&nbsp;jen na svém počítači
-
->>>
-* Web na svém počítači, tedy lokálně, se používá často při vývoji.
-* Samozřejmě v takovém případě není dostupný ostatním.
