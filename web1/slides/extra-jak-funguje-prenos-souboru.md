@@ -1,11 +1,15 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Co se stane, když napíšete do adresního řádku www.czechitas.cz?
+# Přenos souboru
+
+Co se stane, když napíšete do adresního řádku www.czechitas.cz?
 
 >>>
 * Prohlížeč dává požadavky a servery mu odpovídají, ale než se tak stane, tak proběhne toto.
 
 ---
+
+## Zjištění IP adresy serveru: požadavek
 
 <p class=" c-text-left"><q>prohlížeč:<br><b>„Haló, jaké je prosím číslo na www.czechitas.cz?“</b></q></p>
 
@@ -14,9 +18,13 @@
 
 ---
 
+## Zjištění IP adresy serveru: odpověď
+
 <p class=" c-text-right"><q>DNS server:<br><b>„74.125.0.45“</b></q></p>
 
 ---
+
+## Získání stránky: požadavek
 
 <p class=" c-text-left"><q>prohlížeč vytočí 74.125.0.45:<br><b>„Ahoj,<br> tady prohlížeč,<br> dáte mi prosím soubor „index.html“<br> na adrese www.czechitas.cz?<br>Jo a měl by být česky.“</b></q></p>
 
@@ -24,6 +32,8 @@
 * Prohlížeč si zavolá o&#0160;soubor
 
 ---
+
+## Získání stránky: odpověď
 
 <p class=" c-text-right"><q>server:<br><b>„Ano, ten máme<br> je asi takhle ⟵⟶ velký,<br>je ještě čerstvý <br>a rovnou ho posílám.“</b></q></p>
 

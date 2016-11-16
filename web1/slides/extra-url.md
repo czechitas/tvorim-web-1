@@ -7,6 +7,8 @@ Pokud se někdo zeptá, jinak není nutno.
 
 ---
 
+## Části URL
+
 <p class="c-url">
 	<b style="color:#999;">
 		<span class="fragment" data-fragment-index="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; doména 3. řádu</span>
