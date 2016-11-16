@@ -3,14 +3,6 @@
 
 ---
 
-# A. vyzkoušíte si nářadí
-# B. samostatný projekt <!-- .element: class="fragment" -->
-
->>>
-* Čím svižněji půjde zkoušení, tím víc času na projekt
-
----
-
 # 1. Ukážu
 
 ---
@@ -30,7 +22,7 @@ Jak to uděláme? Zepředu opravdu každému do monitoru nevidím. Proto mi daj�
 
 ## kouč dá signál <!-- .element: class="fragment" -->
 
-hotovo,<br>dál <!-- .element: class="fragment c-postit-green"  -->
+hotovo <br>dál <!-- .element: class="fragment c-postit-green"  -->
 
 ---
 
@@ -54,3 +46,11 @@ kouč<br>ke mě <!-- .element: class="fragment c-postit-red" -->
 
 >>>
 Super. Někdo si dejte červený lísteček ať se koučové projdou. : )
+
+---
+
+# Na konci budete mít dost
+
+>>>
+A taky hotovou webovou stránku a prostor na ještě pracovat s asistencí koučů.
+
