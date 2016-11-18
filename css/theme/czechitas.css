@@ -355,6 +355,9 @@ body {
 * Additions
 * ---------
 */
+.reveal .c-sr-only {
+  display: none; }
+
 .reveal .c-text-left {
   text-align: left; }
 
