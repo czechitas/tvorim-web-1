@@ -9,7 +9,7 @@ body {
 
 h1,
 h2 {
-	color: #332a2d;
+	color: #2b4856;
 }
 
 h1 {
@@ -38,7 +38,7 @@ a:focus {
 }
 
 .nav {
-	background-color: #5c4b51;
+	background-color: #3cbac8;
 }
 
 .nav ul {
@@ -65,11 +65,12 @@ a:focus {
 .nav a:hover,
 .nav a:active,
 .nav a:focus {
-	background-color: #332a2d;
+	background-color: #2f606e;
 }
 
 .o-mne {
-	background-color: #8cbeb2;
+	padding: 20px;
+	background-color: #93edd4;
 }
 
 .krystufek {
@@ -84,7 +85,7 @@ a:focus {
 
 .fotogalerie {
 	padding: 20px;
-	background-color: #f2ebbf;
+	background-color: #f3f5c4;
 }
 
 .fotky {
@@ -116,7 +117,7 @@ a:focus {
 
 .paticka {
 	padding: 20px 0;
-	background-color: #f06060;
+	background-color: #f19181;
 	color: #fff;
 	text-align: center;
 }

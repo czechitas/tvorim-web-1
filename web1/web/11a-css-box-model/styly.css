@@ -8,13 +8,13 @@ body {
 }
 
 h1 {
-	color: #332a2d;
+	color: #2b4856;
 	font-size: 48px;
 	text-align: center;
 }
 
 h2 {
-	color: #332a2d;
+	color: #2b4856;
 	font-size: 30px;
 }
 
@@ -37,7 +37,7 @@ a {
 .paticka {
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #f06060;
+	background-color: #f19181;
 	color: #fff;
 	text-align: center;
 }

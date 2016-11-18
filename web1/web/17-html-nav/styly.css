@@ -9,7 +9,7 @@ body {
 
 h1,
 h2 {
-	color: #332a2d;
+	color: #2b4856;
 }
 
 h1 {
@@ -39,7 +39,7 @@ a:focus {
 
 .fotogalerie {
 	padding: 20px;
-	background-color: #f2ebbf;
+	background-color: #f3f5c4;
 }
 
 .fotky {
@@ -71,7 +71,7 @@ a:focus {
 
 .paticka {
 	padding: 20px 0;
-	background-color: #f06060;
+	background-color: #f19181;
 	color: #fff;
 	text-align: center;
 }
