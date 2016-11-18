@@ -33,3 +33,13 @@ Kdo se neptá, nic se nedozví.
 # Tykáme si
 
 ale nemusíme
+
+---
+
+# Jsme tu pro vás
+
+## pokud je něco problém, řekněte to hned
+
+
+>>>
+* vyřešíme pokud bude v našich silách
