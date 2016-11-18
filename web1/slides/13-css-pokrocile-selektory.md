@@ -27,9 +27,3 @@
 
 >>>
 *
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka do 15:15

@@ -34,4 +34,4 @@
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 17:20
+# Přestávka do 17:30

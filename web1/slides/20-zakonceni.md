@@ -1,31 +1,25 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# zakončení, poděkování
+# Co dál?
 
 ---
 
-# Slide 01
+# Kurzy Czechitas
 
->>>
-*
-
----
-
-# Slide 02
-
->>>
-*
+* Tvořím web 2
+* Intenzivní kurz
 
 ---
 
-<!-- .slide: data-state="c-slide-task" -->
+# Online
 
-# Úkol
+* Facebook: Czechitas Alumni
 
-##
+---
 
->>>
-*
+# Srazy
+
+* Frontendisti.cz
 
 ---
 
