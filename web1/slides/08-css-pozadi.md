@@ -1,20 +1,14 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# pozadí
+# Pozadí
 
 ---
 
-# Slide 01
+# Extra prvky
 
 >>>
-*
-
----
-
-# Slide 02
-
->>>
-*
+* Někdy je třeba k tomu, abychom dosáhli potřebného vizuálního efektu přidat extra prvky.
+* Pak se hodí tag `div`
 
 ---
 
@@ -22,13 +16,9 @@
 
 # Hrajem si!
 
-*
+* nastav pozadí patičce a sekci kontakt
 
 (výsledek na tiny.cc/tvorim08) <!-- .element: class="c-text-xs c-text-right" -->
-
-
->>>
-*
 
 ---
 

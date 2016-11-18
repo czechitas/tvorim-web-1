@@ -1,26 +1,29 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# třídy
+# Třídy
 
 ---
 
-# Třídy
+```html
+<h1 class="tip">Nadpis</h1>
 
-<pre class="c-text-md fragment" data-fragment-index="10" contenteditable><code class="lang-html" data-noescape><span class="fragment" data-fragment-index="50">&lt;h1 class="tip"&gt;Nadpis&lt;/h1&gt;
+<p>Odstavec textu.</p>
 
-</span><span class="fragment" data-fragment-index="10">&lt;p&gt;Odstavec textu.&lt;/p&gt;</span>
+<p class="tip">A víte, že…?</p>
+```
+<!-- .element: class="c-text-md " -->
 
-&lt;p<span class="fragment" data-fragment-index="20"> class="tip"</span><span class="fragment" data-fragment-index="10">&gt;A víte, že…?&lt;/p&gt;</span>
-</code></pre>
-<pre class="c-text-md fragment" contenteditable data-fragment-index="15"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="15">p<span class="fragment" data-fragment-index="30">.tip</span> { color: blue; }</span>
-<span class="fragment" data-fragment-index="140">
-.tip { font-weight: bold; }</span></code></pre>
+
+```css
+.tip { font-weight: bold; }
+```
+<!-- .element: class="c-text-md " -->
+
 
 
 >>>
 * třída se použije pokud má nějaký prvek speciální vlastnosti
 * nebo se vlastnosti opakují
-* cvičení: obalte část obsahu do prvku div a dejte mu třídu
 
 ---
 
@@ -28,13 +31,12 @@
 
 # Hrajem si!
 
-*
+* Nastav sekcím třídy a každou sekci obarvi jinak
+* V patičce vycentruj text
+* Pozor na kontrast
 
 (výsledek na tiny.cc/tvorim10) <!-- .element: class="c-text-xs c-text-right" -->
 
-
->>>
-*
 
 ---
 

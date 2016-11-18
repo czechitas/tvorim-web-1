@@ -65,6 +65,6 @@ Jazyk popisující vzhled prvků webové stránky.
 # Hrajem si!
 
 * Připoj si `styly.css` k HTML
-* Nastav barvu nadpisům a textu
+* Nastav barvu nadpisům (stejnou) a jinou textu
 
 (výsledek na tiny.cc/tvorim06) <!-- .element: class="c-text-xs c-text-right" -->
