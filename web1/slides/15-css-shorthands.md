@@ -1,13 +1,73 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# shorthands,
+# Shorthand
+## zkrácený zápis
 
 ---
 
-# Slide 02
+## Jedna hodnota
 
->>>
-*
+```css
+.foo { padding: 10px; }
+
+.bar { 
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+```
+<!-- .element: class="c-text-md stretch" -->
+
+
+---
+
+## Dvě hodnoty
+
+```css
+.foo { padding: 10px 5px; }
+
+.bar { 
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+```
+<!-- .element: class="c-text-md stretch" -->
+
+
+---
+
+## Čtyři hodnoty
+
+```css
+.foo { padding: 10px 20px 30px 40px; }
+
+.bar { 
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	padding-left: 40px;
+}
+```
+<!-- .element: class="c-text-md stretch" -->
+
+---
+
+## Okraje
+
+```css
+.foo { border: 1px dotted red; }
+
+.bar { 
+	border-width: 1px;
+	border-style: dotted;
+	border-color: red;
+}
+```
+<!-- .element: class="c-text-md stretch" -->
+
 
 ---
 

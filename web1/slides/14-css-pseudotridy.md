@@ -1,10 +1,8 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# pseudotřídy, text-decoration
+## Pseudotřídy
 
 ---
-
-# Pseudotřídy
 
 <pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape>a { color: navy; }<span class="fragment">
 
@@ -19,17 +17,13 @@ a:focus {color: green;} /* aktivace klávesnicí */
 a:active {color: yellow;} /* při kliknutí */</span></span>
 </code></pre>
 
-
 ---
-
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Hrajem si!
 
-* udělat hover efekt
+* udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
 (výsledek na tiny.cc/tvorim14) <!-- .element: class="c-text-xs c-text-right" -->
 
->>>
-*

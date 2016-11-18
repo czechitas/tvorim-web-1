@@ -2,6 +2,8 @@
 
 # Pokročilé selektory
 
+---
+
 <pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="stretch lang-css" data-noescape><span class="fragment">* { /* žolík: libovolný element */ }</span>
 <span class="fragment">
 h1,
