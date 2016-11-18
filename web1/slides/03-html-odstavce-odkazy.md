@@ -52,3 +52,4 @@
 * V kontaktech udělej odkaz na mail a na Facebook
 * Vytvoř patičku.
 
+(výsledek na tiny.cc/tvorim03) <!-- .element: class="c-text-xs c-text-right" -->

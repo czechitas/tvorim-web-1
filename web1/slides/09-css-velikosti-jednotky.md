@@ -1,17 +1,21 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# font-size, jednotky (px, %)
-
----
-
-# Slide 01
+# Velikost textu
 
 >>>
 *
+<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape>
+
+<span class="fragment">font-size: 20px; /* nebo 1.5em nebo 150% */</span>
+
+</code></pre>
 
 ---
 
-# Slide 02
+# Jednotky
+
+## px = pixel
+## % = velikost podle rodiče
 
 >>>
 *
@@ -22,7 +26,10 @@
 
 # Hrajem si!
 
-##
+*
+
+(výsledek na tiny.cc/tvorim09) <!-- .element: class="c-text-xs c-text-right" -->
+
 
 >>>
 *

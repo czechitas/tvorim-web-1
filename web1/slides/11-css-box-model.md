@@ -27,6 +27,9 @@
 * nastav mapě 100%
 * margin-left/right: auto
 
+(výsledek na tiny.cc/tvorim11a) <!-- .element: class="c-text-xs c-text-right" -->
+
+
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
@@ -36,5 +39,7 @@
 * vlož do kontaktu div .obsah
 * kontaktu seber šířku
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
-* 
-* mapa vylézá, dej ji width: 100% 
+* mapa vylézá, dej ji width: 100%
+ 
+(výsledek na tiny.cc/tvorim11b) <!-- .element: class="c-text-xs c-text-right" -->
+

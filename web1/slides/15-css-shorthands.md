@@ -4,13 +4,6 @@
 
 ---
 
-# Slide 01
-
->>>
-*
-
----
-
 # Slide 02
 
 >>>
@@ -22,7 +15,10 @@
 
 # Hrajem si!
 
-* optimalizovat
+* optimalizovat stávající kód
+
+(výsledek na tiny.cc/tvorim15) <!-- .element: class="c-text-xs c-text-right" -->
+
 
 >>>
 *

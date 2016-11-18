@@ -43,8 +43,9 @@
 * clearfix pro obsah (vícenasobna trida)
 * googlení, stackoverflow
 * .group:after { content: ""; display: table; clear: both; }
->>>
-*
+
+(výsledek na tiny.cc/tvorim12) <!-- .element: class="c-text-xs c-text-right" -->
+
 
 ---
 

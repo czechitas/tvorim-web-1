@@ -38,8 +38,9 @@
 
 # Hrajem si!
 
-udělej galerii pomocí inline-block
-mezery, rámeček
+* udělej galerii pomocí inline-block
+* udělej mezi obrázky mezery
+* přidej obrázkům rámeček
 
->>>
-*
+(výsledek na tiny.cc/tvorim16) <!-- .element: class="c-text-xs c-text-right" -->
+

@@ -4,13 +4,6 @@
 
 ---
 
-# Slide 01
-
->>>
-*
-
----
-
 # Řádkově-blokové elementy
 
 >>>
@@ -18,10 +11,15 @@
 
 ---
 
-# Slide 02
+# Odrážkový seznam
 
->>>
-*
+```html
+<ul>
+    <li>odrážkový</li>
+    <li>seznam</li>
+</ul>
+```
+<!-- .element: class="c-text-md stretch" -->
 
 ---
 
@@ -29,7 +27,10 @@
 
 # Hrajem si!
 
-##
+*
+
+(výsledek na tiny.cc/tvorim18) <!-- .element: class="c-text-xs c-text-right" -->
+
 
 >>>
 *

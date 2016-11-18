@@ -37,3 +37,5 @@
 
 * Doplň titulek
 * Doplň popis stránky
+
+(výsledek na tiny.cc/tvorim05) <!-- .element: class="c-text-xs c-text-right" -->

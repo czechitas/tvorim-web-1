@@ -65,6 +65,20 @@
 
 ---
 
+# Další prvky
+
+```html
+<h1>Hlavní nadpis</h1>
+
+<h2>Nadpis 2. úrovně</h2>
+
+<div>element bez významu</div>
+
+```
+<!-- .element: class="c-text-md stretch" -->
+
+---
+
 <!-- .slide: data-state="c-slide-task" -->
 
 # Hrajem si!
@@ -72,6 +86,8 @@
 * Otevři si adresu <a href="http://tiny.cc/tvorim01" target="_blank">tiny.cc/tvorim01</a>
 * Vpravo nahoře klikni na „Upravit“.
 * Vytvoř hlavní nadpis (název webu)
+
+(výsledek na tiny.cc/tvorim02) <!-- .element: class="c-text-xs c-text-right" -->
 
 ---
 

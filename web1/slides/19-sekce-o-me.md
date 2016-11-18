@@ -22,7 +22,10 @@
 
 # Hrajem si!
 
-##
+*
+
+(výsledek na tiny.cc/tvorim19) <!-- .element: class="c-text-xs c-text-right" -->
+
 
 >>>
 *
