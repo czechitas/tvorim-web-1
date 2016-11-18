@@ -32,7 +32,6 @@
 
 ## Základní struktura HTML
 
-
 ```html
 <!DOCTYPE HTML>
 <html>
@@ -58,7 +57,6 @@
 
 <!-- .slide: data-background="img/keyboard-cs-html.svg" -->
 
-
 >>>
 * Protože je pro psaní HTML potřeba některé méně časté znaky, máte na stole pomůcku pro nalezení znaků.
 * Kouzelná je klávesa AltGr s kterou napíšete většinu znaků.
@@ -71,11 +69,8 @@
 
 # Úkol
 
-* Otevři si adresu <a href="http://tiny.cc/tvorim01" target="_blank">tiny.cc/tvorim001</a>
+* Otevři si adresu <a href="http://tiny.cc/tvorim01" target="_blank">tiny.cc/tvorim01</a>
 * Vpravo nahoře klikni na „Upravit“.
-
->>>
-* 
 
 ---
 
