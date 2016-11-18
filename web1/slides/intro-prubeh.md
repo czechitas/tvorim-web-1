@@ -49,10 +49,19 @@ Super. Někdo si dejte červený lísteček… : )
 
 ---
 
+# Co když nebudu stíhat?
+
+>>>
+* Nemělo by se stát, čekáme na poslední
+* Může se stát, že si to celé nějak rozbiješ a hodně by nás to zdržovalo.
+* Máme po každém cvičení záchytný bod, z kterého začneš, jako bys tu část udělala.
+
+---
+
 # Na konci budete mít dost
 
 >>>
-A taky hotovou webovou stránku a prostor na ještě pracovat s asistencí koučů.
+A taky hotovou webovou stránku a možná i prostor na ještě pracovat s asistencí koučů.
 
 ---
 
