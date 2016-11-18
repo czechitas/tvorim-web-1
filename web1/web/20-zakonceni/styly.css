@@ -2,6 +2,8 @@
 
 /* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
 
+
+/* Zakladni styly */
 body {
 	padding: 0;
 	margin: 0;
@@ -34,12 +36,14 @@ a:focus {
 	color: maroon;
 }
 
+/* Pomocna trida rusici obtekani, viz http://jecas.cz/float#clearovani */
 .clearfix {
 	content: "";
 	display: table;
 	clear: both;
 }
 
+/* Navigace */
 .nav {
 	background-color: #3cbac8;
 }
@@ -71,6 +75,13 @@ a:focus {
 	background-color: #2f606e;
 }
 
+/* Obecna trida do textovych casti */
+.obsah {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+/* Cast O mne */
 .o-mne {
 	padding: 20px;
 	background-color: #93edd4;
@@ -86,6 +97,7 @@ a:focus {
 	border-radius: 50%;
 }
 
+/* Cast Fotogalie */
 .fotogalerie {
 	padding: 20px;
 	background-color: #f3f5c4;
@@ -102,14 +114,10 @@ a:focus {
 	margin-bottom: 0.5%;
 }
 
+/* Cast Kontakt */
 .kontakt {
 	padding: 20px;
 	background-color: #f9cb8f;
-}
-
-.obsah {
-	max-width: 960px;
-	margin: 0 auto;
 }
 
 .mapa {
@@ -118,6 +126,7 @@ a:focus {
 	margin-right: 20px;
 }
 
+/* Paticka */
 .paticka {
 	padding: 20px 0;
 	background-color: #f19181;
