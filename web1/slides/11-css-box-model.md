@@ -1,18 +1,73 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# box model (border, margin, padding, width, height)
+# Box-model
 
 ---
 
-# Box-model
+### Výška a šířka
 
-<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape><span class="fragment">width: 300px;</span>
-<span class="fragment">height: 100px;</span>
-<span class="fragment">margin: 10px;</span>
-<span class="fragment">border: 1px solid black;</span>
-<span class="fragment">padding: 25px;</span></code></pre>
-<img src="img/box-model.svg" style="border:0 none;box-shadow:none;">
+```css
+.tip { 
+	width: 300px;
+	height: 100px;
+}
+```
+<!-- .element: class="c-text-md " -->
 
+<img src="img/box-model-width-height.svg" style="border:0 none;box-shadow:none;">
+
+
+---
+
+### Odsazení obsahu od okraje
+
+```css
+.tip { 
+	padding: 25px; 
+}
+```
+<!-- .element: class="c-text-md " -->
+
+<img src="img/box-model-padding.svg" style="border:0 none;box-shadow:none;">
+
+---
+
+### Okraj
+
+```css
+.tip { 
+	border: 1px solid black;
+}
+```
+<!-- .element: class="c-text-md " -->
+
+<img src="img/box-model-border.svg" style="border:0 none;box-shadow:none;">
+
+
+---
+
+### Odsazení od vnějších prvků
+
+```css
+.tip { 
+	margin: 10px;
+}
+```
+<!-- .element: class="c-text-md " -->
+
+<img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
+
+---
+
+### Chytré šířky a výšky
+
+```css
+.tip { 
+	max-width: 100px;
+	min-height: 100px;
+}
+```
+<!-- .element: class="c-text-md " -->
 
 ---
 
@@ -20,26 +75,33 @@
 
 # Hrajem si! A
 
-* patičce nastav padding horní a dolní
+* v patičce odsazení textu horní a dolní
 * nastav celé stránce nulové okraje
 * nastav šířku 50% boxu s kontakty
-* nastav ji vzduch 20px
-* nastav mapě 100%
-* margin-left/right: auto
+* odsaď obsah kontaktu ať není nalepený
+* nastav mapě šířku 100%
+* vycentruj kontaktní box
 
 (výsledek na tiny.cc/tvorim11a) <!-- .element: class="c-text-xs c-text-right" -->
 
+>>>
+* margin-left/right: auto
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Hrajem si! B
- 
-* vlož do kontaktu div .obsah
-* kontaktu seber šířku
-* .obsah dostane max-width 960px a margin-left/margin-right: auto;
-* mapa vylézá, dej ji width: 100%
- 
+
+* roztáhni pozadí až do kraje
+* nastav mapě 100% šířku
+
 (výsledek na tiny.cc/tvorim11b) <!-- .element: class="c-text-xs c-text-right" -->
+
+>>>
+* vlož do kontaktu div
+* kontaktu odstraň šířku
+* omez novému 
+* .obsah dostane max-width 960px a margin-left/margin-right: auto;
+ 
 
