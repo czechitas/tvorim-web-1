@@ -77,6 +77,11 @@
 ```
 <!-- .element: class="c-text-md stretch" -->
 
+>>>
+* dodržujte pořadí nadpisů: nejde o to jak vypadají
+* jak používají web nevidomí? …
+* nepárový tag!
+
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
