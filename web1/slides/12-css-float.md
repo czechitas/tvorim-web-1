@@ -1,16 +1,18 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# float, clearfix
+# Float
 
 ---
 
-# Float
-
-<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape>img {
-	width: 300px;
-	float: right; /* nebo left, zrušit: none */
-}</code></pre>
-
+```css
+img { 
+	width: 300px; 
+	float: right; 
+	/* nebo left */
+	/* zrušit: none */ 
+}
+```
+<!-- .element: class="c-text-lg stretch" -->
 
 >>>
 * pro obtékání např. obrázků
@@ -19,16 +21,19 @@
 
 # Vícenásobné třídy
 
-<pre class="c-text-md fragment" data-fragment-index="10" contenteditable><code class="lang-html" data-noescape><span class="fragment" data-fragment-index="10">&lt;p class="tip"&gt;…&lt;/p&gt;</span>
-<span class="fragment" data-fragment-index="10">&lt;p class="cool"&gt;…&lt;/p&gt;</span>
-<span class="fragment" data-fragment-index="30">&lt;p class="cool tip"&gt;…&lt;/p&gt;</span></code></pre>
+```css
+.tip { color: red; }
+.cool { background-color: blue; }
+```
+<!-- .element: class="c-text-md " -->
 
-<pre class="c-text-md fragment" contenteditable data-fragment-index="20"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="20">.tip { color: red; }</span>
-<span class="fragment" data-fragment-index="20">.cool { background-color: blue; }</span>
-<span class="c-extra"><span class="fragment" data-fragment-index="33">.tip.cool {
-	background-color: black;
-	color: white;
-}</span></span></code></pre>
+
+```html
+<p class="tip">…</p>
+<p class="cool">…</p>
+<p class="cool tip">…</p>
+```
+<!-- .element: class="c-text-md " -->
 
 
 ---
@@ -37,15 +42,16 @@
 
 # Hrajem si!
 
-* float: left
-* šířku
-* margin mapě
-* clearfix pro obsah (vícenasobna trida)
-* googlení, stackoverflow
-* .group:after { content: ""; display: table; clear: both; }
+* mapě nastav menší šířku
+* mapu dej doleva
+* odsaď ji od textu
+* použij clearfix (Google je kamarád)
 
 (výsledek na tiny.cc/tvorim12) <!-- .element: class="c-text-xs c-text-right" -->
 
+>>>
+* clearfix pro .obsah
+* .group:after { content: ""; display: table; clear: both; }
 
 ---
 
