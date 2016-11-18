@@ -65,7 +65,7 @@
 
 ---
 
-# Další prvky
+# Tagy
 
 ```html
 <h1>Hlavní nadpis</h1>
