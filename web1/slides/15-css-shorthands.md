@@ -26,3 +26,9 @@
 
 >>>
 *
+
+---
+
+<!-- .slide: data-state="c-slide-break" -->
+
+# Přestávka do 16:10

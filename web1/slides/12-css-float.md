@@ -35,4 +35,4 @@
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 16:10
+# Přestávka do 15:00
