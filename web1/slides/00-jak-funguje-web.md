@@ -26,14 +26,3 @@
 >>>
 * Prohlížeč si soubory přečte pochopí je a pak podle nich nakreslí stránku, pokud je v pořádku.
 * Nejdříve se načte HTML, v kterém se prohlížeč dočte, jestli nepotřebuje další soubory, pokud ano, řekne si o ně stejně jako o HTML.
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Úkol
-
-## 
-
->>>
-* 
