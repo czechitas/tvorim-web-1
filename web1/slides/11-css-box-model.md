@@ -20,7 +20,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol A
+# Hrajem si! A
 
 * patičce nastav padding horní a dolní
 * nastav celé stránce nulové okraje
@@ -33,7 +33,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol B
+# Hrajem si! B
  
 * vlož do kontaktu div .obsah
 * kontaktu seber šířku

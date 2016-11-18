@@ -33,7 +33,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 * Doplň titulek
 * Doplň popis stránky

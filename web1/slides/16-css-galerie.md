@@ -20,7 +20,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 udělej galerii pomocí inline-block
 mezery, rámeček

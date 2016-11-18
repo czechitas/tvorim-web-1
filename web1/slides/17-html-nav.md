@@ -13,7 +13,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 * menu jako odrážkový seznam
 * kotvy

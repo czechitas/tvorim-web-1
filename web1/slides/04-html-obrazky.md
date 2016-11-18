@@ -32,7 +32,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 * Přidej mapu do kontaktu
 * Přidej licencí vyžadované texty

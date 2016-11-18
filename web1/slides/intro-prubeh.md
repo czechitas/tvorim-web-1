@@ -40,7 +40,7 @@ kouč<br>ke mě <!-- .element: class="fragment c-postit-red" -->
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 ## Otevři si Chrome
 

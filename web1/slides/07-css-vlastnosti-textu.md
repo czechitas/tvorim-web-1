@@ -21,7 +21,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 ##
 

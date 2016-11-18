@@ -46,7 +46,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 * Vytvoř sekci Kontakt (nadpis a text)
 * V kontaktech udělej odkaz na mail a na Facebook

@@ -62,7 +62,7 @@ Jazyk popisující vzhled prvků webové stránky.
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 * Připoj si `styly.css` k HTML
 * Nastav barvu nadpisům a textu

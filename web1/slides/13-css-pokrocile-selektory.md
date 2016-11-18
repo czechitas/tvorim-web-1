@@ -20,7 +20,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Úkol
+# Hrajem si!
 
 * uprav zápis na vícenásobný
 * přidej odkaz na czechitas do patičky a obarvi ho bíle aniž bys přidala třídu 
