@@ -1,6 +1,6 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# shorthands, auto
+# pseudotřídy, text-decoration
 
 ---
 
@@ -22,7 +22,7 @@
 
 # Úkol
 
-##
+* udělat hover efekt
 
 >>>
 *

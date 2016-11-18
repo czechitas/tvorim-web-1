@@ -1,10 +1,17 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# pokročilé selektory
+#  list-style, inline-block, text-decoration
 
 ---
 
 # Slide 01
+
+>>>
+*
+
+---
+
+# Řádkově-blokové elementy
 
 >>>
 *
@@ -26,9 +33,3 @@
 
 >>>
 *
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka do 15:15

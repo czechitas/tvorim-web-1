@@ -1,6 +1,6 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# float, clearfix
+# shorthands,
 
 ---
 
@@ -22,13 +22,7 @@
 
 # Úkol
 
-##
+* optimalizovat
 
 >>>
 *
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka do 16:10

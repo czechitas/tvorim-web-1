@@ -11,7 +11,7 @@
 
 ---
 
-# Slide 02
+# ID a kotvy
 
 >>>
 *
@@ -22,7 +22,10 @@
 
 # Úkol
 
-##
+* menu jako odrážkový seznam
+* kotvy
+* id
+
 
 >>>
 *
