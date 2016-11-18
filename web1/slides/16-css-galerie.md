@@ -4,14 +4,14 @@
 
 ---
 
-# Slide 01
+# Blokové elementy
 
 >>>
 *
 
 ---
 
-# Slide 02
+# Řádkové elementy
 
 >>>
 *
@@ -22,7 +22,8 @@
 
 # Úkol
 
-##
+udělej galerii pomocí inline-block
+mezery, rámeček
 
 >>>
 *

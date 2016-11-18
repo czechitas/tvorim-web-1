@@ -11,7 +11,7 @@
 
 ---
 
-# Slide 02
+# border-radius
 
 >>>
 *
