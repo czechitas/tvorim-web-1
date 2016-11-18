@@ -14,17 +14,19 @@
 
 >>>
 * všimněte si, že můžu klidně napsat atributy na nový řádek, jde jen o to, aby tam byla nějaká mezera
+* alt: nevidomí
+
+---
+
+# Pozor na licence
+
+>>>
 * Zkuste si sami
 	* práva k použití: jen nekomerční
 	* velikost: střední
 	* zobrazit rozměry
 	* pravým tlačítkem: kopírovat adresu obrázku
 	* rozměry: nejsou nutné, ale je to lepší, je možné napsat jen jeden
-* alt: nevidomí
-
----
-
-# Pozor na licence
 
 ---
 
