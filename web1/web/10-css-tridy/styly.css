@@ -1,0 +1,31 @@
+/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+
+body {
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+h1 {
+	color: #332a2d;
+	font-size: 48px;
+	text-align: center;
+}
+
+h2 {
+	color: #332a2d;
+	font-size: 30px;
+}
+
+a {
+	font-weight: bold;
+}
+
+.kontakt {
+	background-color: #f9cb8f;
+}
+
+.paticka {
+	background-color: #f06060;
+	color: #fff;
+	text-align: center;
+}

@@ -1,4 +1,4 @@
-/* Moderni box model */ *, *:before, *:after {box-sizing: border-box; }
+/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
 
 h1 {
 	color: #f3b562;

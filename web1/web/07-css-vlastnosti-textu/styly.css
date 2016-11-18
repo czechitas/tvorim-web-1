@@ -1,13 +1,18 @@
-/* Moderni box model */ *, *:before, *:after {box-sizing: border-box; }
+/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+
+body {
+	font-family: sans-serif;
+}
 
 h1 {
 	color: #f3b562;
+	text-align: center;
 }
 
 h2 {
 	color: #f3b562;
 }
 
-p {
-	color: grey;
+a {
+	font-weight: bold;
 }
