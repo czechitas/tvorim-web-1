@@ -480,6 +480,9 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
 .c-slide-task .slide-background {
   background-color: #eee; }
 
+.c-slide-break .slide-background {
+  background-color: green; }
+
 .c-slide-inter .slide-background {
   background: #b82c7f; }
 

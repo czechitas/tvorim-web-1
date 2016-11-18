@@ -244,6 +244,10 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
     }
 }
 
+.c-slide-break {
+    .slide-background { background-color: green; }
+}
+
 .c-slide-inter {
     .slide-background { background: #b82c7f; }
 
