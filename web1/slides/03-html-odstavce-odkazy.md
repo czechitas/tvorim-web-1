@@ -48,9 +48,7 @@
 
 # Úkol
 
-## Vytvoř sekci Kontakty a patičku
-## V patičce udělej odkaz na mail a na Facebook.
-
->>>
-* Vytvoř hlavní nadpis (název webu)
 * Vytvoř sekci Kontakt (nadpis a text)
+* V kontaktech udělej odkaz na mail a na Facebook
+* Vytvoř patičku.
+

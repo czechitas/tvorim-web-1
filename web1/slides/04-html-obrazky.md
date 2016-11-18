@@ -24,7 +24,7 @@
 
 ---
 
-# Licence
+# Pozor na licence
 
 ---
 
@@ -32,10 +32,8 @@
 
 # Úkol
 
-## Přidejte obrázek
-
->>>
-*
+* Přidej mapu do kontaktu
+* Přidej licencí vyžadované texty
 
 ---
 

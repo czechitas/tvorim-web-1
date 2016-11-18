@@ -71,6 +71,7 @@
 
 * Otevři si adresu <a href="http://tiny.cc/tvorim01" target="_blank">tiny.cc/tvorim01</a>
 * Vpravo nahoře klikni na „Upravit“.
+* Vytvoř hlavní nadpis (název webu)
 
 ---
 

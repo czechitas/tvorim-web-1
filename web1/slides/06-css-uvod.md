@@ -7,21 +7,33 @@ Jazyk popisující vzhled prvků webové stránky.
 
 ---
 
-## HTML (obsah a struktura) <!-- .element: class="fragment" -->
+# Z čeho se skládá stránka
 
-## CSS (styly) <!-- .element: class="fragment" -->
-
-## obrázky (a třeba i videa nebo zvuky) <!-- .element: class="fragment" -->
+* HTML (obsah a struktura) <!-- .element: class="fragment" -->
+* CSS (vzhled) <!-- .element: class="fragment" -->
+* obrázky a třeba i videa nebo zvuky (netextový obsah) <!-- .element: class="fragment" -->
+* Javascript (aplikace, animace a další) <!-- .element: class="fragment" -->
 
 >>>
 * V HTML je obsah stránky a také je v něm popsáno, jaká je struktura toho obsahu.
 * V HTML se také definuje, jaké má stránka obsahovat obrázky a případné další součásti.
 * CSS říká, jak mají jednotlivé prvky stránky vypadat.
+* Javascript je programovací jazyk, který umožňuje manipulovat s prvky stránky.
 
 ---
 
 # Připojení CSS
 
+```html
+<link 
+	rel="stylesheet"
+	href="nazevsouboru.css"
+>
+```
+<!-- .element: class="c-text-lg stretch" -->
+
+>>>
+* Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.
 
 ---
 
@@ -44,8 +56,5 @@ Jazyk popisující vzhled prvků webové stránky.
 
 # Úkol
 
-## Připoj si `styly.css` k HTML
-## Nastav barvu textu nadpisům a textu  
-
->>>
-*
+* Připoj si `styly.css` k HTML
+* Nastav barvu nadpisům a textu
