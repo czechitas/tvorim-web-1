@@ -26,7 +26,7 @@ hotovo <br>dál <!-- .element: class="fragment c-postit-green"  -->
 
 ---
 
-# Kouč radí jiné?
+# Chceš poradit?
 
 ## nalep si na notebook viditelně <!-- .element: class="fragment" -->
 
@@ -45,7 +45,7 @@ kouč<br>ke mě <!-- .element: class="fragment c-postit-red" -->
 ## Otevři si Chrome
 
 >>>
-Super. Někdo si dejte červený lísteček ať se koučové projdou. : )
+Super. Někdo si dejte červený lísteček… : )
 
 ---
 
@@ -54,3 +54,17 @@ Super. Někdo si dejte červený lísteček ať se koučové projdou. : )
 >>>
 A taky hotovou webovou stránku a prostor na ještě pracovat s asistencí koučů.
 
+---
+
+# Rozvrh
+
+- 9.00 začátek
+- 10.00 pauza 10 minut
+- 11.00 pauza 10 minut
+- 12.15 oběd 50 minut
+- 14.00 pauza 10 minut
+- 15.00 pauza 10 minut
+- 16.00 pauza 10 minut
+- 17.00 pauza 10 minut
+- 18.00 konec
+<!-- .element: class="c-text-left" -->
