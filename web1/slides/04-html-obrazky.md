@@ -15,6 +15,8 @@
 >>>
 * všimněte si, že můžu klidně napsat atributy na nový řádek, jde jen o to, aby tam byla nějaká mezera
 * alt: nevidomí
+* nepárový tag!
+
 
 ---
 

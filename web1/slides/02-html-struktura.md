@@ -80,7 +80,6 @@
 >>>
 * dodržujte pořadí nadpisů: nejde o to jak vypadají
 * jak používají web nevidomí? …
-* nepárový tag!
 
 ---
 
