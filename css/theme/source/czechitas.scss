@@ -124,6 +124,8 @@ section.has-dark-background {
 */
 
 .reveal {
+    .c-sr-only { display: none; }
+
     .c-text-left { text-align: left; }
 
     .c-text-right { text-align: right; }
