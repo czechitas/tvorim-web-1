@@ -1,17 +1,17 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# obsah hlavičky
+# HTML hlavička
 
 ---
 
-# Slide 01
+# Titulek
 
 >>>
 *
 
 ---
 
-# Slide 02
+# Description
 
 >>>
 *
@@ -22,7 +22,7 @@
 
 # Úkol
 
-##
+## Doplň titulek a popis
 
 >>>
 *
