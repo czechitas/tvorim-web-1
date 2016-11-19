@@ -20,6 +20,20 @@
 
 ---
 
+<!-- .slide: data-state="c-slide-task" -->
+
+# Hrajem si!
+
+## Vytvořte si účet na thimble.mozilla.org
+
+### Heslo 
+
+* musí být nejméně 8 znaků dlouhé
+* obsahovat číslo
+* obsahovat VERZÁLKY i minusky
+
+---
+
 # Soubory
 
 >>>
@@ -50,17 +64,3 @@
 
 >>>
 * Thimble umožňuje i jednoduchou publikaci veřejně na internet.
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Hrajem si!
-
-## Vytvořte si účet na thimble.mozilla.org
-
-### Heslo 
-
-* musí být nejméně 8 znaků dlouhé
-* obsahovat číslo
-* obsahovat VERZÁLKY i minusky
