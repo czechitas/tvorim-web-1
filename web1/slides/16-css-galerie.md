@@ -1,17 +1,22 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Blokové elementy
+# Foto&shy;galerie
 
-Blokové elementy zaberou celou dostupnou šířku.
+---
+
+## Blokové elementy
+
+* zaberou celou dostupnou šířku
 
 >>>
 * na vaší stránce jsou to například divy
 
 ---
 
-# Řádkové elementy
+## Řádkové elementy
 
-* Řádkové elementy zaberou jen tolik místa, kolik potřebují a nejsou samostatně na řádku. 
+* zaberou jen tolik místa, kolik potřebují
+* nejsou samostatně na řádku 
 
 
 >>>
@@ -19,7 +24,7 @@ Blokové elementy zaberou celou dostupnou šířku.
 
 ---
 
-# Řádkově-blokové elementy
+## Řádkově-blokové elementy
 
 * hybrid: řádkový s některými vlastnostmi blokového
 * lze mu například nastavit šířku a výšku
