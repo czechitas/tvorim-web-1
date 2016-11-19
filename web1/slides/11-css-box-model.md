@@ -77,7 +77,6 @@
 * nastav celé stránce nulové okraje
 * nastav šířku 50% boxu s kontakty
 * odsaď obsah kontaktu ať není nalepený
-* nastav mapě šířku 100%
 * vycentruj kontaktní box
 
 ##### (výsledek na [bit.ly/tvorim11a](http://bit.ly/tvorim11a))

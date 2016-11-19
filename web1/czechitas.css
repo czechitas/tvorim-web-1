@@ -1,0 +1,71 @@
+selektor {
+    vlastnost: hodnota;
+    property: value;
+}
+
+p {
+    color: white;
+    background-color: black;
+}
+
+
+font-style: italic; /* normal */
+
+font-weight: bold;
+/* nebo normal */
+
+text-align: center;
+/* nebo left nebo right */
+
+font-family: sans-serif;
+/* nebo serif */
+
+Velikost textu
+font-size: 20px;
+font-size: 150%;
+
+
+<h1 class="tip">Nadpis</h1>
+<p>Odstavec textu.</p>
+<p class="tip">A víte, že…?</p>
+.tip { font-weight: bold; }
+
+
+Výška a šířka
+.tip {
+    width: 300px;
+    height: 100px;
+}
+
+Okraj
+.tip { border: 1px solid orange; }
+
+Odsazení obsahu od okraje
+.tip { padding: 25px;}
+
+Odsazení od vnějších prvků
+.tip { margin: 10px; }
+
+Chytré šířky a výšky
+.tip {
+    max-width: 100px;
+    min-height: 100px;
+}
+
+Float
+
+img {
+    width: 300px;
+    float: right;
+    /* nebo left */
+    /* zrušit: none */
+}
+
+Pokročilé selektory
+
+* { /* žolík: všechny elementy*/ }
+
+h1,
+h2 { /* nadpisy 1. a 2. úrovně*/ }
+
+.tip h2 { /* nadpisy 2. úrovně, zanořené do prvku s třídou tip */ }
