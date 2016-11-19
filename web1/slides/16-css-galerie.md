@@ -1,36 +1,52 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# blokové a inline elementy (display)
-
----
-
 # Blokové elementy
 
+Blokové elementy zaberou celou dostupnou šířku.
+
 >>>
-*
+* na vaší stránce jsou to například divy
 
 ---
 
 # Řádkové elementy
 
+* Řádkové elementy zaberou jen tolik místa, kolik potřebují a nejsou samostatně na řádku. 
+
+
 >>>
-*
+* na vaší stránce jsou to například odkazy
 
 ---
 
-# Blokové a řádkové elementy
+# Řádkově-blokové elementy
 
-<pre class="c-text-md" contenteditable><code class="lang-html" data-noescape><span class="fragment" >&lt;div&gt;
-	Blokové elementy zaberou celou dostupnou šířku.
-&lt;/div&gt;</span>
+* hybrid: řádkový s některými vlastnostmi blokového
+* lze mu například nastavit šířku a výšku
 
-<span class="fragment" data-fragment-index="30">&lt;span&gt;Řádkové elementy zaberou jen tolik místa, kolik potřebují a nejsou samostatně na řádku. Neměly by se do nich vnořovat blokové.&lt;/span&gt;</span></code></pre>
 
-<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape><span class="fragment">display: block;</span>
+>>>
+* na vaší stránce se tak chovají obrázky
 
-<span class="fragment">display: inline;</span>
+---
 
-<span class="fragment">display: inline-block; /* hybdrid: řádkový s&nbsp;některými vlastnostmi blokového, lze mu například nastavit šířku a výšku */</span></code></pre>
+# Výchozí a CSS
+
+
+```css
+display: block;
+
+display: inline;
+
+display: inline-block; 
+```
+<!-- .element: class="c-text-lg stretch" -->
+
+
+>>>
+* každý element má výchozí typ
+* Podle těchto typů se nesmí vnořovat blokové do řádkových.
+* pomocí CSS lze ale změnit chování prvku na jiný typ (pořád se nesmí vnořovat)
 
 ---
 
@@ -38,7 +54,7 @@
 
 # Hrajem si!
 
-* udělej galerii pomocí inline-block
+* udělej galerii pomocí řádkově-blokového chování obrázků 
 * udělej mezi obrázky mezery
 * přidej obrázkům rámeček
 
