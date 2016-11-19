@@ -58,4 +58,4 @@ img {
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 15:00
+# Přestávka do 15:10

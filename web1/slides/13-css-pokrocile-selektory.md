@@ -34,7 +34,7 @@ h2 { /* nadpisy 1. a 2. úrovně*/ }</span>
 # Hrajem si!
 
 * uprav zápis na vícenásobný
-* přidej odkaz na czechitas do patičky a obarvi ho bíle aniž bys přidala třídu 
+* přidej odkaz na czechitas do patičky (pokud tam žádný nemáš) a obarvi všechny bíle aniž bys přidala třídu 
 
 ##### (výsledek na [bit.ly/tvorim13](http://bit.ly/tvorim13))
 <!-- .element: class="c-text-xs c-text-right" -->
