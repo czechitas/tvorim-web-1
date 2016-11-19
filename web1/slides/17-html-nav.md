@@ -1,13 +1,32 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# odrážkový seznam, id, kotvy, list-style
+# Navigace: HTML
 
 ---
 
-# ID a kotvy
+## Odrážkový seznam
 
->>>
-*
+```html
+<ul>
+    <li>odrážkový</li>
+    <li>seznam</li>
+</ul>
+```
+
+---
+
+## ID a kotvy
+
+```html
+<a href="#zajimavost">
+	hop na zajímavost
+</a>
+…
+<p id="zajimavost">
+	Víte, že…?
+</p>
+```
+<!-- .element: class="c-text-lg stretch" -->
 
 ---
 
@@ -20,7 +39,6 @@
 * id
 
 (výsledek na tiny.cc/tvorim17) <!-- .element: class="c-text-xs c-text-right" -->
-
 
 ---
 

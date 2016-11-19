@@ -7,19 +7,22 @@
 # Kurzy Czechitas
 
 * Tvořím web 2
-* Intenzivní kurz
+* Intenzivní kurz Czechitas
 
 ---
 
 # Online
 
-* Facebook: Czechitas Alumni
+* Dotazy: Facebook: Czechitas Alumni
+* Hledat
+* praktickýá reference v češtině jecas.cz
+* codecademy.com
 
 ---
 
 # Srazy
 
-* Frontendisti.cz
+* Frontendisti.cz (Praha, Brno, Ostrava)
 
 ---
 
