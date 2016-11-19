@@ -16,6 +16,18 @@
 
 <img src="img/box-model-width-height.svg" style="border:0 none;box-shadow:none;">
 
+---
+
+### Okraj
+
+```css
+.tip { 
+	border: 1px solid orange;
+}
+```
+<!-- .element: class="c-text-md " -->
+
+<img src="img/box-model-border.svg" style="border:0 none;box-shadow:none;">
 
 ---
 
@@ -29,20 +41,6 @@
 <!-- .element: class="c-text-md " -->
 
 <img src="img/box-model-padding.svg" style="border:0 none;box-shadow:none;">
-
----
-
-### Okraj
-
-```css
-.tip { 
-	border: 1px solid black;
-}
-```
-<!-- .element: class="c-text-md " -->
-
-<img src="img/box-model-border.svg" style="border:0 none;box-shadow:none;">
-
 
 ---
 

@@ -6,11 +6,14 @@
 
 <pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape><span class="fragment">font-style: italic; /* normal */</span>
 
-<span class="fragment">font-weight: bold;  /* nebo normal */</span>
+<span class="fragment">font-weight: bold;  
+/* nebo normal */</span>
 
-<span class="fragment">text-align: center; /* nebo left nebo right */</span>
+<span class="fragment">text-align: center; 
+/* nebo left nebo right */</span>
 
-<span class="fragment">font-family: sans-serif; /* nebo serif */</span>
+<span class="fragment">font-family: sans-serif; 
+/* nebo serif */</span>
 
 </code></pre>
 

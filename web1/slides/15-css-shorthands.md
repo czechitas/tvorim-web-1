@@ -80,9 +80,6 @@
 (výsledek na tiny.cc/tvorim15) <!-- .element: class="c-text-xs c-text-right" -->
 
 
->>>
-*
-
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
