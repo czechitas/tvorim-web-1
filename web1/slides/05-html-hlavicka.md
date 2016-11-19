@@ -38,5 +38,5 @@
 * Doplň titulek
 * Doplň popis stránky
 
-##### (výsledek na [tiny.cc/tvorim05](http://tiny.cc/tvorim05))
+##### (výsledek na [bit.ly/tvorim05](http://bit.ly/tvorim05))
 <!-- .element: class="c-text-xs c-text-right" -->

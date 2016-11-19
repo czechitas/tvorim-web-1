@@ -30,5 +30,5 @@
 
 # Konec
 
-##### (výsledek na [tiny.cc/tvorim20](http://tiny.cc/tvorim20)) 
+##### (výsledek na [bit.ly/tvorim20](http://bit.ly/tvorim20)) 
 <!-- .element: class="c-text-xs c-text-right" -->

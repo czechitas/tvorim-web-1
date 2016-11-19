@@ -80,7 +80,7 @@
 * nastav mapě šířku 100%
 * vycentruj kontaktní box
 
-##### (výsledek na [tiny.cc/tvorim11a](http://tiny.cc/tvorim11a))
+##### (výsledek na [bit.ly/tvorim11a](http://bit.ly/tvorim11a))
 <!-- .element: class="c-text-xs c-text-right" -->
 
 >>>
@@ -95,7 +95,7 @@
 * roztáhni pozadí až do kraje
 * nastav mapě 100% šířku
 
-(výsledek na [tiny.cc/tvorim11b](http://tiny.cc/tvorim11b))
+(výsledek na [bit.ly/tvorim11b](http://bit.ly/tvorim11b))
 <!-- .element: class="c-text-xs c-text-right" -->
 
 >>>

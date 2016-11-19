@@ -58,7 +58,7 @@ li { display: inline-block; }
 * nastyluj menu tak, aby položky byly vedle sebe a vycentrované
 * udělej efekt podbarení po najetí na polozku menu
 
-##### (výsledek na [tiny.cc/tvorim18](http://tiny.cc/tvorim18))
+##### (výsledek na [bit.ly/tvorim18](http://bit.ly/tvorim18))
 <!-- .element: class="c-text-xs c-text-right" -->
 
 >>>

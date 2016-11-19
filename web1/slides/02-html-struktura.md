@@ -86,16 +86,16 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Hrajem si!
-
-* Otevři si adresu <a href="http://tiny.cc/tvorim01" target="_blank">tiny.cc/tvorim01</a>
+* thimbleprojects.org/czechitas/136445/
+* Otevři si adresu <a href="http://bit.ly/tvorim01" target="_blank">bit.ly/tvorim01</a>
 * Vpravo nahoře klikni na „Upravit“.
-* Vytvoř hlavní nadpis (název webu)
+* Vytvoř hlavní nadpis (název webu): <br>„Web Kryštůfka Robina“
 
-##### (výsledek na [tiny.cc/tvorim02](http://tiny.cc/tvorim02))
+##### (výsledek na [bit.ly/tvorim02](http://bit.ly/tvorim02))
 <!-- .element: class="c-text-xs c-text-right" -->
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 10:15
+# Přestávka do 10:10

@@ -1,4 +1,4 @@
 # Wi-Fi
 
-## síť: `PaperHub`
-## heslo: `paperhub`
+## síť: `ParalelniPolis`
+## heslo: `vejdiven`

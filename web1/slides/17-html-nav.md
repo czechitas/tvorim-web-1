@@ -38,7 +38,7 @@
 * kotvy
 * id
 
-##### (výsledek na [tiny.cc/tvorim17](http://tiny.cc/tvorim17))
+##### (výsledek na [bit.ly/tvorim17](http://bit.ly/tvorim17))
 <!-- .element: class="c-text-xs c-text-right" -->
 
 ---

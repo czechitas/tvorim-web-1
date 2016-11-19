@@ -34,5 +34,5 @@
 * vycentruj hlavní nadpis
 * nastav odkazům tučný řez písma 
 
-##### (výsledek na [tiny.cc/tvorim07](http://tiny.cc/tvorim07))
+##### (výsledek na [bit.ly/tvorim07](http://bit.ly/tvorim07))
 <!-- .element: class="c-text-xs c-text-right" -->

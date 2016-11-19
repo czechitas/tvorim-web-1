@@ -16,9 +16,9 @@
 
 # Hrajem si!
 
-* nastav pozadí patičce a sekci kontakt
+* nastav pozadí patičce, kterou vytvoříš a sekci kontakt
 
-##### (výsledek na [tiny.cc/tvorim08](http://tiny.cc/tvorim08))
+##### (výsledek na [bit.ly/tvorim08](http://bit.ly/tvorim08))
 <!-- .element: class="c-text-xs c-text-right" -->
 
 ---

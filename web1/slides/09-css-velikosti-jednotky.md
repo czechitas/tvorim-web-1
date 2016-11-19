@@ -22,5 +22,5 @@
 
 * Nastav nadpisům různé velikosti
 
-##### (výsledek na [tiny.cc/tvorim09](http://tiny.cc/tvorim09))
+##### (výsledek na [bit.ly/tvorim09](http://bit.ly/tvorim09))
 <!-- .element: class="c-text-xs c-text-right" -->

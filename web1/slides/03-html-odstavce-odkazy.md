@@ -51,7 +51,6 @@
 
 * Vytvoř sekci Kontakt (nadpis a text)
 * V kontaktech udělej odkaz na mail a na Facebook
-* Vytvoř patičku.
 
-##### (výsledek na [tiny.cc/tvorim03](http://tiny.cc/tvorim03))
+##### (výsledek na [bit.ly/tvorim03](http://bit.ly/tvorim03))
 <!-- .element: class="c-text-xs c-text-right" -->
