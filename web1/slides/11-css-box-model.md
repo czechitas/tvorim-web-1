@@ -74,7 +74,7 @@
 # Hrajem si! A
 
 * v patičce odsazení textu horní a dolní
-* nastav celé stránce nulové okraje
+* zruš odsazení všeho na stránce od jejího okraje
 * nastav šířku 50% boxu s kontakty
 * odsaď obsah kontaktu ať není nalepený
 * vycentruj kontaktní box
