@@ -80,7 +80,8 @@
 * nastav mapě šířku 100%
 * vycentruj kontaktní box
 
-(výsledek na tiny.cc/tvorim11a) <!-- .element: class="c-text-xs c-text-right" -->
+##### (výsledek na [tiny.cc/tvorim11a](http://tiny.cc/tvorim11a))
+<!-- .element: class="c-text-xs c-text-right" -->
 
 >>>
 * margin-left/right: auto
@@ -94,7 +95,8 @@
 * roztáhni pozadí až do kraje
 * nastav mapě 100% šířku
 
-(výsledek na tiny.cc/tvorim11b) <!-- .element: class="c-text-xs c-text-right" -->
+(výsledek na [tiny.cc/tvorim11b](http://tiny.cc/tvorim11b))
+<!-- .element: class="c-text-xs c-text-right" -->
 
 >>>
 * vlož do kontaktu div

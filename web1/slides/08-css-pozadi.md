@@ -18,7 +18,8 @@
 
 * nastav pozadí patičce a sekci kontakt
 
-(výsledek na tiny.cc/tvorim08) <!-- .element: class="c-text-xs c-text-right" -->
+##### (výsledek na [tiny.cc/tvorim08](http://tiny.cc/tvorim08))
+<!-- .element: class="c-text-xs c-text-right" -->
 
 ---
 

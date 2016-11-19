@@ -39,7 +39,8 @@
 * Přidej mapu do kontaktu
 * Přidej licencí vyžadované texty
 
-(výsledek na tiny.cc/tvorim04) <!-- .element: class="c-text-xs c-text-right" -->
+##### (výsledek na [tiny.cc/tvorim04](http://tiny.cc/tvorim04))
+<!-- .element: class="c-text-xs c-text-right" -->
 
 
 ---

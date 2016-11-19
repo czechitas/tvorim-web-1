@@ -77,7 +77,8 @@
 
 * optimalizovat stávající kód
 
-(výsledek na tiny.cc/tvorim15) <!-- .element: class="c-text-xs c-text-right" -->
+##### (výsledek na [tiny.cc/tvorim15](http://tiny.cc/tvorim15))
+<!-- .element: class="c-text-xs c-text-right" -->
 
 
 ---

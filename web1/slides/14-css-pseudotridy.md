@@ -25,5 +25,6 @@ a:active {color: yellow;} /* při kliknutí */</span></span>
 
 * udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
-(výsledek na tiny.cc/tvorim14) <!-- .element: class="c-text-xs c-text-right" -->
+##### (výsledek na [tiny.cc/tvorim14](http://tiny.cc/tvorim14))
+<!-- .element: class="c-text-xs c-text-right" -->
 

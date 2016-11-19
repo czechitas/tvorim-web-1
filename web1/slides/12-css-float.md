@@ -47,7 +47,8 @@ img {
 * odsaď ji od textu
 * použij clearfix (Google je kamarád)
 
-(výsledek na tiny.cc/tvorim12) <!-- .element: class="c-text-xs c-text-right" -->
+##### (výsledek na [tiny.cc/tvorim12](http://tiny.cc/tvorim12))
+<!-- .element: class="c-text-xs c-text-right" -->
 
 >>>
 * clearfix pro .obsah

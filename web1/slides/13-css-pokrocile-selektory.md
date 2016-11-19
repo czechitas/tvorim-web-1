@@ -36,4 +36,5 @@ h2 { /* nadpisy 1. a 2. úrovně*/ }</span>
 * uprav zápis na vícenásobný
 * přidej odkaz na czechitas do patičky a obarvi ho bíle aniž bys přidala třídu 
 
-(výsledek na tiny.cc/tvorim13) <!-- .element: class="c-text-xs c-text-right" -->
+##### (výsledek na [tiny.cc/tvorim13](http://tiny.cc/tvorim13))
+<!-- .element: class="c-text-xs c-text-right" -->
