@@ -1,4 +1,4 @@
 # Wi-Fi
 
-## síť: `ParalelniPolis`
-## heslo: `vejdiven`
+## síť: `síť`
+## heslo: `heslo`
