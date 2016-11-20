@@ -19,6 +19,8 @@
 ```
 <!-- .element: class="c-text-md stretch" -->
 
+>>>
+* `.foo` i `.bar` dělají to samé
 
 ---
 
@@ -36,6 +38,8 @@
 ```
 <!-- .element: class="c-text-md stretch" -->
 
+>>>
+* `.foo` i `.bar` dělají to samé
 
 ---
 
@@ -53,6 +57,9 @@
 ```
 <!-- .element: class="c-text-md stretch" -->
 
+>>>
+* `.foo` i `.bar` dělají to samé
+
 ---
 
 ## Okraje
@@ -68,6 +75,9 @@
 ```
 <!-- .element: class="c-text-md stretch" -->
 
+
+>>>
+* `.foo` i `.bar` dělají to samé
 
 ---
 
