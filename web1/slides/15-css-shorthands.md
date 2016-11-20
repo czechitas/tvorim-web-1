@@ -30,8 +30,8 @@
 .bar { 
 	padding-top: 10px;
 	padding-right: 5px;
-	padding-bottom: 5px;
-	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
 }
 ```
 <!-- .element: class="c-text-md stretch" -->
