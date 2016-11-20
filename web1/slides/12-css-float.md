@@ -12,7 +12,7 @@ img {
 	/* zrušit: none */ 
 }
 ```
-<!-- .element: class="c-text-lg stretch" -->
+<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
 
 >>>
 * pro obtékání např. obrázků
@@ -25,14 +25,14 @@ img {
 .tip { color: red; }
 .cool { background-color: blue; }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 ```html
 <p class="tip">…</p>
 <p class="cool">…</p>
 <p class="cool tip">…</p>
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 ---
 

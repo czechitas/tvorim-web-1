@@ -12,7 +12,7 @@
 	height: 100px;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-width-height.svg" style="border:0 none;box-shadow:none;">
 
@@ -25,7 +25,7 @@
 	border: 1px solid orange;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-border.svg" style="border:0 none;box-shadow:none;">
 
@@ -38,7 +38,7 @@
 	padding: 25px; 
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-padding.svg" style="border:0 none;box-shadow:none;">
 
@@ -51,7 +51,7 @@
 	margin: 10px;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
 
@@ -67,7 +67,7 @@
 	min-height: 100px;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 ---
 

@@ -33,6 +33,8 @@
 
 ---
 
+## Typ elementu v&nbsp;CSS
+
 ```css
 a { display: block; }
 
@@ -40,7 +42,7 @@ div { display: inline; }
 
 li { display: inline-block; }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * každý element má výchozí typ

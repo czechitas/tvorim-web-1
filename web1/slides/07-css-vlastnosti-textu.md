@@ -15,7 +15,7 @@
 	font-family: sans-serif; /* nebo serif */
 }
 ```
-<!-- .element: class="c-text-sm stretch" -->
+<!-- .element: class="c-text-sm stretch" contenteditable="true" -->
 
 >>>
 * všimněte si komentáře, ten se ignoruje, hodí se pro poznámky nebo když chcete zkusit, jak se to chová bez nějakého kusu kódu

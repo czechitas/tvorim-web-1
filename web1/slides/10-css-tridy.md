@@ -11,12 +11,12 @@
 
 <p class="tip">A víte, že…?</p>
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 ```css
 .tip { font-weight: bold; }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 >>>
 * třída se použije pokud má nějaký prvek speciální vlastnosti

@@ -26,7 +26,7 @@
 	Víte, že…?
 </p>
 ```
-<!-- .element: class="c-text-lg stretch" -->
+<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
 
 ---
 

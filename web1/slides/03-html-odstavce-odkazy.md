@@ -15,7 +15,7 @@
 	vysvobozený Pú!
 </p>
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" contenteditable="true" -->
 
 >>>
 * Jednou z nejčastěji používaných značek je vyznačování odstavce.
@@ -32,7 +32,7 @@
     nejlepší přítel
 </a>
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * naučíme se jak udělat odkaz

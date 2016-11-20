@@ -30,7 +30,7 @@ Jazyk popisující vzhled prvků webové stránky.
 	href="nazevsouboru.css"
 >
 ```
-<!-- .element: class="c-text-lg stretch" -->
+<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
 
 >>>
 * Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.

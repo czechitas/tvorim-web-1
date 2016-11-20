@@ -11,7 +11,7 @@
 	Název stránky
 </title>
 ```
-<!-- .element: class="c-text-xl stretch" -->
+<!-- .element: class="c-text-xl stretch" contenteditable="true" -->
 
 >>>
 * Zobrazuje se na záložce v prohlížeči
@@ -23,7 +23,7 @@
 ```html
 <meta name="description" content="Stručně o stránce">
 ```
-<!-- .element: class="c-text-xl stretch" -->
+<!-- .element: class="c-text-xl stretch" contenteditable="true" -->
 
 >>>
 * Zobrazuje se někdy ve výsledcích vyhledávání

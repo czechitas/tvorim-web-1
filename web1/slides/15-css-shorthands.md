@@ -17,7 +17,7 @@
 	padding-left: 10px;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * `.foo` i `.bar` dělají to samé
@@ -36,7 +36,7 @@
 	padding-left: 5px;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * `.foo` i `.bar` dělají to samé
@@ -55,7 +55,7 @@
 	padding-left: 40px;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * `.foo` i `.bar` dělají to samé
@@ -73,7 +73,7 @@
 	border-color: red;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * `.foo` i `.bar` dělají to samé
