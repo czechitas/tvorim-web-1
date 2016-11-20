@@ -4,18 +4,18 @@
 
 ---
 
-<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape><span class="fragment">font-style: italic; /* normal */</span>
+```css
+.tip { 
+	font-style: italic;  /* nebo normal */
 
-<span class="fragment">font-weight: bold;  
-/* nebo normal */</span>
+	font-weight: bold; /* nebo normal */
 
-<span class="fragment">text-align: center; 
-/* nebo left nebo right */</span>
+	text-align: center; /* nebo left nebo right */
 
-<span class="fragment">font-family: sans-serif; 
-/* nebo serif */</span>
-
-</code></pre>
+	font-family: sans-serif; /* nebo serif */
+}
+```
+<!-- .element: class="c-text-sm stretch" -->
 
 >>>
 * všimněte si komentáře, ten se ignoruje, hodí se pro poznámky nebo když chcete zkusit, jak se to chová bez nějakého kusu kódu
