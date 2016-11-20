@@ -57,11 +57,13 @@
 
 ---
 
-### Chytré šířky a výšky
+### Omezení šířky nebo výšky
 
 ```css
 .tip { 
-	max-width: 100px;
+	max-width: 500px;
+	min-width: 100px;
+	max-height: 200px;
 	min-height: 100px;
 }
 ```
