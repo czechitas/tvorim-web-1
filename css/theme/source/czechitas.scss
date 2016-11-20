@@ -67,6 +67,12 @@ section.has-dark-background {
         line-height: 0.9;
     }
 
+    ol,
+    dl,
+    ul {
+        display: block;
+    }
+
     code { font-family: 'Roboto Mono', monospace; }
 
     pre {
@@ -106,6 +112,7 @@ section.has-dark-background {
         line-height: 1.15;
         color: #000;
         background-color: rgba(255, 255, 255, 0.75);
+        font-family: $headingFont;
     }
 
     iframe {
@@ -113,8 +120,6 @@ section.has-dark-background {
 
         .c-slide-video & { border: 0 none; }
     }
-
-    .speaker-notes { font-family: $headingFont; }
 
 }
 
