@@ -17,12 +17,10 @@
 
 </code></pre>
 
-
 >>>
 * všimněte si komentáře, ten se ignoruje, hodí se pro poznámky nebo když chcete zkusit, jak se to chová bez nějakého kusu kódu
 * zkuste všechny použít
 * některé vlastnosti se dědí a tyto jsou mezi nimi
-
 
 ---
 
@@ -30,9 +28,11 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
+
 * nastav celé stránce bezpatkové písmo
 * vycentruj hlavní nadpis
 * nastav odkazům tučný řez písma 
 
-##### (výsledek na [bit.ly/tvorim07](http://bit.ly/tvorim07))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim07](http://bit.ly/tvorim07)** 
+<!-- .element: class="c-text-xs" -->

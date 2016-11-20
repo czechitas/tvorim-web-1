@@ -53,7 +53,6 @@ Jazyk popisující vzhled prvků webové stránky.
 <span class="fragment" data-fragment-index="80">}</span>
 </code></pre>
 
-
 >>>
 * selektor říká co chceme barvit
 * deklarace jak
@@ -64,8 +63,10 @@ Jazyk popisující vzhled prvků webové stránky.
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim05](http://bit.ly/tvorim05)**
+
 * Připoj si `styly.css` k HTML
 * Nastav barvu nadpisům (stejnou) a jinou textu
 
-##### (výsledek na [bit.ly/tvorim06](http://bit.ly/tvorim06))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim06](http://bit.ly/tvorim06)** 
+<!-- .element: class="c-text-xs" -->

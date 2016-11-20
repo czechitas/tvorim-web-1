@@ -75,7 +75,6 @@
 ```
 <!-- .element: class="c-text-md stretch" -->
 
-
 >>>
 * `.foo` i `.bar` dělají to samé
 
@@ -85,11 +84,12 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim14](http://bit.ly/tvorim14)**
+
 * optimalizovat stávající kód
 
-##### (výsledek na [bit.ly/tvorim15](http://bit.ly/tvorim15))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 

@@ -13,13 +13,10 @@
 ```
 <!-- .element: class="c-text-md " -->
 
-
 ```css
 .tip { font-weight: bold; }
 ```
 <!-- .element: class="c-text-md " -->
-
-
 
 >>>
 * třída se použije pokud má nějaký prvek speciální vlastnosti
@@ -31,13 +28,14 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim09](http://bit.ly/tvorim09)**
+
 * Nastav sekcím třídy a každou sekci obarvi jinak
 * V patičce vycentruj text
 * Pozor na kontrast
 
-##### (výsledek na [bit.ly/tvorim10](http://bit.ly/tvorim10))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim10](http://bit.ly/tvorim10)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 

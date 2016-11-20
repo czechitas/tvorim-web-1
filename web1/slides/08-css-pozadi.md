@@ -16,10 +16,12 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
+
 * nastav pozadí patičce, kterou vytvoříš a sekci kontakt
 
-##### (výsledek na [bit.ly/tvorim08](http://bit.ly/tvorim08))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 

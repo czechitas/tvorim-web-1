@@ -20,7 +20,6 @@
 
 # Description
 
-
 ```html
 <meta name="description" content="Stručně o stránce">
 ```
@@ -35,8 +34,10 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
+
 * Doplň titulek
 * Doplň popis stránky
 
-##### (výsledek na [bit.ly/tvorim05](http://bit.ly/tvorim05))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim05](http://bit.ly/tvorim05)** 
+<!-- .element: class="c-text-xs" -->

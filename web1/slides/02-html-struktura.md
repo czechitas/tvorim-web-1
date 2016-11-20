@@ -62,7 +62,6 @@
 * Kouzelná je klávesa AltGr s kterou napíšete většinu znaků.
 * Někdo může mít trochu jiné rozložení.
 
-
 ---
 
 # Tagy
@@ -91,8 +90,8 @@
 * Vpravo nahoře klikni na „Upravit“.
 * Vytvoř hlavní nadpis (název webu): <br>„Web Kryštůfka Robina“
 
-##### (výsledek na [bit.ly/tvorim02](http://bit.ly/tvorim02))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 

@@ -27,7 +27,6 @@ img {
 ```
 <!-- .element: class="c-text-md " -->
 
-
 ```html
 <p class="tip">…</p>
 <p class="cool">…</p>
@@ -35,20 +34,21 @@ img {
 ```
 <!-- .element: class="c-text-md " -->
 
-
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
+
 * mapě nastav menší šířku
 * mapu dej doleva
 * odsaď ji od textu
 * použij clearfix (Google je kamarád)
 
-##### (výsledek na [bit.ly/tvorim12](http://bit.ly/tvorim12))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim12](http://bit.ly/tvorim12)** 
+<!-- .element: class="c-text-xs" -->
 
 >>>
 * clearfix pro .obsah

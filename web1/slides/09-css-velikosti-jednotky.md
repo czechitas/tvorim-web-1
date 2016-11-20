@@ -20,7 +20,9 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim08](http://bit.ly/tvorim08)**
+
 * Nastav nadpisům různé velikosti
 
-##### (výsledek na [bit.ly/tvorim09](http://bit.ly/tvorim09))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim09](http://bit.ly/tvorim09)** 
+<!-- .element: class="c-text-xs" -->

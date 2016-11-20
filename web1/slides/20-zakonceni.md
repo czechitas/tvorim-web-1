@@ -15,7 +15,7 @@
 
 * Dotazy: Facebook: Czechitas Alumni
 * Hledat
-* praktickýá reference v češtině jecas.cz
+* praktická reference v češtině jecas.cz
 * codecademy.com
 
 ---
@@ -30,5 +30,5 @@
 
 # Konec
 
-##### (výsledek na [bit.ly/tvorim20](http://bit.ly/tvorim20)) 
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim20](http://bit.ly/tvorim20)** 
+<!-- .element: class="c-text-xs" -->

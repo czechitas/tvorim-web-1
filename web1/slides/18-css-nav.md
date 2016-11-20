@@ -18,7 +18,6 @@
 * zaberou jen tolik místa, kolik potřebují
 * nejsou samostatně na řádku 
 
-
 >>>
 * na vaší stránce jsou to například odkazy
 
@@ -43,7 +42,6 @@ li { display: inline-block; }
 ```
 <!-- .element: class="c-text-md stretch" -->
 
-
 >>>
 * každý element má výchozí typ
 * Podle těchto typů se nesmí vnořovat blokové do řádkových.
@@ -55,11 +53,13 @@ li { display: inline-block; }
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim17](http://bit.ly/tvorim17)**
+
 * nastyluj menu tak, aby položky byly vedle sebe a vycentrované
 * udělej efekt podbarení po najetí na polozku menu
 
-##### (výsledek na [bit.ly/tvorim18](http://bit.ly/tvorim18))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim18](http://bit.ly/tvorim18)** 
+<!-- .element: class="c-text-xs" -->
 
 >>>
 * list-style: none pro odstranění tečky

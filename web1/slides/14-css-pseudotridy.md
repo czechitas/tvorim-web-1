@@ -23,8 +23,9 @@ a:active {color: yellow;} /* při kliknutí */</span></span>
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim13](http://bit.ly/tvorim13)**
+
 * udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
-##### (výsledek na [bit.ly/tvorim14](http://bit.ly/tvorim14))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim14](http://bit.ly/tvorim14)** 
+<!-- .element: class="c-text-xs" -->

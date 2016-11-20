@@ -49,8 +49,10 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim02](http://bit.ly/tvorim02)**
+
 * Vytvoř sekci Kontakt (nadpis a text)
 * V kontaktech udělej odkaz na mail a na Facebook
 
-##### (výsledek na [bit.ly/tvorim03](http://bit.ly/tvorim03))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim03](http://bit.ly/tvorim03)** 
+<!-- .element: class="c-text-xs" -->

@@ -73,14 +73,16 @@
 
 # Hrajem si! A
 
+**vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
+
 * v patičce odsazení textu horní a dolní
 * zruš odsazení všeho na stránce od jejího okraje
 * nastav šířku 50% boxu s kontakty
 * odsaď obsah kontaktu ať není nalepený
-* vycentruj kontaktní box
+* vycentruj kontaktní box _(najdi si jak)_
 
-##### (výsledek na [bit.ly/tvorim11a](http://bit.ly/tvorim11a))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim11a](http://bit.ly/tvorim11a)** 
+<!-- .element: class="c-text-xs" -->
 
 >>>
 * margin-left/right: auto
@@ -91,11 +93,13 @@
 
 # Hrajem si! B
 
+**vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
+
 * roztáhni pozadí až do kraje
 * nastav mapě 100% šířku
 
-(výsledek na [bit.ly/tvorim11b](http://bit.ly/tvorim11b))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim11b](http://bit.ly/tvorim11b)** 
+<!-- .element: class="c-text-xs" -->
 
 >>>
 * vlož do kontaktu div
@@ -103,4 +107,3 @@
 * omez novému 
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
  
-

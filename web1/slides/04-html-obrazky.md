@@ -11,12 +11,10 @@
   <span class="fragment">alt="<span class="fragment">medvěd v lese</span>"</span>
 &gt;</code></pre>
 
-
 >>>
 * všimněte si, že můžu klidně napsat atributy na nový řádek, jde jen o to, aby tam byla nějaká mezera
 * alt: nevidomí
 * nepárový tag!
-
 
 ---
 
@@ -36,12 +34,13 @@
 
 # Hrajem si!
 
+**vycházíme z [bit.ly/tvorim03](http://bit.ly/tvorim03)**
+
 * Přidej mapu do kontaktu
 * Přidej licencí vyžadované texty
 
-##### (výsledek na [bit.ly/tvorim04](http://bit.ly/tvorim04))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim04](http://bit.ly/tvorim04)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 
