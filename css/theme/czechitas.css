@@ -52,16 +52,16 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 4em; }
+  font-size: 2.64em; }
 
 .reveal h2 {
-  font-size: 3em; }
+  font-size: 1.98em; }
 
 .reveal h3 {
-  font-size: 2em; }
+  font-size: 1.32em; }
 
 .reveal h4 {
-  font-size: 1.6em; }
+  font-size: 1.056em; }
 
 .reveal h1 {
   text-shadow: none; }
@@ -296,56 +296,71 @@ body {
 * Overrides
 * ---------
 */
-.reveal {
-  /*h1, h2, h3, h4, h5, h6, p, ul, ol {
-        text-align: left;
-	}*/ }
-  .reveal code {
-    font-family: 'Roboto Mono', monospace; }
-  .reveal pre {
-    -moz-tab-size: 4;
-    /* Firefox 4+ */
-    tab-size: 4;
-    /* Chrome 21+, Safari 6.1+, Opera 15+ */
-    white-space: pre-wrap;
-    box-shadow: none;
-    border-top: 1px solid #bbb;
-    border-bottom: 1px solid #bbb;
-    padding-top: 10px; }
-  .reveal pre + pre {
-    border-top: none; }
-  .reveal pre code {
-    line-height: 1.15;
-    padding: 0 0 12px; }
-  .reveal kbd {
-    padding: 2px 5px !important;
-    min-width: 1.5em;
-    text-align: center;
-    display: inline-block !important;
-    background: #0D6AB7;
-    color: #fff;
-    line-height: 105%;
-    border-radius: 4px;
-    border: 1px solid #1081DD;
-    font-weight: bold; }
-  .reveal .speaker-notes {
-    border-top: 1px solid black;
-    max-height: 60%;
-    font-size: 26px;
-    line-height: 1.15;
-    color: #000;
-    background-color: rgba(255, 255, 255, 0.75); }
-  .reveal iframe {
-    border: 1px solid #bbbbbb; }
-    .c-slide-video .reveal iframe {
-      border: 0 none; }
-  .reveal .speaker-notes {
-    font-family: "Roboto Condensed", sans-serif; }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p, .reveal ul, .reveal ol {
+  text-align: left; }
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  line-height: 0.9; }
+
+.reveal ol,
+.reveal dl,
+.reveal ul {
+  display: block; }
+
+.reveal code {
+  font-family: 'Roboto Mono', monospace; }
+
+.reveal pre {
+  -moz-tab-size: 4;
+  /* Firefox 4+ */
+  tab-size: 4;
+  /* Chrome 21+, Safari 6.1+, Opera 15+ */
+  white-space: pre-wrap;
+  box-shadow: none;
+  border-top: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;
+  padding-top: 10px; }
+
+.reveal pre + pre {
+  border-top: none; }
+
+.reveal pre code {
+  line-height: 1.1;
+  padding: 0 0 12px; }
+
+.reveal kbd {
+  padding: 2px 5px !important;
+  min-width: 1.5em;
+  text-align: center;
+  display: inline-block !important;
+  background: #0D6AB7;
+  color: #fff;
+  line-height: 105%;
+  border-radius: 4px;
+  border: 1px solid #1081DD;
+  font-weight: bold; }
+
+.reveal .speaker-notes {
+  border-top: 1px solid black;
+  max-height: 60%;
+  font-size: 26px;
+  line-height: 1.15;
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.75);
+  font-family: "Roboto Condensed", sans-serif; }
+
+.reveal iframe {
+  border: 1px solid #bbbbbb; }
+  .c-slide-video .reveal iframe {
+    border: 0 none; }
 
 /*
 * Additions
 * ---------
 */
+.reveal .c-sr-only {
+  display: none; }
+
 .reveal .c-text-left {
   text-align: left; }
 
@@ -361,27 +376,27 @@ body {
 
 .reveal .c-text-xs,
 .reveal .c-text-xs code {
-  font-size: 40px; }
+  font-size: 24px; }
 
 .reveal .c-text-sm,
 .reveal .c-text-sm code {
-  font-size: 56px; }
+  font-size: 33.6px; }
 
 .reveal pre code {
-  font-size: 78px;
+  font-size: 46.8px;
   letter-spacing: -0.03em; }
 
 .reveal .c-text-md,
 .reveal .c-text-md code {
-  font-size: 78px; }
+  font-size: 46.8px; }
 
 .reveal .c-text-lg,
 .reveal .c-text-lg code {
-  font-size: 110px; }
+  font-size: 66px; }
 
 .reveal .c-text-xl,
 .reveal .c-text-xl code {
-  font-size: 150px; }
+  font-size: 90px; }
 
 .reveal .c-cols {
   display: flex;
@@ -471,37 +486,58 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
 .c-slide-task .slide-background {
   background-color: #eee; }
 
+.c-slide-break .slide-background {
+  background-color: green; }
+
 .c-slide-inter .slide-background {
   background: #b82c7f; }
 
+.c-slide-inter .reveal h1, .c-slide-inter .reveal h2, .c-slide-inter .reveal h3, .c-slide-inter .reveal h4, .c-slide-inter .reveal h5, .c-slide-inter .reveal h6 {
+  line-height: 0.8; }
+
+.c-slide-inter .reveal h1 {
+  font-size: 4.752em; }
+
+.c-slide-inter .reveal h2 {
+  font-size: 3.564em; }
+
+.c-slide-inter .reveal h3 {
+  font-size: 2.376em; }
+
 .reveal .c-postit-green {
   box-sizing: border-box;
-  padding-top: 1em;
   display: inline-block;
-  width: 4em;
-  height: 4em;
-  font-size: 300%;
+  width: 3em;
+  height: 3em;
+  padding: 0.5em 0.2em 0;
+  overflow: hidden;
+  font-size: 150%;
   line-height: 1;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
   background: #00b800;
   color: white; }
 
 .reveal .c-postit-red {
   box-sizing: border-box;
-  padding-top: 1em;
   display: inline-block;
-  width: 4em;
-  height: 4em;
-  font-size: 300%;
+  width: 3em;
+  height: 3em;
+  padding: 0.5em 0.2em 0;
+  overflow: hidden;
+  font-size: 150%;
   line-height: 1;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
   background: #df0000;
   color: white; }
 
 .reveal .c-url {
   text-align: left;
   font-size: 0;
-  font-family: 'Roboto Mono',monospace;
+  font-family: 'Roboto Mono', monospace;
   font-weight: bold; }
   .reveal .c-url b {
     background-color: white;
-    font-size: 50px;
+    font-size: 28px;
     display: inline-block; }
