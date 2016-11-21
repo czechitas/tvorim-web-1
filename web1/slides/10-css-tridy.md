@@ -32,7 +32,7 @@ p { color: blue; }
 <!-- .element: class="c-text-md" contenteditable="true" -->
 
 ```css
-.tip { font-weight: bold; }
+.tip { color: blue; }
 ```
 <!-- .element: class="c-text-md fragment" contenteditable="true" -->
 
@@ -55,9 +55,9 @@ p { color: blue; }
 <!-- .element: class="c-text-md" contenteditable="true" -->
 
 ```css
-.tip { font-weight: bold; }
+.tip { color: blue; }
 ```
-<!-- .element: class="c-text-md fragment" contenteditable="true" -->
+<!-- .element: class="c-text-md" contenteditable="true" -->
 
 >>>
 * třída se tedy použije pokud má nějaký prvek speciální vlastnosti
