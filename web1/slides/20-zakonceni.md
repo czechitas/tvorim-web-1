@@ -13,7 +13,7 @@
 
 # Online
 
-* Dotazy: Facebook: Czechitas Alumni
+* Dotazy: Facebook: Czechitas - Úvod do HTML a CSS
 * Hledat
 * praktická reference v češtině jecas.cz
 * codecademy.com
