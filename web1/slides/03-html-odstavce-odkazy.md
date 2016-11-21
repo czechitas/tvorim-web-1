@@ -15,7 +15,7 @@
 	vysvobozený Pú!
 </p>
 ```
-<!-- .element: class="c-text-md stretch" contenteditable="true" contenteditable="true" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * Jednou z nejčastěji používaných značek je vyznačování odstavce.

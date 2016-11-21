@@ -21,7 +21,7 @@
 	Obsah tagu
 </jmenotagu>
 ```
-<!-- .element: class="c-text-xl stretch" contenteditable="true" contenteditable="true" -->
+<!-- .element: class="c-text-xl stretch" contenteditable="true" -->
 
 >>>
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
@@ -43,7 +43,7 @@
     </body>
 </html>
 ```
-<!-- .element: class="c-text-md stretch" contenteditable="true" contenteditable="true" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * HTML dokument má mít tuto strukturu.
@@ -74,7 +74,7 @@
 <div>element bez významu</div>
 
 ```
-<!-- .element: class="c-text-md stretch" contenteditable="true" contenteditable="true" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * dodržujte pořadí nadpisů: nejde o to jak vypadají
