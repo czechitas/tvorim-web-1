@@ -53,7 +53,7 @@ li { display: inline-block; }
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 18!
 
 **vycházíme z [bit.ly/tvorim17](http://bit.ly/tvorim17)**
 

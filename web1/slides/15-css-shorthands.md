@@ -82,7 +82,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 15!
 
 **vycházíme z [bit.ly/tvorim14](http://bit.ly/tvorim14)**
 

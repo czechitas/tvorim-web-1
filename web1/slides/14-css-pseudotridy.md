@@ -21,7 +21,7 @@ a:active {color: yellow;} /* při kliknutí */</span></span>
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 14!
 
 **vycházíme z [bit.ly/tvorim13](http://bit.ly/tvorim13)**
 

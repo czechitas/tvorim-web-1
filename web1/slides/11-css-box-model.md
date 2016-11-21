@@ -73,7 +73,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si! A
+# Hrajem si 11a!
 
 **vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
@@ -93,7 +93,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si! B
+# Hrajem si 11b!
 
 **vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 

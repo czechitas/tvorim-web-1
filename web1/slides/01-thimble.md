@@ -22,7 +22,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si poprvé! 
 
 ## Vytvořte si účet na thimble.mozilla.org
 

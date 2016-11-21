@@ -32,7 +32,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 17!
 
 **vycházíme z [bit.ly/tvorim16](http://bit.ly/tvorim16)**
 

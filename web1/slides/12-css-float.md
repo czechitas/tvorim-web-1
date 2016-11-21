@@ -38,7 +38,7 @@ img {
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 12!
 
 **vycházíme z [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
 

@@ -14,7 +14,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 8!
 
 **vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
 

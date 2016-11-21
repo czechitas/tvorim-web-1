@@ -61,7 +61,7 @@ Jazyk popisující vzhled prvků webové stránky.
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 6!
 
 **vycházíme z [bit.ly/tvorim05](http://bit.ly/tvorim05)**
 

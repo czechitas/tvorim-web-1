@@ -67,7 +67,7 @@ p { color: blue; }
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 10!
 
 **vycházíme z [bit.ly/tvorim09](http://bit.ly/tvorim09)**
 

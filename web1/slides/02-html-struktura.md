@@ -84,7 +84,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 2!
 * thimbleprojects.org/czechitas/136445/
 * Otevři si adresu <a href="http://bit.ly/tvorim01" target="_blank">bit.ly/tvorim01</a>
 * Vpravo nahoře klikni na „Upravit“.

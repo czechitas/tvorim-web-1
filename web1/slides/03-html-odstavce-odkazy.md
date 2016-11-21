@@ -47,7 +47,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 3!
 
 **vycházíme z [bit.ly/tvorim02](http://bit.ly/tvorim02)**
 

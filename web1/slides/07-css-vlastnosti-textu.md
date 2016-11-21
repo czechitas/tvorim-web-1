@@ -26,7 +26,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 7!
 
 **vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
 

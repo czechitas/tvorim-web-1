@@ -6,7 +6,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 16!
 
 **vycházíme z [bit.ly/tvorim15](http://bit.ly/tvorim15)**
 

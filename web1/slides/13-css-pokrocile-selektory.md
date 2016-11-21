@@ -30,7 +30,7 @@ h2 { /* nadpisy 1. a 2. úrovně*/ }</span>
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 13!
 
 **vycházíme z [bit.ly/tvorim12](http://bit.ly/tvorim12)**
 
