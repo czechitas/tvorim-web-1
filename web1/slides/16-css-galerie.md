@@ -6,12 +6,14 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 16!
 
-* udělej galerii obrázků 
+**vycházíme z [bit.ly/tvorim15](http://bit.ly/tvorim15)**
+
+* udělej galerii z obrázků
 * udělej mezi obrázky mezery
 * přidej obrázkům rámeček
 
-##### (výsledek na [tiny.cc/tvorim16](http://tiny.cc/tvorim16))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim16](http://bit.ly/tvorim16)** 
+<!-- .element: class="c-text-xs" -->
 

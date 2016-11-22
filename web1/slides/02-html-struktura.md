@@ -21,7 +21,7 @@
 	Obsah tagu
 </jmenotagu>
 ```
-<!-- .element: class="c-text-xl stretch" -->
+<!-- .element: class="c-text-xl stretch" contenteditable="true" -->
 
 >>>
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
@@ -43,7 +43,7 @@
     </body>
 </html>
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * HTML dokument má mít tuto strukturu.
@@ -62,7 +62,6 @@
 * Kouzelná je klávesa AltGr s kterou napíšete většinu znaků.
 * Někdo může mít trochu jiné rozložení.
 
-
 ---
 
 # Tagy
@@ -75,7 +74,7 @@
 <div>element bez významu</div>
 
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * dodržujte pořadí nadpisů: nejde o to jak vypadají
@@ -85,17 +84,17 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
-
-* Otevři si adresu <a href="http://tiny.cc/tvorim01" target="_blank">tiny.cc/tvorim01</a>
+# Hrajem si 2!
+* thimbleprojects.org/czechitas/136445/
+* Otevři si adresu <a href="http://bit.ly/tvorim01" target="_blank">bit.ly/tvorim01</a>
 * Vpravo nahoře klikni na „Upravit“.
-* Vytvoř hlavní nadpis (název webu)
+* Vytvoř hlavní nadpis (název webu): <br>„Web Kryštůfka Robina“
 
-##### (výsledek na [tiny.cc/tvorim02](http://tiny.cc/tvorim02))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 10:15
+# Přestávka do 10:10

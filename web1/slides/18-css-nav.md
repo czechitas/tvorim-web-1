@@ -18,7 +18,6 @@
 * zaberou jen tolik místa, kolik potřebují
 * nejsou samostatně na řádku 
 
-
 >>>
 * na vaší stránce jsou to například odkazy
 
@@ -34,6 +33,8 @@
 
 ---
 
+## Typ elementu v&nbsp;CSS
+
 ```css
 a { display: block; }
 
@@ -41,8 +42,7 @@ div { display: inline; }
 
 li { display: inline-block; }
 ```
-<!-- .element: class="c-text-md stretch" -->
-
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * každý element má výchozí typ
@@ -53,13 +53,15 @@ li { display: inline-block; }
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 18!
+
+**vycházíme z [bit.ly/tvorim17](http://bit.ly/tvorim17)**
 
 * nastyluj menu tak, aby položky byly vedle sebe a vycentrované
 * udělej efekt podbarení po najetí na polozku menu
 
-##### (výsledek na [tiny.cc/tvorim18](http://tiny.cc/tvorim18))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim18](http://bit.ly/tvorim18)** 
+<!-- .element: class="c-text-xs" -->
 
 >>>
 * list-style: none pro odstranění tečky

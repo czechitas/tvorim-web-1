@@ -59,7 +59,7 @@
 	<a href="#">Code 17</a>
 </p>
 ```
-<!-- .element: class="c-text-xs stretch" -->
+<!-- .element: class="c-text-xs stretch" contenteditable="true" -->
 
 ---
 
@@ -80,7 +80,7 @@
 	<a href="#">Code 11</a>
 </p>
 ```
-<!-- .element: class="c-text-sm stretch" -->
+<!-- .element: class="c-text-sm stretch" contenteditable="true" -->
 
 ---
 
@@ -109,7 +109,7 @@
 	<a href="#">Code 4</a>
 </p>
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 ---
 
@@ -122,7 +122,7 @@
 	</a>
 </p>
 ```
-<!-- .element: class="c-text-lg stretch" -->
+<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
 
 ---
 

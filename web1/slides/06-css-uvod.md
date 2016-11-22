@@ -30,7 +30,7 @@ Jazyk popisující vzhled prvků webové stránky.
 	href="nazevsouboru.css"
 >
 ```
-<!-- .element: class="c-text-lg stretch" -->
+<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
 
 >>>
 * Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.
@@ -53,7 +53,6 @@ Jazyk popisující vzhled prvků webové stránky.
 <span class="fragment" data-fragment-index="80">}</span>
 </code></pre>
 
-
 >>>
 * selektor říká co chceme barvit
 * deklarace jak
@@ -62,10 +61,12 @@ Jazyk popisující vzhled prvků webové stránky.
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 6!
+
+**vycházíme z [bit.ly/tvorim05](http://bit.ly/tvorim05)**
 
 * Připoj si `styly.css` k HTML
 * Nastav barvu nadpisům (stejnou) a jinou textu
 
-##### (výsledek na [tiny.cc/tvorim06](http://tiny.cc/tvorim06))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim06](http://bit.ly/tvorim06)** 
+<!-- .element: class="c-text-xs" -->

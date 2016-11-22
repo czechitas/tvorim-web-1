@@ -40,6 +40,5 @@ ale nemusíme
 
 ## pokud je něco problém, řekněte to hned
 
-
 >>>
 * vyřešíme pokud bude v našich silách

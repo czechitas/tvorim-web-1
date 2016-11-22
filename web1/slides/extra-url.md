@@ -1,7 +1,6 @@
 <!-- .slide: data-state="c-slide-inter" -->
 # Co je URL a z čeho se skládá
 
-
 >>>
 Pokud se někdo zeptá, jinak není nutno.
 

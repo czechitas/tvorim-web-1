@@ -18,9 +18,11 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 9!
+
+**vycházíme z [bit.ly/tvorim08](http://bit.ly/tvorim08)**
 
 * Nastav nadpisům různé velikosti
 
-##### (výsledek na [tiny.cc/tvorim09](http://tiny.cc/tvorim09))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim09](http://bit.ly/tvorim09)** 
+<!-- .element: class="c-text-xs" -->

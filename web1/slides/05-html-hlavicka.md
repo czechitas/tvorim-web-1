@@ -11,7 +11,7 @@
 	Název stránky
 </title>
 ```
-<!-- .element: class="c-text-xl stretch" -->
+<!-- .element: class="c-text-xl stretch" contenteditable="true" -->
 
 >>>
 * Zobrazuje se na záložce v prohlížeči
@@ -20,11 +20,10 @@
 
 # Description
 
-
 ```html
 <meta name="description" content="Stručně o stránce">
 ```
-<!-- .element: class="c-text-xl stretch" -->
+<!-- .element: class="c-text-xl stretch" contenteditable="true" -->
 
 >>>
 * Zobrazuje se někdy ve výsledcích vyhledávání
@@ -33,10 +32,12 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 5!
+
+**vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
 
 * Doplň titulek
 * Doplň popis stránky
 
-##### (výsledek na [tiny.cc/tvorim05](http://tiny.cc/tvorim05))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim05](http://bit.ly/tvorim05)** 
+<!-- .element: class="c-text-xs" -->

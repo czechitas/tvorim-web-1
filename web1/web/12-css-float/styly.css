@@ -46,8 +46,7 @@ a {
 }
 
 .paticka {
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding: 20px;
 	background-color: #f19181;
 	color: #fff;
 	text-align: center;

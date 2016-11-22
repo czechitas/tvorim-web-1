@@ -4,35 +4,35 @@
 
 ---
 
-<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape><span class="fragment">font-style: italic; /* normal */</span>
+```css
+.tip { 
+	font-style: italic;  /* nebo normal */
 
-<span class="fragment">font-weight: bold;  
-/* nebo normal */</span>
+	font-weight: bold; /* nebo normal */
 
-<span class="fragment">text-align: center; 
-/* nebo left nebo right */</span>
+	text-align: center; /* nebo left nebo right */
 
-<span class="fragment">font-family: sans-serif; 
-/* nebo serif */</span>
-
-</code></pre>
-
+	font-family: sans-serif; /* nebo serif */
+}
+```
+<!-- .element: class="c-text-sm stretch" contenteditable="true" -->
 
 >>>
 * všimněte si komentáře, ten se ignoruje, hodí se pro poznámky nebo když chcete zkusit, jak se to chová bez nějakého kusu kódu
 * zkuste všechny použít
 * některé vlastnosti se dědí a tyto jsou mezi nimi
 
-
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 7!
+
+**vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
 
 * nastav celé stránce bezpatkové písmo
 * vycentruj hlavní nadpis
 * nastav odkazům tučný řez písma 
 
-##### (výsledek na [tiny.cc/tvorim07](http://tiny.cc/tvorim07))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim07](http://bit.ly/tvorim07)** 
+<!-- .element: class="c-text-xs" -->

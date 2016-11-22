@@ -148,7 +148,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="201.91437"
+     inkscape:cx="326.24736"
      inkscape:cy="123.8465"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -179,97 +179,98 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-166.41318,-417.73904)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="295.14331"
+       y="341.92685"
+       id="text4140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142"
+         x="295.14331"
+         y="341.92685" /></text>
     <g
-       id="g5090"
-       transform="translate(38.000446,-36.149636)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4140"
-         y="378.07648"
-         x="207.14285"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="378.07648"
-           x="207.14285"
-           id="tspan4142"
-           sodipodi:role="line" /></text>
-      <g
-         transform="translate(0,1.5258789e-5)"
-         id="g5083">
-        <rect
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.82095009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.8209501, 0.8209501;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4138"
-           width="360.67728"
-           height="91.391586"
-           x="271.44702"
-           y="595.59491" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4146"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(137.37013,553.06585)"><flowRegion
-             id="flowRegion4148"><rect
-               id="rect4150"
-               width="360.71429"
-               height="107.85715"
-               x="134.28572"
-               y="41.237339"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-             id="flowPara4154"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start">Tady je obsah, třeba text nebo jiná krabice jako je tato. Webové stránky jsou totiž poskládané ze spousty krabic, které jsou někdy vedle sebe a někdy zase v sobě a tak pořád dokola.</flowPara></flowRoot>      </g>
+       id="g5083"
+       transform="translate(88.000446,-36.149621)">
       <rect
-         y="550.75037"
-         x="228.78209"
-         height="181.0807"
-         width="446.00714"
-         id="rect4138-4"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:17.60251427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="508.20798"
-         x="184.58284"
-         height="266.1655"
-         width="534.40564"
-         id="rect4138-3"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.90624976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.9062498, 0.9062498;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text4462"
-         y="586.07642"
-         x="451.78564"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="586.07642"
-           x="451.78564"
-           id="tspan4464"
-           sodipodi:role="line">padding</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4462-8"
-         y="559.70605"
-         x="450.61987"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="559.70605"
-           x="450.61987"
-           id="tspan4464-02"
-           sodipodi:role="line">border</tspan></text>
+         y="595.59491"
+         x="271.44702"
+         height="91.391586"
+         width="360.67728"
+         id="rect4138"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.82095009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.8209501, 0.8209501;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(137.37013,553.06585)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4146"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4148"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+             y="41.237339"
+             x="134.28572"
+             height="107.85715"
+             width="360.71429"
+             id="rect4150" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           id="flowPara4154">Tady je obsah, třeba text nebo jiná krabice jako je tato. Webové stránky jsou totiž poskládané ze spousty krabic, které jsou někdy vedle sebe a někdy zase v sobě a tak pořád dokola.</flowPara></flowRoot>    </g>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:17.60251427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-4"
+       width="446.00714"
+       height="181.0807"
+       x="316.78253"
+       y="514.60071" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.90624976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.9062498, 0.9062498;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-3"
+       width="534.40564"
+       height="266.1655"
+       x="272.58328"
+       y="472.05835" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="539.78607"
+       y="549.92676"
+       id="text4462"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4464"
+         x="539.78607"
+         y="549.92676">padding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="538.6203"
+       y="523.5564"
+       id="text4462-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4464-02"
+         x="538.6203"
+         y="523.5564">border</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="539.73724"
+       y="498.37753"
+       id="text4462-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4464-0-7"
+         x="539.73724"
+         y="498.37753">margin</tspan></text>
+    <g
+       id="g4386"
+       transform="translate(10,0)">
       <path
          inkscape:connector-curvature="0"
          id="path4218"
-         d="m 220,744.50506 0,80.71429"
+         d="m 298.00045,708.35542 0,80.71429"
          style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.03739595px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text4462-1-8"
-         y="534.52716"
-         x="451.73682"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="534.52716"
-           x="451.73682"
-           id="tspan4464-0-7"
-           sodipodi:role="line">margin</tspan></text>
       <g
+         transform="translate(78.000446,-36.149636)"
          id="g5072">
         <text
            xml:space="preserve"
@@ -321,6 +322,84 @@
            id="path4218-0-9-9"
            inkscape:connector-curvature="0" />
       </g>
+    </g>
+    <g
+       id="g5083-9"
+       transform="translate(-445.99955,-36.149624)">
+      <rect
+         y="595.59491"
+         x="271.44702"
+         height="91.391586"
+         width="360.67728"
+         id="rect4138-7"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.82095009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.8209501, 0.8209501;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(137.37013,553.06585)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4146-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4148-2"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+             y="41.237339"
+             x="134.28572"
+             height="107.85715"
+             width="360.71429"
+             id="rect4150-0" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           id="flowPara4154-2">Tady je obsah, třeba text nebo jiná krabice jako je tato. Webové stránky jsou totiž poskládané ze spousty krabic, které jsou někdy vedle sebe a někdy zase v sobě a tak pořád dokola.</flowPara></flowRoot>    </g>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:17.60251427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-4-2"
+       width="446.00714"
+       height="181.0807"
+       x="-217.21747"
+       y="514.60071" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.90624976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.9062498, 0.9062498;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138-3-1"
+       width="534.40564"
+       height="266.1655"
+       x="-261.41672"
+       y="472.05835" />
+    <g
+       id="g4453"
+       transform="translate(221.22341,87.883272)">
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4462-2"
+         y="26.555923"
+         x="517.58478"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="26.555923"
+           x="517.58478"
+           id="tspan4464-1"
+           sodipodi:role="line">padding</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4462-8-9"
+         y="0.18556213"
+         x="516.41901"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="0.18556213"
+           x="516.41901"
+           id="tspan4464-02-5"
+           sodipodi:role="line">border</tspan></text>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4462-1-8-9"
+         y="-24.993301"
+         x="517.53595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-24.993301"
+           x="517.53595"
+           id="tspan4464-0-7-0"
+           sodipodi:role="line">margin</tspan></text>
     </g>
   </g>
 </svg>

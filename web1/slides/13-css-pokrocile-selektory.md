@@ -23,7 +23,6 @@ h2 { /* nadpisy 1. a 2. úrovně*/ }</span>
 
 <span class="fragment">p { color: green; }</span></code></pre>
 
-
 >>>
 * platí poslední nastavená hodnota vlastnosti
 
@@ -31,10 +30,12 @@ h2 { /* nadpisy 1. a 2. úrovně*/ }</span>
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 13!
 
-* uprav zápis na vícenásobný
-* přidej odkaz na czechitas do patičky a obarvi ho bíle aniž bys přidala třídu 
+**vycházíme z [bit.ly/tvorim12](http://bit.ly/tvorim12)**
 
-##### (výsledek na [tiny.cc/tvorim13](http://tiny.cc/tvorim13))
-<!-- .element: class="c-text-xs c-text-right" -->
+* uprav CSS pro barvu nadpisů na vícenásobný selektor
+* přidej odkaz na Czechitas do patičky (pokud tam žádný nemáš) a obarvi všechny bíle aniž bys přidala třídu 
+
+**výsledek: [bit.ly/tvorim13](http://bit.ly/tvorim13)** 
+<!-- .element: class="c-text-xs" -->

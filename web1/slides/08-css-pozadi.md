@@ -14,15 +14,17 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 8!
 
-* nastav pozadí patičce a sekci kontakt
+**vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
 
-##### (výsledek na [tiny.cc/tvorim08](http://tiny.cc/tvorim08))
-<!-- .element: class="c-text-xs c-text-right" -->
+* nastav pozadí patičce, kterou vytvoříš a sekci kontakt
+
+**výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Oběd do 13:00
+# Oběd do 12:50

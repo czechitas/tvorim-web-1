@@ -13,9 +13,9 @@
 
 # Online
 
-* Dotazy: Facebook: Czechitas Alumni
+* Dotazy: Facebook: Czechitas - Úvod do HTML a CSS
 * Hledat
-* praktickýá reference v češtině jecas.cz
+* praktická reference v češtině jecas.cz
 * codecademy.com
 
 ---
@@ -30,5 +30,5 @@
 
 # Konec
 
-##### (výsledek na [tiny.cc/tvorim20](http://tiny.cc/tvorim20)) 
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim20](http://bit.ly/tvorim20)** 
+<!-- .element: class="c-text-xs" -->

@@ -17,8 +17,10 @@
 	padding-left: 10px;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
+>>>
+* `.foo` i `.bar` dělají to samé
 
 ---
 
@@ -30,12 +32,14 @@
 .bar { 
 	padding-top: 10px;
 	padding-right: 5px;
-	padding-bottom: 5px;
-	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
+>>>
+* `.foo` i `.bar` dělají to samé
 
 ---
 
@@ -51,7 +55,10 @@
 	padding-left: 40px;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
+
+>>>
+* `.foo` i `.bar` dělají to samé
 
 ---
 
@@ -66,20 +73,23 @@
 	border-color: red;
 }
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
+>>>
+* `.foo` i `.bar` dělají to samé
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 15!
+
+**vycházíme z [bit.ly/tvorim14](http://bit.ly/tvorim14)**
 
 * optimalizovat stávající kód
 
-##### (výsledek na [tiny.cc/tvorim15](http://tiny.cc/tvorim15))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 

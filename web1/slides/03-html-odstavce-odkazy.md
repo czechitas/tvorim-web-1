@@ -15,7 +15,7 @@
 	vysvobozený Pú!
 </p>
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * Jednou z nejčastěji používaných značek je vyznačování odstavce.
@@ -32,7 +32,7 @@
     nejlepší přítel
 </a>
 ```
-<!-- .element: class="c-text-md stretch" -->
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * naučíme se jak udělat odkaz
@@ -47,11 +47,12 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 3!
+
+**vycházíme z [bit.ly/tvorim02](http://bit.ly/tvorim02)**
 
 * Vytvoř sekci Kontakt (nadpis a text)
 * V kontaktech udělej odkaz na mail a na Facebook
-* Vytvoř patičku.
 
-##### (výsledek na [tiny.cc/tvorim03](http://tiny.cc/tvorim03))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim03](http://bit.ly/tvorim03)** 
+<!-- .element: class="c-text-xs" -->

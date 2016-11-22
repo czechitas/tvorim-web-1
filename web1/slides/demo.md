@@ -48,7 +48,6 @@ Odstavec textu textu textu textu textu textu textu textu textu textu textu textu
 
 </div>
 
-
 ---
 
 ### 2 sloupce, druhý širší

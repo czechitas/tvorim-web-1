@@ -12,7 +12,7 @@
 	height: 100px;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-width-height.svg" style="border:0 none;box-shadow:none;">
 
@@ -25,7 +25,7 @@
 	border: 1px solid orange;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-border.svg" style="border:0 none;box-shadow:none;">
 
@@ -38,7 +38,7 @@
 	padding: 25px; 
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-padding.svg" style="border:0 none;box-shadow:none;">
 
@@ -51,37 +51,40 @@
 	margin: 10px;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
 
 ---
 
-### Chytré šířky a výšky
+### Omezení šířky nebo výšky
 
 ```css
 .tip { 
-	max-width: 100px;
+	max-width: 500px;
+	min-width: 100px;
+	max-height: 200px;
 	min-height: 100px;
 }
 ```
-<!-- .element: class="c-text-md " -->
+<!-- .element: class="c-text-md " contenteditable="true" -->
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si! A
+# Hrajem si 11a!
+
+**vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
 * v patičce odsazení textu horní a dolní
-* nastav celé stránce nulové okraje
+* zruš odsazení všeho na stránce od jejího okraje
 * nastav šířku 50% boxu s kontakty
 * odsaď obsah kontaktu ať není nalepený
-* nastav mapě šířku 100%
-* vycentruj kontaktní box
+* vycentruj kontaktní box _(najdi si jak)_
 
-##### (výsledek na [tiny.cc/tvorim11a](http://tiny.cc/tvorim11a))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim11a](http://bit.ly/tvorim11a)** 
+<!-- .element: class="c-text-xs" -->
 
 >>>
 * margin-left/right: auto
@@ -90,13 +93,15 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si! B
+# Hrajem si 11b!
+
+**vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
 * roztáhni pozadí až do kraje
 * nastav mapě 100% šířku
 
-(výsledek na [tiny.cc/tvorim11b](http://tiny.cc/tvorim11b))
-<!-- .element: class="c-text-xs c-text-right" -->
+**výsledek: [bit.ly/tvorim11b](http://bit.ly/tvorim11b)** 
+<!-- .element: class="c-text-xs" -->
 
 >>>
 * vlož do kontaktu div
@@ -104,4 +109,3 @@
 * omez novému 
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
  
-

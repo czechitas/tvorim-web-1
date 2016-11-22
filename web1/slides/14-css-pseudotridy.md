@@ -21,10 +21,11 @@ a:active {color: yellow;} /* při kliknutí */</span></span>
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 14!
+
+**vycházíme z [bit.ly/tvorim13](http://bit.ly/tvorim13)**
 
 * udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
-##### (výsledek na [tiny.cc/tvorim14](http://tiny.cc/tvorim14))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim14](http://bit.ly/tvorim14)** 
+<!-- .element: class="c-text-xs" -->

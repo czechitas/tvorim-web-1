@@ -5,39 +5,78 @@
 ---
 
 ```html
-<h1 class="tip">Nadpis</h1>
+<p>A víte, že…?</p>
 
-<p>Odstavec textu.</p>
+<p>Ještě jeden odstavec</p>
 
-<p class="tip">A víte, že…?</p>
 ```
-<!-- .element: class="c-text-md " -->
-
+<!-- .element: class="c-text-md" contenteditable="true" -->
 
 ```css
-.tip { font-weight: bold; }
+p { color: blue; }
 ```
-<!-- .element: class="c-text-md " -->
-
-
+<!-- .element: class="c-text-md fragment" contenteditable="true" -->
 
 >>>
-* třída se použije pokud má nějaký prvek speciální vlastnosti
-* nebo se vlastnosti opakují
+* co kdybych chtěl udělat odstavce modré? 
+* ale co kdybych chtěl udělat jen první odstavec modrý? 
+
+---
+
+```html
+<p class="tip">A víte, že…?</p>
+
+<p>Ještě jeden odstavec</p>
+
+```
+<!-- .element: class="c-text-md" contenteditable="true" -->
+
+```css
+.tip { color: blue; }
+```
+<!-- .element: class="c-text-md fragment" contenteditable="true" -->
+
+>>>
+* řešením je přidat třídu, která umožňuje se zaměřit v CSS přesněji
+* třída se v HTML přidává jako parametr `class`
+* v CSS se zapíše s tečkou na začátku
+* třídu můžeme přiřadit libovolnému počtu značek
+
+---
+
+```html
+<h1 class="tip">Tip</h1>
+
+<p class="tip">A víte, že…?</p>
+
+<p>Ještě jeden odstavec</p>
+
+```
+<!-- .element: class="c-text-md" contenteditable="true" -->
+
+```css
+.tip { color: blue; }
+```
+<!-- .element: class="c-text-md" contenteditable="true" -->
+
+>>>
+* třída se tedy použije pokud má nějaký prvek speciální vlastnosti
+* nebo se skupina vlastností opakuje a chceme si tak ušetřit zápis
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 10!
+
+**vycházíme z [bit.ly/tvorim09](http://bit.ly/tvorim09)**
 
 * Nastav sekcím třídy a každou sekci obarvi jinak
 * V patičce vycentruj text
 * Pozor na kontrast
 
-##### (výsledek na [tiny.cc/tvorim10](http://tiny.cc/tvorim10))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim10](http://bit.ly/tvorim10)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 

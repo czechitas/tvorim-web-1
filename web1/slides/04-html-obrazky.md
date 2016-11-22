@@ -4,19 +4,20 @@
 
 ---
 
-<pre class="c-text-lg" contenteditable><code class="lang-html stretch" data-noescape><span class="fragmentx">&lt;img
-  <span class="fragment">src="<span class="fragment">obrazky/pooh.jpg</span>"</span>
-  <span class="fragment">width="<span class="fragment">400</span>"</span>
-  <span class="fragment">height="<span class="fragment">300</span>"</span>
-  <span class="fragment">alt="<span class="fragment">medvěd v lese</span>"</span>
-&gt;</code></pre>
+```html
+<img src="pu.jpg">
+```
+<!-- .element: class="c-text-lg fragment fade-out" contenteditable="true" -->
 
+```html
+<img src="pu.jpg" alt="medvěd">
+```
+<!-- .element: class="c-text-md fragment current-visible" contenteditable="true" -->
 
 >>>
-* všimněte si, že můžu klidně napsat atributy na nový řádek, jde jen o to, aby tam byla nějaká mezera
-* alt: nevidomí
+* cesta k obrázku
+* alt: nevidomí, vyhledávače, uživatelé s pomalým připojením
 * nepárový tag!
-
 
 ---
 
@@ -34,14 +35,15 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
+# Hrajem si 4!
+
+**vycházíme z [bit.ly/tvorim03](http://bit.ly/tvorim03)**
 
 * Přidej mapu do kontaktu
 * Přidej licencí vyžadované texty
 
-##### (výsledek na [tiny.cc/tvorim04](http://tiny.cc/tvorim04))
-<!-- .element: class="c-text-xs c-text-right" -->
-
+**výsledek: [bit.ly/tvorim04](http://bit.ly/tvorim04)** 
+<!-- .element: class="c-text-xs" -->
 
 ---
 

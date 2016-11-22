@@ -7,7 +7,6 @@
 p { color: green; }</span>
 <span class="fragment" data-fragment-index="50">div p { color: blue; }</span></code></pre>
 
-
 >>>
 * ale to platí pro selektory se stejnou specificitou
 * specificita je vlastně síla selektoru

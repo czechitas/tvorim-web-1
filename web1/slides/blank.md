@@ -4,6 +4,5 @@
 
 <div class="stretch"></div>
 
-
 >>>
 Tento slajd je záměrně prázdný
