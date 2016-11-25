@@ -30,6 +30,8 @@
   "devDependencies": {
     "grunt": "~1.0.1",
     "grunt-autoprefixer": "~3.0.3",
+    "grunt-browser-sync": "^2.x",
+    "grunt-cli": "^1.2.0",
     "grunt-contrib-connect": "~1.0.2",
     "grunt-contrib-cssmin": "~1.0.2",
     "grunt-contrib-jshint": "~1.0.0",
@@ -38,8 +40,7 @@
     "grunt-contrib-watch": "~1.0.0",
     "grunt-sass": "~1.2.0",
     "grunt-zip": "~0.17.1",
-    "node-sass": "~3.12.1",
-    "grunt-browser-sync": "^2.x"
+    "node-sass": "~3.12.1"
   },
   "license": "MIT"
 }
