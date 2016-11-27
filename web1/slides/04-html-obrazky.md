@@ -4,6 +4,8 @@
 
 ---
 
+# Tag img <!-- .element: class="c-sr-only" -->
+
 ```html
 <img src="pu.jpg">
 ```

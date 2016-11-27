@@ -55,6 +55,8 @@
 
 ---
 
+# Klávesnice <!-- .element: class="c-sr-only" -->
+
 <!-- .slide: data-background="img/keyboard-cs-html.svg" -->
 
 >>>

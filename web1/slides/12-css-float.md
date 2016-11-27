@@ -4,9 +4,10 @@
 
 ---
 
+# Ukázka <!-- .element: class="c-sr-only" -->
+
 ```css
 img { 
-	width: 300px; 
 	float: right; 
 	/* nebo left */
 	/* zrušit: none */ 

@@ -4,6 +4,8 @@
 
 ---
 
+# style, weight, align, family <!-- .element: class="c-sr-only" -->
+
 ```css
 .tip { 
 	font-style: italic;  /* nebo normal */

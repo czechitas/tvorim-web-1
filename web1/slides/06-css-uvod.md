@@ -37,6 +37,8 @@ Jazyk popisující vzhled prvků webové stránky.
 
 ---
 
+# Anatomie CSS <!-- .element: class="c-sr-only" -->
+
 <pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="20">selektor</span><span class="fragment" data-fragment-index="30"> { </span>
 	<span class="fragment" data-fragment-index="40">vlastnost</span><span class="fragment" data-fragment-index="50">:</span><span class="fragment" data-fragment-index="60"> hodnota</span><span class="fragment" data-fragment-index="70">;</span><span class="fragment" data-fragment-index="100">
 	property: value;</span>

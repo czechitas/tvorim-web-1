@@ -4,6 +4,8 @@
 
 ---
 
+# Ukázka <!-- .element: class="c-sr-only" -->
+
 <pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape>a { color: navy; }<span class="fragment">
 
 a:link {color: blue;} /* nenavštívený */

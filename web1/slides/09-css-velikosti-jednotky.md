@@ -4,6 +4,8 @@
 
 ---
 
+# Ukázka jednotek <!-- .element: class="c-sr-only" -->
+
 <pre class="c-text-xl fragment" contenteditable><code class="lang-css stretch" data-noescape>
 <span class="fragment">font-size: 20px;</span>
 <span class="fragment">font-size: 150%;</span>

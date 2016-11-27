@@ -4,6 +4,8 @@
 
 ---
 
+# Problém: jak odlišit elementy <!-- .element: class="c-sr-only" -->
+
 ```html
 <p>A víte, že…?</p>
 
@@ -22,6 +24,8 @@ p { color: blue; }
 * ale co kdybych chtěl udělat jen první odstavec modrý? 
 
 ---
+
+# Řešení: jak odlišit elementy <!-- .element: class="c-sr-only" -->
 
 ```html
 <p class="tip">A víte, že…?</p>
@@ -43,6 +47,8 @@ p { color: blue; }
 * třídu můžeme přiřadit libovolnému počtu značek
 
 ---
+
+# Třída platí pro více elementů <!-- .element: class="c-sr-only" -->
 
 ```html
 <h1 class="tip">Tip</h1>
