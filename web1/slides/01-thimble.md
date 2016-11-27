@@ -54,7 +54,7 @@
 
 >>>
 * Úplně vpravo je náhled stránky, který se automaticky obnovuje, pokud uděláš nějakou změnu.
-* Může se stát, že se automatické obnovování rozbije a je potřeba obnovit stránku. Zmáčkni proste F5 nebo Ctrl+R (Cmd+R na Macu)
+* Může se stát, že se automatické obnovování rozbije a je potřeba obnovit stránku. Zmáčkni proste F5 nebo Ctrl+R (Ctrl+R na Macu)
 * Vpravo nahoře je možnost přepnout si mezi náhledem na mobilu a na počítači.
 * Poslední tlačítko je náhled přes celou obrazovku, to využiješ hlavně pokud máš menší displej.
 
@@ -64,3 +64,25 @@
 
 >>>
 * Thimble umožňuje i jednoduchou publikaci veřejně na internet.
+
+
+---
+
+# Extra
+
+## Klávesové zkratky
+
+* <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
+* <kbd>Ctrl+C</kbd> Kopírovat (výběr nebo řádek)
+* <kbd>Ctrl+V</kbd> Vložit
+* <kbd>Ctrl+X</kbd> Kopírovat a smazat (výběr nebo řádek)
+* <kbd>Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
+* <kbd>Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
+* <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
+* <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
+* <kbd>Ctrl+]</kbd> zvýšit odsazení
+* <kbd>Ctrl+[</kbd> zrušit odsazení 
+	* lze odszazovat více řádků najednou
+* <kbd>Ctrl+E</kbd> rychlá editace
+* <kbd>Alt+Klik+Táhnout</kbd> vybrat sloupec
+* Code Collapse
