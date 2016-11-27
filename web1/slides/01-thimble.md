@@ -62,6 +62,8 @@
 
 # Publikace
 
+* Pozor, není automatická: pokud se mají změny projevit, je opět nutné publikovat.
+
 >>>
 * Thimble umožňuje i jednoduchou publikaci veřejně na internet.
 
