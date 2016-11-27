@@ -70,6 +70,8 @@
 
 # Extra
 
+---
+
 ## Klávesové zkratky
 
 * <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
@@ -83,6 +85,14 @@
 * <kbd>Ctrl+]</kbd> zvýšit odsazení
 * <kbd>Ctrl+[</kbd> zrušit odsazení 
 	* lze odszazovat více řádků najednou
-* <kbd>Ctrl+E</kbd> rychlá editace
+* <kbd>Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
+* <kbd>Alt+K</kbd> Inline dokumentace v angličtině
 * <kbd>Alt+Klik+Táhnout</kbd> vybrat sloupec
-* Code Collapse
+
+---
+
+## Další funkce
+
+* Zvýraznění prvku, na jehož kódu je kurzor
+* Nalezení kódu k prvku, na nějž dám kurzor 
+* Skrývání kódu: klikni na šipku vlevo od kódu
