@@ -19,8 +19,9 @@ h2[data-toggle=collapse] {
 }
 
 .bonus {
-	background-color: floralwhite;
-	padding: 0 1em 1em;
+	background-color: hsla(0, 0%, 100%, 0.5);
+	box-shadow: inset 1px -1px 6px 0 rgba(0, 0, 0, 0.1);
+	padding: 1px 1em 1em;
 }
 
 .bonus p,
