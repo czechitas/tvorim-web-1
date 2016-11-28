@@ -32,10 +32,3 @@ h2[data-toggle=collapse] {
 .bonus h5 {
 	color: #000;
 }
-
-/*#step01,*/
-/*#step02,*/
-#step03,
-#step04,
-#step05,
-#step06 { display: none; }
