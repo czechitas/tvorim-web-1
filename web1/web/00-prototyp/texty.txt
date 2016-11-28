@@ -1,0 +1,158 @@
+<!-- podklady pro cvičení 1 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 2 -->
+
+Web Kryštůfka Robina
+
+
+
+<!-- podklady pro cvičení 3 -->
+
+nadpis: Kontakt
+
+text:
+
+To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
+
+Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
+
+
+
+<!-- podklady pro cvičení 4 -->
+
+obrázek: mapa.jpg
+
+text: Autorem skenů je Paul K. pod licencí CC 2.0
+
+odkaz na zdroj: https://www.flickr.com/photos/bibliodyssey/3066814584
+
+odkaz na licenci: https://creativecommons.org/licenses/by/2.0/
+
+
+
+<!-- podklady pro cvičení 5 -->
+
+titulek stránky: Kryštůfek Robin a medvídek Pú
+
+popis stránky: To je web Kryštůvka Robina o medvídkovi Pú a jeho kamarádech.
+
+
+
+<!-- podklady pro cvičení 6 -->
+
+barva nadpisů: #f3b562
+
+barva odstavců: grey
+
+
+
+<!-- podklady pro cvičení 7 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 8 -->
+
+barva pozadí: #f9cb8f
+
+nová barva nadpisů: #2b4856
+
+nová barva textu: #2b4856
+
+
+
+<!-- podklady pro cvičení 9 -->
+
+velikost hlavního nadpisu: 48 pixelů
+
+velikost druhého nadpisu: 30 pixelů
+
+
+
+<!-- podklady pro cvičení 10 -->
+
+barva pozadí kontaktu: #f9cb8f
+
+barva pozadí patičky: #f19181
+
+
+
+<!-- podklady pro cvičení 11 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 12 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 13 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 14 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 15 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 16 -->
+
+nadpis: Fotogalerie
+
+text: Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.
+
+barva pozadí fotogalerie: #f3f5c4
+
+obrázky do galerie:
+
+drak.jpg
+koupel.jpg
+oslik.jpg
+oslik-prasatko.jpg
+piknik.jpg
+protivitr.jpg
+pu-koupelna.jpg
+pu-robin.jpg
+stopy.jpg
+
+
+<!-- podklady pro cvičení 17 -->
+
+žádné
+
+
+
+<!-- podklady pro cvičení 18 -->
+
+barva pozadí menu: #2f606e
+
+
+
+<!-- podklady pro cvičení 19 -->
+
+nadpis: O mně
+
+text:
+
+Ahoj. Jmenuji se Kryštůfek Robin a jsem malý chlapec, se kterým se zvířátka ze Stokorcového lesa spřátelila a hrají si se mnou jako s jediným člověkem z lidského světa. Kamarádím se s Medvídkem Pú, Prasátkem, Ijáčkem, Tygrem, Králíčkem se všemi jeho přáteli a příbuznými, Sovou a Klokanicí s Klokánkem.
+
+Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
+
+obrázek: krystufek-robin.jpg
