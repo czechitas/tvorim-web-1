@@ -1,0 +1,46 @@
+.tutorial { margin-bottom: 2em; }
+
+kbd {
+	padding: 2px 5px !important;
+	min-width: 1.5em;
+	text-align: center;
+	display: inline-block !important;
+	background: #0D6AB7;
+	color: #fff;
+	line-height: 105%;
+	border-radius: 4px;
+	border: 1px solid #1081DD;
+	font-weight: bold;
+}
+
+h2[data-toggle=collapse] {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.bonus {
+	background-color: floralwhite;
+	padding: 1em;
+}
+
+.bonus p,
+.bonus li,
+.bonus h1,
+.bonus h2,
+.bonus h3,
+.bonus h4,
+.bonus h5 {
+	color: #000;
+}
+
+/*#step01 { display: none; }*/
+
+#step02 { display: none; }
+
+#step03 { display: none; }
+
+#step04 { display: none; }
+
+#step05 { display: none; }
+
+#step06 { display: none; }
