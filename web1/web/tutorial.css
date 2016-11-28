@@ -33,14 +33,9 @@ h2[data-toggle=collapse] {
 	color: #000;
 }
 
-/*#step01 { display: none; }*/
-
-#step02 { display: none; }
-
-#step03 { display: none; }
-
-#step04 { display: none; }
-
-#step05 { display: none; }
-
+/*#step01,*/
+/*#step02,*/
+#step03,
+#step04,
+#step05,
 #step06 { display: none; }
