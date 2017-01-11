@@ -26,6 +26,7 @@
 >>>
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
 * Uzavírací tag má pak ještě za první závorkou lomítko.
+* Existují i samouzavíratelné tagy (těch je pár).
 * Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy. 
 
 ---
@@ -91,6 +92,8 @@
 * Otevři si adresu <a href="http://bit.ly/tvorim01" target="_blank">bit.ly/tvorim01</a>
 * Vpravo nahoře klikni na „Upravit“.
 * Vytvoř hlavní nadpis (název webu): <br>„Web Kryštůfka Robina“
+* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
+* Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
 **výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)** 
 <!-- .element: class="c-text-xs" -->

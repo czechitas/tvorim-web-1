@@ -10,6 +10,9 @@
 * Soubory, ze kterých se web skládá musíme někde upravovat, editovat.
 * Pomocí Thimble můžeme snadno upravovat textové soubory.
 * Přestože je to hlavně výukový nástroj, má některé vlastnosti a podobné principy, které jsou běžné v profesionálních editorech.
+* Pomáhá nám.
+ * Změní barvu textu, narazí-li na chybu (neuzavřený tag, atribut)
+ * Zvýrazňuje blok, na kterém pracujeme, v živém náhledu.
 
 ---
 
@@ -22,11 +25,11 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si poprvé! 
+# Hrajem si poprvé!
 
 ## Vytvořte si účet na thimble.mozilla.org
 
-### Heslo 
+### Heslo
 
 * musí být nejméně 8 znaků dlouhé
 * obsahovat číslo
@@ -85,7 +88,7 @@
 * <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
 * <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
 * <kbd>Ctrl+]</kbd> zvýšit odsazení
-* <kbd>Ctrl+[</kbd> zrušit odsazení 
+* <kbd>Ctrl+[</kbd> zrušit odsazení
 	* lze odszazovat více řádků najednou
 * <kbd>Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
 * <kbd>Alt+K</kbd> Inline dokumentace v angličtině
@@ -96,5 +99,5 @@
 ## Další funkce
 
 * Zvýraznění prvku, na jehož kódu je kurzor
-* Nalezení kódu k prvku, na nějž dám kurzor 
+* Nalezení kódu k prvku, na nějž dám kurzor
 * Skrývání kódu: klikni na šipku vlevo od kódu
