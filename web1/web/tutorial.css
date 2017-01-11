@@ -96,6 +96,7 @@ ol.steps > li:before {
 	padding: 10px 15px;
 	opacity: .5;
 	top: 2px;
+	line-height: 1.2;
 }
 
 a {
