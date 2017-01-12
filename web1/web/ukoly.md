@@ -117,13 +117,14 @@
 **vycházíme z [bit.ly/tvorim09](http://bit.ly/tvorim09)**
 
 * Nastav sekcím třídy a každou sekci obarvi jinak
-* V patičce vycentruj text
 * Pozor na kontrast
 
 **výsledek: [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
 ---
 ## Bonus 10!
+
+* V patičce vycentruj text
 
 ---
 # Odsadíme obsah od okrajů
@@ -134,14 +135,16 @@
 * zruš odsazení všeho na stránce od jejího okraje
 * nastav šířku 50% boxu s kontakty
 * odsaď obsah kontaktu ať není nalepený
-* vycentruj kontaktní box _(najdi si jak)_
 
 **výsledek: [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
->>>
-* margin-left/right: auto
 
 ---
 ## Bonus 11a!
+
+* vycentruj kontaktní box _(najdi si jak)_
+
+>>>
+* margin-left/right: auto
 
 ---
 # Roztáhneme pozadí až do okraje
@@ -149,10 +152,14 @@
 **vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
 * roztáhni pozadí až do kraje
-* nastav mapě 100% šířku
 
 **výsledek: [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
+
+---
 ## Bonus 11b!
+
+* nastav mapě 100% šířku
+
 >>>
 * vlož do kontaktu div
 * kontaktu odstraň šířku
@@ -263,9 +270,13 @@
 **vycházíme z [bit.ly/tvorim18](http://bit.ly/tvorim18)**
 
 * Všechno, co je potřeba už umíš
-* Pokud chceš mít obrázek Kryštůfka Robina v kruhu, hledej zaoblené rohy.
 
 **výsledek: [bit.ly/tvorim19](http://bit.ly/tvorim19)**
+
+---
+## Bonus 19
+
+* Pokud chceš mít obrázek Kryštůfka Robina v kruhu, hledej zaoblené rohy.
 
 ---
 # Dohráno
