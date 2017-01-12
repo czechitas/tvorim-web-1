@@ -1,7 +1,3 @@
-- vytáhnout úkoly sem
-- střídat úkol/bonus
-- oddělovat --- jako další slide
-- vyhodit bootstrap ~~a na collapse použít details~~ => ne bude samostatný slide
 
 ---
 # Bonus 0!
