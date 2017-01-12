@@ -167,8 +167,6 @@
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
 
 ---
-
----
 # Zarovnáme mapu a text vedle sebe
 
  **vycházíme z [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
