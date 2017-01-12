@@ -1,7 +1,6 @@
 # Založíme si účet na Thimble
 
-
-## Vytvořte si účet na **thimble.mozilla.org**
+**[thimble.mozilla.org](http://thimble.mozilla.org)**
 
 ### Heslo
 
