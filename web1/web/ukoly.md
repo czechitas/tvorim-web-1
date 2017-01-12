@@ -1,8 +1,4 @@
 
----
-# Bonus 0!
-
----
 # Hrajem si 1!
 
 ## Vytvořte si účet na **thimble.mozilla.org**
@@ -12,9 +8,6 @@
 * musí být nejméně 8 znaků dlouhé
 * obsahovat číslo
 * obsahovat VERZÁLKY i minusky
-
----
-# Bonus 1!
 
 ---
 # Hrajem si 2!
@@ -27,9 +20,6 @@
 * Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
 **výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)**
-
----
-# Bonus 2!
 
 ---
 # Hrajem si 3!
@@ -79,20 +69,6 @@
 * Nastav barvu nadpisům (stejnou) a jinou textu
 
 **výsledek: [bit.ly/tvorim06](http://bit.ly/tvorim06)**
-
----
-# Bonus 6!
-
----
-# Hrajem si 7!
-
-**vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
-
-* nastav celé stránce bezpatkové písmo
-* vycentruj hlavní nadpis
-* nastav odkazům tučný řez písma
-
-**výsledek: [bit.ly/tvorim07](http://bit.ly/tvorim07)**
 
 ---
 # Bonus 6!
@@ -274,7 +250,6 @@
 * udělej efekt podbarení po najetí na polozku menu
 
 **výsledek: [bit.ly/tvorim18](http://bit.ly/tvorim18)**
-<!-- .element: class="c-text-xs" -->
 
 >>>
 * list-style: none pro odstranění tečky
