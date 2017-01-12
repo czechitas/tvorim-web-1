@@ -1,5 +1,5 @@
+# Založíme si účet na Thimble
 
-# Hrajem si 1!
 
 ## Vytvořte si účet na **thimble.mozilla.org**
 
@@ -10,7 +10,7 @@
 * obsahovat VERZÁLKY i minusky
 
 ---
-# Hrajem si 2!
+# Seznamujeme se s prostředím Thimble!
 
 * thimbleprojects.org/czechitas/136445/
 * Otevři si adresu [bit.ly/tvorim01](http://bit.ly/tvorim01)
@@ -22,7 +22,7 @@
 **výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)**
 
 ---
-# Hrajem si 3!
+# Vytvoříme sekci kontakt
 
 **vycházíme z [bit.ly/tvorim02](http://bit.ly/tvorim02)**
 
@@ -35,7 +35,7 @@
 # Bonus 3!
 
 ---
-# Hrajem si 4!
+# Přidáme mapu
 
 **vycházíme z [bit.ly/tvorim03](http://bit.ly/tvorim03)**
 
@@ -48,7 +48,7 @@
 # Bonus 4!
 
 ---
-# Hrajem si 5!
+# Doplníme titulek a popis stránky
 
 **vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
 
@@ -61,7 +61,7 @@
 # Bonus 5!
 
 ---
-# Hrajem si 6!
+# Připojíme styly
 
 **vycházíme z [bit.ly/tvorim05](http://bit.ly/tvorim05)**
 
@@ -74,7 +74,7 @@
 # Bonus 6!
 
 ---
-# Hrajem si 7!
+# Upravíme písmo
 
 **vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
 
@@ -88,7 +88,7 @@
 # Bonus 7!
 
 ---
-# Hrajem si 8!
+# Nastavíme barvu pozadí
 
 **vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
 
@@ -100,7 +100,7 @@
 # Bonus 8!
 
 ---
-# Hrajem si 9!
+# Měníme velikosti písma
 
 **vycházíme z [bit.ly/tvorim08](http://bit.ly/tvorim08)**
 
@@ -112,7 +112,7 @@
 # Bonus 9!
 
 ---
-# Hrajem si 10!
+# Přidáme třídy
 
 **vycházíme z [bit.ly/tvorim09](http://bit.ly/tvorim09)**
 
@@ -126,7 +126,7 @@
 # Bonus 10!
 
 ---
-# Hrajem si 11a!
+# Odsadíme obsah od okrajů
 
 **vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
@@ -144,7 +144,7 @@
 # Bonus 11b!
 
 ---
-# Hrajem si 11b!
+# Roztáhneme pozadí až do okraje
 
 **vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
@@ -162,7 +162,7 @@
 # Bonus 11b!
 
 ---
-# Hrajem si 12!
+# Zarovnáme mapu a text vedle sebe
 
  **vycházíme z [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
 
@@ -177,7 +177,7 @@
 # Bonus 12!
 
 ---
-# Hrajem si 13!
+# Zjednodušujeme kód
 
 **vycházíme z [bit.ly/tvorim12](http://bit.ly/tvorim12)**
 
@@ -190,7 +190,7 @@
 # Bonus 13!
 
 ---
-# Hrajem si 14!
+# Měníme barvu odkazů po najetí myši
 
 **vycházíme z [bit.ly/tvorim13](http://bit.ly/tvorim13)**
 
@@ -202,7 +202,7 @@
 # Bonus 14!
 
 ---
-# Hrajem si 15!
+# Optimalizujeme kód
 
 **vycházíme z [bit.ly/tvorim14](http://bit.ly/tvorim14)**
 
@@ -214,7 +214,7 @@
 # Bonus 15!
 
 ---
-# Hrajem si 16!
+# Přidáme obrázkovou galerii
 
 **vycházíme z [bit.ly/tvorim15](http://bit.ly/tvorim15)**
 
@@ -228,7 +228,7 @@
 # Bonus 16!
 
 ---
-# Hrajem si 17!
+# Přidáme navigaci (menu)
 
 **vycházíme z [bit.ly/tvorim16](http://bit.ly/tvorim16)**
 
@@ -242,7 +242,7 @@
 # Bonus 17!
 
 ---
-# Hrajem si 18!
+# Odkazy v navigaci na jeden řádek
 
 **vycházíme z [bit.ly/tvorim17](http://bit.ly/tvorim17)**
 
@@ -258,7 +258,7 @@
 # Bonus 18!
 
 ---
-# Hrajem si 19!
+# Přidáme sekci _O mně_
 
 **vycházíme z [bit.ly/tvorim18](http://bit.ly/tvorim18)**
 
