@@ -32,7 +32,7 @@
 **výsledek: [bit.ly/tvorim03](http://bit.ly/tvorim03)**
 
 ---
-# Bonus 3!
+## Bonus 3!
 
 ---
 # Přidáme mapu
@@ -45,7 +45,7 @@
 **výsledek: [bit.ly/tvorim04](http://bit.ly/tvorim04)**
 
 ---
-# Bonus 4!
+## Bonus 4!
 
 ---
 # Doplníme titulek a popis stránky
@@ -58,7 +58,7 @@
 **výsledek: [bit.ly/tvorim05](http://bit.ly/tvorim05)**
 
 ---
-# Bonus 5!
+## Bonus 5!
 
 ---
 # Připojíme styly
@@ -71,7 +71,7 @@
 **výsledek: [bit.ly/tvorim06](http://bit.ly/tvorim06)**
 
 ---
-# Bonus 6!
+## Bonus 6!
 
 ---
 # Upravíme písmo
@@ -85,7 +85,7 @@
 **výsledek: [bit.ly/tvorim07](http://bit.ly/tvorim07)**
 
 ---
-# Bonus 7!
+## Bonus 6!
 
 ---
 # Nastavíme barvu pozadí
@@ -97,7 +97,7 @@
 **výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)**
 
 ---
-# Bonus 8!
+## Bonus 8!
 
 ---
 # Měníme velikosti písma
@@ -109,7 +109,7 @@
 **výsledek: [bit.ly/tvorim09](http://bit.ly/tvorim09)**
 
 ---
-# Bonus 9!
+## Bonus 9!
 
 ---
 # Přidáme třídy
@@ -123,7 +123,7 @@
 **výsledek: [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
 ---
-# Bonus 10!
+## Bonus 10!
 
 ---
 # Odsadíme obsah od okrajů
@@ -141,7 +141,7 @@
 * margin-left/right: auto
 
 ---
-# Bonus 11b!
+## Bonus 11a!
 
 ---
 # Roztáhneme pozadí až do okraje
@@ -152,6 +152,7 @@
 * nastav mapě 100% šířku
 
 **výsledek: [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
+## Bonus 11b!
 >>>
 * vlož do kontaktu div
 * kontaktu odstraň šířku
@@ -159,7 +160,6 @@
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
 
 ---
-# Bonus 11b!
 
 ---
 # Zarovnáme mapu a text vedle sebe
@@ -174,7 +174,7 @@
  **výsledek: [bit.ly/tvorim12](http://bit.ly/tvorim12)**
 
 ---
-# Bonus 12!
+## Bonus 12!
 
 ---
 # Zjednodušujeme kód
@@ -187,7 +187,7 @@
 **výsledek: [bit.ly/tvorim13](http://bit.ly/tvorim13)**
 
 ---
-# Bonus 13!
+## Bonus 13!
 
 ---
 # Měníme barvu odkazů po najetí myši
@@ -199,7 +199,7 @@
 **výsledek: [bit.ly/tvorim14](http://bit.ly/tvorim14)**
 
 ---
-# Bonus 14!
+## Bonus 14!
 
 ---
 # Optimalizujeme kód
@@ -211,7 +211,7 @@
 **výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)**
 
 ---
-# Bonus 15!
+## Bonus 15!
 
 ---
 # Přidáme obrázkovou galerii
@@ -225,7 +225,7 @@
 **výsledek: [bit.ly/tvorim16](http://bit.ly/tvorim16)**
 
 ---
-# Bonus 16!
+## Bonus 16!
 
 ---
 # Přidáme navigaci (menu)
@@ -239,7 +239,7 @@
 **výsledek: [bit.ly/tvorim17](http://bit.ly/tvorim17)**
 
 ---
-# Bonus 17!
+## Bonus 17!
 
 ---
 # Odkazy v navigaci na jeden řádek
@@ -255,7 +255,7 @@
 * list-style: none pro odstranění tečky
 
 ---
-# Bonus 18!
+## Bonus 18
 
 ---
 # Přidáme sekci _O mně_
