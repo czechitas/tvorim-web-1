@@ -27,7 +27,7 @@
 >>>
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
 * Uzavírací tag má pak ještě za první závorkou lomítko.
-* Existují i samouzavíratelné tagy (těch je pár).
+* Existují i nepárové tagy (těch je pár).
 * Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy.
 
 ---
@@ -54,11 +54,13 @@
 
 <strong>důležitý text</strong>
 
+<p>Odstavec se <strong>zásadním</strong> sdělením.</p>
+
 ```
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* dodržujte pořadí nadpisů: nejde o to jak vypadají
+* dodržujte pořadí nadpisů: nejde o to, jak vypadají
 * 6 úrovní nadpisů (`<h1>`…`<h6>`)
 * jak používají web nevidomí? …
 
@@ -101,6 +103,7 @@
 * V hlavičce (`<head>`) jsou definovány vlastnosti pro celou stránku. Většinou „nejsou vidět“.
 * V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“.
 * Všimněte si komentářů.
+* Všimněte si odsazení.
 
 ---
 
