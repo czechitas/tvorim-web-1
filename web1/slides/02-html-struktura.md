@@ -70,7 +70,7 @@
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 11:10
+# Přestávka 10 min
 
 ---
 

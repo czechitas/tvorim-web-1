@@ -43,4 +43,4 @@
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 12:10
+# Přestávka 10 min
