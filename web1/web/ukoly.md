@@ -9,16 +9,36 @@
 * obsahovat VERZÁLKY i minusky
 
 ---
-# Seznamujeme se s prostředím Thimble!
+# Osaháme si Thimble
+
+* Podíváme se pod ozubené kolečko: lze si upravit velikost textu i barevné schéma
+* Ze souboru `texty.txt` si zkopírujeme texty k prvnímu cvičení
+* Vložíme je do souboru `index.html`
+* Odsadíme výčet kamarádů na nový řádek
+* Obnovíme náhled pomocí _Náhled/Preview_
+* Všimneme si, že text je v náhledu slitý do jednoho bloku. Co s tím? Přece označíme text pomocí HTML!
+
+> klávesové zkratky pro práci s textem:
+- výběr <kbd>Ctrl+Shift+šipky</kbd>
+- úpravy <kbd>Ctrl+A|C|V</kbd>
+
+---
+# Zkusíme si první značky
 
 * thimbleprojects.org/czechitas/136445/
 * Otevři si adresu [bit.ly/tvorim01](http://bit.ly/tvorim01)
 * Vpravo nahoře klikni na „Upravit“.
 * Vytvoř hlavní nadpis (název webu): <br>„Web Kryštůfka Robina“
-* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
-* Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
+* Zbylé dva řádky budou (každý) samostatným odstavcem.
+* Zvýrazníme nějaká důležitá slova (např. „dobré kamarády“)
 
 **výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)**
+
+---
+
+
+* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
+* Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
 ---
 # Vytvoříme sekci kontakt
