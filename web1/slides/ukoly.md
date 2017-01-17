@@ -8,7 +8,7 @@
 * obsahovat číslo
 * obsahovat VERZÁLKY i minusky
 
----
+===
 
 # Osaháme si Thimble
 
@@ -36,13 +36,11 @@
 
 **výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)**
 
----
-
-
+>>>
 * Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
 * Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
----
+===
 
 # Vytvoříme sekci kontakt
 
@@ -55,9 +53,9 @@
 
 ---
 
-## Bonus 3!
+# Bonus 3!
 
----
+===
 
 # Přidáme mapu
 
@@ -70,9 +68,9 @@
 
 ---
 
-## Bonus 4!
+# Bonus 4!
 
----
+===
 
 # Doplníme titulek a popis stránky
 
@@ -85,9 +83,9 @@
 
 ---
 
-## Bonus 5!
+# Bonus 5!
 
----
+===
 
 # Připojíme styly
 
@@ -100,9 +98,9 @@
 
 ---
 
-## Bonus 6!
+# Bonus 6!
 
----
+===
 
 # Upravíme písmo
 
@@ -116,9 +114,9 @@
 
 ---
 
-## Bonus 6!
+# Bonus 6!
 
----
+===
 
 # Nastavíme barvu pozadí
 
@@ -130,9 +128,9 @@
 
 ---
 
-## Bonus 8!
+# Bonus 8!
 
----
+===
 
 # Měníme velikosti písma
 
@@ -144,9 +142,9 @@
 
 ---
 
-## Bonus 9!
+# Bonus 9!
 
----
+===
 
 # Přidáme třídy
 
@@ -159,11 +157,11 @@
 
 ---
 
-## Bonus 10!
+# Bonus 10!
 
 * V patičce vycentruj text
 
----
+===
 
 # Odsadíme obsah od okrajů
 
@@ -178,14 +176,14 @@
 
 ---
 
-## Bonus 11a!
+# Bonus 11a!
 
 * vycentruj kontaktní box _(najdi si jak)_
 
 >>>
 * margin-left/right: auto
 
----
+===
 
 # Roztáhneme pozadí až do okraje
 
@@ -197,7 +195,7 @@
 
 ---
 
-## Bonus 11b!
+# Bonus 11b!
 
 * nastav mapě 100% šířku
 
@@ -207,7 +205,7 @@
 * omez novému
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
 
----
+===
 
 # Zarovnáme mapu a text vedle sebe
 
@@ -222,9 +220,9 @@
 
 ---
 
-## Bonus 12!
+# Bonus 12!
 
----
+===
 
 # Zjednodušujeme kód
 
@@ -237,9 +235,9 @@
 
 ---
 
-## Bonus 13!
+# Bonus 13!
 
----
+===
 
 # Měníme barvu odkazů po najetí myši
 
@@ -251,9 +249,9 @@
 
 ---
 
-## Bonus 14!
+# Bonus 14!
 
----
+===
 
 # Optimalizujeme kód
 
@@ -265,9 +263,9 @@
 
 ---
 
-## Bonus 15!
+# Bonus 15!
 
----
+===
 
 # Přidáme obrázkovou galerii
 
@@ -281,9 +279,9 @@
 
 ---
 
-## Bonus 16!
+# Bonus 16!
 
----
+===
 
 # Přidáme navigaci (menu)
 
@@ -297,9 +295,9 @@
 
 ---
 
-## Bonus 17!
+# Bonus 17!
 
----
+===
 
 # Odkazy v navigaci na jeden řádek
 
@@ -315,9 +313,9 @@
 
 ---
 
-## Bonus 18
+# Bonus 18
 
----
+===
 
 # Přidáme sekci _O mně_
 
@@ -329,11 +327,11 @@
 
 ---
 
-## Bonus 19
+# Bonus 19
 
 * Pokud chceš mít obrázek Kryštůfka Robina v kruhu, hledej zaoblené rohy.
 
----
+===
 
 # Dohráno
 
