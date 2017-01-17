@@ -10,7 +10,7 @@
 
 ===
 
-# Osaháme si Thimble
+# Osaháme si Thimble a klávesové zkratky
 
 * Podíváme se pod ozubené kolečko: lze si upravit velikost textu i barevné schéma
 * Ze souboru `texty.txt` si zkopírujeme texty k prvnímu cvičení
@@ -25,7 +25,7 @@
 
 ---
 
-# Zkusíme si první značky
+# Zkusíme si první tagy
 
 * thimbleprojects.org/czechitas/136445/
 * Otevři si adresu [bit.ly/tvorim01](http://bit.ly/tvorim01)
@@ -36,19 +36,32 @@
 
 **výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)**
 
+---
+
+# Založíme stránku
+
+* Otevři si adresu [bit.ly/tvorim02](http://bit.ly/tvorim02)
+* Vpravo nahoře klikni na „Upravit“.
+* Opáčko: mezi značky `<body>` znovu vlož nadpis a úvodní text o kamarádech.
+
 >>>
 * Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
 * Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
-===
-
-# Vytvoříme sekci kontakt
-
-* V kontaktech udělej odkaz na mail a na Facebook
+**výsledek: [bit.ly/tvorim03](http://bit.ly/tvorim03)**
 
 ---
 
-# Bonus 3!
+# Přidáme sekci _Kontakt_
+
+* Vytvoř sekci Kontakt (nadpis a text)
+* V kontaktech udělej odkaz na Facebook
+
+---
+
+# Bonus 1
+
+* Doplň odkaz na e-mail (googlení)
 
 ===
 
@@ -63,11 +76,14 @@
 
 ---
 
-# Bonus 4!
+# Bonus 2
+
+* Pomocí atributů `width` a `height` si zkus změnit rozměry obrázku.
+* Jeden rozměr drží proporce.
 
 ===
 
-# Doplníme titulek a popis stránky
+# Doplníme titulek
 
 **vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
 
@@ -77,7 +93,9 @@
 
 ---
 
-# Bonus 5!
+# Bonus 3
+
+* Doplň popis stránky (tag `meta description`)
 
 ===
 
@@ -108,7 +126,7 @@
 
 ---
 
-# Bonus 6!
+# Bonus 7!
 
 ===
 
