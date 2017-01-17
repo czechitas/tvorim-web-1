@@ -11,11 +11,12 @@
 # Značkovací jazyk
 
 >>>
+* HT**ML** => mark-up language = značkovací
 * Značkovací, protože význam a strukturu dokumentu popisuje pomocí značek, anglicky tagů.
 
 ---
 
-# Tag
+# Tag/značka
 ```html
 <jmenotagu>
 	Obsah tagu
@@ -27,32 +28,7 @@
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
 * Uzavírací tag má pak ještě za první závorkou lomítko.
 * Existují i samouzavíratelné tagy (těch je pár).
-* Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy. 
-
----
-
-## Základní struktura HTML
-
-```html
-<!DOCTYPE HTML>
-<html>
-    <head>
-        <!-- vlastnosti stránky -->
-    </head>
-    <body>
-        <!-- samotný obsah stránky -->
-    </body>
-</html>
-```
-<!-- .element: class="c-text-md stretch" contenteditable="true" -->
-
->>>
-* HTML dokument má mít tuto strukturu.
-* Úplně první je tzv. doctype. Říká prohlížeči jaké HTML má čekat. Není potřeba se jím nyní zabývat, jen ho tam vždy mějte.
-* Všechno ostatní je obaleno tagem `<html>`.
-* V hlavičce (`<head>`) jsou definovány vlastnosti pro celou stránku. Většinou „nejsou vidět“.
-* V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“.
-* Všimněte si komentářů.
+* Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy.
 
 ---
 
@@ -74,13 +50,16 @@
 
 <h2>Nadpis 2. úrovně</h2>
 
-<div>element bez významu</div>
+<p>odstavec</p>
+
+<strong>důležitý text</strong>
 
 ```
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
 * dodržujte pořadí nadpisů: nejde o to jak vypadají
+* 6 úrovní nadpisů (`<h1>`…`<h6>`)
 * jak používají web nevidomí? …
 
 ---
@@ -88,15 +67,40 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Hrajem si 2!
-* thimbleprojects.org/czechitas/136445/
-* Otevři si adresu <a href="http://bit.ly/tvorim01" target="_blank">bit.ly/tvorim01</a>
+* thimbleprojects.org/czechitas/140019/
+* Otevři si adresu <a href="http://bit.ly/tvorim00" target="_blank">bit.ly/tvorim00</a>
 * Vpravo nahoře klikni na „Upravit“.
 * Vytvoř hlavní nadpis (název webu): <br>„Web Kryštůfka Robina“
 * Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
 * Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
-**výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)** 
+**výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)**
 <!-- .element: class="c-text-xs" -->
+
+---
+
+## Základní struktura HTML
+
+```html
+<!DOCTYPE HTML>
+<html>
+<head>
+<!-- vlastnosti stránky -->
+</head>
+<body>
+<!-- samotný obsah stránky -->
+</body>
+</html>
+```
+<!-- .element: class="c-text-md stretch" contenteditable="true" -->
+
+>>>
+* HTML dokument má mít tuto strukturu.
+* Úplně první je tzv. doctype. Říká prohlížeči jaké HTML má čekat. Není potřeba se jím nyní zabývat, jen ho tam vždy mějte.
+* Všechno ostatní je obaleno tagem `<html>`.
+* V hlavičce (`<head>`) jsou definovány vlastnosti pro celou stránku. Většinou „nejsou vidět“.
+* V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“.
+* Všimněte si komentářů.
 
 ---
 
