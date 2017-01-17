@@ -1,6 +1,23 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Odstavce a odkazy
+# Nadpisy, odstavce a odkazy
+
+---
+
+# Nadpisy
+
+```html
+<h1>Web Kryštůvka Robina</h1>
+
+<h2>Kontakt</h2>
+
+<h3>Telefonní spojení</h3>
+```
+
+>>>
+* dodržujte pořadí nadpisů: nejde o to, jak vypadají
+* 6 úrovní nadpisů (`<h1>`…`<h6>`)
+* obvykle bývá na jednotlivé stránce jen 1 nadpis první úrovně
 
 ---
 

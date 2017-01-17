@@ -5,6 +5,7 @@
 >>>
 * První, co si prohlížeč stahuje, je HTML soubor, který obsahuje informace o stránce.
 * Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my samozřejmě budeme používat Thimble
+* Oblíbené editory: Atom, Sublime Text
 
 ---
 
@@ -26,10 +27,10 @@
 
 >>>
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
-* Uzavírací tag má pak ještě za první závorkou lomítko.
-* Otvírací/uzavírací tag => mluvíme o párovém tagu.
-* Existjí i nepárové tagy (těch je pár), ale k nim se dostaneme.
+* Mluvíme o párovém tagu: na jednom místě ho otevřeme, na dalším zavřeme.
+* Uzavírá se lomítkem za první špičatou závorkou.
 * Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy.
+* Existují i nepárové tagy (těch je pár), ale k nim se dostaneme.
 
 ---
 
@@ -49,20 +50,14 @@
 ```html
 <h1>Hlavní nadpis</h1>
 
-<h2>Nadpis 2. úrovně</h2>
-
 <p>odstavec</p>
 
 <strong>důležitý text</strong>
-
-<p>Odstavec se <strong>zásadním</strong> sdělením.</p>
 
 ```
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* dodržujte pořadí nadpisů: nejde o to, jak vypadají
-* 6 úrovní nadpisů (`<h1>`…`<h6>`)
 * jak používají web nevidomí? …
 
 ---
@@ -70,6 +65,12 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Zkusíme si první tagy
+
+---
+
+<!-- .slide: data-state="c-slide-break" -->
+
+# Přestávka do 11:10
 
 ---
 
@@ -102,9 +103,3 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Založíme stránku
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka do 11:10
