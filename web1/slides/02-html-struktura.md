@@ -86,12 +86,12 @@
 ```html
 <!DOCTYPE HTML>
 <html>
-<head>
-<!-- vlastnosti stránky -->
-</head>
-<body>
-<!-- samotný obsah stránky -->
-</body>
+	<head>
+		<!-- vlastnosti stránky -->
+	</head>
+	<body>
+		<!-- samotný obsah stránky -->
+	</body>
 </html>
 ```
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
