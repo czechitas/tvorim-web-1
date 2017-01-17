@@ -67,6 +67,10 @@ section.has-dark-background {
         line-height: 0.9;
     }
 
+    .reveal h2 + h3 {
+        margin-top: 0.5em;
+    }
+
     ol,
     dl,
     ul {
@@ -306,4 +310,9 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
             display: inline-block;
         }
     }
+}
+
+.reveal .nichtvergissmeinnicht {
+    background-color: #29c2ff;
+    border-color: #00b2c2;
 }
