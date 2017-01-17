@@ -66,6 +66,10 @@ body {
 .reveal h1 {
   text-shadow: none; }
 
+.reveal h2 + h3 {
+    margin-top: .5em;
+}
+
 /*********************************************
  * OTHER
  *********************************************/
@@ -541,3 +545,8 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
     background-color: white;
     font-size: 28px;
     display: inline-block; }
+
+.reveal .nichtvergissmeinnicht {
+    background-color: #29c2ff;
+    border-color: #00b2c2;
+}

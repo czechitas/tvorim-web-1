@@ -79,20 +79,39 @@
 
 ## Klávesové zkratky
 
+### Pohyb a výběr
 * <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
+* <kbd class="nichtvergissmeinnicht">Ctrl+→</kbd> Posun po slovech doprava
+* <kbd class="nichtvergissmeinnicht">Ctrl+←</kbd> Posun po slovech doleva
+* <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
+* <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
+* <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
+* <kbd class="nichtvergissmeinnicht">Alt+Klik+Táhnout</kbd> vybrat sloupec
+
+>>>
+* Jsou univerzální, fungují i v jiných programech.
+
+---
+
+## Klávesové zkratky
+
+### Úpravy
 * <kbd>Ctrl+C</kbd> Kopírovat (výběr nebo řádek)
 * <kbd>Ctrl+V</kbd> Vložit
 * <kbd>Ctrl+X</kbd> Kopírovat a smazat (výběr nebo řádek)
-* <kbd>Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
-* <kbd>Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
-* <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
-* <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
-* <kbd>Ctrl+]</kbd> zvýšit odsazení
-* <kbd>Ctrl+[</kbd> zrušit odsazení
+* <kbd>Ctrl+A+C+V</kbd> srovná odsazení celého souboru
+* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
+* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
+
+---
+
+## Klávesové zkratky
+### Usnadnění práce
+* <kbd class="nichtvergissmeinnicht">Ctrl+]</kbd> zvýšit odsazení
+* <kbd class="nichtvergissmeinnicht">Ctrl+[</kbd> zrušit odsazení
 	* lze odszazovat více řádků najednou
-* <kbd>Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
-* <kbd>Alt+K</kbd> Inline dokumentace v angličtině
-* <kbd>Alt+Klik+Táhnout</kbd> vybrat sloupec
+* <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
+* <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
 
 ---
 
