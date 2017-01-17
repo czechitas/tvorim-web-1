@@ -9,6 +9,7 @@
 * obsahovat VERZÁLKY i minusky
 
 ---
+
 # Osaháme si Thimble
 
 * Podíváme se pod ozubené kolečko: lze si upravit velikost textu i barevné schéma
@@ -23,6 +24,7 @@
 - úpravy <kbd>Ctrl+A|C|V</kbd>
 
 ---
+
 # Zkusíme si první značky
 
 * thimbleprojects.org/czechitas/136445/
@@ -41,6 +43,7 @@
 * Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
 ---
+
 # Vytvoříme sekci kontakt
 
 **vycházíme z [bit.ly/tvorim02](http://bit.ly/tvorim02)**
@@ -51,9 +54,11 @@
 **výsledek: [bit.ly/tvorim03](http://bit.ly/tvorim03)**
 
 ---
+
 ## Bonus 3!
 
 ---
+
 # Přidáme mapu
 
 **vycházíme z [bit.ly/tvorim03](http://bit.ly/tvorim03)**
@@ -64,9 +69,11 @@
 **výsledek: [bit.ly/tvorim04](http://bit.ly/tvorim04)**
 
 ---
+
 ## Bonus 4!
 
 ---
+
 # Doplníme titulek a popis stránky
 
 **vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
@@ -77,9 +84,11 @@
 **výsledek: [bit.ly/tvorim05](http://bit.ly/tvorim05)**
 
 ---
+
 ## Bonus 5!
 
 ---
+
 # Připojíme styly
 
 **vycházíme z [bit.ly/tvorim05](http://bit.ly/tvorim05)**
@@ -90,9 +99,11 @@
 **výsledek: [bit.ly/tvorim06](http://bit.ly/tvorim06)**
 
 ---
+
 ## Bonus 6!
 
 ---
+
 # Upravíme písmo
 
 **vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
@@ -104,9 +115,11 @@
 **výsledek: [bit.ly/tvorim07](http://bit.ly/tvorim07)**
 
 ---
+
 ## Bonus 6!
 
 ---
+
 # Nastavíme barvu pozadí
 
 **vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
@@ -116,9 +129,11 @@
 **výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)**
 
 ---
+
 ## Bonus 8!
 
 ---
+
 # Měníme velikosti písma
 
 **vycházíme z [bit.ly/tvorim08](http://bit.ly/tvorim08)**
@@ -128,9 +143,11 @@
 **výsledek: [bit.ly/tvorim09](http://bit.ly/tvorim09)**
 
 ---
+
 ## Bonus 9!
 
 ---
+
 # Přidáme třídy
 
 **vycházíme z [bit.ly/tvorim09](http://bit.ly/tvorim09)**
@@ -141,11 +158,13 @@
 **výsledek: [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
 ---
+
 ## Bonus 10!
 
 * V patičce vycentruj text
 
 ---
+
 # Odsadíme obsah od okrajů
 
 **vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
@@ -158,6 +177,7 @@
 **výsledek: [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
 ---
+
 ## Bonus 11a!
 
 * vycentruj kontaktní box _(najdi si jak)_
@@ -166,6 +186,7 @@
 * margin-left/right: auto
 
 ---
+
 # Roztáhneme pozadí až do okraje
 
 **vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
@@ -175,6 +196,7 @@
 **výsledek: [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
 
 ---
+
 ## Bonus 11b!
 
 * nastav mapě 100% šířku
@@ -186,6 +208,7 @@
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
 
 ---
+
 # Zarovnáme mapu a text vedle sebe
 
  **vycházíme z [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
@@ -198,9 +221,11 @@
  **výsledek: [bit.ly/tvorim12](http://bit.ly/tvorim12)**
 
 ---
+
 ## Bonus 12!
 
 ---
+
 # Zjednodušujeme kód
 
 **vycházíme z [bit.ly/tvorim12](http://bit.ly/tvorim12)**
@@ -211,9 +236,11 @@
 **výsledek: [bit.ly/tvorim13](http://bit.ly/tvorim13)**
 
 ---
+
 ## Bonus 13!
 
 ---
+
 # Měníme barvu odkazů po najetí myši
 
 **vycházíme z [bit.ly/tvorim13](http://bit.ly/tvorim13)**
@@ -223,9 +250,11 @@
 **výsledek: [bit.ly/tvorim14](http://bit.ly/tvorim14)**
 
 ---
+
 ## Bonus 14!
 
 ---
+
 # Optimalizujeme kód
 
 **vycházíme z [bit.ly/tvorim14](http://bit.ly/tvorim14)**
@@ -235,9 +264,11 @@
 **výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)**
 
 ---
+
 ## Bonus 15!
 
 ---
+
 # Přidáme obrázkovou galerii
 
 **vycházíme z [bit.ly/tvorim15](http://bit.ly/tvorim15)**
@@ -249,9 +280,11 @@
 **výsledek: [bit.ly/tvorim16](http://bit.ly/tvorim16)**
 
 ---
+
 ## Bonus 16!
 
 ---
+
 # Přidáme navigaci (menu)
 
 **vycházíme z [bit.ly/tvorim16](http://bit.ly/tvorim16)**
@@ -263,9 +296,11 @@
 **výsledek: [bit.ly/tvorim17](http://bit.ly/tvorim17)**
 
 ---
+
 ## Bonus 17!
 
 ---
+
 # Odkazy v navigaci na jeden řádek
 
 **vycházíme z [bit.ly/tvorim17](http://bit.ly/tvorim17)**
@@ -279,9 +314,11 @@
 * list-style: none pro odstranění tečky
 
 ---
+
 ## Bonus 18
 
 ---
+
 # Přidáme sekci _O mně_
 
 **vycházíme z [bit.ly/tvorim18](http://bit.ly/tvorim18)**
@@ -291,11 +328,13 @@
 **výsledek: [bit.ly/tvorim19](http://bit.ly/tvorim19)**
 
 ---
+
 ## Bonus 19
 
 * Pokud chceš mít obrázek Kryštůfka Robina v kruhu, hledej zaoblené rohy.
 
 ---
+
 # Dohráno
 
 **výsledek: [bit.ly/tvorim20](http://bit.ly/tvorim20)**
