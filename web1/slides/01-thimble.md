@@ -86,7 +86,6 @@
 * <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
 * <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
 * <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
-* <kbd class="nichtvergissmeinnicht">Alt+Klik+Táhnout</kbd> vybrat sloupec
 
 >>>
 * Jsou univerzální, fungují i v jiných programech.
@@ -107,7 +106,7 @@
 
 ## Klávesové zkratky
 ### Usnadnění práce
-* <kbd class="nichtvergissmeinnicht">Ctrl+]</kbd> zvýšit odsazení
+* <kbd class="nichtvergissmeinnicht">Ctrl+]</kbd> přidat odsazení
 * <kbd class="nichtvergissmeinnicht">Ctrl+[</kbd> zrušit odsazení
 	* lze odszazovat více řádků najednou
 * <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
