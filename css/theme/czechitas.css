@@ -27,6 +27,11 @@ body {
   background: #c8c8c8;
   text-shadow: none; }
 
+::-moz-selection {
+  color: #fff;
+  background: #c8c8c8;
+  text-shadow: none; }
+
 .reveal .slides > section,
 .reveal .slides > section > section {
   line-height: 1.3;
@@ -65,10 +70,6 @@ body {
 
 .reveal h1 {
   text-shadow: none; }
-
-.reveal h2 + h3 {
-    margin-top: .5em;
-}
 
 /*********************************************
  * OTHER
@@ -305,6 +306,9 @@ body {
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   line-height: 0.9; }
+
+.reveal .reveal h2 + h3 {
+  margin-top: 0.5em; }
 
 .reveal ol,
 .reveal dl,
@@ -547,6 +551,5 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
     display: inline-block; }
 
 .reveal .nichtvergissmeinnicht {
-    background-color: #29c2ff;
-    border-color: #00b2c2;
-}
+  background-color: #29c2ff;
+  border-color: #00b2c2; }
