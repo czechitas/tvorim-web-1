@@ -16,8 +16,10 @@ Jazyk popisující vzhled prvků webové stránky.
 
 >>>
 * V HTML je obsah stránky a také je v něm popsáno, jaká je struktura toho obsahu.
-* V HTML se také definuje, jaké má stránka obsahovat obrázky a případné další součásti.
-* CSS říká, jak mají jednotlivé prvky stránky vypadat.
+* V HTML se také definuje, jaké má stránka obsahovat obrázky a případné další součásti. => obsah
+* CSS říká, jak mají jednotlivé prvky stránky vypadat => forma
+* HTML a CSS jsou provázané, některé úpravy vzhledu v CSS závisí na konkrétní struktuře v HTML.
+* Hranice mezi formou a obsahem se občas překračuje, ale tím se nyní nemusíme znepokojovat.
 * Javascript je programovací jazyk, který umožňuje manipulovat s prvky stránky.
 
 ---
@@ -25,7 +27,7 @@ Jazyk popisující vzhled prvků webové stránky.
 # Připojení CSS
 
 ```html
-<link 
+<link
 	rel="stylesheet"
 	href="nazevsouboru.css"
 >
@@ -37,13 +39,16 @@ Jazyk popisující vzhled prvků webové stránky.
 
 ---
 
-# Anatomie CSS <!-- .element: class="c-sr-only" -->
+# Anatomie CSS
 
 <pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="20">selektor</span><span class="fragment" data-fragment-index="30"> { </span>
 	<span class="fragment" data-fragment-index="40">vlastnost</span><span class="fragment" data-fragment-index="50">:</span><span class="fragment" data-fragment-index="60"> hodnota</span><span class="fragment" data-fragment-index="70">;</span><span class="fragment" data-fragment-index="100">
 	property: value;</span>
 <span class="fragment" data-fragment-index="80">}</span>
 </code></pre>
+
+>>>
+* Přibydou nám další méně obvyklé znaky: `{ } ;`
 
 ---
 
@@ -56,19 +61,11 @@ Jazyk popisující vzhled prvků webové stránky.
 </code></pre>
 
 >>>
-* selektor říká co chceme barvit
+* selektor říká, co chceme barvit
 * deklarace jak
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 6!
-
-**vycházíme z [bit.ly/tvorim05](http://bit.ly/tvorim05)**
-
-* Připoj si `styly.css` k HTML
-* Nastav barvu nadpisům (stejnou) a jinou textu
-
-**výsledek: [bit.ly/tvorim06](http://bit.ly/tvorim06)** 
-<!-- .element: class="c-text-xs" -->
+# Připojíme styly

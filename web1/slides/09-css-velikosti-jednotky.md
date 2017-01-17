@@ -20,11 +20,4 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 9!
-
-**vycházíme z [bit.ly/tvorim08](http://bit.ly/tvorim08)**
-
-* Nastav nadpisům různé velikosti
-
-**výsledek: [bit.ly/tvorim09](http://bit.ly/tvorim09)** 
-<!-- .element: class="c-text-xs" -->
+# Měníme velikosti písma

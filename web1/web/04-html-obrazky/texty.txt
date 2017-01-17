@@ -20,8 +20,6 @@ To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho
 
 Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
 
-
-
 <!-- podklady pro cvičení 4 -->
 
 obrázek: mapa.jpg
@@ -36,13 +34,44 @@ odkaz na licenci: https://creativecommons.org/licenses/by/2.0/
 
 <!-- podklady pro cvičení 5 -->
 
+nadpis: Fotogalerie
+
+text: Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.
+
+obrázky do galerie:
+
+drak.jpg
+koupel.jpg
+oslik.jpg
+oslik-prasatko.jpg
+piknik.jpg
+protivitr.jpg
+pu-koupelna.jpg
+pu-robin.jpg
+stopy.jpg
+
+alternativní texty k obrázkům:
+
+Papírový drak
+Kryštůfkova koupel
+Přibíjení Oslíkova ocásku
+Oslík a Prasátko
+Piknik na louce
+Proti větru
+Pú před koupelnou
+Pú a Robin u stolu
+Pú a prasátko stopují
+
+
+<!-- podklady pro cvičení 6 -->
+
 titulek stránky: Kryštůfek Robin a medvídek Pú
 
 popis stránky: To je web Kryštůvka Robina o medvídkovi Pú a jeho kamarádech.
 
 
+<!-- podklady pro cvičení 7 -->
 
-<!-- podklady pro cvičení 6 -->
 
 barva nadpisů: #f3b562
 
@@ -114,23 +143,8 @@ barva pozadí patičky: #f19181
 
 <!-- podklady pro cvičení 16 -->
 
-nadpis: Fotogalerie
-
-text: Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.
 
 barva pozadí fotogalerie: #f3f5c4
-
-obrázky do galerie:
-
-drak.jpg
-koupel.jpg
-oslik.jpg
-oslik-prasatko.jpg
-piknik.jpg
-protivitr.jpg
-pu-koupelna.jpg
-pu-robin.jpg
-stopy.jpg
 
 
 <!-- podklady pro cvičení 17 -->

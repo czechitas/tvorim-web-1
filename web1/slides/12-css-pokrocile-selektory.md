@@ -43,14 +43,23 @@ h2 { color: green; }
 
 ---
 
+# Vícenásobné třídy
+
+```css
+.tip { color: red; }
+.cool { background-color: blue; }
+```
+<!-- .element: class="c-text-md " contenteditable="true" -->
+
+```html
+<p class="tip">…</p>
+<p class="cool">…</p>
+<p class="cool tip">…</p>
+```
+<!-- .element: class="c-text-md " contenteditable="true" -->
+
+---
+
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 13!
-
-**vycházíme z [bit.ly/tvorim12](http://bit.ly/tvorim12)**
-
-* uprav CSS pro barvu nadpisů na vícenásobný selektor
-* přidej odkaz na Czechitas do patičky (pokud tam žádný nemáš) a obarvi všechny bíle aniž bys přidala třídu 
-
-**výsledek: [bit.ly/tvorim13](http://bit.ly/tvorim13)** 
-<!-- .element: class="c-text-xs" -->
+# Zjednodušujeme kód

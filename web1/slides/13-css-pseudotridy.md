@@ -23,11 +23,4 @@ a:active {color: yellow;} /* při kliknutí */</span></span>
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 14!
-
-**vycházíme z [bit.ly/tvorim13](http://bit.ly/tvorim13)**
-
-* udělej jinou barvou odkaz po najetí kurzorem v kontaktech
-
-**výsledek: [bit.ly/tvorim14](http://bit.ly/tvorim14)** 
-<!-- .element: class="c-text-xs" -->
+# Měníme barvu odkazů po najetí myši

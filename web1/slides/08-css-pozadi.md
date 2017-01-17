@@ -8,23 +8,18 @@
 
 >>>
 * Někdy je třeba k tomu, abychom dosáhli potřebného vizuálního efektu přidat extra prvky.
-* Pak se hodí tag `div`
+* Pak se hodí tag `<div>` => abychom mohli kouzlit s CSS, musíme nejprve upravit HTML.
+* `div` jako division => oddělení
+* Tagem `<div>` obalíme přislušné části stránky, se kterými chceme pracovat jako s celky.
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 8!
-
-**vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
-
-* nastav pozadí patičce, kterou vytvoříš a sekci kontakt
-
-**výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)** 
-<!-- .element: class="c-text-xs" -->
+# Nastavíme barvu pozadí
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Oběd do 12:50
+# Oběd

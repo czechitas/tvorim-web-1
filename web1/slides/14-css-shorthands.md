@@ -10,7 +10,7 @@
 ```css
 .foo { padding: 10px; }
 
-.bar { 
+.bar {
 	padding-top: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
@@ -29,7 +29,7 @@
 ```css
 .foo { padding: 10px 5px; }
 
-.bar { 
+.bar {
 	padding-top: 10px;
 	padding-right: 5px;
 	padding-bottom: 10px;
@@ -48,7 +48,7 @@
 ```css
 .foo { padding: 10px 20px 30px 40px; }
 
-.bar { 
+.bar {
 	padding-top: 10px;
 	padding-right: 20px;
 	padding-bottom: 30px;
@@ -62,12 +62,12 @@
 
 ---
 
-## Okraje
+## Ohraničení
 
 ```css
 .foo { border: 1px dotted red; }
 
-.bar { 
+.bar {
 	border-width: 1px;
 	border-style: dotted;
 	border-color: red;
@@ -88,7 +88,7 @@
 
 * optimalizovat stávající kód
 
-**výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)** 
+**výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)**
 <!-- .element: class="c-text-xs" -->
 
 ---

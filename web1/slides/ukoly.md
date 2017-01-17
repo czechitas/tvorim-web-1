@@ -83,6 +83,20 @@
 
 ===
 
+# Přidáme obrázkovou galerii
+
+**vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
+
+* před sekci _Kontakt_ vlož galerii z obrázků
+
+**výsledek: [bit.ly/tvorim05](http://bit.ly/tvorim05)**
+
+---
+
+# Bonus 3
+
+===
+
 # Doplníme titulek
 
 **vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
@@ -95,7 +109,7 @@
 
 # Bonus 3
 
-* Doplň popis stránky (tag `meta description`)
+* Doplň popis stránky (tag `meta description`) ‒ googlení
 
 ===
 
@@ -134,7 +148,8 @@
 
 **vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
 
-* nastav pozadí patičce, kterou vytvoříš a sekci kontakt
+* nastav pozadí sekci kontakt a fotogalerie
+* a jiné pozadí patičce, kterou vytvoříš
 
 **výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)**
 
@@ -175,14 +190,43 @@
 
 ===
 
+# Nastavíme obrázkům v galerii šířku
+
+* nastav obrázkům šířku 300 px
+
+---
+
+# Orámujeme obrázky
+
+**vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
+
+* nastav obrázkům černý 2px rámeček
+* mapa bude mít rámování hnědé
+
+**výsledek: [bit.ly/tvorim11](http://bit.ly/tvorim11)**
+
+---
+
+# Vnitřní odsazení obrázků
+
+* nastav obrázkům pozadí (nebude hned vidět)
+* přidej vnitřní odsazení (padding) 10px
+
+---
+
+# Větší mezery mezi obrázky
+
+* přidej obrázkům vnější odsazení 5px
+
+---
+
 # Odsadíme obsah od okrajů
 
 **vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
 * v patičce odsazení textu horní a dolní
-* zruš odsazení všeho na stránce od jejího okraje
-* nastav šířku 50% boxu s kontakty
 * odsaď obsah kontaktu ať není nalepený
+* nastav šířku 50% boxu s kontakty ????
 
 **výsledek: [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
@@ -197,7 +241,7 @@
 
 ===
 
-# Roztáhneme pozadí až do okraje
+# Roztáhneme pozadí až do okraje ---> vyhodit, viz Luďkovy ohlasy???
 
 **vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
@@ -218,19 +262,6 @@
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
 
 ===
-
-# Zarovnáme mapu a text vedle sebe
-
- **vycházíme z [bit.ly/tvorim11b](http://bit.ly/tvorim11b)**
-
- * mapě nastav menší šířku
- * mapu dej doleva
- * odsaď ji od textu
- * použij clearfix (Google je kamarád)
-
- **výsledek: [bit.ly/tvorim12](http://bit.ly/tvorim12)**
-
----
 
 # Bonus 12!
 
@@ -279,29 +310,11 @@
 
 ===
 
-# Přidáme obrázkovou galerii
-
-**vycházíme z [bit.ly/tvorim15](http://bit.ly/tvorim15)**
-
-* udělej galerii z obrázků
-* udělej mezi obrázky mezery
-* přidej obrázkům rámeček
-
-**výsledek: [bit.ly/tvorim16](http://bit.ly/tvorim16)**
-
----
-
-# Bonus 16!
-
-===
-
 # Přidáme navigaci (menu)
 
 **vycházíme z [bit.ly/tvorim16](http://bit.ly/tvorim16)**
 
 * menu jako odrážkový seznam
-* kotvy
-* id
 
 **výsledek: [bit.ly/tvorim17](http://bit.ly/tvorim17)**
 

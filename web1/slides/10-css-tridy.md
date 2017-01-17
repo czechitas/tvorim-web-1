@@ -20,8 +20,8 @@ p { color: blue; }
 <!-- .element: class="c-text-md fragment" contenteditable="true" -->
 
 >>>
-* co kdybych chtěl udělat odstavce modré? 
-* ale co kdybych chtěl udělat jen první odstavec modrý? 
+* co kdybych chtěl udělat odstavce modré?
+* ale co kdybych chtěl udělat jen první odstavec modrý?
 
 ---
 
@@ -73,19 +73,10 @@ p { color: blue; }
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 10!
-
-**vycházíme z [bit.ly/tvorim09](http://bit.ly/tvorim09)**
-
-* Nastav sekcím třídy a každou sekci obarvi jinak
-* V patičce vycentruj text
-* Pozor na kontrast
-
-**výsledek: [bit.ly/tvorim10](http://bit.ly/tvorim10)** 
-<!-- .element: class="c-text-xs" -->
+# Přidáme třídy
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 14:00
+# Přestávka 10 min

@@ -44,3 +44,12 @@
 <!-- .slide: data-state="c-slide-break" -->
 
 # Přestávka 10 min
+
+---
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Přidáme obrázkovou galerii
+
+>>>
+* Opáčko tagu `<img>` (a práce s editorem)

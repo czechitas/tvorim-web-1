@@ -7,7 +7,7 @@
 # style, weight, align, family <!-- .element: class="c-sr-only" -->
 
 ```css
-.tip { 
+.tip {
 	font-style: italic;  /* nebo normal */
 
 	font-weight: bold; /* nebo normal */
@@ -28,13 +28,4 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 7!
-
-**vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
-
-* nastav celé stránce bezpatkové písmo
-* vycentruj hlavní nadpis
-* nastav odkazům tučný řez písma 
-
-**výsledek: [bit.ly/tvorim07](http://bit.ly/tvorim07)** 
-<!-- .element: class="c-text-xs" -->
+# Upravíme písmo
