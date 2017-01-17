@@ -37,18 +37,10 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 4!
-
-**vycházíme z [bit.ly/tvorim03](http://bit.ly/tvorim03)**
-
-* Přidej mapu do kontaktu
-* Přidej licencí vyžadované texty
-
-**výsledek: [bit.ly/tvorim04](http://bit.ly/tvorim04)** 
-<!-- .element: class="c-text-xs" -->
+# Přidáme mapu
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 11:10
+# Přestávka do 12:10

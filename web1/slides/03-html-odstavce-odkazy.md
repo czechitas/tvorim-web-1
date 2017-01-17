@@ -47,12 +47,4 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 3!
-
-**vycházíme z [bit.ly/tvorim02](http://bit.ly/tvorim02)**
-
-* Vytvoř sekci Kontakt (nadpis a text)
-* V kontaktech udělej odkaz na mail a na Facebook
-
-**výsledek: [bit.ly/tvorim03](http://bit.ly/tvorim03)** 
-<!-- .element: class="c-text-xs" -->
+# Přidáme odkaz na Facebook

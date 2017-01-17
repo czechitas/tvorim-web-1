@@ -44,12 +44,7 @@
 
 # Vytvoříme sekci kontakt
 
-**vycházíme z [bit.ly/tvorim02](http://bit.ly/tvorim02)**
-
-* Vytvoř sekci Kontakt (nadpis a text)
 * V kontaktech udělej odkaz na mail a na Facebook
-
-**výsledek: [bit.ly/tvorim03](http://bit.ly/tvorim03)**
 
 ---
 
@@ -77,7 +72,6 @@
 **vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
 
 * Doplň titulek
-* Doplň popis stránky
 
 **výsledek: [bit.ly/tvorim05](http://bit.ly/tvorim05)**
 

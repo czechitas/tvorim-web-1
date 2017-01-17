@@ -27,7 +27,8 @@
 >>>
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
 * Uzavírací tag má pak ještě za první závorkou lomítko.
-* Existují i nepárové tagy (těch je pár).
+* Otvírací/uzavírací tag => mluvíme o párovém tagu.
+* Existjí i nepárové tagy (těch je pár), ale k nim se dostaneme.
 * Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy.
 
 ---
@@ -68,16 +69,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 2!
-* thimbleprojects.org/czechitas/140019/
-* Otevři si adresu <a href="http://bit.ly/tvorim00" target="_blank">bit.ly/tvorim00</a>
-* Vpravo nahoře klikni na „Upravit“.
-* Vytvoř hlavní nadpis (název webu): <br>„Web Kryštůfka Robina“
-* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
-* Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
-
-**výsledek: [bit.ly/tvorim02](http://bit.ly/tvorim02)**
-<!-- .element: class="c-text-xs" -->
+# Zkusíme si první tagy
 
 ---
 
@@ -107,6 +99,12 @@
 
 ---
 
+<!-- .slide: data-state="c-slide-task" -->
+
+# Založíme stránku
+
+---
+
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 10:10
+# Přestávka do 11:10

@@ -25,15 +25,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si poprvé!
-
-## Vytvořte si účet na thimble.mozilla.org
-
-### Heslo
-
-* musí být nejméně 8 znaků dlouhé
-* obsahovat číslo
-* obsahovat VERZÁLKY i minusky
+# Založíme si účet na Thimble
 
 ---
 
@@ -119,3 +111,9 @@
 * Zvýraznění prvku, na jehož kódu je kurzor
 * Nalezení kódu k prvku, na nějž dám kurzor
 * Skrývání kódu: klikni na šipku vlevo od kódu
+
+---
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Osaháme si Thimble a klávesové zkratky
