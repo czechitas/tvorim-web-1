@@ -67,13 +67,12 @@ A taky hotovou webovou stránku a možná i prostor na ještě pracovat s asiste
 
 # Rozvrh
 
-- 9.00 začátek
-- 10.00 pauza 10 minut
-- 11.00 pauza 10 minut
-- 12.15 oběd 50 minut
-- 14.00 pauza 10 minut
-- 15.00 pauza 10 minut
-- 16.00 pauza 10 minut
-- 17.00 pauza 10 minut
-- 18.00 konec
+- 10 začátek
+- 11 pauza 10 minut
+- 12 pauza 10 minut
+- 13.15 oběd 50 minut
+- 15 pauza 10 minut
+- 16 pauza 10 minut
+- 17 pauza 10 minut
+- 18 konec
 <!-- .element: class="c-text-left" -->
