@@ -109,6 +109,7 @@ p { color: blue; }
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme třídy
+
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
