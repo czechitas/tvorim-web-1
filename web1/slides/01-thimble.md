@@ -4,7 +4,7 @@
 
 ---
 
-# Editor
+## Editor
 
 >>>
 * Soubory, ze kterých se web skládá musíme někde upravovat, editovat.
@@ -14,7 +14,7 @@
 
 ---
 
-# Online
+## Online
 
 >>>
 * Thimble je online, není si třeba nic instalovat.
@@ -27,7 +27,7 @@
 
 ---
 
-# Soubory
+## Soubory
 
 >>>
 * úplně vlevo je seznam souborů
@@ -35,7 +35,7 @@
 
 ---
 
-# Kód
+## Kód
 
 >>>
 * Pokud otevřeš textový soubor s kódem, zobrazí se ti uprostřed a můžeš ho rovnou upravovat.
@@ -43,39 +43,13 @@
 
 ---
 
-# Náhled stránky
+## Náhled stránky
 
 >>>
 * Úplně vpravo je náhled stránky, který se automaticky obnovuje, pokud uděláš nějakou změnu.
-* Může se stát, že se automatické obnovování rozbije a je potřeba obnovit stránku. Zmáčkni proste F5 nebo Ctrl+R (Cmd+R na Macu)
+* Může se stát, že se automatické obnovování rozbije a je potřeba obnovit stránku. Zmáčkni prostě F5 nebo Ctrl+R (Cmd+R na Macu)
 * Vpravo nahoře je možnost přepnout si mezi náhledem na mobilu a na počítači.
 * Poslední tlačítko je náhled přes celou obrazovku, to využiješ hlavně pokud máš menší displej.
-
----
-
-# Publikace
-
-* Aneb zveřejnění na webu: váš projekt dostane adresu, kterou můžete sdílet.
-* Pozor, není automatická: pokud se něco změníš, je opět nutné publikovat.
-
->>>
-* Thimble umožňuje i jednoduchou publikaci veřejně na internet.
-
----
-
-## Klávesové zkratky
-
-### Pohyb a výběr
-* <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
-* <kbd class="nichtvergissmeinnicht">Ctrl+→</kbd> Posun po slovech doprava
-* <kbd class="nichtvergissmeinnicht">Ctrl+←</kbd> Posun po slovech doleva
-* <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
-* <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
-* <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
-
->>>
-* Tyto jsou univerzální, fungují i v jiných programech.
-* Pokud neznáte, osvojte si je. Ohromně šetří čas.
 
 ---
 
@@ -86,6 +60,8 @@
 * <kbd>Ctrl+V</kbd> Vložit
 * <kbd>Ctrl+X</kbd> Kopírovat a smazat (výběr nebo řádek)
 * <kbd>Ctrl+A+C+V</kbd> srovná odsazení celého souboru (Thimble)
+* <kbd>Tab</kbd> přidat odsazení
+* <kbd>Shift+Tab</kbd> ubrat odsazení
 
 ---
 
@@ -94,8 +70,6 @@
 ### Pouze Thimble
 * <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
 * <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
-* <kbd class="nichtvergissmeinnicht">Ctrl+]</kbd> přidat odsazení
-* <kbd class="nichtvergissmeinnicht">Ctrl+[</kbd> zrušit odsazení
 	* lze odszazovat více řádků najednou
 * <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
 * <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
