@@ -14,7 +14,7 @@
 
 >>>
 * px = pixely (obrazovka)
-* % = dle velikosti rodiče
+* % = dle velikosti rodiče => opět dědičná vlastnost
 
 ---
 

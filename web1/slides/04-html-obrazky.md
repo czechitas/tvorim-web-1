@@ -7,9 +7,14 @@
 # Tag img <!-- .element: class="c-sr-only" -->
 
 ```html
-<img src="pu.jpg">
+<img>
 ```
 <!-- .element: class="c-text-lg fragment fade-out" contenteditable="true" -->
+
+```html
+<img src="pu.jpg">
+```
+<!-- .element: class="c-text-lg fragment fade-out current-visible" contenteditable="true" -->
 
 ```html
 <img src="pu.jpg" alt="medvěd">
@@ -17,16 +22,17 @@
 <!-- .element: class="c-text-md fragment current-visible" contenteditable="true" -->
 
 >>>
-* cesta k obrázku
-* alt: nevidomí, vyhledávače, uživatelé s pomalým připojením
-* nepárový tag!
+* nepárový tag => nic neobaluje, pouze označuje místo, kam se vloží obrázek (a doplňuje další potřebné údaje k bezproblémovému načtení obrázku)
+* `src`: cesta k obrázku (v rámci adresářové struktury daného webu nebo libovolná adresa na internetu)
+* `alt`: nevidomí, vyhledávače, uživatelé s pomalým připojením
+* formáty obrázků: GIF, JPG, PNG, SVG
 
 ---
 
 # Pozor na licence
 
 >>>
-* Zkuste si sami
+* Zkuste si sami vyhledat obrázky na Google
 	* práva k použití: jen nekomerční
 	* velikost: střední
 	* zobrazit rozměry

@@ -17,7 +17,7 @@
 * Vložíme je do souboru `index.html`
 * Odsadíme výčet kamarádů na nový řádek
 * Obnovíme náhled pomocí _Náhled/Preview_
-* Všimneme si, že text je v náhledu slitý do jednoho bloku. Co s tím? Přece označíme text pomocí HTML!
+* Všimneme si, že text je v náhledu slitý do jednoho bloku. Co s tím? Přece použijeme HTML!
 
 > klávesové zkratky pro práci s textem:
 - výběr <kbd>Ctrl+Shift+šipky</kbd>
@@ -61,7 +61,8 @@
 
 # Bonus 1
 
-* Doplň odkaz na e-mail (googlení)
+* Doplň odkaz na e-mail ‒ [najdi si jak](http://google.com)
+* Přidej odkazu další atribut `title` a něco do něj napiš, zaparkuj pak kurzor nad odkazem (v náhledu stránky).
 
 ===
 
@@ -93,10 +94,6 @@
 
 ---
 
-# Bonus 3
-
-===
-
 # Doplníme titulek
 
 **vycházíme z [bit.ly/tvorim04](http://bit.ly/tvorim04)**
@@ -109,7 +106,7 @@
 
 # Bonus 3
 
-* Doplň popis stránky (tag `meta description`) ‒ googlení
+* Doplň popis stránky (tag `meta description`) ‒ [najdi si jak](http://google.com)
 
 ===
 
@@ -124,10 +121,6 @@
 
 ---
 
-# Bonus 6!
-
-===
-
 # Upravíme písmo
 
 **vycházíme z [bit.ly/tvorim06](http://bit.ly/tvorim06)**
@@ -140,25 +133,6 @@
 
 ---
 
-# Bonus 7!
-
-===
-
-# Nastavíme barvu pozadí
-
-**vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
-
-* nastav pozadí sekci kontakt a fotogalerie
-* a jiné pozadí patičce, kterou vytvoříš
-
-**výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)**
-
----
-
-# Bonus 8!
-
-===
-
 # Měníme velikosti písma
 
 **vycházíme z [bit.ly/tvorim08](http://bit.ly/tvorim08)**
@@ -169,9 +143,16 @@
 
 ---
 
-# Bonus 9!
+# Nastavíme barvu pozadí
 
-===
+**vycházíme z [bit.ly/tvorim07](http://bit.ly/tvorim07)**
+
+* nastav pozadí sekci kontakt a fotogalerie
+* a také patičce, kterou vytvoříš na konci stránky pod kontaktem (odkaz na FB a informaci o licenci)
+
+**výsledek: [bit.ly/tvorim08](http://bit.ly/tvorim08)**
+
+---
 
 # Přidáme třídy
 
@@ -184,9 +165,10 @@
 
 ---
 
-# Bonus 10!
+# Bonus 7
 
 * V patičce vycentruj text
+* Zaveď třídu `.small` a její pomocí zmenši o 20 % text odstavci s licencí v patičce.
 
 ===
 
@@ -207,6 +189,12 @@
 
 ---
 
+# Bonus
+
+* změň barvu horního ohraničení (nebo dolního, nebo pravého anebo levého)
+
+===
+
 # Vnitřní odsazení obrázků
 
 * nastav obrázkům pozadí (nebude hned vidět)
@@ -220,28 +208,34 @@
 
 ---
 
+# Bonus
+
+* nastav jiné odsazení po stranách (vlevo a vpravo)
+
+===
+
 # Odsadíme obsah od okrajů
 
 **vycházíme z [bit.ly/tvorim10](http://bit.ly/tvorim10)**
 
 * v patičce odsazení textu horní a dolní
 * odsaď obsah kontaktu ať není nalepený
-* nastav šířku 50% boxu s kontakty ????
+* nastav šířku 50% boxu s kontakty a galerii
 
 **výsledek: [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
 ---
 
-# Bonus 11a!
+# Bonus 8
 
-* vycentruj kontaktní box _(najdi si jak)_
+* vycentruj galerii a kontaktní box ‒ [najdi si jak](http://google.com)
 
 >>>
 * margin-left/right: auto
 
 ===
 
-# Roztáhneme pozadí až do okraje ---> vyhodit, viz Luďkovy ohlasy???
+# Roztáhneme pozadí až do okraje
 
 **vycházíme z [bit.ly/tvorim11a](http://bit.ly/tvorim11a)**
 
@@ -251,7 +245,7 @@
 
 ---
 
-# Bonus 11b!
+# Bonus 9
 
 * nastav mapě 100% šířku
 
@@ -260,10 +254,6 @@
 * kontaktu odstraň šířku
 * omez novému
 * .obsah dostane max-width 960px a margin-left/margin-right: auto;
-
-===
-
-# Bonus 12!
 
 ===
 
@@ -278,7 +268,9 @@
 
 ---
 
-# Bonus 13!
+# Bonus 10
+
+* Přidej třídu `small` patičce. Jak zabráníš, aby byl text licence titěrný.
 
 ===
 
@@ -286,13 +278,16 @@
 
 **vycházíme z [bit.ly/tvorim13](http://bit.ly/tvorim13)**
 
-* udělej jinou barvou odkaz po najetí kurzorem v kontaktech
+* Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
 **výsledek: [bit.ly/tvorim14](http://bit.ly/tvorim14)**
 
 ---
 
-# Bonus 14!
+# Bonus 11
+
+* Uprav všechny odkazy tak, aby jim po najetí myši zmizelo podtržení.
+* Odkazy v patičce bílou barvou, po najetí myši nějakou jinou (a jinou než v kontaktech).
 
 ===
 
@@ -306,15 +301,13 @@
 
 ---
 
-# Bonus 15!
-
-===
-
 # Přidáme navigaci (menu)
 
 **vycházíme z [bit.ly/tvorim16](http://bit.ly/tvorim16)**
 
-* menu jako odrážkový seznam
+* Navigace jako odrážkový seznam, se 3 položkami ‒ sekce stránky.
+* Nezapomeň na úvodní stránku!
+* Odkaz na stránku (atribut `href`) zatím nechej prázdný.
 
 **výsledek: [bit.ly/tvorim17](http://bit.ly/tvorim17)**
 
@@ -340,21 +333,45 @@
 
 # Bonus 18
 
+* V CSS založ třídu pro aktivní odkaz v navigaci, který vizuálně odliší odkaz stránky, na které se právě nacházíme.
+
 ===
 
 # Přidáme sekci _O mně_
 
 **vycházíme z [bit.ly/tvorim18](http://bit.ly/tvorim18)**
 
-* Všechno, co je potřeba už umíš
+* Všechno, co je potřeba už umíš: přidej další sekci nad fotogalerii.
 
 **výsledek: [bit.ly/tvorim19](http://bit.ly/tvorim19)**
 
 ---
 
-# Bonus 19
+# Bonus
 
-* Pokud chceš mít obrázek Kryštůfka Robina v kruhu, hledej zaoblené rohy.
+* Pokud chceš mít v obrázek Kryštůfka Robina v kruhu, hledej zaoblené rohy.
+
+===
+
+# Rozdělíme web na jednotlivé stránky
+
+* V levém sloupci vytvoř nové HTML soubory pro kontakt a galerii.
+* Zkopíruj do nich všechen stávající HTML kód.
+* Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
+* Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
+
+---
+
+# Bonus
+
+* Na každé stránce zvýrazni v navigaci odkaz aktivní stránky.
+
+===
+
+# Tuplbonus
+
+* Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout.
+* Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
 
 ===
 

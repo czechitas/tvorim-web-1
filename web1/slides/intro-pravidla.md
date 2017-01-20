@@ -20,7 +20,7 @@ ale nedělají nic za vás
 
 >>>
 * Kouči nepíšou za vás, nenechte je sahat na klávesnici
-* Neváhejte jim říct, jinak by tu byli zbytečně
+* Ovšem neváhejte si říct o pomoc, jinak by tu byli zbytečně
 
 ---
 

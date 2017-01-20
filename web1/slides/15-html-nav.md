@@ -13,38 +13,21 @@
 </ul>
 ```
 
----
-
-## ID a kotvy
-
-```html
-<a href="#zajimavost">
-	hop na zajímavost
-</a>
-…
-<p id="zajimavost">
-	Víte, že…?
-</p>
-```
-<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
+>>>
+* `ul` = unordered list
+* `li` = list item
+* Pamatujeme na správné zanořování a odsazování vnořených prvků.
+* `li` vždy musí být přímo zanořené v `ul` (nebo `ol`)
+* Uvnitř `li` mohou být další prvky (nadpis, odstavec, dokonce další odrážkový seznam). My si vystačíme s odkazy.
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 17!
-
-**vycházíme z [bit.ly/tvorim16](http://bit.ly/tvorim16)**
-
-* menu jako odrážkový seznam
-* kotvy
-* id
-
-**výsledek: [bit.ly/tvorim17](http://bit.ly/tvorim17)** 
-<!-- .element: class="c-text-xs" -->
+# Přidáme navigaci (menu)
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka do 17:30
+# Přestávka 10 min

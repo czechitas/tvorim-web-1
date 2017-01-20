@@ -26,6 +26,7 @@ h2 { color: green; }
 
 >>>
 * obarví nadpisy 2. úrovně na modro, pokud jsou v prvku s třídou `.tip`
+* odpovídá zanořování v HTML
 
 ---
 
@@ -40,23 +41,6 @@ h2 { color: green; }
 
 >>>
 * platí poslední nastavená hodnota vlastnosti
-
----
-
-# Vícenásobné třídy
-
-```css
-.tip { color: red; }
-.cool { background-color: blue; }
-```
-<!-- .element: class="c-text-md " contenteditable="true" -->
-
-```html
-<p class="tip">…</p>
-<p class="cool">…</p>
-<p class="cool tip">…</p>
-```
-<!-- .element: class="c-text-md " contenteditable="true" -->
 
 ---
 

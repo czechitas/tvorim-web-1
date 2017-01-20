@@ -6,27 +6,28 @@
 
 ## Blokové elementy
 
-* zaberou celou dostupnou šířku
+* zaberou celou dostupnou šířku => řadí se pod sebe
 
 >>>
-* na vaší stránce jsou to například divy
+* na vaší stránce jsou to nadpisy, odstavce, divy
 
 ---
 
 ## Řádkové elementy
 
 * zaberou jen tolik místa, kolik potřebují
-* nejsou samostatně na řádku 
+* nejsou samostatně na řádku => řadí se za sebou jako slova ve větě
+* nejde jim nastavit některé vlastnosti z box modelu (šířka, výška, horní/dolní okraj)
 
 >>>
-* na vaší stránce jsou to například odkazy
+* na vaší stránce jsou to například odkazy, nebo důležitý text  (`strong`)
 
 ---
 
 ## Řádkově-blokové elementy
 
 * hybrid: řádkový s některými vlastnostmi blokového
-* lze mu například nastavit šířku a výšku
+* řadí se za sebou, ale lze mu nastavit šířku, výšku a okraje
 
 >>>
 * na vaší stránce se tak chovají obrázky
@@ -46,22 +47,10 @@ li { display: inline-block; }
 
 >>>
 * každý element má výchozí typ
-* Podle těchto typů se nesmí vnořovat blokové do řádkových.
-* pomocí CSS lze ale změnit chování prvku na jiný typ (pořád se nesmí vnořovat)
+* pomocí CSS lze ale změnit chování prvku na jiný typ
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 18!
-
-**vycházíme z [bit.ly/tvorim17](http://bit.ly/tvorim17)**
-
-* nastyluj menu tak, aby položky byly vedle sebe a vycentrované
-* udělej efekt podbarení po najetí na polozku menu
-
-**výsledek: [bit.ly/tvorim18](http://bit.ly/tvorim18)** 
-<!-- .element: class="c-text-xs" -->
-
->>>
-* list-style: none pro odstranění tečky
+# Odkazy v navigaci na jeden řádek

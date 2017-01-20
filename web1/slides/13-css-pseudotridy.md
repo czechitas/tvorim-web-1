@@ -19,6 +19,10 @@ a:focus {color: green;} /* aktivace klávesnicí */
 a:active {color: yellow;} /* při kliknutí */</span></span>
 </code></pre>
 
+>>>
+* Zatímco třídy si vytváří autor kódu, pseudotřídy jsou dané.
+* Narozdíl od tříd se zapisují jen do CSS, na HTML není třeba sahat.
+
 ---
 
 <!-- .slide: data-state="c-slide-task" -->

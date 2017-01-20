@@ -1,3 +1,17 @@
+<!-- .slide: data-state="c-slide-break" -->
+
+# Shrnutí dopoledního bloku
+
+>>>
+* HTML popisuje strukturu stránky => obsah
+* CSS předepisuje vzhled stránky => forma
+* představili jsme si různé elementy (nadpisy, odstavce, odkazy, obrázky)
+* ukázali jsme si, jak k HTML souboru připojit stylopis (soubor CSS)
+* představili jsme si, jakým způsobem zapisujeme pravidla, kterými měníme různé vlastnosti jednotlivých prvků
+* seznámili jsme se s tagem `div`, který nám umožňuje pracovat s částmi stránky jako celky
+
+---
+
 <!-- .slide: data-state="c-slide-inter" -->
 
 # Třídy
@@ -20,8 +34,8 @@ p { color: blue; }
 <!-- .element: class="c-text-md fragment" contenteditable="true" -->
 
 >>>
-* co kdybych chtěl udělat odstavce modré?
-* ale co kdybych chtěl udělat jen první odstavec modrý?
+* Co kdybych chtěl vypsat odstavce modře?
+* Ale co kdybych chtěl udělat jen první odstavec modrý?p
 
 ---
 
@@ -42,7 +56,7 @@ p { color: blue; }
 
 >>>
 * řešením je přidat třídu, která umožňuje se zaměřit v CSS přesněji
-* třída se v HTML přidává jako parametr `class`
+* třída se v HTML přidává jako atribut `class`
 * v CSS se zapíše s tečkou na začátku
 * třídu můžeme přiřadit libovolnému počtu značek
 
@@ -71,12 +85,32 @@ p { color: blue; }
 
 ---
 
+# Vícenásobné třídy
+
+```css
+.tip { color: red; }
+.cool { background-color: blue; }
+```
+<!-- .element: class="c-text-md " contenteditable="true" -->
+
+```html
+<p class="tip">…</p>
+<p class="cool">…</p>
+<p class="cool tip">…</p>
+```
+<!-- .element: class="c-text-md " contenteditable="true" -->
+
+>>>
+* jeden atribut `class` může mít přiřazeno více hodnot ‒ tříd
+* oddělujeme je mezerou
+
+---
+
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme třídy
-
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka 10 min
+# Přestávka 5 min

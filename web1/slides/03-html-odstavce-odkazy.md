@@ -4,7 +4,7 @@
 
 ---
 
-# Nadpisy
+## Nadpisy
 
 ```html
 <h1>Web Kryštůvka Robina</h1>
@@ -15,13 +15,13 @@
 ```
 
 >>>
-* dodržujte pořadí nadpisů: nejde o to, jak vypadají
+* dodržujte pořadí nadpisů: nenechte se svést tím, jak vypadají (po `h1` vždy nejprve `h2`, pak teprve `h3`)
 * 6 úrovní nadpisů (`<h1>`…`<h6>`)
 * obvykle bývá na jednotlivé stránce jen 1 nadpis první úrovně
 
 ---
 
-# Odstavec
+## Odstavec
 
 ```html
 <p>
@@ -36,13 +36,14 @@
 
 >>>
 * Jednou z nejčastěji používaných značek je vyznačování odstavce.
-* Z posloupnost mezer a zalomení řádku se stane jedna mezera.
-* Přesto si dejte na formátování kódu záležet, jinak se v tom nejde vyznat.
-* Jména tagů jsou většinou zkratky anglických slov, tady „paragraph“.
+* Z posloupnost mezer a zalomení řádku se stane 1 mezera => text se slije, pokud ho nestrukturujeme pomocí tagů.
+* Přesto si dejte na formátování kódu (odsazování, odřádkování) záležet, jinak se v tom nejde vyznat:
+ * Jeden element na řádek.
+ * Zanořujeme-li, odsadíme začátek řádku tabelátorem.
 
 ---
 
-# Odkazy
+## Odkazy
 
 ```html
 <a href="https://www.google.com/">
@@ -53,15 +54,13 @@
 
 >>>
 * naučíme se jak udělat odkaz
-* parametr je href, hodnota je odkaz
-* hodnota do uvozovek
-* díky tomu říkáme prohlížeči nějaká extra data
-* parametry se píšou do otevíracího tagu nebo prostě do tagu
-* cvičení: odkaz na vaši oblíbenou stránku
-* cvičení extra: udělejte odkaz na e-mail (googlení)
+* atribut je `href`, jeho hodnotou je odkaz
+* hodnota do "uvozovek"
+* Pomocí atributy dodáváme prohlížeči nějaká extra data, která nevyplývají ze samotného tagu. (Např. `h1` všeříkající, `a` je málo, musíme říct **kam** odkazovat.)
+* atributy se píšou do otevíracího tagu nebo prostě do tagu
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Přidáme odkaz na Facebook
+# Přidáme sekci _Kontakt_

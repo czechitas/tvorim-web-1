@@ -3,11 +3,11 @@
 # CSS
 
 >>>
-Jazyk popisující vzhled prvků webové stránky.
+* Jazyk popisující vzhled elementů webové stránky.
 
 ---
 
-# Z čeho se skládá stránka
+## Z čeho se skládá stránka
 
 * HTML (obsah a struktura) <!-- .element: class="fragment" -->
 * CSS (vzhled) <!-- .element: class="fragment" -->
@@ -24,7 +24,7 @@ Jazyk popisující vzhled prvků webové stránky.
 
 ---
 
-# Připojení CSS
+## Připojení CSS
 
 ```html
 <link
@@ -36,10 +36,11 @@ Jazyk popisující vzhled prvků webové stránky.
 
 >>>
 * Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.
+* `link` je další nepárový tag (nemá co obalovat, pouze říká, že a odkud se má stylopis načíst)
 
 ---
 
-# Anatomie CSS
+## Anatomie CSS
 
 <pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="20">selektor</span><span class="fragment" data-fragment-index="30"> { </span>
 	<span class="fragment" data-fragment-index="40">vlastnost</span><span class="fragment" data-fragment-index="50">:</span><span class="fragment" data-fragment-index="60"> hodnota</span><span class="fragment" data-fragment-index="70">;</span><span class="fragment" data-fragment-index="100">
@@ -49,10 +50,15 @@ Jazyk popisující vzhled prvků webové stránky.
 
 >>>
 * Přibydou nám další méně obvyklé znaky: `{ } ;`
+* chyby: CSS je přísnější než HTML
+ * neukončíme-li středníkem, pravidlo se ignoruje
+ * neuzavřeme-li závorku, všechna následující pravidla se ignorují
+* editor chyby signalizuje změnou zvýrazňovacích barev
+
 
 ---
 
-# Barvy
+## Barvy
 
 <pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="20">p</span><span class="fragment" data-fragment-index="30"> { </span>
 	<span class="fragment" data-fragment-index="40">color</span><span class="fragment" data-fragment-index="50">:</span><span class="fragment" data-fragment-index="60"> white</span><span class="fragment" data-fragment-index="70">;</span><span class="fragment" data-fragment-index="100">
@@ -63,6 +69,8 @@ Jazyk popisující vzhled prvků webové stránky.
 >>>
 * selektor říká, co chceme barvit
 * deklarace jak
+* Barvy lze zapisovat více způsoby, my se budeme držet tzv. pojmenovaných barev.
+* Editor nám pomáhá, když upravujeme barvy, nabídne nám seznam barev s ukázkou.
 
 ---
 

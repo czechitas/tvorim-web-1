@@ -61,7 +61,7 @@ Super. Někdo si dejte červený lísteček… : )
 # Na konci budete mít dost
 
 >>>
-A taky hotovou webovou stránku a možná i prostor na ještě pracovat s asistencí koučů.
+A taky hotovou webovou stránku a možná i prostor na ní ještě pracovat s asistencí koučů.
 
 ---
 

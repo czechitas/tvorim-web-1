@@ -31,12 +31,6 @@ a:focus {
 	color: maroon;
 }
 
-.clearfix {
-	content: "";
-	display: table;
-	clear: both;
-}
-
 .nav {
 	background-color: #3cbac8;
 }
@@ -96,8 +90,6 @@ a:focus {
 
 .mapa {
 	width: 50%;
-	float: left;
-	margin-right: 20px;
 }
 
 .paticka {

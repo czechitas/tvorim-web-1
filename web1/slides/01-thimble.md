@@ -10,9 +10,7 @@
 * Soubory, ze kterých se web skládá musíme někde upravovat, editovat.
 * Pomocí Thimble můžeme snadno upravovat textové soubory.
 * Přestože je to hlavně výukový nástroj, má některé vlastnosti a podobné principy, které jsou běžné v profesionálních editorech.
-* Pomáhá nám.
- * Změní barvu textu, narazí-li na chybu (neuzavřený tag, atribut)
- * Zvýrazňuje blok, na kterém pracujeme, v živém náhledu.
+* Pomáhá nám: zvýrazňuje místo, na kterém pracujeme, upozorňuje na chyby.
 
 ---
 
@@ -49,7 +47,7 @@
 
 >>>
 * Úplně vpravo je náhled stránky, který se automaticky obnovuje, pokud uděláš nějakou změnu.
-* Může se stát, že se automatické obnovování rozbije a je potřeba obnovit stránku. Zmáčkni proste F5 nebo Ctrl+R (Ctrl+R na Macu)
+* Může se stát, že se automatické obnovování rozbije a je potřeba obnovit stránku. Zmáčkni proste F5 nebo Ctrl+R (Cmd+R na Macu)
 * Vpravo nahoře je možnost přepnout si mezi náhledem na mobilu a na počítači.
 * Poslední tlačítko je náhled přes celou obrazovku, to využiješ hlavně pokud máš menší displej.
 
@@ -57,15 +55,11 @@
 
 # Publikace
 
-* Pozor, není automatická: pokud se mají změny projevit, je opět nutné publikovat.
+* Aneb zveřejnění na webu: váš projekt dostane adresu, kterou můžete sdílet.
+* Pozor, není automatická: pokud se něco změníš, je opět nutné publikovat.
 
 >>>
 * Thimble umožňuje i jednoduchou publikaci veřejně na internet.
-
-
----
-
-# Extra
 
 ---
 
@@ -80,7 +74,8 @@
 * <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
 
 >>>
-* Jsou univerzální, fungují i v jiných programech.
+* Tyto jsou univerzální, fungují i v jiných programech.
+* Pokud neznáte, osvojte si je. Ohromně šetří čas.
 
 ---
 
@@ -90,14 +85,15 @@
 * <kbd>Ctrl+C</kbd> Kopírovat (výběr nebo řádek)
 * <kbd>Ctrl+V</kbd> Vložit
 * <kbd>Ctrl+X</kbd> Kopírovat a smazat (výběr nebo řádek)
-* <kbd>Ctrl+A+C+V</kbd> srovná odsazení celého souboru
-* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
-* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
+* <kbd>Ctrl+A+C+V</kbd> srovná odsazení celého souboru (Thimble)
 
 ---
 
 ## Klávesové zkratky
-### Usnadnění práce
+
+### Pouze Thimble
+* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
+* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
 * <kbd class="nichtvergissmeinnicht">Ctrl+]</kbd> přidat odsazení
 * <kbd class="nichtvergissmeinnicht">Ctrl+[</kbd> zrušit odsazení
 	* lze odszazovat více řádků najednou
@@ -111,6 +107,7 @@
 * Zvýraznění prvku, na jehož kódu je kurzor
 * Nalezení kódu k prvku, na nějž dám kurzor
 * Skrývání kódu: klikni na šipku vlevo od kódu
+* Změní barvu textu, narazí-li na chybu.
 
 ---
 

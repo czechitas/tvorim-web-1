@@ -9,7 +9,7 @@
 
 ---
 
-# Značkovací jazyk
+## Značkovací jazyk
 
 >>>
 * HT**ML** => mark-up language = značkovací
@@ -17,7 +17,7 @@
 
 ---
 
-# Tag/značka
+## Tag/značka
 ```html
 <jmenotagu>
 	Obsah tagu
@@ -30,11 +30,12 @@
 * Mluvíme o párovém tagu: na jednom místě ho otevřeme, na dalším zavřeme.
 * Uzavírá se lomítkem za první špičatou závorkou.
 * Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy.
-* Existují i nepárové tagy (těch je pár), ale k nim se dostaneme.
+* Existují i nepárové tagy (těch je pár), upoorním, až se k nim dostaneme.
+* Tagy vytvářejí v prostředí webové stránky tzv. **elementy/prvky**, z nichž se skládá každá stránka.
 
 ---
 
-# Klávesnice <!-- .element: class="c-sr-only" -->
+## Klávesnice <!-- .element: class="c-sr-only" -->
 
 <!-- .slide: data-background="img/keyboard-cs-html.svg" -->
 
@@ -45,7 +46,7 @@
 
 ---
 
-# Tagy
+## Tagy
 
 ```html
 <h1>Hlavní nadpis</h1>
@@ -58,7 +59,10 @@
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* jak používají web nevidomí? …
+* jak používají web nevidomí?
+* Jména tagů jsou většinou zkratky anglických slov. Např.:
+ * `h` = heading
+ * `p` = paragraph
 
 ---
 
@@ -91,12 +95,12 @@
 
 >>>
 * HTML dokument má mít tuto strukturu.
-* Úplně první je tzv. doctype. Říká prohlížeči jaké HTML má čekat. Není potřeba se jím nyní zabývat, jen ho tam vždy mějte.
-* Všechno ostatní je obaleno tagem `<html>`.
-* V hlavičce (`<head>`) jsou definovány vlastnosti pro celou stránku. Většinou „nejsou vidět“.
-* V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“.
+* Úplně první je tzv. doctype. Říká prohlížeči jaký typ HTML má čekat. Není potřeba se jím nyní zabývat, jen ho tam vždy mějte.
+* Všechno ostatní je uvnitř elementu `html` => je obaleno obaleno tagem `<html>`.
+* V hlavičce (`<head>`) jsou definovány vlastnosti pro celou stránku. Většinou „nejsou vidět“. O hlavičce později.
+* V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“. Zde budeme nyní pracovat.
+* Všimněte si odsazení. A dbejte na něj ve svém kódu.
 * Všimněte si komentářů.
-* Všimněte si odsazení.
 
 ---
 

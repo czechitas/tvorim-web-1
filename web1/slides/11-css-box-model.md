@@ -34,7 +34,7 @@ img {
 }
 ```
 
-<!-- .element: class="c-text-sm fragment" contenteditable="true" -->
+<!-- .element: class="c-text-xs fragment" contenteditable="true" -->
 
 ```css
 img {
@@ -48,7 +48,9 @@ img {
 
 
 >>>
+* ohraničení: vytyčuje hranici mezi prvkem a okolím (okolními prvky)
 * rámeček kolem prvku: různé hodnoty `border-style` (dotted, dashed, inset)
+* zkrácený zápis: tento nastaví stejný rámeček po všech stranách. Lze samozřejmě nastavovat ohrančení pro každou stranu zvlášť.
 
 ---
 
@@ -69,6 +71,10 @@ img {
 
 <img src="img/box-model-padding.svg" style="border:0 none;box-shadow:none;">
 
+>>>
+* „hraniční pásmo“ ‒ prostor mezi ohraničením a obsahem prvku
+* 1 hodnota nastaví shodné odsazení na všech 4 stranách prvku.
+
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
@@ -88,6 +94,9 @@ img {
 
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
 
+>>>
+* za hranicí prvku, v rodičovském prvku (`div`, `body`)
+
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
@@ -99,6 +108,13 @@ img {
 ### Box-model ‒ shrnutí
 
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
+
+>>>
+* všechny prvky na stránce bez ohledu na vizuální tvar jsou krabice/boxy
+* vlastnost `width` určuje, jak má být prvek široký *včetně* ohraničení (`border`) a výplně (`padding`)
+* `margin` se do šířky nezapočítává, ale ovlivňuje, kolik místa prvek ve výsledku zabere
+* **Pozor při výpočtech**: nezpomeňte násobit 2: <br>
+	`margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
 
 ---
 
