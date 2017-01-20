@@ -64,3 +64,11 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme sekci _Kontakt_
+
+---
+
+## Další funkce Thimble
+
+* Zvýraznění prvku, na jehož kódu je kurzor
+* Nalezení kódu k prvku, na nějž dám kurzor
+* Změní barvu textu, narazí-li na chybu.

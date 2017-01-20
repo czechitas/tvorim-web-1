@@ -50,7 +50,7 @@
 
 >>>
 * Přibydou nám další méně obvyklé znaky: `{ } ;`
-* chyby: CSS je přísnější než HTML
+* chyby:
  * neukončíme-li středníkem, pravidlo se ignoruje
  * neuzavřeme-li závorku, všechna následující pravidla se ignorují
 * editor chyby signalizuje změnou zvýrazňovacích barev

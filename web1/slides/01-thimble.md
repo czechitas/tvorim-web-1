@@ -76,15 +76,6 @@
 
 ---
 
-## Další funkce
-
-* Zvýraznění prvku, na jehož kódu je kurzor
-* Nalezení kódu k prvku, na nějž dám kurzor
-* Skrývání kódu: klikni na šipku vlevo od kódu
-* Změní barvu textu, narazí-li na chybu.
-
----
-
 <!-- .slide: data-state="c-slide-task" -->
 
 # Osaháme si Thimble a klávesové zkratky

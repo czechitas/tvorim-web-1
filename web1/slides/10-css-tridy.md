@@ -35,7 +35,7 @@ p { color: blue; }
 
 >>>
 * Co kdybych chtěl vypsat odstavce modře?
-* Ale co kdybych chtěl udělat jen první odstavec modrý?p
+* Ale co kdybych chtěl udělat jen první odstavec modrý?
 
 ---
 
