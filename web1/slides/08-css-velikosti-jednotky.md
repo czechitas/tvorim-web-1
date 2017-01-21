@@ -21,3 +21,9 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Měníme velikosti písma
+
+---
+
+<!-- .slide: data-state="c-slide-break" -->
+
+# Přestávka 10 min

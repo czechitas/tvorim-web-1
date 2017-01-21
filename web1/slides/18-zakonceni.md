@@ -16,6 +16,7 @@
 * Dotazy: Facebook: Czechitas - Úvod do HTML a CSS
 * Hledat
 * praktická reference v češtině jecas.cz
+* v angličtině cssreference.io
 * codecademy.com
 * Lynda.com, YouTube (kriticky)
 
@@ -26,7 +27,7 @@
 
 # Programy
 
-* editory: Atom, Sublime text
+* editory: Atom (zdarma), Sublime text (placený)
 * prohlížeče: je třeba testovat stránky pro zaostalejší prohížeče
 
 ---

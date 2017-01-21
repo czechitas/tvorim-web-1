@@ -27,7 +27,7 @@
 
 >>>
 * Tag se skládá ze špičatých závorek, názvu tagu mezi nimi.
-* Mluvíme o párovém tagu: na jednom místě ho otevřeme, na dalším zavřeme.
+* Mluvíme o párovém tagu: první je otevírací a druhý je zavírací.
 * Uzavírá se lomítkem za první špičatou závorkou.
 * Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy.
 * Existují i nepárové tagy (těch je pár), upozorním, až se k nim dostaneme.

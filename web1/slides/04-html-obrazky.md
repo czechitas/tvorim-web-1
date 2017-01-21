@@ -39,17 +39,20 @@
 	* pravým tlačítkem: kopírovat adresu obrázku
 	* rozměry: nejsou nutné, ale je to lepší, je možné napsat jen jeden
 
----
 
-<!-- .slide: data-state="c-slide-task" -->
-
-# Přidáme mapu
 
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka 10 min
+# Oběd
+
+
+---
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Přidáme mapu
 
 ---
 
@@ -59,3 +62,4 @@
 
 >>>
 * Opáčko tagu `<img>` (a práce s editorem)
+
