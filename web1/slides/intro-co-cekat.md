@@ -18,10 +18,11 @@
 ## Výzkumnice
 ## Analytička
 ## UX designérka
-## Copywriterka
 
 ---
 
+## Copywriterka
+## Fotografka
 ## Vizuální designérka
 
 ---
@@ -45,4 +46,18 @@
 ## Správkyně obsahu
 
 ---
+
+# Kodér
+# Front end vývojář
+# Frontendista
+
+
+>>>
+To je role, kterou si dnes vyzkoušíte.
+
+Určitě to znamená, že si podobný jednoduchý web můžete samy kdykoli udělat.
+
+Určitě to znamená, že na tom, co tu dnes probereme, můžete dál stavět a pokračovat. Je to start.
+
+Pokud chcete za půl roku spustit nějaký vážně míněný projekt, tak si najměte zkušeného profesionála nebo použijte hotové řešení. Je jich spousta a jsou čím dál lepší. Ostatně já bych to udělal také tak. I když to umím, tak udělat to pořádně je hodně práce a nezbyl by čas na další role.
 
