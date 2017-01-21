@@ -30,7 +30,7 @@
 * Mluvíme o párovém tagu: na jednom místě ho otevřeme, na dalším zavřeme.
 * Uzavírá se lomítkem za první špičatou závorkou.
 * Mezi tagy je jeho obsah, tedy to co obaluje. To může být obyčejný text nebo další tag nebo tagy.
-* Existují i nepárové tagy (těch je pár), upoorním, až se k nim dostaneme.
+* Existují i nepárové tagy (těch je pár), upozorním, až se k nim dostaneme.
 * Tagy vytvářejí v prostředí webové stránky tzv. **elementy/prvky**, z nichž se skládá každá stránka.
 
 ---

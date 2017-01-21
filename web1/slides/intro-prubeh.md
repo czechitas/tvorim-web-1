@@ -30,7 +30,7 @@ hotovo <br>dál <!-- .element: class="fragment c-postit-green"  -->
 
 ## nalep si na notebook viditelně <!-- .element: class="fragment" -->
 
-kouč<br>ke mě <!-- .element: class="fragment c-postit-red" -->
+kouč<br>ke mně <!-- .element: class="fragment c-postit-red" -->
 
 ---
 
