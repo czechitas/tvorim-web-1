@@ -69,7 +69,8 @@
 >>>
 * selektor říká, co chceme barvit
 * deklarace jak
-* Barvy lze zapisovat více způsoby, my se budeme držet tzv. pojmenovaných barev.
+* Barvy lze zapisovat více způsoby, my budeme používat tzv. pojmenovaných barev. Jejich počet je omezený.
+* Libovolnou barvu lze získat číselným zápisem, např. hexadecimálním.
 * Editor nám pomáhá, když upravujeme barvy, nabídne nám seznam barev s ukázkou.
 
 ---

@@ -65,6 +65,9 @@
 
 # Přidáme sekci _Kontakt_
 
+>>>
+* upozornit na bonus, pokud mají hotovo
+
 ---
 
 ## Další funkce Thimble

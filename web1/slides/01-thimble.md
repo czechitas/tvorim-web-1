@@ -79,3 +79,6 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Osaháme si Thimble a klávesové zkratky
+
+>>>
+* Všimni si, že text je v náhledu slitý do jednoho bloku.

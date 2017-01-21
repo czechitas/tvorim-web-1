@@ -70,6 +70,10 @@
 
 # Zkusíme si první tagy
 
+>>>
+* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
+* Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
+
 ---
 
 <!-- .slide: data-state="c-slide-break" -->
@@ -101,13 +105,3 @@
 * V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“. Zde budeme nyní pracovat.
 * Všimněte si odsazení. A dbejte na něj ve svém kódu.
 * Všimněte si komentářů.
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Založíme stránku
-
->>>
-* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
-* Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.

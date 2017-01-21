@@ -1,0 +1,20 @@
+/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #2b4856;
+	font-size: 48px;
+	text-align: center;
+}
+
+h2 {
+	color: #2b4856;
+	font-size: 30px;
+}
+
+a {
+	font-weight: bold;
+}
