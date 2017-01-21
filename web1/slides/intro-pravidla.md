@@ -9,18 +9,20 @@ Kdo nedělá chyby, ten se neučí nic nového
 
 >>>
 * Většinu toho, co umím, jsem se naučil metodou pokus omyl.
+* Ostatně i my dnes tady uděláme spoustu chyb, z kterých se zas poučíme do příště.
 
 ---
 
-# Kouči radí
+# K čemu jsou tu kouči
 
-ale nedělají nic za vás
-
-**zvládnete to samy**
+* poradí
+* odblokují vás, když se zaseknete
+* ale nedělají nic za vás
+* nelze je otravovat
 
 >>>
 * Kouči nepíšou za vás, nenechte je sahat na klávesnici
-* Ovšem neváhejte si říct o pomoc, jinak by tu byli zbytečně
+* Neváhejte si říct o pomoc, jinak by tu byli zbytečně
 
 ---
 
