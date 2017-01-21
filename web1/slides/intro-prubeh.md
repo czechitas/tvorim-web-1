@@ -3,7 +3,7 @@
 
 ---
 
-# 1. Ukážu
+# 1. Lektor ukáže a vysvětlí
 
 ---
 
@@ -11,38 +11,35 @@
 
 ## času bude kolik je potřeba
 
-(ale ne víc)
+## Zadání se objeví v aplikaci
 
 >>>
-Jak to uděláme? Zepředu opravdu každému do monitoru nevidím. Proto mi dají koučové signál.
+Jak to uděláme? Zepředu opravdu každému do monitoru nevidím.
+Proto máme aplikaci, kterou máte všechny otevřenou.
 
 ---
 
-# 3. Skupina má hotovo?
+# 3. Máš hotovo?
 
-## kouč dá signál <!-- .element: class="fragment" -->
-
-hotovo <br>dál <!-- .element: class="fragment c-postit-green"  -->
+>>>
+Zmáčkni tlačítko Hotovo
 
 ---
 
 # Chceš poradit?
 
-## nalep si na notebook viditelně <!-- .element: class="fragment" -->
-
-kouč<br>ke mně <!-- .element: class="fragment c-postit-red" -->
+>>>
+Dej Chci poradit
 
 ---
 
-# A znovu ukážu…
+# A tak pořád dokola
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si!
-
-## Otevři si Chrome
+# Hned si to vyzkoušíme
 
 >>>
 Super. Někdo si dejte červený lísteček… : )
@@ -58,21 +55,20 @@ Super. Někdo si dejte červený lísteček… : )
 
 ---
 
-# Na konci budete mít dost
+# Na konci budete mít…
 
 >>>
-A taky hotovou webovou stránku a možná i prostor na ní ještě pracovat s asistencí koučů.
+Hotovou webovou stránku, kterou uděláte samy.
+Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pracovat s asistencí koučů.
 
 ---
 
-# Rozvrh
+# Plán
 
-- 10 začátek
-- 11 pauza 10 minut
-- 12 pauza 10 minut
-- 13.15 oběd 50 minut
-- 15 pauza 10 minut
-- 16 pauza 10 minut
-- 17 pauza 10 minut
-- 18 konec
+- začátek
+- oběd zde
+- 18.00 konec
+
+a zhruba každou hodinu 10 minut pauza
+
 <!-- .element: class="c-text-left" -->
