@@ -25,6 +25,10 @@ a {
 
 .obsah {
 	max-width: 960px;
+	margin: auto;
+}
+.obsah.nahore {
+	text-align: center;
 }
 
 /* Navigace */

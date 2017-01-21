@@ -20,7 +20,7 @@ a {
 }
 
 .galerie {
-	width: 50%;
+	max-width: 960px;
 	padding: 10px;
 	background-color: #a8e8c3;
 }
@@ -33,7 +33,7 @@ img {
 }
 
 .kontakt {
-	width: 50%;
+	max-width: 960px;
 	padding: 10px;
 	background-color: #f9cb8f;
 }
