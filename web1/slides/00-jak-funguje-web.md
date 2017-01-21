@@ -21,7 +21,7 @@
 
 ---
 
-# Prohlížeč je stahuje a skládá z&nbsp;nich web
+# Prohlížeč je stahuje a nakreslí z&nbsp;nich web
 
 >>>
 * Prohlížeč si soubory přečte pochopí je a pak podle nich nakreslí stránku, pokud je v pořádku.
