@@ -54,5 +54,4 @@
 
 # Konec
 
-**výsledek: [bit.ly/tvorim20](http://bit.ly/tvorim20)**
 <!-- .element: class="c-text-xs" -->
