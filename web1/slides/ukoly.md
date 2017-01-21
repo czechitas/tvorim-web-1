@@ -17,8 +17,8 @@
 1. Podíváme se pod ozubené kolečko: lze si upravit velikost textu i barevné schéma.
 1. Zkopíruj si následující text <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd>.
     ```
-    Web Kryštůfka Robina
-
+    Web Kryštůfka Robina 
+    
     Představím vám zde své dobré kamarády:    
     medvídka Pú, Tygříka, Íáčka a Prasátko.
     ```
@@ -46,7 +46,7 @@
     * a textem
     ```
     To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
-
+    
     Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
     ```
 1. Ze slova „Facebooku“ udělej odkaz na Facebook.
@@ -82,7 +82,7 @@
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189053)
 
-Před sekci _Kontakt_ vlož další sekci s nadpisem „Galerie“, s textem `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a těmito obrázky:
+Před sekci _Kontakt_ vlož další sekci s nadpisem „Galerie“, s textem `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a těmito obrázky: 
 ```
 drak.jpg
 koupel.jpg
@@ -238,8 +238,8 @@ Nastav jiné odsazení po stranách než nahoře a dole.
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189101)
 
 1. V patičce odsaď text od horního a dolního okraje.
-1. Odsaď obsah kontaktu a galerie, ať není tak nalepený.
-1. Nastav šířku 50% sekcím Kontakt a Galerie.
+1. Odsaď obsah kontaktu a galerie od okraje jejich boxu, ať na něj není tak nalepený.
+1. Nastav maximální šířku 960px sekcím Kontakt a Galerie.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189105)
 
@@ -258,8 +258,8 @@ Vycentruj vodorovně Galerii a Kontakt ‒ [najdi si jak](https://www.google.cz/
 Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah. Tip: nelze to vyřešit jen pomocí CSS.
 
 1. Je třeba **uvnitř** _divu_ `galerie` všechny obrázky obalit novým `<div>`, třeba s třídou `obsah`.
-1. Pro `.kontakt` odstraň nastavení šířky.
-1. `<div class="obsah">` nastav maximální šířku třeba 960px.
+1. Pro `.kontakt` odstraň nastavení maximální šířky.
+1. `<div class="obsah">` nastav maximální šířku 960px.
 1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí margin pro prvek `<body>` na nulový.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189107)
@@ -333,7 +333,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
 
 1. Přidej další sekci, tentokrát `O mně` nad Galerii.
-2. Dej do ní text
+2. Dej do ní text 
     ```
     Ahoj. Jmenuji se Kryštůfek Robin a jsem malý chlapec, se kterým se zvířátka ze Stokorcového lesa spřátelila a hrají si se mnou jako s jediným člověkem z lidského světa. Kamarádím se s Medvídkem Pú, Prasátkem, Ijáčkem, Tygrem, Králíčkem se všemi jeho přáteli a příbuznými, Sovou a Klokanicí s Klokánkem.
 
