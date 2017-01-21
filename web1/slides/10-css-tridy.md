@@ -1,6 +1,6 @@
 <!-- .slide: data-state="c-slide-break" -->
 
-# Shrnutí dopoledního bloku
+# Shrnutí
 
 >>>
 * HTML popisuje strukturu stránky => obsah
@@ -114,4 +114,4 @@ p { color: blue; }
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Přestávka 5 min
+# Přestávka 10 min

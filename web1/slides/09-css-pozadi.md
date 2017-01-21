@@ -36,9 +36,3 @@ p {
 <!-- .slide: data-state="c-slide-task" -->
 
 # Nastavíme barvu pozadí
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Oběd
