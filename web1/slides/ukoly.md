@@ -1,188 +1,203 @@
 # Založíme si účet na Thimble
 
-0. [otevři si Thimble](https://thimble.mozilla.org/cs)
-0. Vpravo nahoře klikni na _Vytvořit účet_
-0. Heslo musí
+1. [otevři si Thimble](https://thimble.mozilla.org/cs)
+1. Vpravo nahoře klikni na _Vytvořit účet_
+1. Heslo musí
     * být nejméně 8 znaků dlouhé,
     * obsahovat číslo,
     * obsahovat VERZÁLKY i minusky.
-0. Až se dostaneš zpátky na zelenou stránku, kde bude vpravo nahoře uživatelské jméno, které jsi zadala, stránku zavři.
-0. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
+1. Až se dostaneš zpátky na zelenou stránku, kde bude vpravo nahoře uživatelské jméno, které jsi zadala, stránku zavři.
+1. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
 
 ===
 
-# Osaháme si Thimble a klávesové zkratky
+# 01 Osaháme si Thimble a klávesové zkratky
 
-0. Otevři si [úvodní cvičení](https://thimbleprojects.org/czechitas/140019/) a klikni vpravo na _Upravit/Remix_.
-0. Podíváme se pod ozubené kolečko: lze si upravit velikost textu i barevné schéma.
-0. Zkopíruj si text <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd>.
+1. Otevři si [výchozí cvičení](https://thimbleprojects.org/czechitas/140019/) a klikni vpravo na _Upravit/Remix_.
+1. Podíváme se pod ozubené kolečko: lze si upravit velikost textu i barevné schéma.
+1. Zkopíruj si následující text <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd>.
     ```
     Web Kryštůfka Robina
-    Představím vám zde své dobré kamarády: medvídka Pú, Tygříka, Íáčka a Prasátko
+
+    Představím vám zde své dobré kamarády:    
+    medvídka Pú, Tygříka, Íáčka a Prasátko.
     ```
-0. Zkus dát jméno každého z kamarádů na nový řádek.
-0. Všimni si, že text je v náhledu slitý do jednoho bloku.
-0. Opět dej prosím „Hotovo“.
+1. Opět dej prosím „Hotovo“.
 
 ===
 
-# Zkusíme si první tagy
+# 02 Zkusíme si první tagy
 
-0. Otevři si [cvičení](https://thimbleprojects.org/czechitas/TODO)
-0. Vpravo nahoře klikni na „Upravit“.
-0. Vytvoř hlavní nadpis (název webu): „Web Kryštůfka Robina“
-0. Zbylé dva řádky budou (každý) samostatným odstavcem.
-0. Zvýrazníme nějaká důležitá slova (např. „dobré kamarády“)
-0. Nezapomeň dát vědět, že máš hotovo a nezapomeň na to až dokončíš další úkoly.
+1. Vytvoř nadpis 1. úrovně (název webu): „Web Kryštůfka Robina“.
+1. Větu označkuj jako odstavec.
+1. Protože kamarádství je pro medvídka Pú podstatné, označ text „dobré kamarády“ jako velmi důležitý.
+1. Nezapomeň dát vědět, že máš hotovo a nezapomeň na to ani až dokončíš další úkoly.
 
-**výsledek: [cvičení XY](https://thimbleprojects.org/czechitas/TODO)**
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189042)
 
 ===
 
-# Založíme stránku
+# 03 Přidáme sekci _Kontakt_
 
-0. Otevři si adresu [cvičení XY](https://thimbleprojects.org/czechitas/TODO)
-0. Vpravo nahoře klikni na „Upravit“.
-0. Opáčko: mezi značky `<body>` znovu vlož nadpis a úvodní text o kamarádech.
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189042)
 
-**výsledek: [cvičení XY](https://thimbleprojects.org/czechitas/TODO)**
+1. Vytvoř sekci Kontakt
+    * s nadpisem `Kontakt`
+    * a textem
+    ```
+    To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
 
-===
+    Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
+    ```
+1. Ze slova „Facebooku“ udělej odkaz na Facebook.
+1. Vyzkoušej, že odkaz funguje.
+1. Dej hotovo.
 
-# Přidáme sekci _Kontakt_
-
-0. Vytvoř sekci Kontakt (nadpis a text)
-0. V kontaktech udělej odkaz na Facebook
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189046)
 
 ---
 
-# Bonus 1
+# Bonus (pokud máš hotovo)
 
-0. Doplň odkaz na e-mail ‒ [najdi si jak](http://google.com)
-0. Přidej odkazu další atribut `title` a něco do něj napiš, zaparkuj pak kurzor nad odkazem (v náhledu stránky).
+1. Slovo „e-mail“ udělej jako odkaz na medvídkův mail (pooh@example.com) [najdi si jak](https://google.com).
+1. Přidej odkazu další atribut `title` a něco do něj napiš, zaparkuj pak šipku myši nad odkazem (v náhledu stránky).
 
 ===
 
-# Přidáme mapu
+# 04 Přidáme mapu
 
-**vycházíme z [cvičení XY](https://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189046)
 
-0. Přidej mapu do kontaktu
-0. Přidej licencí vyžadované texty
+1. Přidej obrázek mapy do kontaktu hned pod nadpis „Kontakt“.
+1. Přidej licencí vyžadované texty včetně odkazů úplně na konec stránky (před tag `</body>`).`Autorem skenů je Paul K. pod licencí CC 2.0`
+1. odkaz na Paula K. `https://www.flickr.com/photos/bibliodyssey/3066814584`
+1. odkaz na licenci `https://creativecommons.org/licenses/by/2.0/`
+1. Dej hotovo.
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189053)
+
+===
+
+# 05 Přidáme obrázkovou galerii
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189053)
+
+Před sekci _Kontakt_ vlož další sekci s nadpisem „Galerie“, s textem `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a těmito obrázky:
+```
+drak.jpg
+koupel.jpg
+oslik.jpg
+oslik-prasatko.jpg
+piknik.jpg
+protivitr.jpg
+pu-koupelna.jpg
+pu-robin.jpg
+stopy.jpg
+```
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189058)
+
+===
+
+# 06 Doplníme titulek
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189058)
+
+Doplň titulek: `Kryštůfek Robin a medvídek Pú`
+
+Abys viděla výsledek, je třeba stránku publikovat (tlačítko vpravo nahoře) a otevřít vytvořený odkaz. To je protože v _Thimble_ vidíme vlastně **náhled stránky** což stačí na vše, co dnes budeme dělat, kromě zobrazení titulku.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189074)
 
 ---
 
-# Bonus 2
+# Bonus
 
-0. Pomocí atributů `width` a `height` si zkus změnit rozměry obrázku.
-0. Jeden rozměr drží proporce.
-
-===
-
-# Přidáme obrázkovou galerii
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-Před sekci _Kontakt_ vlož galerii z obrázků
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůfka Robina o medvídkovi Pú a jeho kamarádech.` [najdi si jak](https://www.google.cz/search?q=meta+description)
 
 ===
 
-# Doplníme titulek
+# 07 Připojíme styly
 
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189074)
 
-Doplň titulek
+1. Připoj si `styly.css` k HTML.
+1. Nastav barvu nadpisům (všem stejnou) a jinou textu.
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189082/)
+
+===
+
+# 08 Upravíme písmo
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189082)
+
+1. nastav celé stránce bezpatkové písmo
+1. vycentruj hlavní nadpis
+1. nastav odkazům tučný řez písma
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189083/)
+
+===
+
+# 09 Měníme velikosti písma
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189083)
+
+Nadpisy udělej větší než byly doposud.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189084)
+
+===
+
+# 10 Nastavíme barvu pozadí
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189084)
+
+1. Obal všechny tři sekce webu: kontakt, galerii a patičku tagem `<div>`. Patička jsou texty na konci stránky (odkaz na FB a informaci o licenci).
+1. Nastav všem třem nějakou světlou barvu pozadí.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189090)
+
+===
+
+# 11 Přidáme třídy
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189090)
+
+1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
+
+Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189097)
 
 ---
 
-# Bonus 3
+# Bonus
 
-Doplň popis stránky (tag `meta description`) ‒ [najdi si jak](http://google.com)
-
-===
-
-# Připojíme styly
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-0. Připoj si `styly.css` k HTML
-0. Nastav barvu nadpisům (stejnou) a jinou textu
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+1. V patičce vycentruj text
+1. Přidej třídu `.small` a s její pomocí zmenši text odstavci s licencí v patičce.
 
 ===
 
-# Upravíme písmo
+# 12 Nastavíme obrázkům šířku
 
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189097)
 
-0. nastav celé stránce bezpatkové písmo
-0. vycentruj hlavní nadpis
-0. nastav odkazům tučný řez písma
+Nastav obrázkům šířku 300 pixelů.
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189098)
 
 ===
 
-# Měníme velikosti písma
+# 13 Orámujeme obrázky
 
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189098)
 
-Nastav nadpisům různé velikosti
+1. Nastav obrázkům černý rámeček 2 pixely široký.
+1. Mapě nastav rámeček hnědý.
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-===
-
-# Nastavíme barvu pozadí
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-0. nastav pozadí sekci kontakt a fotogalerie
-0. a také patičce, kterou vytvoříš na konci stránky pod kontaktem (odkaz na FB a informaci o licenci)
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-===
-
-# Přidáme třídy
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-0. Nastav sekcím třídy a každou sekci obarvi jinak
-0. Pozor na kontrast
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
----
-
-# Bonus 7
-
-0. V patičce vycentruj text
-0. Zaveď třídu `.small` a její pomocí zmenši o 20 % text odstavci s licencí v patičce.
-
-===
-
-# Nastavíme obrázkům v galerii šířku
-
-Nastav obrázkům šířku 300 px
-
-===
-
-# Orámujeme obrázky
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-0. nastav obrázkům černý 2px rámeček
-0. mapa bude mít rámování hnědé
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189099)
 
 ---
 
@@ -192,182 +207,180 @@ Změň barvu horního ohraničení (nebo dolního, nebo pravého anebo levého)
 
 ===
 
-# Vnitřní odsazení obrázků
+# 14 Vnitřní odsazení obrázků
 
-0. nastav obrázkům pozadí (nebude hned vidět)
-0. přidej vnitřní odsazení (padding) 10px
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189099)
+
+Přidej vnitřní odsazení (padding) 10px.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189100)
 
 ===
 
-# Větší mezery mezi obrázky
+# 15 Větší mezery mezi obrázky
 
-Přidej obrázkům vnější odsazení 5px
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189100)
+
+Přidej obrázkům vnější odsazení 5px, aby na sebe nebyly tak nalepené.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189101)
 
 ---
 
 # Bonus
 
-Nastav jiné odsazení po stranách (vlevo a vpravo)
+Nastav jiné odsazení po stranách než nahoře a dole.
 
 ===
 
-# Odsadíme obsah od okrajů
+# 16 Odsadíme obsah od okrajů
 
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189101)
 
-0. v patičce odsazení textu horní a dolní
-0. odsaď obsah kontaktu ať není nalepený
-0. nastav šířku 50% boxu s kontakty a galerii
+1. V patičce odsaď text od horního a dolního okraje.
+1. Odsaď obsah kontaktu a galerie, ať není tak nalepený.
+1. Nastav šířku 50% sekcím Kontakt a Galerie.
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189105)
 
 ---
 
-# Bonus 8
+# Bonus
 
-Vycentruj galerii a kontaktní box ‒ [najdi si jak](http://google.com)
+Vycentruj vodorovně Galerii a Kontakt ‒ [najdi si jak](https://www.google.cz/search?q=horizontální%20centrování%20css)
 
 ===
 
-# Roztáhneme pozadí až do okraje
+# 17 Roztáhneme pozadí až do okraje
 
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189105)
 
-roztáhni pozadí až do kraje
+Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah. Tip: nelze to vyřešit jen pomocí CSS.
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+1. Je třeba **uvnitř** _divu_ `galerie` všechny obrázky obalit novým `<div>`, třeba s třídou `obsah`.
+1. Pro `.kontakt` odstraň nastavení šířky.
+1. `<div class="obsah">` nastav maximální šířku třeba 960px.
+1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí margin pro prvek `<body>` na nulový.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189107)
 
 ---
 
-# Bonus 9
+# Bonus
 
-## Nastav mapě 100% šířku
-
-0. vlož do kontaktu div
-0. kontaktu odstraň šířku
-0. omez novému
-0. `.obsah` dostane max-width 960px a margin-left/margin-right: auto;
+Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba nyní stejně vycentrovat _div_ s třídou `obsah`.
 
 ===
 
-# Zjednodušujeme kód
+# 18 Zjednodušujeme kód
 
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189107)
 
-0. uprav CSS pro barvu nadpisů na vícenásobný selektor
-0. přidej odkaz na Czechitas do patičky (pokud tam žádný nemáš) a obarvi všechny bíle aniž bys přidala třídu
+1. Uprav CSS pro barvu nadpisů tak, aby využíval vícenásobný selektor.
+1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
----
-
-# Bonus 10
-
-Přidej třídu `small` patičce. Jak zabráníš, aby byl text licence titěrný.
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189109)
 
 ===
 
-# Měníme barvu odkazů po najetí myši
+# 19 Měníme barvu odkazů po najetí myši
 
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189109)
 
 Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
----
-
-# Bonus 11
-
-0. Uprav všechny odkazy tak, aby jim po najetí myši zmizelo podtržení.
-0. Odkazy v patičce bílou barvou, po najetí myši nějakou jinou (a jinou než v kontaktech).
-
-===
-
-# Optimalizujeme kód
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-optimalizovat stávající kód
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
----
-
-# Přidáme navigaci (menu)
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-0. Navigace jako odrážkový seznam, se 3 položkami ‒ sekce stránky.
-0. Nezapomeň na úvodní stránku!
-0. Odkaz na stránku (atribut `href`) zatím nechej prázdný.
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
----
-
-# Bonus 17!
-
-===
-
-# Odkazy v navigaci na jeden řádek
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-0. nastyluj menu tak, aby položky byly vedle sebe a vycentrované
-0. udělej efekt podbarení po najetí na polozku menu
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
->>>
-list-style: none pro odstranění tečky
-
----
-
-# Bonus 18
-
-V CSS založ třídu pro aktivní odkaz v navigaci, který vizuálně odliší odkaz stránky, na které se právě nacházíme.
-
-===
-
-# Přidáme sekci _O mně_
-
-**vycházíme z [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
-
-Všechno, co je potřeba už umíš: přidej další sekci nad fotogalerii.
-
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189137)
 
 ---
 
 # Bonus
 
-Pokud chceš mít v obrázek Kryštůfka Robina v kruhu, hledej zaoblené rohy.
+1. Uprav všechny odkazy tak, aby jim po najetí myši zmizelo podtržení.
+1. Odkazy v patičce bílou barvou, po najetí myši nějakou jinou, ale jinou než v kontaktech.
 
 ===
 
-# Rozdělíme web na jednotlivé stránky
+# 20 Přidáme navigaci (menu)
 
-0. V levém sloupci vytvoř nové HTML soubory pro kontakt a galerii.
-0. Zkopíruj do nich všechen stávající HTML kód.
-0. Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
-0. Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189137)
+
+1. Navigace jako odrážkový seznam, se 3 položkami podle sekcí stránky.
+1. Nezapomeň na odkaz na úvodní stránku!
+1. Odkaz na stránku (atribut `href`) zatím nechej prázdný.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189138)
+
+===
+
+# 21 Odkazy v navigaci na jeden řádek
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189138)
+
+1. nastyluj menu tak, aby položky byly vedle sebe a vycentrované
+1. udělej efekt podbarvení po najetí na položku menu
+
+Tip: podívej se, co dělá vlastnost `list-style-type`.
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189139)
+
+===
+
+# 22 Přidáme sekci _O mně_
+
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189139)
+
+Všechno, co je potřeba pro tenhle úkol už umíš.
+
+
+1. Přidej další sekci, tentokrát `O mně` nad Galerii.
+2. Dej do ní text
+    ```
+    Ahoj. Jmenuji se Kryštůfek Robin a jsem malý chlapec, se kterým se zvířátka ze Stokorcového lesa spřátelila a hrají si se mnou jako s jediným člověkem z lidského světa. Kamarádím se s Medvídkem Pú, Prasátkem, Ijáčkem, Tygrem, Králíčkem se všemi jeho přáteli a příbuznými, Sovou a Klokanicí s Klokánkem.
+
+    Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
+    ```
+3. Přidej obrázek `krystufek-robin.jpg`
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189143)
 
 ---
 
 # Bonus
 
-0. Na každé stránce zvýrazni v navigaci odkaz aktivní stránky.
+Zkus udělat obrázek Kryštůfka Robina kruhový jen pomocí CSS (tip hledej zaoblené rohy).
 
 ===
 
-# Extra bonus
+# 23 Rozdělíme web na jednotlivé stránky
 
-0. Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout.
-0. Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189143)
+
+1. V levém sloupci vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. Pravým tlačítkem myši, klikni do sloupce _SOUBORY_ a vyber _Nový soubor_ a vyplň jméno.
+1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na index.html.
+1. Zkopíruj do nich všechen stávající HTML kód z `index.html` (kód, který ti vložil _Thimble_ do nových souborů přepiš).
+1. Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
+1. Proklikej si svůj nový web.
+
+Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
+
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189146)
+
+---
+
+# Bonus
+
+1. Na každé stránce zvýrazni (odliš) v navigaci odkaz na aktuální stránku (musíš přidat novou třídu a přiřadit ji na každé stránce u jiného odkazu).
+1. Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout. Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
 
 ===
 
-# Dohráno
+# Publikujeme hotový web na internet
 
-**výsledek: [cvičení XY](http://thimbleprojects.org/czechitas/TODO)**
+1. Vpravo nahoře klikni na _Publikovat_ a _Aktualizovat publikovanou verzi_.
+1. Thimble ti ukáže adresu, na které tvůj web bude veřejně k vidění.
+
+===
+
+# 24 Dohráno
+
+Výsledek by měl [vypadat nějak takto](https://thimbleprojects.org/czechitas/189149)
