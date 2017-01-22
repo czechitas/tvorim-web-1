@@ -2,7 +2,7 @@
 
 # Demo: more pages in one markdown file
 
-===
+---
 
 # Heading 1
 
@@ -19,7 +19,7 @@
 >>>
 Notes
 
-===
+---
 
 Paragraph lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet
 
