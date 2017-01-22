@@ -46,10 +46,3 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Doplníme titulek
-
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka 10 minut

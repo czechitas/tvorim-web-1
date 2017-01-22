@@ -1,17 +1,3 @@
-<!-- .slide: data-state="c-slide-break" -->
-
-# Shrnutí
-
->>>
-* HTML popisuje strukturu stránky => obsah
-* CSS předepisuje vzhled stránky => forma
-* představili jsme si různé elementy (nadpisy, odstavce, odkazy, obrázky)
-* ukázali jsme si, jak k HTML souboru připojit stylopis (soubor CSS)
-* představili jsme si, jakým způsobem zapisujeme pravidla, kterými měníme různé vlastnosti jednotlivých prvků
-* seznámili jsme se s tagem `div`, který nám umožňuje pracovat s částmi stránky jako celky
-
----
-
 <!-- .slide: data-state="c-slide-inter" -->
 
 # Třídy
@@ -109,9 +95,3 @@ p { color: blue; }
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme třídy
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka 10 min

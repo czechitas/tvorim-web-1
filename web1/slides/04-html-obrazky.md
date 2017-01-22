@@ -43,13 +43,6 @@
 
 ---
 
-<!-- .slide: data-state="c-slide-break" -->
-
-# Oběd
-
-
----
-
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme mapu
