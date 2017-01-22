@@ -47,9 +47,9 @@
 
 ---
 
-# Kodér
-# Front end vývojář
-# Frontendista
+# Kodérka
+# Front end vývojářka
+# Frontendistka
 
 
 >>>
