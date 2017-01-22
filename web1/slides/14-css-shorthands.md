@@ -90,9 +90,3 @@
 
 **výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)**
 <!-- .element: class="c-text-xs" -->
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka do 16:10

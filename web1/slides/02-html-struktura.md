@@ -76,12 +76,6 @@
 
 ---
 
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka 10 min
-
----
-
 ## Základní struktura HTML
 
 ```html

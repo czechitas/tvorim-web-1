@@ -25,9 +25,3 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme navigaci (menu)
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Přestávka 10 min
