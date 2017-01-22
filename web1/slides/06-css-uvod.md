@@ -5,7 +5,7 @@
 >>>
 * Jazyk popisující vzhled elementů webové stránky.
 
----
+----
 
 ## Z čeho se skládá stránka
 
@@ -22,7 +22,7 @@
 * Hranice mezi formou a obsahem se občas překračuje, ale tím se nyní nemusíme znepokojovat.
 * Javascript je programovací jazyk, který umožňuje manipulovat s prvky stránky.
 
----
+----
 
 ## Připojení CSS
 
@@ -38,7 +38,7 @@
 * Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.
 * `link` je další nepárový tag (nemá co obalovat, pouze říká, že a odkud se má stylopis načíst)
 
----
+----
 
 ## Anatomie CSS
 
@@ -56,7 +56,7 @@
 * editor chyby signalizuje změnou zvýrazňovacích barev
 
 
----
+----
 
 ## Barvy
 
@@ -73,7 +73,7 @@
 * Libovolnou barvu lze získat číselným zápisem, např. hexadecimálním.
 * Editor nám pomáhá, když upravujeme barvy, nabídne nám seznam barev s ukázkou.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

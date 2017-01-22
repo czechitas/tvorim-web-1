@@ -2,7 +2,7 @@
 
 # HTML hlavička
 
----
+----
 
 # Hlavička
 
@@ -26,7 +26,7 @@
 	* doteď jsme pracovali v `<body>`
 * `<head>` se „nezobrazuje“, zato obsahuje údaje, které ovlivňují vzhled a chování stránky
 
----
+----
 
 # Titulek
 
@@ -41,7 +41,7 @@
 * Mezi tagy `<head></head>`
 * Zobrazuje se na záložce v prohlížeči ‒ jediný z `<head>` je přímo vidět
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

@@ -7,7 +7,7 @@
 * Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my samozřejmě budeme používat Thimble
 * Oblíbené editory: Atom, Sublime Text
 
----
+----
 
 ## Značkovací jazyk
 
@@ -15,7 +15,7 @@
 * HT**ML** => mark-up language = značkovací
 * Značkovací, protože význam a strukturu dokumentu popisuje pomocí značek, anglicky tagů.
 
----
+----
 
 ## Tag/značka
 ```html
@@ -33,7 +33,7 @@
 * Existují i nepárové tagy (těch je pár), upozorním, až se k nim dostaneme.
 * Tagy vytvářejí v prostředí webové stránky tzv. **elementy/prvky**, z nichž se skládá každá stránka.
 
----
+----
 
 ## Klávesnice <!-- .element: class="c-sr-only" -->
 
@@ -44,7 +44,7 @@
 * Kouzelná je klávesa AltGr s kterou napíšete většinu znaků.
 * Někdo může mít trochu jiné rozložení.
 
----
+----
 
 ## Tagy
 
@@ -64,7 +64,7 @@
  * `h` = heading
  * `p` = paragraph
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
@@ -74,7 +74,7 @@
 * Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
 * Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
----
+----
 
 ## Základní struktura HTML
 

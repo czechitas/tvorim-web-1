@@ -2,7 +2,7 @@
 
 # Navigace: HTML
 
----
+----
 
 ## Odrážkový seznam
 
@@ -20,7 +20,7 @@
 * `li` vždy musí být přímo zanořené v `ul` (nebo `ol`)
 * Uvnitř `li` mohou být další prvky (nadpis, odstavec, dokonce další odrážkový seznam). My si vystačíme s odkazy.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

@@ -2,7 +2,7 @@
 
 # Box-model
 
----
+----
 
 ### Výška a šířka
 
@@ -16,13 +16,13 @@
 
 <img src="img/box-model-width-height.svg" style="border:0 none;box-shadow:none;">
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Nastavíme obrázkům v galerii šířku
 
----
+----
 
 ### Ohraničení
 
@@ -52,13 +52,13 @@ img {
 * rámeček kolem prvku: různé hodnoty `border-style` (dotted, dashed, inset)
 * zkrácený zápis: tento nastaví stejný rámeček po všech stranách. Lze samozřejmě nastavovat ohrančení pro každou stranu zvlášť.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Orámujeme obrázky
 
----
+----
 
 ### Odsazení obsahu od okraje
 
@@ -75,13 +75,13 @@ img {
 * „hraniční pásmo“ ‒ prostor mezi ohraničením a obsahem prvku
 * 1 hodnota nastaví shodné odsazení na všech 4 stranách prvku.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Vnitřní odsazení obrázků
 
----
+----
 
 ### Odsazení od vnějších prvků
 
@@ -97,13 +97,13 @@ img {
 >>>
 * za hranicí prvku, v rodičovském prvku (`div`, `body`)
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Větší mezery mezi obrázky
 
----
+----
 
 ### Box-model ‒ shrnutí
 
@@ -116,7 +116,7 @@ img {
 * **Pozor při výpočtech**: nezpomeňte násobit 2: <br>
 	`margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

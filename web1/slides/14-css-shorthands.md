@@ -3,7 +3,7 @@
 # Shorthand
 ## zkrácený zápis
 
----
+----
 
 ## Jedna hodnota
 
@@ -22,7 +22,7 @@
 >>>
 * `.foo` i `.bar` dělají to samé
 
----
+----
 
 ## Dvě hodnoty
 
@@ -41,7 +41,7 @@
 >>>
 * `.foo` i `.bar` dělají to samé
 
----
+----
 
 ## Čtyři hodnoty
 
@@ -60,7 +60,7 @@
 >>>
 * `.foo` i `.bar` dělají to samé
 
----
+----
 
 ## Ohraničení
 
@@ -78,7 +78,7 @@
 >>>
 * `.foo` i `.bar` dělají to samé
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

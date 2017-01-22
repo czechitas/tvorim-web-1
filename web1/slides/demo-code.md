@@ -2,7 +2,7 @@
 
 # Demo kódu
 
----
+----
 
 ### Kód: výchozí
 
@@ -19,7 +19,7 @@
 >>>
 * výchozí vzhled kódu
 
----
+----
 
 ### Kód: roztažený do&nbsp;konce
 
@@ -34,7 +34,7 @@
 ```
 <!-- .element: class="stretch"  -->
 
----
+----
 
 ### Kód: velikosti: c-text-xs
 
@@ -61,7 +61,7 @@
 ```
 <!-- .element: class="c-text-xs stretch" contenteditable="true" -->
 
----
+----
 
 ### Kód: velikosti: c-text-sm
 
@@ -82,7 +82,7 @@
 ```
 <!-- .element: class="c-text-sm stretch" contenteditable="true" -->
 
----
+----
 
 ### Kód: velikosti: výchozí
 
@@ -97,7 +97,7 @@
 ```
 <!-- .element: class="stretch"  -->
 
----
+----
 
 ### Kód: velikosti: c-text-md
 
@@ -111,7 +111,7 @@
 ```
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
----
+----
 
 ### Kód: velikosti: c-text-lg
 
@@ -124,7 +124,7 @@
 ```
 <!-- .element: class="c-text-lg stretch" contenteditable="true" -->
 
----
+----
 
 # Externí načítání kódu…
 
@@ -134,7 +134,7 @@
 * načítá kód z vnějších souborů, soubor může být delší a tímto z něj ukázat jen snippet(y)
 * zároveň je nutno obalit komentáři alespoň jeden snippet (nejde načíst celý soubor)
 
----
+----
 
 ## … s ukázkou výsledku v iframe
 

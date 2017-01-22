@@ -1,11 +1,11 @@
 <!-- .slide: data-state="c-slide-inter" -->
 # Jak to bude probíhat?
 
----
+----
 
 # 1. Lektor ukáže a vysvětlí
 
----
+----
 
 # 2. Zkusíte si
 
@@ -17,25 +17,25 @@
 Jak to uděláme? Zepředu opravdu každému do monitoru nevidím.
 Proto máme aplikaci, kterou máte všechny otevřenou.
 
----
+----
 
 # 3. Máš hotovo?
 
 >>>
 Zmáčkni tlačítko Hotovo
 
----
+----
 
 # Chceš poradit?
 
 >>>
 Dej Chci poradit
 
----
+----
 
 # A tak pořád dokola
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
@@ -44,7 +44,7 @@ Dej Chci poradit
 >>>
 Super. Někdo si dejte červený lísteček… : )
 
----
+----
 
 # Co když nebudu stíhat?
 
@@ -53,7 +53,7 @@ Super. Někdo si dejte červený lísteček… : )
 * Může se stát, že si to celé nějak rozbiješ a hodně by nás to zdržovalo.
 * Máme po každém cvičení záchytný bod, z kterého začneš, jako bys tu část udělala.
 
----
+----
 
 # Na konci budete mít…
 
@@ -61,7 +61,7 @@ Super. Někdo si dejte červený lísteček… : )
 Hotovou webovou stránku, kterou uděláte samy.
 Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pracovat s asistencí koučů.
 
----
+----
 
 # Plán
 

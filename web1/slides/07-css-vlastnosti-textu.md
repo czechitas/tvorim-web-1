@@ -2,7 +2,7 @@
 
 # Vlastnosti textu
 
----
+----
 
 # style, weight, align, family <!-- .element: class="c-sr-only" -->
 
@@ -25,7 +25,7 @@ p {
 * **dědičnost**: některé vlastnosti se dědí a tyto jsou mezi nimi
 * kvůli (nejen) dědičnosti existují hodnoty `normal`, slouží k „vynulování“ vlastnosti.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

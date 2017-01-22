@@ -2,7 +2,7 @@
 
 #  Navigace: CSS
 
----
+----
 
 ## Blokové elementy
 
@@ -11,7 +11,7 @@
 >>>
 * na vaší stránce jsou to nadpisy, odstavce, divy
 
----
+----
 
 ## Řádkové elementy
 
@@ -22,7 +22,7 @@
 >>>
 * na vaší stránce jsou to například odkazy, nebo důležitý text  (`strong`)
 
----
+----
 
 ## Řádkově-blokové elementy
 
@@ -32,7 +32,7 @@
 >>>
 * na vaší stránce se tak chovají obrázky
 
----
+----
 
 ## Typ elementu v&nbsp;CSS
 
@@ -49,7 +49,7 @@ li { display: inline-block; }
 * každý element má výchozí typ
 * pomocí CSS lze ale změnit chování prvku na jiný typ
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

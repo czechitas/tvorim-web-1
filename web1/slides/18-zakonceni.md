@@ -2,14 +2,14 @@
 
 # Co dál?
 
----
+----
 
 # Kurzy Czechitas
 
 * Tvořím web 2
 * Intenzivní kurz Czechitas
 
----
+----
 
 # Online
 
@@ -23,14 +23,14 @@
 >>>
 * angličtina (pasivní) nutná
 
----
+----
 
 # Programy
 
 * editory: Atom (zdarma), Sublime text (placený)
 * prohlížeče: je třeba testovat stránky pro zaostalejší prohížeče
 
----
+----
 
 # DevTools
 
@@ -43,13 +43,13 @@
 * Určitě zkuste: ideální na naší hotové stránce (je jednoduchá), ale jde na libovolné, kterou zrovna máte v prohlížeči.
 * Zkuste si něco změnit, prozkoumejte strukturu HTML.
 
----
+----
 
 # Srazy
 
 * Frontendisti.cz (Praha, Brno, Ostrava, Plzeň)
 
----
+----
 
 <!-- .slide: data-state="c-slide-break" -->
 

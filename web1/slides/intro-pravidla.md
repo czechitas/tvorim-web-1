@@ -1,7 +1,7 @@
 <!-- .slide: data-state="c-slide-inter" -->
 # Pravidla
 
----
+----
 
 # Děláme chyby
 
@@ -11,7 +11,7 @@ Kdo nedělá chyby, ten se neučí nic nového
 * Většinu toho, co umím, jsem se naučil metodou pokus omyl.
 * Ostatně i my dnes tady uděláme spoustu chyb, z kterých se zas poučíme do příště.
 
----
+----
 
 # K čemu jsou tu kouči
 
@@ -24,19 +24,19 @@ Kdo nedělá chyby, ten se neučí nic nového
 * Kouči nepíšou za vás, nenechte je sahat na klávesnici
 * Neváhejte si říct o pomoc, jinak by tu byli zbytečně
 
----
+----
 
 # Neexistuje hloupá otázka
 
 Kdo se neptá, nic se nedozví.
 
----
+----
 
 # Tykáme si
 
 ale nemusíme
 
----
+----
 
 # Jsme tu pro vás
 

@@ -2,7 +2,7 @@
 
 # Obrázky
 
----
+----
 
 # Tag img <!-- .element: class="c-sr-only" -->
 
@@ -27,7 +27,7 @@
 * `alt`: nevidomí, vyhledávače, uživatelé s pomalým připojením
 * formáty obrázků: GIF, JPG, PNG, SVG
 
----
+----
 
 # Pozor na licence
 
@@ -41,13 +41,13 @@
 
 
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme mapu
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

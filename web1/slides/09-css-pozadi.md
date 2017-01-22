@@ -2,7 +2,7 @@
 
 # Pozadí
 
----
+----
 
 ## Barva pozadí
 
@@ -12,7 +12,7 @@ p {
 }
 ```
 
----
+----
 
 ## Extra prvky
 
@@ -30,7 +30,7 @@ p {
 * `div` jako division => oddělení
 * Tagem `<div>` obalíme přislušné části stránky, se kterými chceme pracovat jako s celky.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

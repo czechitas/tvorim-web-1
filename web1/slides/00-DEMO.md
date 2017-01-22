@@ -2,21 +2,21 @@
 
 # Název sekce
 
----
+----
 
 # Slide 01
 
 >>>
 *
 
----
+----
 
 # Slide 02
 
 >>>
 *
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
@@ -27,7 +27,7 @@
 >>>
 *
 
----
+----
 
 <!-- .slide: data-state="c-slide-break" -->
 

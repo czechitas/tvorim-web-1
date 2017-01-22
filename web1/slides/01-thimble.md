@@ -2,7 +2,7 @@
 
 # Thimble
 
----
+----
 
 ## Editor
 
@@ -12,20 +12,20 @@
 * Přestože je to hlavně výukový nástroj, má některé vlastnosti a podobné principy, které jsou běžné v profesionálních editorech.
 * Pomáhá nám: zvýrazňuje místo, na kterém pracujeme, upozorňuje na chyby.
 
----
+----
 
 ## Online
 
 >>>
 * Thimble je online, není si třeba nic instalovat.
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Založíme si účet na Thimble
 
----
+----
 
 ## Soubory
 
@@ -33,7 +33,7 @@
 * úplně vlevo je seznam souborů
 * kliknutím si ho otevřeš
 
----
+----
 
 ## Kód
 
@@ -41,7 +41,7 @@
 * Pokud otevřeš textový soubor s kódem, zobrazí se ti uprostřed a můžeš ho rovnou upravovat.
 * Pokud se ti zdá špatně čitelný po kliknutí na ozubené kolečko vpravo nahoře se objeví možnost si kód zvětšit, případně přepnout pozadí na tmavé nebo světlé, dle toho co ti vyhovuje.
 
----
+----
 
 ## Náhled stránky
 
@@ -51,7 +51,7 @@
 * Vpravo nahoře je možnost přepnout si mezi náhledem na mobilu a na počítači.
 * Poslední tlačítko je náhled přes celou obrazovku, to využiješ hlavně pokud máš menší displej.
 
----
+----
 
 ## Klávesové zkratky
 
@@ -63,7 +63,7 @@
 * <kbd>Tab</kbd> přidat odsazení
 * <kbd>Shift+Tab</kbd> ubrat odsazení
 
----
+----
 
 ## Klávesové zkratky
 
@@ -74,7 +74,7 @@
 * <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
 * <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

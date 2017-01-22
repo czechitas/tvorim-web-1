@@ -2,7 +2,7 @@
 
 # Demo prvků
 
-===
+---
 
 # Nadpis 1
 
@@ -19,7 +19,7 @@
 >>>
 Poznámky
 
-===
+---
 
 Odstavec textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu extu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu textu.
 
@@ -32,11 +32,11 @@ Odstavec textu textu textu textu textu textu textu textu textu textu textu textu
 			- víceúrovňové
 - víceúrovňové
 
-===
+---
 
 # Sloupce
 
----
+----
 
 ### 2 sloupce
 
@@ -48,7 +48,7 @@ Odstavec textu textu textu textu textu textu textu textu textu textu textu textu
 
 </div>
 
----
+----
 
 ### 2 sloupce, druhý širší
 
@@ -60,7 +60,7 @@ Odstavec textu textu textu textu textu textu textu textu textu textu textu textu
 
 </div>
 
----
+----
 
 ### 3 sloupce
 
@@ -74,7 +74,7 @@ Odstavec textu textu textu textu textu textu textu textu textu textu textu textu
 
 </div>
 
----
+----
 
 ### 3 sloupce, poslední širší
 
@@ -88,7 +88,7 @@ Odstavec textu textu textu textu textu textu textu textu textu textu textu textu
 
 </div>
 
----
+----
 
 ### 4 sloupce…
 

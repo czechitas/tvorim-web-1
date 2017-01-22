@@ -2,7 +2,7 @@
 
 # Třídy
 
----
+----
 
 # Problém: jak odlišit elementy <!-- .element: class="c-sr-only" -->
 
@@ -23,7 +23,7 @@ p { color: blue; }
 * Co kdybych chtěl vypsat odstavce modře?
 * Ale co kdybych chtěl udělat jen první odstavec modrý?
 
----
+----
 
 # Řešení: jak odlišit elementy <!-- .element: class="c-sr-only" -->
 
@@ -46,7 +46,7 @@ p { color: blue; }
 * v CSS se zapíše s tečkou na začátku
 * třídu můžeme přiřadit libovolnému počtu značek
 
----
+----
 
 # Třída platí pro více elementů <!-- .element: class="c-sr-only" -->
 
@@ -69,7 +69,7 @@ p { color: blue; }
 * třída se tedy použije pokud má nějaký prvek speciální vlastnosti
 * nebo se skupina vlastností opakuje a chceme si tak ušetřit zápis
 
----
+----
 
 # Vícenásobné třídy
 
@@ -90,7 +90,7 @@ p { color: blue; }
 * jeden atribut `class` může mít přiřazeno více hodnot ‒ tříd
 * oddělujeme je mezerou
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 

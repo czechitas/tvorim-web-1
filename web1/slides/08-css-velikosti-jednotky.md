@@ -2,7 +2,7 @@
 
 # Velikost textu
 
----
+----
 
 # Ukázka jednotek <!-- .element: class="c-sr-only" -->
 
@@ -16,7 +16,7 @@
 * px = pixely (obrazovka)
 * % = dle velikosti rodiče => opět dědičná vlastnost
 
----
+----
 
 <!-- .slide: data-state="c-slide-task" -->
 
