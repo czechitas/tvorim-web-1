@@ -1,3 +1,5 @@
+# Todo list <!-- .element: class="c-sr-only" -->
+
 <div class="c-text-sm">
 <p>Nahlaš se Blance z Czechitas (vyřeší s tebou placení, oběd atd.)</p>
 <p>Mkrni na zasedací pořádek, kam si máš sednout.</p>
