@@ -21,6 +21,9 @@ Notes
 
 ---
 
+# Paragraph and list <!-- .element: class="c-sr-only" -->
+
+
 Paragraph lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet
 
 ----------------

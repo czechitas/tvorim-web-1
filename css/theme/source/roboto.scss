@@ -1,0 +1,281 @@
+/**
+ * Roboto theme for reveal.js. Based on white theme
+ *
+ */
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+// Include theme-specific fonts
+//@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,100italic,100,300,300italic,400italic,500,500italic,700italic,700,900,900italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,300,700,400italic,700italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700,100,100italic,300,300italic,500,400italic,500italic,700italic&subset=latin,latin-ext');
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: #fff;
+
+$mainColor: #000000;
+$headingColor: #333333;
+
+$mainFontSize: 50px;
+$mainFont: 'Roboto', sans-serif;
+$headingFont: 'Roboto Condensed', sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: normal;
+$headingFontWeight: 700;
+$linkColor: #888888;
+$linkColorHover: lighten($linkColor, 15%);
+$selectionBackgroundColor: lighten($linkColor, 25%);
+
+$headingSizeRatio: 0.66;
+$interHeadingSizeRatio: 1.8;
+$codeSizeRatio: 0.6;
+
+$heading1Size: 4.0em * $headingSizeRatio;
+$heading2Size: 3.0em * $headingSizeRatio;
+$heading3Size: 2.0em * $headingSizeRatio;
+$heading4Size: 1.6em * $headingSizeRatio;
+
+section.has-dark-background {
+    &, h1, h2, h3, h4, h5, h6 {
+        color: #ffffff;
+    }
+}
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+/*
+* custom Czechitas prez style
+* ===========================
+*/
+
+/*
+* Overrides
+* ---------
+*/
+
+.reveal {
+    h1, h2, h3, h4, h5, h6, p, ul, ol {
+        text-align: left;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        line-height: 0.9;
+    }
+
+    ol,
+    dl,
+    ul {
+        display: block;
+    }
+
+    code { font-family: 'Roboto Mono', monospace; }
+
+    pre {
+        -moz-tab-size: 4; /* Firefox 4+ */
+        tab-size: 4; /* Chrome 21+, Safari 6.1+, Opera 15+ */
+        white-space: pre-wrap;
+        box-shadow: none;
+        border-top: 1px solid #bbb;
+        border-bottom: 1px solid #bbb;
+        padding-top: 10px;
+    }
+
+    pre + pre { border-top: none; }
+
+    pre code {
+        line-height: 1.1;
+        padding: 0 0 12px;
+    }
+
+    kbd {
+        padding: 2px 5px !important;
+        min-width: 1.5em;
+        text-align: center;
+        display: inline-block !important;
+        background: #0D6AB7;
+        color: #fff;
+        line-height: 105%;
+        border-radius: 4px;
+        border: 1px solid #1081DD;
+        font-weight: bold;
+    }
+
+    .speaker-notes {
+        border-top: 1px solid black;
+        max-height: 60%;
+        font-size: 26px;
+        line-height: 1.15;
+        color: #000;
+        background-color: rgba(255, 255, 255, 0.75);
+        font-family: $headingFont;
+    }
+
+    iframe {
+        border: 1px solid #bbbbbb;
+
+        .c-slide-video & { border: 0 none; }
+    }
+
+}
+
+/*
+* Additions
+* ---------
+*/
+
+.reveal {
+    .c-sr-only { display: none; }
+
+    .c-text-left { text-align: left; }
+
+    .c-text-right { text-align: right; }
+
+    .c-text-center { text-align: center; }
+
+    .c-text-xxs,
+    .c-text-xxs code { font-size: 28px * $codeSizeRatio; }
+
+    .c-text-xs,
+    .c-text-xs code { font-size: 40px * $codeSizeRatio; }
+
+    .c-text-sm,
+    .c-text-sm code { font-size: 56px * $codeSizeRatio; }
+
+    pre code {
+        font-size: 78px * $codeSizeRatio;
+        letter-spacing: -0.03em;
+    }
+
+    .c-text-md,
+    .c-text-md code { font-size: 78px * $codeSizeRatio; }
+
+    .c-text-lg,
+    .c-text-lg code { font-size: 110px * $codeSizeRatio; }
+
+    .c-text-xl,
+    .c-text-xl code { font-size: 150px * $codeSizeRatio; }
+
+    .c-cols {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: stretch;
+
+        > * {
+            margin-right: 1em;
+            width: 0;
+            flex-grow: 1;
+            flex-shrink: 1;
+
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+
+        > .c-grow {
+            flex-grow: 2;
+        }
+    }
+
+}
+
+@mixin c-mark-code() {
+    display: block;
+    position: absolute;
+    top: 0.9em;
+    left: -2em;
+    font-size: 20px;
+    transform: rotate(-90deg);
+    color: #bbb;
+    text-align: right;
+    letter-spacing: 0;
+}
+
+.lang-css:before {
+    @include c-mark-code();
+    content: "CSS";
+}
+
+.lang-html:before {
+    @include c-mark-code();
+    content: "HTML";
+}
+
+.lang-js:before {
+    @include c-mark-code();
+    content: "js";
+}
+
+/* věci extra, které standardně neučíme */
+.c-extra { display: none; }
+
+.c-slide-blank {
+    .slide-background { background: #000; }
+
+    .present { color: #333; }
+
+    .stretch {
+        background-color: #0f0f0f;
+        border: 1px solid #333;
+    }
+}
+
+.c-slide-video,
+.c-slide-task {
+    .slide-background { background-color: #000; }
+
+    body.print-pdf & {
+        .slide-background { background-color: #eee; }
+    }
+}
+
+.c-slide-break {
+    .slide-background { background-color: green; }
+}
+
+.c-slide-inter {
+    .slide-background { background: #333333; }
+
+    .reveal {
+        h1, h2, h3, h4, h5, h6 { line-height: 0.8; }
+        h1 { font-size: $heading1Size * $interHeadingSizeRatio; }
+        h2 { font-size: $heading2Size * $interHeadingSizeRatio; }
+        h3 { font-size: $heading3Size * $interHeadingSizeRatio; }
+    }
+}
+
+.reveal {
+    @mixin c-postit() {
+        box-sizing: border-box;
+        display: inline-block;
+        width: 3em;
+        height: 3em;
+        padding: 0.5em 0.2em 0;
+        overflow: hidden;
+        font-size: 150%;
+        line-height: 1;
+        text-align: center;
+        font-family: $headingFont;
+    }
+}
+
+.reveal {
+    .c-url {
+        text-align: left;
+        font-size: 0;
+        font-family: 'Roboto Mono', monospace;
+        font-weight: bold;
+
+        b {
+            background-color: white;
+            font-size: 28px;
+            display: inline-block;
+        }
+    }
+}
