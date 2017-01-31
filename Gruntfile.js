@@ -154,8 +154,7 @@ module.exports = function(grunt) {
 				},
 				options: {
 					server: {
-						baseDir: './',
-						watchTask: true
+						baseDir: './'
 					},
 					injectChanges: false,
 					watchTask: true,
