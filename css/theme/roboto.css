@@ -505,14 +505,17 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
     font-size: 28px;
     display: inline-block; }
 
+.c-flat [data-markdown] {
+  width: 70vw; }
+
 .c-flat .toc {
   position: fixed;
   top: 0;
   right: 0;
   background: #333;
-  width: auto;
   color: #fff;
   height: 100%;
+  width: 25vw;
   overflow: auto; }
   .c-flat .toc ul {
     margin: 0;

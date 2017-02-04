@@ -281,14 +281,17 @@ section.has-dark-background {
 }
 
 .c-flat {
+
+    [data-markdown] { width: 70vw; }
+
     .toc {
         position: fixed;
         top: 0;
         right: 0;
         background: #333;
-        width: auto;
         color: #fff;
         height: 100%;
+        width: 25vw;
         overflow: auto;
 
         ul {
