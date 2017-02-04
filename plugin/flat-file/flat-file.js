@@ -28,7 +28,10 @@ $(document).ready(
 					var result = '';
 
 					jQuery.each(data.split(/\r?\n----?\s*\r?\n/g), function(key, value){
-						result += '<section>' + marked(value) + '</section>';
+						var sectionStart = '<section>';
+						var className = value.match(/^<!-- .slide: data-state="(.+?)" -->$/m);
+						if (className) sectionStart = '<section class="' + className[1] + '">';
+						result += sectionStart + marked(value) + '</section>';
 					});
 
 					$element.html(result);
@@ -36,7 +39,7 @@ $(document).ready(
 					// this should be called only once
 					$('.toc').toc({
 						'selectors': 'h1,h2,h3', //elements to use as headings
-						'container': 'body', //element to find all selectors in
+						'container': 'section', //element to find all selectors in
 						'smoothScrolling': false, //enable or disable smooth scrolling on click
 						'prefix': 'toc', //prefix for anchor tags and class names
 						'onHighlight': function(el){
