@@ -511,7 +511,9 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
   right: 0;
   background: #333;
   width: auto;
-  color: #fff; }
+  color: #fff;
+  height: 100%;
+  overflow: auto; }
   .c-flat .toc ul {
     margin: 0;
     padding: 0;

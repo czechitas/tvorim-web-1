@@ -288,6 +288,8 @@ section.has-dark-background {
         background: #333;
         width: auto;
         color: #fff;
+        height: 100%;
+        overflow: auto;
 
         ul {
             margin: 0;
