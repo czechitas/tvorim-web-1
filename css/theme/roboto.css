@@ -504,3 +504,30 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
     background-color: white;
     font-size: 28px;
     display: inline-block; }
+
+.c-flat .toc {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #333;
+  width: auto;
+  color: #fff; }
+  .c-flat .toc ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+  .c-flat .toc li {
+    padding: 5px 10px; }
+  .c-flat .toc a {
+    color: #fff;
+    text-decoration: none;
+    display: block; }
+  .c-flat .toc .h2 {
+    padding-left: 2em;
+    font-size: 90%; }
+  .c-flat .toc .h3 {
+    padding-left: 4em;
+    font-size: 80%; }
+  .c-flat .toc .toc-active {
+    background: #336699;
+    box-shadow: inset -5px 0px 10px -5px #000; }
