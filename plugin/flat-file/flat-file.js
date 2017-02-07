@@ -23,7 +23,7 @@ $(document).ready(
 			var $element = $(this);
 
 			$
-				.get($(this).data('markdown'), function(data){
+				.get($element.data('markdown'), function(data){
 
 					var result = '';
 
@@ -36,12 +36,11 @@ $(document).ready(
 
 					$element.html(result);
 
-					// this should be called only once
 					$('.toc').toc({
 						'selectors': 'h1,h2,h3', //elements to use as headings
 						'container': 'section', //element to find all selectors in
 						'smoothScrolling': false, //enable or disable smooth scrolling on click
-						'prefix': 'toc', //prefix for anchor tags and class names
+						'prefix': 'toc-' + $element.data('markdown').match('/([^/]+)\.md')[1] + '-', //prefix for anchor tags and class names
 						'onHighlight': function(el){
 						}, //called when a new section is highlighted
 						'highlightOnScroll': true, //add class to heading that is currently in focus
