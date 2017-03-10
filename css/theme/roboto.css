@@ -504,3 +504,86 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
     background-color: white;
     font-size: 28px;
     display: inline-block; }
+
+.c-flat {
+  font-family: "Roboto Condensed", sans-serif;
+  padding-left: 25vw;
+  /*dzirty repeated code*/
+  /*dzirty repeated code*/ }
+  .c-flat > h1:first-of-type {
+    font-size: 10em; }
+  .c-flat code,
+  .c-flat pre {
+    background-color: #000;
+    border-radius: 4px; }
+  .c-flat code {
+    color: #fff;
+    font-family: "Roboto Mono", Consolas, monospace;
+    padding: 0 0.2em; }
+  .c-flat pre code {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0; }
+  .c-flat pre {
+    padding: 1em;
+    white-space: pre-wrap; }
+  .c-flat section {
+    margin: 1em 0 5em 1em;
+    padding-left: 1em;
+    border-left: 10px solid skyblue;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em; }
+  .c-flat .c-url {
+    text-align: left;
+    font-size: 0;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold; }
+    .c-flat .c-url b {
+      background-color: white;
+      font-size: 28px;
+      display: inline-block; }
+  .c-flat kbd {
+    padding: 2px 5px !important;
+    min-width: 1.5em;
+    text-align: center;
+    display: inline-block !important;
+    background: #0D6AB7;
+    color: #fff;
+    line-height: 105%;
+    border-radius: 4px;
+    border: 1px solid #1081DD;
+    font-weight: bold; }
+  .c-flat .c-slide-inter {
+    border-color: black;
+    background-color: #eee; }
+  .c-flat .c-slide-task {
+    border-color: green; }
+  .c-flat [data-markdown] {
+    width: 70vw; }
+  .c-flat .toc {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #333;
+    color: #fff;
+    height: 100%;
+    width: 25vw;
+    overflow: auto; }
+    .c-flat .toc ul {
+      margin: 0;
+      padding: 0;
+      list-style: none; }
+    .c-flat .toc li {
+      padding: 5px 10px; }
+    .c-flat .toc a {
+      color: #fff;
+      text-decoration: none;
+      display: block; }
+    .c-flat .toc .h2 {
+      padding-left: 2em;
+      font-size: 90%; }
+    .c-flat .toc .h3 {
+      padding-left: 4em;
+      font-size: 80%; }
+    .c-flat .toc .toc-active {
+      background: #336699; }
