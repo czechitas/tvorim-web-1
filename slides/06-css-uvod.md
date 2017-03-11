@@ -12,7 +12,7 @@
 * HTML (obsah a struktura) <!-- .element: class="fragment" -->
 * CSS (vzhled) <!-- .element: class="fragment" -->
 * obrázky a třeba i videa nebo zvuky (netextový obsah) <!-- .element: class="fragment" -->
-* Javascript (aplikace, animace a další) <!-- .element: class="fragment" -->
+* JavaScript (aplikace, animace a další) <!-- .element: class="fragment" -->
 
 >>>
 * V HTML je obsah stránky a také je v něm popsáno, jaká je struktura toho obsahu.

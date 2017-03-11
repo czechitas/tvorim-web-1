@@ -9,9 +9,9 @@
 
 # 2. Zkusíte si
 
-## času bude kolik je potřeba
+- Zadání se objeví v aplikaci.
+- Času bude kolik je potřeba.
 
-## Zadání se objeví v aplikaci
 
 >>>
 Jak to uděláme? Zepředu opravdu každému do monitoru nevidím.

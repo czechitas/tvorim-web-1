@@ -40,7 +40,7 @@ ale nemusíme
 
 # Jsme tu pro vás
 
-## pokud je něco problém, řekněte to hned
+Pokud je něco problém, řekněte to hned.
 
 >>>
 * vyřešíme pokud bude v našich silách
