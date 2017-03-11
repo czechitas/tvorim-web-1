@@ -138,7 +138,7 @@ module.exports = function(grunt) {
 				files: root.map(path => path + '/*.md')
 			},
 			options: {
-				livereload: false
+				livereload: true
 			}
 		},
 
@@ -161,7 +161,6 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-autoprefixer' );
 	grunt.loadNpmTasks( 'grunt-zip' );
 	grunt.loadNpmTasks( 'grunt-retire' );
-	grunt.loadNpmTasks( 'grunt-browser-sync' );
 
 	// Default task
 	grunt.registerTask( 'default', [ 'css', 'js' ] );
