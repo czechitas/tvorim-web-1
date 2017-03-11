@@ -142,30 +142,6 @@ module.exports = function(grunt) {
 			}
 		},
 
-		browserSync: {
-			dev: {
-				bsFiles: {
-					src: [
-						'**/*.html',
-						'**/*.md',
-						'**/*.css',
-						'js/**/*.js'
-					]
-				},
-				options: {
-					server: {
-						baseDir: './'
-					},
-					injectChanges: false,
-					watchTask: true,
-					port: port,
-					ghostMode: false,
-					notify: false,
-					open: false
-				}
-			}
-		},
-
 		retire: {
 			js: ['js/reveal.js', 'lib/js/*.js', 'plugin/**/*.js'],
 			node: ['.'],
@@ -207,9 +183,6 @@ module.exports = function(grunt) {
 
 	// Serve presentation locally
 	grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
-
-	// Serve presentation locally with reload
-	grunt.registerTask( 'servebs', [  'browserSync', 'watch' ] );
 
 	// Run tests
 	grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );

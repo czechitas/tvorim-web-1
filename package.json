@@ -25,7 +25,6 @@
     "express": "~4.14.0",
     "grunt": "~1.0.1",
     "grunt-autoprefixer": "~3.0.3",
-    "grunt-browser-sync": "^2.2.0",
     "grunt-cli": "~1.2.0",
     "grunt-contrib-connect": "~1.0.2",
     "grunt-contrib-cssmin": "~1.0.2",
@@ -43,7 +42,6 @@
   "devDependencies": {
     "grunt": "~1.0.1",
     "grunt-autoprefixer": "~3.0.3",
-    "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-connect": "~1.0.2",
     "grunt-contrib-cssmin": "~1.0.2",
     "grunt-contrib-jshint": "~1.1.0",
