@@ -50,5 +50,6 @@ Zadání úkolů je v souboru [slides/ukoly.md](slides/ukoly.md) a na konci prez
 
 # Autoři
 
-- Daniel Srb @benabraham
-- Jan Vlnas @jnv
+- Daniel Srb [@benabraham](https://github.com/benabraham)
+- Tomáš Kout [@Kout](https://github.com/Kout)
+- Jan Vlnas [@jnv](https://github.com/jnv)
