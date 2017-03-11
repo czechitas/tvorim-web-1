@@ -1,6 +1,5 @@
-<!-- .slide: data-state="c-slide-inter" -->
+<!-- .slide: data-state="c-slide-half" -->
 
-# Tvořím web 1
-
-## Czechitas
-### 21. ledna 2017
+# Tvořím web!
+## HTML/CSS
+### 12. března 2017
