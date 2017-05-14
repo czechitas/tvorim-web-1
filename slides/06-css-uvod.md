@@ -42,10 +42,14 @@
 
 ## Anatomie CSS
 
-<pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="20">selektor</span><span class="fragment" data-fragment-index="30"> { </span>
-	<span class="fragment" data-fragment-index="40">vlastnost</span><span class="fragment" data-fragment-index="50">:</span><span class="fragment" data-fragment-index="60"> hodnota</span><span class="fragment" data-fragment-index="70">;</span><span class="fragment" data-fragment-index="100">
-	property: value;</span>
+<pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="lang-css" data-noescape><span class="fragment" data-fragment-index="20">kdo</span><span class="fragment" data-fragment-index="30"> { </span>
+	<span class="fragment" data-fragment-index="40">co</span><span class="fragment" data-fragment-index="50">:</span><span class="fragment" data-fragment-index="60"> jak</span><span class="fragment" data-fragment-index="70">;</span>
 <span class="fragment" data-fragment-index="80">}</span>
+</code>
+<code class="lang-css" data-noescape><span class="fragment" data-fragment-index="120">selektor</span><span class="fragment" data-fragment-index="130"> { </span>
+	<span class="fragment" data-fragment-index="140">vlastnost</span><span class="fragment" data-fragment-index="150">:</span><span class="fragment" data-fragment-index="160"> hodnota</span><span class="fragment" data-fragment-index="170">;</span><span class="fragment" data-fragment-index="1100">
+	property: value;</span>
+<span class="fragment" data-fragment-index="180">}</span>
 </code></pre>
 
 >>>
