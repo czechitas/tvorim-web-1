@@ -2,7 +2,7 @@
 
 # Pokročilé selektory
 
-----
+---
 
 # Vícenásobný selektor
 
@@ -15,7 +15,7 @@ h2 { color: green; }
 >>>
 * obarví nadpisy 1. a 2. úrovně na zeleno
 
-----
+---
 
 # Kontextový selektor
 
@@ -28,7 +28,7 @@ h2 { color: green; }
 * obarví nadpisy 2. úrovně na modro, pokud jsou v prvku s třídou `.tip`
 * odpovídá zanořování v HTML
 
-----
+---
 
 # Na pořadí záleží
 
@@ -42,7 +42,7 @@ h2 { color: green; }
 >>>
 * platí poslední nastavená hodnota vlastnosti
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
