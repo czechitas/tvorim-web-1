@@ -1,6 +1,14 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Webdesign
+<div class="c-text-md">
+
+<h1>Webdesign</h1>
+
+</div>
+
+>>>
+* začneme tím, čím není
+* pak si řekneme, co naopak všechno zahrnuje
 
 ---
 
@@ -17,7 +25,6 @@ ale často se k němu tak přistupuje:
 <p class="c-text-md fragment">Ve skutečnosti si bere od každého něco…</p>
 
 >>>
-
 Proč?
 
 ---
