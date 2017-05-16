@@ -163,3 +163,10 @@ Platí totéž co pro kódérku, ale navíc mám hlubší znalost javascriptu a 
 >>>
 * zleva doprava je směr od umění k technice
 * výseč tohoto kurzu bude ještě užší
+
+---
+
+# Použitá literatura
+
+- Jan Řezáč: Web ostrý jak břitva [2014]
+- Martin Michálek: Vzhůru do (responzivního) designu [2017]
