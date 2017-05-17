@@ -97,7 +97,6 @@ Opačný extrém než umělecký přístup.
 
 >>>
 * zleva doprava je směr od umění k technice
-* výseč tohoto kurzu bude ještě užší
 
 ---
 
