@@ -89,23 +89,10 @@ Opačný extrém než umělecký přístup.
 # Oblasti WD
 
 <ul>
-	<li class="c-text-md fragment">UX designerka</li>
 	<li class="c-text-md fragment">webová grafička</li>
+	<li class="c-text-md fragment">UX designerka</li>
 	<li class="c-text-md fragment">kódérka</li>
 	<li class="c-text-md fragment">frontend vývojářka</li>
-</ul>
-
----
-
-# UX designerka
-
-UX = User eXperience
-
-<ul>
-	<li class="c-text-md fragment">návrh webu ‒ informační architektura</li>
-	<li class="c-text-md fragment">uživatelské výzkumy</li>
-	<li class="c-text-md fragment">testuje a experimentuje (A/B testy)</li> 	
-	<li class="c-text-md fragment"><strong>výstup</strong>: (mj.) schéma/nárys = wireframe webu <span class="c-text-xs">(, stránky, komponenty)</span></li>
 </ul>
 
 ---
@@ -119,6 +106,19 @@ Vychází z grafického designu a typografie (sazby).
 	<li class="c-text-md fragment">vytváří vizuální jazyk webu</li>
 	<li class="c-text-md fragment">respektuje vizuální styl klienta</li> 	
 	<li class="c-text-md fragment"><strong>výstup</strong>: obrázek webové stránky <span class="c-text-xs">(, komponenty)</span></li>
+</ul>
+
+---
+
+# UX designerka
+
+UX = User eXperience
+
+<ul>
+	<li class="c-text-md fragment">návrh webu ‒ informační architektura</li>
+	<li class="c-text-md fragment">uživatelské výzkumy</li>
+	<li class="c-text-md fragment">testuje a experimentuje (A/B testy)</li> 	
+	<li class="c-text-md fragment"><strong>výstup</strong>: (mj.) schéma/nárys = wireframe webu <span class="c-text-xs">(, stránky, komponenty)</span></li>
 </ul>
 
 ---
