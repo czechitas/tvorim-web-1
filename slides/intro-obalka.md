@@ -2,4 +2,4 @@
 
 # Tvořím web!
 ## HTML/CSS
-### 12. března 2017
+### 17. a 19. července 2017
