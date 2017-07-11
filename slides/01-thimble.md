@@ -40,6 +40,8 @@
 >>>
 * Pokud otevřeš textový soubor s kódem, zobrazí se ti uprostřed a můžeš ho rovnou upravovat.
 * Pokud se ti zdá špatně čitelný po kliknutí na ozubené kolečko vpravo nahoře se objeví možnost si kód zvětšit, případně přepnout pozadí na tmavé nebo světlé, dle toho co ti vyhovuje.
+* nastavení (ozubené kolečko) => Automatické doplňování kódu: vypnout (zelená na šedo)
+* tamtéž lze vypnout Automaticky uzavírat značky (kdyby nás to zlobilo)
 
 ----
 
