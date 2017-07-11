@@ -69,22 +69,11 @@ a {
 	padding: 10px;
 }
 
-.o-mne {
-	background-color: #f8bcff;
-}
-.galerie {
-	background-color: #a8e8c3;
-}
-
 img {
 	width: 300px;
 	padding: 10px;
 	border: 2px solid black;
 	margin: 5px;
-}
-
-.kontakt {
-	background-color: #f9cb8f;
 }
 
 .kontakt a:hover {
