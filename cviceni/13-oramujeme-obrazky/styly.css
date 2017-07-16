@@ -1,6 +1,7 @@
 /* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
 
 body {
+	color: darkslategrey;
 	font-family: sans-serif;
 }
 
