@@ -359,6 +359,7 @@ Zkus udělat obrázek Kryštůfka Robina kruhový jen pomocí CSS (tip hledej za
 1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na index.html.
 1. Zkopíruj do nich všechen stávající HTML kód z `index.html` (kód, který ti vložil _Thimble_ do nových souborů přepiš).
 1. Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
+1. Zruš barevné pozadí pro jednotlivé sekce. Teď už není potřeba je odlišovat, když každá je na stránce sama. (Stačí odmazat daná pravidla.)
 1. Proklikej si svůj nový web.
 
 Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
