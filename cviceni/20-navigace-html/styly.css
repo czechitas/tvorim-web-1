@@ -2,6 +2,7 @@
 
 body {
 	margin: 0;
+    color: darkslategrey;
 	font-family: sans-serif;
 }
 
@@ -54,7 +55,7 @@ img {
 
 .paticka {
 	padding: 10px 0;
-	background-color: #f19181;
+	background-color: #955e42;
 	color: #fff;
 	text-align: center;
 }
