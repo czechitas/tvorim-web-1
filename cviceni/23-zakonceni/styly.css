@@ -26,7 +26,6 @@ a {
 
 .obsah {
 	max-width: 960px;
-	margin: auto;
 }
 .obsah.nahore {
 	text-align: center;
@@ -89,7 +88,6 @@ img {
 	padding: 10px 0;
 	background-color: #955e42;
 	color: #fff;
-	text-align: center;
 }
 
 .paticka a {
