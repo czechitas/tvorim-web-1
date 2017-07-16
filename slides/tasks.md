@@ -384,3 +384,5 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 # 24 Dohráno
 
 [Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/s/BylzJbePx)
+
+[Púův web, jak by taky mohl vypadat](https://thimbleprojects.org/czechitas/189149/)
