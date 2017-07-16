@@ -28,8 +28,13 @@ a {
 	max-width: 960px;
 }
 
-.galerie {
+.galerie,
+.kontakt,
+.paticka {
 	padding: 10px;
+}
+
+.galerie {
 	background-color: #a8e8c3;
 }
 
@@ -41,7 +46,6 @@ img {
 }
 
 .kontakt {
-	padding: 10px;
 	background-color: #f9cb8f;
 }
 
@@ -50,9 +54,10 @@ img {
 }
 
 .paticka {
-	padding: 10px 0;
-	color: #fff;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	background-color: #955e42;
+	color: #fff;
 }
 
 .paticka a {

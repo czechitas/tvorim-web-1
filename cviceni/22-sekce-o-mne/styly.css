@@ -62,13 +62,15 @@ a {
 
 .o-mne,
 .galerie,
-.kontakt {
+.kontakt,
+.paticka {
 	padding: 10px;
 }
 
 .o-mne {
 	background-color: #def4c6;
 }
+
 .galerie {
 	background-color: #a8e8c3;
 }
@@ -93,7 +95,8 @@ img {
 }
 
 .paticka {
-	padding: 10px 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	background-color: #955e42;
 	color: #fff;
 }

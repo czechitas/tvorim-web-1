@@ -237,8 +237,8 @@ Nastav jiné odsazení po stranách než nahoře a dole.
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189101)
 
-1. V patičce odsaď text od horního a dolního okraje.
-1. Odsaď obsah kontaktu a galerie od okraje jejich boxu, ať na něj není tak nalepený.
+1. Odsaď obsah kontaktu, galerie a patičky od okraje jejich boxu, ať na něj není tak nalepený.
+1. V patičce odsaď text od horního a dolního okraje víc než po stranách.
 1. Nastav maximální šířku 960px sekcím Kontakt a Galerie.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189105)
