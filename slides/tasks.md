@@ -45,9 +45,9 @@
     * s nadpisem `Kontakt`
     * a textem
     ```
-    To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
-    
     Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
+
+    To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
     ```
 1. Ze slova „Facebooku“ udělej odkaz na Facebook.
 1. Vyzkoušej, že odkaz funguje.
