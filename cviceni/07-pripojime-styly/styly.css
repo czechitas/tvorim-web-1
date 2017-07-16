@@ -1,13 +1,13 @@
 /* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
 
-h1 {
-	color: #2b4856;
 }
 
-h2 {
-	color: #2b4856;
+h1 {
+    color: #005128;
 }
 
 p {
 	color: grey;
+h2 {
+    color: #005128;
 }
