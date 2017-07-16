@@ -1,0 +1,120 @@
+/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+
+body {
+	margin: 0;
+	background-color: #f8f6eb;
+	color: darkslategrey;
+	font-family: sans-serif;
+}
+
+h1,
+h2 {
+	color: #005128;
+}
+
+h1 {
+	font-size: 48px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+a {
+	color: #005128;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.obsah {
+	max-width: 960px;
+	margin: auto;
+}
+
+.obsah.nahore {
+	text-align: center;
+}
+
+/* Navigace */
+.nav {
+	background-color: #3c7a89;
+}
+
+.nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+
+.nav li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.nav a,
+.nav span {
+	display: block;
+	padding: 15px 30px;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+
+.nav a:hover,
+.nav a:active,
+.nav a:focus,
+.active {
+	background-color: #2f606e;
+}
+
+.o-mne,
+.galerie,
+.kontakt {
+	padding: 10px;
+}
+
+.o-mne img{
+	border-radius: 50%;
+}
+
+img {
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin: 5px;
+}
+
+.kontakt a:hover {
+	color: maroon;
+	text-decoration: none;
+}
+
+.mapa {
+	border-color: black;
+}
+
+.paticka {
+	padding: 10px 0;
+	background-color: #955e42;
+	color: #fff;
+	text-align: center;
+}
+
+.paticka a {
+	color: white;
+}
+
+.paticka a:hover {
+	text-decoration: none;
+}
+
+.licence {
+	font-size: 80%;
+}
