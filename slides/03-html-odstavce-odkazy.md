@@ -72,6 +72,6 @@
 
 ## Další funkce Thimble
 
-* Zvýraznění prvku, na jehož kódu je kurzor
+* Zvýraznění prvku, na jehož kódu je kurzor; lze přepnout v podokně s náhledem webu (ikona se šipkou přes obdélník).
 * Nalezení kódu k prvku, na nějž dám kurzor
 * Změní barvu textu, narazí-li na chybu.

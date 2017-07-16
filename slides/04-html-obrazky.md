@@ -55,4 +55,5 @@
 
 >>>
 * Opáčko tagu `<img>` (a práce s editorem)
+* několikanásobný kurzor `Ctrl+click`
 
