@@ -9,6 +9,7 @@
 ```css
 p {
     background-color: green;
+    background-color: #008000;
 }
 ```
 
