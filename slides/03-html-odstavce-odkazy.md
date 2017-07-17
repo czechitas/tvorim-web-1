@@ -46,11 +46,18 @@
 ## Odkazy
 
 ```html
-<a href="https://www.google.com/">
+<a>
     nejlepší přítel
 </a>
 ```
-<!-- .element: class="c-text-md stretch" contenteditable="true" -->
+<!-- .element: class="c-text-md fragment current-visible fade-out" contenteditable="true" -->
+
+```html
+<a href="https://google.com">
+    nejlepší přítel
+</a>
+```
+<!-- .element: class="c-text-nd fragment current-visible" contenteditable="true" -->
 
 >>>
 * naučíme se jak udělat odkaz
