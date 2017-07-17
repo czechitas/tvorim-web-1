@@ -95,6 +95,8 @@ pu-robin.jpg
 stopy.jpg
 ```
 
+**Dej hotovo.**
+
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189058)
 
 ---
@@ -106,6 +108,8 @@ stopy.jpg
 Doplň titulek: `Kryštůfek Robin a medvídek Pú`
 
 Abys viděla výsledek, je třeba stránku publikovat (tlačítko vpravo nahoře) a otevřít vytvořený odkaz. To je protože v _Thimble_ vidíme vlastně **náhled stránky** což stačí na vše, co dnes budeme dělat, kromě zobrazení titulku.
+
+**Dej hotovo.**
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189074)
 
@@ -123,6 +127,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 1. Připoj si `styly.css` k HTML.
 1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou).
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189082/)
 
@@ -135,6 +140,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 1. nastav celé stránce bezpatkové písmo
 1. vycentruj hlavní nadpis
 1. nastav odkazům tučný řez písma
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189083/)
 
@@ -144,7 +150,9 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189083)
 
-Nadpisy udělej větší než byly doposud.
+Nadpisy udělej o něco větší než byly doposud.
+
+**Dej hotovo**
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189084)
 
@@ -156,6 +164,7 @@ Nadpisy udělej větší než byly doposud.
 
 1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička jsou texty na konci stránky (odkaz na FB a informaci o licenci).
 1. Nastav všem třem nějakou světlou barvu pozadí.
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189090)
 
@@ -168,6 +177,8 @@ Nadpisy udělej větší než byly doposud.
 1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
 
 Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
+
+**Dej hotovo.**
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189097)
 
@@ -186,6 +197,8 @@ Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
 
 Nastav obrázkům šířku 300 pixelů.
 
+**Dej hotovo.**
+
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189098)
 
 ---
@@ -196,6 +209,7 @@ Nastav obrázkům šířku 300 pixelů.
 
 1. Nastav obrázkům černý rámeček 2 pixely široký.
 1. Mapě nastav rámeček hnědý.
+1. Dej hotovo
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189099)
 
@@ -213,6 +227,8 @@ Změň barvu horního ohraničení (nebo dolního, nebo pravého anebo levého)
 
 Přidej vnitřní odsazení (padding) 10px.
 
+**Dej hotovo.**
+
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189100)
 
 ---
@@ -222,6 +238,8 @@ Přidej vnitřní odsazení (padding) 10px.
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189100)
 
 Přidej obrázkům vnější odsazení 5px, aby na sebe nebyly tak nalepené.
+
+**Dej hotovo.**
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189101)
 
@@ -240,6 +258,7 @@ Nastav jiné odsazení po stranách než nahoře a dole.
 1. Odsaď obsah kontaktu, galerie a patičky od okraje jejich boxu, ať na něj není tak nalepený.
 1. V patičce odsaď text od horního a dolního okraje víc než po stranách.
 1. Nastav maximální šířku 960px sekcím Kontakt a Galerie.
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189105)
 
@@ -261,6 +280,7 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 1. Pro `.kontakt` odstraň nastavení maximální šířky.
 1. `<div class="obsah">` nastav maximální šířku 960px.
 1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí margin pro prvek `<body>` na nulový.
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189107)
 
@@ -278,6 +298,7 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 1. Uprav CSS pro barvu nadpisů tak, aby využíval vícenásobný selektor.
 1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189109)
 
@@ -287,7 +308,8 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189109)
 
-Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
+1. Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189137)
 
@@ -297,6 +319,7 @@ Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
 1. Uprav všechny odkazy tak, aby jim po najetí myši zmizelo podtržení.
 1. Odkazy v patičce bílou barvou, po najetí myši nějakou jinou, ale jinou než v kontaktech.
+1. Dej hotovo.
 
 ---
 
@@ -307,6 +330,7 @@ Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 1. Navigace jako odrážkový seznam, se 3 položkami podle sekcí stránky.
 1. Nezapomeň na odkaz na úvodní stránku!
 1. Odkaz na stránku (atribut `href`) zatím nechej prázdný.
+1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189138)
 
@@ -318,6 +342,7 @@ Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
 
 1. nastyluj menu tak, aby položky byly vedle sebe a vycentrované
 1. udělej efekt podbarvení po najetí na položku menu
+1. Dej hotovo.
 
 Tip: podívej se, co dělá vlastnost `list-style-type`.
 
@@ -333,13 +358,15 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
 
 1. Přidej další sekci, tentokrát `O mně` nad Galerii.
-2. Dej do ní text 
+1. Dej do ní text 
     ```
     Ahoj. Jmenuji se Kryštůfek Robin a jsem malý chlapec, se kterým se zvířátka ze Stokorcového lesa spřátelila a hrají si se mnou jako s jediným člověkem z lidského světa. Kamarádím se s Medvídkem Pú, Prasátkem, Ijáčkem, Tygrem, Králíčkem se všemi jeho přáteli a příbuznými, Sovou a Klokanicí s Klokánkem.
 
     Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
     ```
-3. Přidej obrázek `krystufek-robin.jpg`
+1. Přidej obrázek `krystufek-robin.jpg`
+1. Dej hotovo.
+
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189143)
 
@@ -361,6 +388,7 @@ Zkus udělat obrázek Kryštůfka Robina kruhový jen pomocí CSS (tip hledej za
 1. Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
 1. Zruš barevné pozadí pro jednotlivé sekce. Teď už není potřeba je odlišovat, když každá je na stránce sama. (Stačí odmazat daná pravidla.)
 1. Proklikej si svůj nový web.
+1. Dej hotovo.
 
 Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
 
@@ -372,6 +400,7 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 1. Na každé stránce zvýrazni (odliš) v navigaci odkaz na aktuální stránku (musíš přidat novou třídu a přiřadit ji na každé stránce u jiného odkazu).
 1. Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout. Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
+1. Dej hotovo.
 
 ---
 
@@ -379,6 +408,7 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 1. Vpravo nahoře klikni na _Publikovat_ a _Aktualizovat publikovanou verzi_.
 1. Thimble ti ukáže adresu, na které tvůj web bude veřejně k vidění.
+1. Dej hotovo.
 
 ---
 
@@ -386,4 +416,4 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 [Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/s/BylzJbePx)
 
-[Púův web, jak by taky mohl vypadat](https://thimbleprojects.org/czechitas/189149/)
+[Púův web, jak by taky mohl vypadat](https://thimbleprojects.org/czechitas/189149/) (se všemi bonusovými úkoly)
