@@ -1,45 +1,44 @@
 /* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
 
 body {
-	color: darkslategrey;
-	font-family: sans-serif;
+  color: darkslategrey;
+  font-family: sans-serif;
 }
 
 h1 {
-	color: #005128;
-	font-size: 48px;
-	text-align: center;
+  color: #2e616b;
+  font-size: 48px;
 }
 
 h2 {
-	color: #005128;
-	font-size: 30px;
+  color: #2e616b;
+  font-size: 30px;
 }
 
 a {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .galerie {
-	background-color: #a8e8c3;
+  background-color: #dee8c9;
 }
 
 img {
-	width: 300px;
-	padding: 10px;
-	border: 2px solid black;
-	margin: 5px;
+  width: 300px;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 5px;
 }
 
 .kontakt {
-	background-color: #f9cb8f;
+  background-color: #f9cb8f;
 }
 
 .mapa {
-	border-color: brown;
+  border-color: brown;
 }
 
 .paticka {
-	background-color: #955e42;
-	color: #fff;
+  background-color: #74593e;
+  color: #fff;
 }
