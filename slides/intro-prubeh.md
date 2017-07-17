@@ -65,9 +65,8 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 
 # Plán
 
-- začátek
-- oběd zde
-- 18.00 konec
+- začátek 17.00
+- konec 21.00
 
 a zhruba každou hodinu 10 minut pauza
 
