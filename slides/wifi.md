@@ -1,4 +1,4 @@
 # Wi-Fi
 
-## síť: `síť`
-## heslo: `heslo`
+## síť: `VOX-PUBLIC`
+## heslo: `voxinternet`
