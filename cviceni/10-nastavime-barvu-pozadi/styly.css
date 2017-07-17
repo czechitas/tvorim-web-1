@@ -1,23 +1,24 @@
 /* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
 
 body {
-	font-family: sans-serif;
-	color: darkslategrey;
+  color: darkslategrey;
+  font-family: sans-serif;
+  color: darkslategrey;
 }
 
 h1 {
-    color: #005128;
-    text-align: center;
+  color: #2e616b;
+  text-align: center;
 }
 
 h2 {
-    color: #005128;
+  color: #2e616b;
 }
 
 a {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 div {
-	background-color: #a8e8c3;
+  background-color: #a8e8c3;
 }
