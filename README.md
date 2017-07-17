@@ -64,15 +64,15 @@ Zadání úkolů je v souboru [slides/tasks.md](slides/tasks.md) a na konci prez
 
 Obsahují vždy kompletní data pro daný krok. Smyslem je moci ukázat jak to má po dokončení úkolu vypadat a také umožnit v případě, že někdo úkol nestihne, aby to mohl využít jako záchytný krok. 
 
-Součást projektu je to kvůli spolupráci. 
-
+Součást projektu je to kvůli spolupráci.
+ 
 
 ### Úpravy
 
 Pokud se nejedná o úpravu v posledním kroku, je potřeba vždy změnit to samé znovu ve všech následujících krocích. Všechny úpravy je potřeba následně nasadit na Thimble.
 
 
-### Jak nasadit změny na Thimble
+#### Jak nasadit změny na Thimble
 
 1. Nejdřív si zazipuj **obsah** každé změněné složky **zvlášť**.
 2. Přihlaš se na Thimble (pod účtem `czechitas`)
@@ -84,6 +84,11 @@ Pokud se nejedná o úpravu v posledním kroku, je potřeba vždy změnit to sam
 8. Zkontroluj z odkazů v `tasks.md`, že vše je jak má být.
 
 _Tip: Neotvírat více než jeden projekt najednou (do tabů např.) Thimble to špatně rozdýchává._
+
+
+#### Automatické obnovení
+
+Není to nutné, ale pokud si chceš ušetřit práci s obnovováním stránky při změně CSS nebo HTML, spusť v `/cviceni/` příkaz `yarn install` a pomocí `yarn watch` se spustí Browsersync. 
 
 
 
