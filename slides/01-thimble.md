@@ -58,6 +58,23 @@
 
 ## Klávesové zkratky
 
+### Práce s textem
+* <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
+* <kbd class="nichtvergissmeinnicht">Ctrl+→</kbd> Posun po slovech doprava
+* <kbd class="nichtvergissmeinnicht">Ctrl+←</kbd> Posun po slovech doleva
+* <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
+* <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
+* <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
+
+>>>
+* Tyto jsou univerzální, fungují i v jiných programech.
+* Pokud neznáte, osvojte si je. Ohromně šetří čas.
+
+
+----
+
+## Klávesové zkratky
+
 ### Úpravy
 * <kbd>Ctrl+C</kbd> Kopírovat (výběr nebo řádek)
 * <kbd>Ctrl+V</kbd> Vložit
@@ -72,10 +89,10 @@
 
 ### Pouze Thimble
 * <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
-* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
 	* lze odszazovat více řádků najednou
 * <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
 * <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
+* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ na anglické klávesnici…
 
 ----
 
@@ -85,3 +102,4 @@
 
 >>>
 * Všimni si, že text je v náhledu slitý do jednoho bloku.
+* Chybějící strukturu vytvoříme pomocí jazyka HTML.
