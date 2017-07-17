@@ -74,14 +74,13 @@ Pokud se nejedná o úpravu v posledním kroku, je potřeba vždy změnit to sam
 
 #### Jak nasadit změny na Thimble
 
-1. Nejdřív si zazipuj **obsah** každé změněné složky **zvlášť**.
-2. Přihlaš se na Thimble (pod účtem `czechitas`)
-3. Otevři příslušný projekt (podle čísla, názvy se mohou lehce lišit) do nového tabu.
-4. Drag&drop zip do otevřeného projektu.
-5. Klikni na _Publish_ vpravo nahoře.
-6. Zavři tab.
-7. Opakuj krok 3. až 6. dokud nenahraješ všechny změněné stavy.
-8. Zkontroluj z odkazů v `tasks.md`, že vše je jak má být.
+1. Přihlaš se na Thimble (pod účtem `czechitas`)
+2. Otevři příslušný projekt (podle čísla, názvy se mohou lehce lišit) do nového tabu.
+3. Drag&drop soubory do otevřeného projektu.
+4. Klikni na _Publish_ vpravo nahoře.
+5. Zavři tab.
+6. Opakuj krok 2. až 5. dokud nenahraješ všechny změněné stavy.
+7. Zkontroluj z odkazů v `tasks.md`, že vše je jak má být.
 
 _Tip: Neotvírat více než jeden projekt najednou (do tabů např.) Thimble to špatně rozdýchává._
 
