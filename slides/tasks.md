@@ -19,8 +19,8 @@
     ```
     Web Kryštůfka Robina 
     
-    Představím vám zde své dobré kamarády:    
-    medvídka Pú, Tygříka, Íáčka a Prasátko.
+    Představím vám zde své dobré kamarády: 
+    medvídka Pú, Tygříka, Íjáčka a Prasátko.
     ```
 1. Opět dej prosím „Hotovo“.
 
@@ -37,13 +37,13 @@
 
 ---
 
-# 03 Přidáme sekci _Kontakt_
+# 03 Přidáme _Kontakt_
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189042)
 
-1. Vytvoř sekci Kontakt
-    * s nadpisem `Kontakt`
-    * a textem
+1. Vytvoř sekci Kontakt, tedy
+    * nadpis `Kontakt`
+    * a text
     ```
     Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
 
@@ -60,7 +60,7 @@
 # Bonus (pokud máš hotovo)
 
 1. Slovo „e-mail“ udělej jako odkaz na medvídkův mail (pooh@example.com) [najdi si jak](https://google.com).
-1. Přidej odkazu další atribut `title` a něco do něj napiš, zaparkuj pak šipku myši nad odkazem (v náhledu stránky).
+1. Přidej stejnému odkazu další atribut `title` s hodnotou _Když pošleš med, budu radši._. Co to dělá zjištíš tak, že zaparkuješ šipku myši (kurzor) nad odkazem v náhledu stránky.
 
 ---
 
@@ -68,10 +68,10 @@
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189046)
 
-1. Přidej obrázek mapy do kontaktu hned pod nadpis „Kontakt“.
-1. Přidej licencí vyžadované texty včetně odkazů úplně na konec stránky (před tag `</body>`).`Autorem skenů je Paul K. pod licencí CC 2.0`
-1. odkaz na Paula K. `https://www.flickr.com/photos/bibliodyssey/3066814584`
-1. odkaz na licenci `https://creativecommons.org/licenses/by/2.0/`
+1. Přidej obrázek mapy do kontaktu za text, který už tam máš.
+1. Přidej za mapu licencí vyžadované texty:`Autorem skenů je Paul K. pod licencí CC 2.0`.
+1. Vytvoř odkaz z „Paul K.“ `https://www.flickr.com/photos/bibliodyssey/3066814584`
+1. Vytvoř odkaz na licenci z textu „licencí CC 2.0“ `https://creativecommons.org/licenses/by/2.0/`
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189053)
@@ -82,13 +82,13 @@
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189053)
 
-Před sekci _Kontakt_ vlož další sekci s nadpisem „Galerie“, s textem `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a těmito obrázky: 
+**Před** nadpis _Kontakt_ dej další nadpis „Galerie“ a pod něj text `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a tyto obrázky (můžeš si zkopírovat) 
 ```
 drak.jpg
 koupel.jpg
 oslik.jpg
 oslik-prasatko.jpg
-piknik.jpg
+kralik.jpg
 protivitr.jpg
 pu-koupelna.jpg
 pu-robin.jpg
@@ -126,7 +126,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189074)
 
 1. Připoj si `styly.css` k HTML.
-1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou).
+1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou). Třeba 
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189082/)
@@ -138,11 +138,17 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189082)
 
 1. nastav celé stránce bezpatkové písmo
-1. vycentruj hlavní nadpis
 1. nastav odkazům tučný řez písma
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189083/)
+
+
+----
+
+# Bonus
+
+1. vycentruj hlavní nadpis
 
 ---
 
@@ -201,13 +207,19 @@ Nastav obrázkům šířku 300 pixelů.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189098)
 
+----
+
+# Bonus
+
+1. Obrázku v hlavičce a mapě nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent.
+
 ---
 
 # 13 Orámujeme obrázky
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189098)
 
-1. Nastav obrázkům černý rámeček 2 pixely široký.
+1. Nastav obrázkům šedý rámeček 2 pixely široký.
 1. Mapě nastav rámeček hnědý.
 1. Dej hotovo
 
