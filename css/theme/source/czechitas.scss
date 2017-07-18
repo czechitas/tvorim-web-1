@@ -225,6 +225,10 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
     content: "js";
 }
 
+.reveal .slide-background {
+    background-size: contain;
+}
+
 /* věci extra, které standardně neučíme */
 .c-extra { display: none; }
 
@@ -295,11 +299,6 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
         background: #df0000;
         color: white;
     }
-
-    .slide-background {
-        background-size: contain;
-    }
-
 }
 
 .reveal {

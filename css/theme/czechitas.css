@@ -466,6 +466,9 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
   letter-spacing: 0;
   content: "js"; }
 
+.reveal .slide-background {
+  background-size: contain; }
+
 /* věci extra, které standardně neučíme */
 .c-extra {
   display: none; }
@@ -539,9 +542,6 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
   font-family: "Roboto Condensed", sans-serif;
   background: #df0000;
   color: white; }
-
-.reveal .slide-background {
-  background-size: contain; }
 
 .reveal .c-url {
   text-align: left;
