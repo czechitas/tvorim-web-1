@@ -37,7 +37,6 @@ a {
   margin: 0;
   padding: 0;
   list-style: none;
-  text-align: center;
 }
 
 .menu li {
@@ -74,12 +73,12 @@ a {
 img {
   width: 300px;
   padding: 10px;
-  border: 2px solid black;
+  border: 2px solid #888;
   margin: 5px;
 }
 
 .kontakt {
-  background-color: #f9cb8f;
+  background-color: #ecd9c6;
 }
 
 .kontakt a:hover {
