@@ -289,9 +289,10 @@ Vycentruj vodorovně Galerii a Kontakt ‒ [najdi si jak](https://www.google.cz/
 Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah. Tip: nelze to vyřešit jen pomocí CSS.
 
 1. Je třeba **uvnitř** _divu_ `galerie` všechny obrázky obalit novým `<div>`, třeba s třídou `obsah`.
-1. Pro `.kontakt` odstraň nastavení maximální šířky.
-1. `<div class="obsah">` nastav maximální šířku 960px.
-1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí margin pro prvek `<body>` na nulový.
+1. Pro `.kontakt` a `.galerie` odstraň nastavení maximální šířky… 
+1. … a nastavit ji pro `<div class="obsah">`
+1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí `margin` pro prvek `<body>` na nulu.
+1. Hlavní nadpis (h1) a odstavec pod ním je ale teď do kraje, chtělo by to vyřešit… 
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189107)
@@ -309,10 +310,16 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189107)
 
 1. Uprav CSS pro barvu nadpisů tak, aby využíval vícenásobný selektor.
-1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
+1. Zkus využít vícenásobný selektor i pro nastavení stejného paddingu hlavních sekcí.
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189109)
+
+----
+
+# Bonus
+
+1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
 
 ---
 
@@ -320,7 +327,7 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189109)
 
-1. Udělej jinou barvou odkaz po najetí kurzorem v kontaktech
+1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189137)
@@ -329,8 +336,8 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 # Bonus
 
-1. Uprav všechny odkazy tak, aby jim po najetí myši zmizelo podtržení.
-1. Odkazy v patičce bílou barvou, po najetí myši nějakou jinou, ale jinou než v kontaktech.
+1. Uprav všechny odkazy na stránce tak, aby jim po najetí myši zmizelo podtržení.
+1. Odkazy v patičce udělej bílou barvou, po najetí myši nějakou jinou a zároveň jinou než v kontaktech.
 1. Dej hotovo.
 
 ---
