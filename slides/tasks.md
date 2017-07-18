@@ -348,7 +348,7 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 1. Navigace jako odrážkový seznam, se 3 položkami podle sekcí stránky.
 1. Nezapomeň na odkaz na úvodní stránku!
-1. Odkaz na stránku (atribut `href`) zatím nechej prázdný.
+1. Odkaz na stránku (atribut `href`) zatím nechej prázdný, to znamená jen napsat uvozovky a nic mezi ně.
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189138)
@@ -359,8 +359,8 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189138)
 
-1. nastyluj menu tak, aby položky byly vedle sebe a vycentrované
-1. udělej efekt podbarvení po najetí na položku menu
+1. Nastyluj menu tak, aby položky byly vedle sebe a vycentrované.
+1. Udělej efekt podbarvení po najetí na položku menu.
 1. Dej hotovo.
 
 Tip: podívej se, co dělá vlastnost `list-style-type`.
