@@ -375,7 +375,6 @@ Tip: podívej se, co dělá vlastnost `list-style-type`.
 
 Všechno, co je potřeba pro tenhle úkol už umíš.
 
-
 1. Přidej další sekci, tentokrát `O mně` nad Galerii.
 1. Dej do ní text 
     ```
@@ -383,7 +382,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
     Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
     ```
-1. Přidej obrázek `krystufek-robin.jpg`
+1. Přidej obrázek `krystufek-robin.png`
 1. Dej hotovo.
 
 
@@ -393,7 +392,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
 # Bonus
 
-Zkus udělat obrázek Kryštůfka Robina kruhový jen pomocí CSS (tip hledej zaoblené rohy).
+Mapa a obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadaly, kdyby byly přes celou šířku stránky.
 
 ---
 
