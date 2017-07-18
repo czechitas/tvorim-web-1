@@ -400,8 +400,8 @@ Mapa a obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadaly, kd
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189143)
 
-1. V levém sloupci vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. Pravým tlačítkem myši, klikni do sloupce _SOUBORY_ a vyber _Nový soubor_ a vyplň jméno.
-1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na index.html.
+1. V Thimble vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci, kde už je index.html, klikni do šedé plochy pravým tlačítkem myši a vyber _Nový soubor_ a vyplň jeho název včetně `.html` na konci.
+1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na `index.html`.
 1. Zkopíruj do nich všechen stávající HTML kód z `index.html` (kód, který ti vložil _Thimble_ do nových souborů přepiš).
 1. Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
 1. Zruš barevné pozadí pro jednotlivé sekce. Teď už není potřeba je odlišovat, když každá je na stránce sama. (Stačí odmazat daná pravidla.)

@@ -1,97 +1,90 @@
 /* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
 
 body {
-	margin: 0;
-	color: darkslategrey;
-	font-family: sans-serif;
+  margin: 0;
+  color: darkslategrey;
+  font-family: sans-serif;
 }
 
 h1,
 h2 {
-	color: #005128;
+  color: #2e616b;
 }
 
 h1 {
-	font-size: 48px;
-	text-align: center;
+  font-size: 48px;
 }
 
 h2 {
-	font-size: 30px;
+  font-size: 30px;
 }
 
 a {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .obsah {
-	max-width: 960px;
-}
-.obsah.nahore {
-	text-align: center;
+  max-width: 960px;
 }
 
-/* Navigace */
-.nav {
-	background-color: #3c7a89;
+/* Menu */
+
+.menu {
+  background-color: #3c7a89;
 }
 
-.nav ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	text-align: center;
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-.nav li {
-	display: inline-block;
-	margin: 0;
-	padding: 0;
+.menu li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
 }
 
-.nav a {
-	display: block;
-	padding: 15px 30px;
-	font-size: 24px;
-	color: white;
-	text-decoration: none;
+.menu a {
+  display: block;
+  padding: 15px 30px;
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
 }
 
-.nav a:hover,
-.nav a:active,
-.nav a:focus {
-	background-color: #2f606e;
+.menu a:hover,
+.menu a:active,
+.menu a:focus {
+  background-color: #2f606e;
 }
 
 .o-mne,
+.uvod,
 .galerie,
 .kontakt,
 .paticka {
-	padding: 10px;
+  padding: 10px;
 }
 
 img {
-	width: 300px;
-	padding: 10px;
-	border: 2px solid black;
-	margin: 5px;
+  width: 300px;
+  padding: 10px;
+  border: 2px solid #888;
+  margin: 5px;
 }
 
 .kontakt a:hover {
-	color: maroon;
+  color: maroon;
 }
 
 .mapa {
-	border-color: brown;
+  border-color: brown;
 }
 
 .paticka {
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background-color: #955e42;
-	color: #fff;
-}
-
-.paticka a {
-	color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #74593e;
+  color: #fff;
 }
