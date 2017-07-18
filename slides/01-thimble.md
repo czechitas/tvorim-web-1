@@ -75,14 +75,15 @@
 
 ## Klávesové zkratky
 
-### Úpravy
-* <kbd>Ctrl+C</kbd> Kopírovat (výběr nebo řádek)
-* <kbd>Ctrl+V</kbd> Vložit
-* <kbd>Ctrl+X</kbd> Kopírovat a smazat (výběr nebo řádek)
-* <kbd>Ctrl+A+C+V</kbd> srovná odsazení celého souboru (Thimble)
-* <kbd>Tab</kbd> přidat odsazení
-* <kbd>Shift+Tab</kbd> ubrat odsazení
-    * lze odszazovat více řádků najednou
+<kbd>Ctrl+C</kbd> Kopírovat
+ 
+<kbd>Ctrl+V</kbd> Vložit
+
+<kbd>Ctrl+X</kbd> Kopírovat a smazat (vyjmout) <br> _výběr nebo bez výběru pro celý řádek_ <!-- .element: class="c-text-sm" -->
+
+odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
+
+<kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazení celého souboru (Thimble)
 
 ----
 
