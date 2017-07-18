@@ -359,8 +359,8 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189138)
 
-1. Nastyluj menu tak, aby položky byly vedle sebe a vycentrované.
-1. Udělej efekt podbarvení po najetí na položku menu.
+1. Nastyluj menu tak, aby položky byly vedle sebe.
+1. Přidej jiné podbarvení celé položky po najetí na ni.
 1. Dej hotovo.
 
 Tip: podívej se, co dělá vlastnost `list-style-type`.
