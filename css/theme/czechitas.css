@@ -540,6 +540,9 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
   background: #df0000;
   color: white; }
 
+.reveal .slide-background {
+  background-size: contain; }
+
 .reveal .c-url {
   text-align: left;
   font-size: 0;
