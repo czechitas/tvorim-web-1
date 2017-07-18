@@ -71,10 +71,10 @@ Pokud chcete za půl roku spustit nějaký vážně míněný projekt, tak si na
 
 <div style="position:relative; height: 60vh;">
         <p class="fragment current-visible" style="position:absolute; margin-left: auto; margin-right: auto; left: 0; right: 0;" data-fragment-index="0">
-            <img alt="Diagram webdesignu" src="/img/Software-Development-Continuum-2.png">
+            <img alt="Diagram webdesignu" src="/img/software-development-continuum.png">
         </p>
         <p class="fragment current-visible" style="position:absolute; margin-left: auto; margin-right: auto; left: 0; right: 0;" data-fragment-index="1">
-            <img alt="Diagram webdesignu" src="/img/Front-End-Developers-3.png">
+            <img alt="Diagram webdesignu" src="/img/front-end-developers.png">
         </p>
         <p class="c-text-xs fragment" style="position: absolute; bottom: 0; text-align: right;" data-fragment-index="0">zdroj: [{sauceCode} The Salsita Blog](http://blog.salsitasoft.com/the-shifting-definition-of-front-end-developer/) </p>
 </div>
