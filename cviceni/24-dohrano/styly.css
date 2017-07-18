@@ -1,124 +1,129 @@
-/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+/* Moderni box model */
+*, *:before, *:after { box-sizing: border-box; }
 
 body {
-	margin: 0;
-	background-color: #f8f6eb;
-	color: darkslategrey;
-	font-family: sans-serif;
+  margin: 0;
+  background-color: #f8f6eb;
+  color: darkslategrey;
+  font-family: sans-serif;
+  line-height: 1.6;
 }
 
 h1,
 h2 {
-	color: #005128;
+  color: #2e616b;
 }
 
 h1 {
-	font-size: 48px;
-	text-align: center;
+  font-size: 48px;
+  text-align: center;
 }
 
 h2 {
-	font-size: 30px;
+  font-size: 30px;
 }
 
 a {
-	color: #005128;
-	font-weight: bold;
+  color: #2e616b;
+  font-weight: bold;
 }
 
 a:hover {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 .obsah {
-	max-width: 960px;
-	margin: auto;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.obsah.nahore {
-	text-align: center;
+.uvod {
+  text-align: center;
 }
 
-/* Navigace */
-.nav {
-	background-color: #3c7a89;
+/* Menu */
+.menu {
+  background-color: #3c7a89;
 }
 
-.nav ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	text-align: center;
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
 }
 
-.nav li {
-	display: inline-block;
-	margin: 0;
-	padding: 0;
+.menu li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
 }
 
-.nav a,
-.nav span {
-	display: block;
-	padding: 15px 30px;
-	font-size: 24px;
-	font-weight: bold;
-	color: white;
-	text-decoration: none;
+.menu a,
+.menu span {
+  display: block;
+  padding: 15px 30px;
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
 }
 
-.nav a:hover,
-.nav a:active,
-.nav a:focus,
+.menu a:hover,
+.menu a:active,
+.menu a:focus,
 .active {
-	background-color: #2f606e;
+  background-color: #2f606e;
 }
 
 .o-mne,
+.uvod,
 .galerie,
 .kontakt,
 .paticka {
-	padding: 10px;
-}
-
-.o-mne img{
-	border-radius: 50%;
+  padding: 10px;
 }
 
 img {
-	width: 300px;
-	border: 2px solid black;
-	border-top-color: silver;
-	border-left-color: grey;
-	margin: 10px 5px;
+  width: 300px;
+  padding: 10px;
+  padding-bottom: 30px;
+  border: 2px solid #888;
+  border-bottom-color: #000;
+  margin: 5px;
+  background-color: white;
+}
+
+.obrazek-siroky {
+  width: 100%;
 }
 
 .kontakt a:hover {
-	color: maroon;
-	text-decoration: none;
+  color: maroon;
+  text-decoration: none;
 }
 
 .mapa {
-	border-color: black;
+  border-color: brown;
 }
 
 .paticka {
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background-color: #955e42;
-	color: #fff;
-	text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #74593e;
+  color: #fff;
+  text-align: center;
 }
 
 .small {
-	font-size: 80%;
+  font-size: 80%;
 }
 
 .paticka a {
-	color: white;
+  color: white;
 }
 
 .paticka a:hover {
-	text-decoration: none;
-	color: #f8d864;
+  text-decoration: none;
+  color: #f8d864;
 }

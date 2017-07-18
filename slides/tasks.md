@@ -162,6 +162,14 @@ Nadpisy udělej o něco větší než byly doposud.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189084)
 
+----
+
+# Bonus
+
+1. Lépe by vypadalo, kdyby mezi řádky bylo trochu více volného místa. Typografové by řekli že je potřeba větší _řádkový proklad_, anglicky _line height_.
+
+_Tip: Tato vlastnost se také dědí, lze ji tedy nastavit nějakému nadřrazenému prvku._
+
 ---
 
 # 10 Nastavíme barvu pozadí
@@ -243,6 +251,12 @@ Přidej vnitřní odsazení (padding) 10px.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189100)
 
+----
+
+# Bonus
+
+1. Nastav obrázkům také barvu pozadí, díky paddingu bude i vidět.
+
 ---
 
 # 15 Větší mezery mezi obrázky
@@ -259,7 +273,7 @@ Přidej obrázkům vnější odsazení 5px, aby na sebe nebyly tak nalepené.
 
 # Bonus
 
-Nastav jiné odsazení po stranách než nahoře a dole.
+Nastav obrázkům větší padding dole než na ostatních stranách.
 
 ---
 
@@ -278,7 +292,7 @@ Nastav jiné odsazení po stranách než nahoře a dole.
 
 # Bonus
 
-Vycentruj vodorovně Galerii a Kontakt ‒ [najdi si jak](https://www.google.cz/search?q=horizontální%20centrování%20css)
+Vycentruj *vodorovně* (vlevo a vpravo bude stejně volného místa) Galerii a Kontakt ‒ [najdi si jak](https://www.google.cz/search?q=horizontální%20centrování%20css)
 
 ---
 
@@ -301,7 +315,8 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 
 # Bonus
 
-Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba nyní stejně vycentrovat _div_ s třídou `obsah`.
+1. Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba nyní stejným způsobem vycentrovat _div_ s třídou `obsah`.
+1. Původní centrování můžeš odebrat, nemá na nic vliv.
 
 ---
 
@@ -338,7 +353,6 @@ Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba ny
 
 1. Uprav všechny odkazy na stránce tak, aby jim po najetí myši zmizelo podtržení.
 1. Odkazy v patičce udělej bílou barvou, po najetí myši nějakou jinou a zároveň jinou než v kontaktech.
-1. Dej hotovo.
 
 ---
 
@@ -418,7 +432,8 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 1. Na každé stránce zvýrazni (odliš) v navigaci odkaz na aktuální stránku (musíš přidat novou třídu a přiřadit ji na každé stránce u jiného odkazu).
 1. Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout. Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
-1. Dej hotovo.
+
+1. Nastav celé stránce jinou než bílou barvu pozadí.
 
 ---
 
