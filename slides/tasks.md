@@ -434,4 +434,4 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 [Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/s/BylzJbePx)
 
-[Púův web, jak by taky mohl vypadat](https://thimbleprojects.org/czechitas/189149/) (se všemi bonusovými úkoly)
+[Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://thimbleprojects.org/czechitas/189149/).
