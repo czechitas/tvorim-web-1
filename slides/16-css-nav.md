@@ -21,6 +21,8 @@
 
 >>>
 * na vaší stránce jsou to například odkazy, nebo důležitý text  (`strong`)
+* ony jim ty vlastnosti nastavit jdou, ale neprojeví se očekávaným způsobem
+* lze ale například úspěšně nastavit pravý/levý margin
 
 ----
 

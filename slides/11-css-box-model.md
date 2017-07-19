@@ -58,7 +58,8 @@ img {
 >>>
 * ohraničení: vytyčuje hranici mezi prvkem a okolím (okolními prvky)
 * rámeček kolem prvku: různé hodnoty `border-style` (dotted, dashed, inset)
-* zkrácený zápis: tento nastaví stejný rámeček po všech stranách. Lze samozřejmě nastavovat ohrančení pro každou stranu zvlášť.
+* zkrácený zápis: totéž co nad; tento nastaví stejný rámeček po všech stranách. Lze samozřejmě nastavovat ohrančení pro každou stranu zvlášť.
+* lze stylovat samostatně každou ze 4 stran: top, right, bottom, left (border-left)
 
 ----
 
@@ -104,6 +105,8 @@ img {
 
 >>>
 * za hranicí prvku, v rodičovském prvku (`div`, `body`)
+* všimněte si, že margin se už do šířky prvku nezapočítává, to je důležité si uvědomit, když počítám šířku kterou mi prvky zaberou (pokud mají margin po obou stranách, zabere mi každý prvek 2 × margin + šířka)
+* poznámka pod čarou: margin může nabývat i záporných hodnot
 
 ----
 
@@ -122,7 +125,7 @@ img {
 * vlastnost `width` určuje, jak má být prvek široký *včetně* ohraničení (`border`) a výplně (`padding`)
 * `margin` se do šířky nezapočítává, ale ovlivňuje, kolik místa prvek ve výsledku zabere
 * **Pozor při výpočtech**: nezpomeňte násobit 2: <br>
-	`margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
+    `margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
 
 ----
 

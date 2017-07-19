@@ -14,6 +14,7 @@ h2 { color: green; }
 
 >>>
 * obarví nadpisy 1. a 2. úrovně na zeleno
+* každý selektor na nový řádek, aneb za čárkou odřádkovat
 
 ----
 
@@ -27,6 +28,7 @@ h2 { color: green; }
 >>>
 * obarví nadpisy 2. úrovně na modro, pokud jsou v prvku s třídou `.tip`
 * odpovídá zanořování v HTML
+* tady má mezera význam (jinde na nich tolik nezáleží)
 
 ----
 
@@ -41,6 +43,7 @@ h2 { color: green; }
 
 >>>
 * platí poslední nastavená hodnota vlastnosti
+* často se stane, že zadáte znovu tutéž vlastnost. Když dbáte na úpravu 1 pravidlo na řádek, snáz to odhalíte. (Jsou i automatizované nástroje, které to hlídají za nás.)
 
 ----
 
