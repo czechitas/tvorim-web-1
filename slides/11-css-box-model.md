@@ -46,11 +46,11 @@ img {
 
 ```css
 img {
-	border: 2px solid black;
+    border: 2px solid black;
 }
 
 ```
-<!-- .element: class="c-text-sm fragment" contenteditable="true" -->
+<!-- .element: class="c-text-xs fragment" contenteditable="true" -->
 
 <img class="fragment" src="img/box-model-border.svg" style="border:0 none;box-shadow:none;">
 
