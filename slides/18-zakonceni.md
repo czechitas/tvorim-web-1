@@ -27,7 +27,7 @@
 
 # Programy
 
-* editory: Atom (zdarma), Sublime text (placený)
+* editory: VS Studio Code, Atom (zdarma), Sublime text (placený)
 * prohlížeče: je třeba testovat stránky pro zaostalejší prohížeče
 
 ----
