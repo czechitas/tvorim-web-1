@@ -121,3 +121,16 @@ img {
 <!-- .slide: data-state="c-slide-task" -->
 
 # Odsadíme obsah od okrajů
+
+----
+
+# Přestávka
+
+<!-- .slide: data-state="c-slide-break" -->
+
+
+----
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Roztáhneme pozadí až do okraje
