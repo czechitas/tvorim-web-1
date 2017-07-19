@@ -219,7 +219,7 @@ Nastav obrázkům šířku 300 pixelů.
 
 # Bonus
 
-1. Obrázku v hlavičce a mapě nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent.
+1. Obrázku mapy nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent.
 
 ---
 

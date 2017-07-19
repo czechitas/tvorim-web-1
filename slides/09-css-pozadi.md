@@ -23,6 +23,7 @@ p {
 * barvy slovně (jak to nabízí Thimble)
 * v praxi spíše číselně, hexadecimálně
 * #rrggbb => vždy dvojciferné číslo pro barevnou složku červená|zelená|modrá
+* hodnoty 0‒255, ale šestnáctkově 0‒ff
 
 ----
 
