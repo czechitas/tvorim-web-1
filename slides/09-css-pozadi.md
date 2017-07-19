@@ -9,9 +9,20 @@
 ```css
 p {
     background-color: green;
-    background-color: #008000;
+    background-color: #008000; 
 }
 ```
+
+#<span style="color:red">RR</span><span style="color:green">GG</span><span style="color:blue">BB</span> = šestnáckový zápis složek R(ed)G(reen)B(lue)
+
+šestnáctková soustava: číslice `0‒9` a písmena `a‒f`, tj. hodnoty od `00` do `ff`
+
+<!-- .element: class="c-text-sm stretch" contenteditable="true" -->
+
+>>>
+* barvy slovně (jak to nabízí Thimble)
+* v praxi spíše číselně, hexadecimálně
+* #rrggbb => vždy dvojciferné číslo pro barevnou složku červená|zelená|modrá
 
 ----
 
