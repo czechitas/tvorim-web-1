@@ -406,7 +406,11 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
 # Bonus
 
-Mapa a obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadaly, kdyby byly přes celou šířku stránky.
+Obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadal, kdyby byl přes celou šířku stránky. 
+
+Pokud už jsi to udělala pro mapu, není nic snazšího než přidat stejnou třídu i tomuhle obrázku.
+
+Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent jak obrázku v _O mně_, tak mapě v _Kontakt_.
 
 ---
 
