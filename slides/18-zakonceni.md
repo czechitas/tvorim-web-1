@@ -6,7 +6,7 @@
 
 # Kurzy Czechitas
 
-* Tvořím web 2
+* Jak na web (několikatýdenní)
 * Intenzivní kurz Czechitas
 
 ----
@@ -16,12 +16,24 @@
 * Dotazy: Facebook: Czechitas - Úvod do HTML a CSS
 * Hledat
 * praktická reference v češtině jecas.cz
-* v angličtině cssreference.io
+* v angličtině cssreference.io, marksheet.io
 * codecademy.com
 * Lynda.com, YouTube (kriticky)
+* **pozor** _Jak psát web_ už zastarává, nicméně část o HTML je stále velmi platná
 
 >>>
 * angličtina (pasivní) nutná
+* Slack
+
+----
+
+# Knihy
+
+* Web ostrý jak břitva ‒  proces tvorby webu, méně technikálií
+* Vzhůru do CSS3 ‒ pokročilejší techniky
+* Vzhůru do (responzivního) webdesignu ‒ aktuální, opět pokročilejší 
+* Dobrý designér to všechno ví!
+* Na volné noze ‒ obecná příručka pro nezávislé profesionálky
 
 ----
 
@@ -48,6 +60,20 @@
 # Srazy
 
 * Frontendisti.cz (Praha, Brno, Ostrava, Plzeň)
+
+>>>
+* neformální setkání, s krátkými přednáškami
+* výměna zkušeností
+* informace o pracovních nabídkách
+* Frontendisti na FB (spíše pokročilejší témata) 
+
+----
+
+# Kódujte
+
+* svůj web, web pro kamarádku/kamaráda => reálný obsah
+* skutečný web vás donutí najít řešení a omezí hraní si
+* je spousta hotových řešení => nemusíte se hned učit vše
 
 ----
 
