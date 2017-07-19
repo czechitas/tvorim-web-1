@@ -6,18 +6,23 @@
 
 # Ukázka <!-- .element: class="c-sr-only" -->
 
-<pre class="c-text-md fragment" contenteditable><code class="lang-css stretch" data-noescape>a { color: navy; }<span class="fragment">
+```css
+a { color: navy; }
+```
+<!-- .element: class="c-text-sm" contenteditable="true" -->
 
-a:link {color: blue;} /* nenavštívený */
+```css
+a:link { color: blue; } /* nenavštívený */
 
-a:visited {color: purple;} /* navštívený */
+a:visited { color: purple; } /* navštívený */
 
-a:hover {color: red;} /* najetí myší */<span class="c-extra">
+a:hover { color: red; } /* najetí myší */
 
-a:focus {color: green;} /* aktivace klávesnicí */
+a:focus { color: green; } /* aktivovaný */
 
-a:active {color: yellow;} /* při kliknutí */</span></span>
-</code></pre>
+a:active { color: yellow; } /* při kliknutí */
+```
+<!-- .element: class="c-text-sm fragment" contenteditable="true" -->
 
 >>>
 * Zatímco třídy si vytváří autor kódu, pseudotřídy jsou dané.
