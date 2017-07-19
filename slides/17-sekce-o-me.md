@@ -6,7 +6,7 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Přidáme sekci _O mně_
+# Přidáme sekci _O&nbsp;mně_
 
 ----
 
