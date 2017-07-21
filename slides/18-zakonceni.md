@@ -14,26 +14,31 @@
 # Online
 
 * Dotazy: Facebook: Czechitas - Úvod do HTML a CSS
-* Hledat
-* praktická reference v češtině jecas.cz
-* v angličtině cssreference.io, marksheet.io
-* codecademy.com
-* Lynda.com, YouTube (kriticky)
-* **pozor** _Jak psát web_ už zastarává, nicméně část o HTML je stále velmi platná
+* Hledat na Google
+* **pozor** [Jak psát web](https://www.jakpsatweb.cz/) už zastarává, nicméně část o HTML je stále velmi platná
+
+## Čtení
+
+* praktická reference v češtině [jecas.cz](http://jecas.cz/)
+* v angličtině [cssreference.io](http://cssreference.io/), [marksheet.io](http://marksheet.io/)
+
+## Videokurzy
+
+* [codecademy.com](https://www.codecademy.com/)
+* [Lynda.com](https://www.lynda.com/), YouTube (kriticky)
 
 >>>
 * angličtina (pasivní) nutná
-* Slack
 
 ----
 
 # Knihy
 
-* Web ostrý jak břitva ‒  proces tvorby webu, méně technikálií
-* Vzhůru do CSS3 ‒ pokročilejší techniky
-* Vzhůru do (responzivního) webdesignu ‒ aktuální, opět pokročilejší 
-* Dobrý designér to všechno ví!
-* Na volné noze ‒ obecná příručka pro nezávislé profesionálky
+* **Web ostrý jak břitva** ‒  proces tvorby webu, méně technikálií
+* **Vzhůru do CSS3** ‒ pokročilejší techniky
+* **Vzhůru do (responzivního) webdesignu** ‒ aktuální, opět pokročilejší 
+* **Dobrý designér to všechno ví!**
+* **Na volné noze** ‒ obecná příručka pro nezávislé profesionálky
 
 ----
 
