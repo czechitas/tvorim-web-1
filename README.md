@@ -89,7 +89,60 @@ _Tip: Neotvírat více než jeden projekt najednou (do tabů např.) Thimble to 
 
 Není to nutné, ale pokud si chceš ušetřit práci s obnovováním stránky při změně CSS nebo HTML, spusť v `/cviceni/` příkaz `yarn install` a pomocí `yarn watch` se spustí Browsersync. 
 
+# Časový rozvrh
 
+Počítá se s zhruba hodinovými bloky a desetiminutovými přestávkami. 
+
+Na oběd je 40 minut, vzhledem k tomu, že je obvykle na místě to stačí.
+
+Pokud se nestíhá ke konci, je lepší neudělat poslední úkol, než zrychlovat nebo rušit přestávku, které jsou opravdu potřeba.
+
+Samozřejmě není potřeba dodržovat vše na minutu jednotlivé části trvají pokaždé trochu jinak. 
+
+Smyslem přehledu níže je mít možnost si zkontrolovat, zda vše zhruba probíhá podle plánu.
+
+
+|   čas | obsah                                                                    |
+|------:|--------------------------------------------------------------------------|
+| 10:00 | úvod organizační (Czechitas)                                             |
+| 10:05 | o průběhu                                                                |
+| 10:13 | Co čekat od workshopu + Teorie internetu a webu                          |
+| 10:25 | Thimble: úvod + Založíme si účet na Thimble                              |
+| 10:35 | Thimble: popis rozhraní + úkol 1                                         |
+| 10:45 | HTML + úkol 2                                                            |
+| _11:00_ | _přestávka_                                                            |
+| 11:10 | struktura HTML souboru a vnořování                                       |
+| 11:16 | nadpisy, odstavce, odkazy + úkol 3                                       |
+| 11:30 | Další funkce Thimble                                                     |
+| 11:35 | Obrázky                                                                  |
+| 11:39 | licence + úkol 4                                                         |
+| 11:53 | úkol 5                                                                   |
+| _12:10_ | _oběd vč focení_                                                       |
+| 12:50 | CSS (z čeho se skládá stránka, připojení a anatomie CSS, barvy) + úkol 7 |
+| 13:13 | Vlastnosti textu, dědičnost + úkol 8                                     |
+| 13:31 | Velikost textu (jednotky) + úkol 9                                       |
+| _13:45_ | _přestávka_                                                            |
+| 13:55 | Pozadí, div + úkol 10                                                    |
+| 14:19 | Třídy + úkol 11                                                          |
+| _14:40_ | _přestávka_                                                            |
+| 14:50 | Box-model                                                                |
+| 14:57 | výška, šířka + úkol 12                                                   |
+| 15:16 | Ohraničení + úkol 13                                                     |
+| 15:30 | Padding + úkol 14                                                        |
+| 15:35 | Margin + úkol 15                                                         |
+| _15:45_ | _přestávka_                                                            |
+| 15:55 | Shrnutí box-modelu + úkol 16                                             |
+| 16:11 | úkol 17                                                                  |
+| 16:29 | Pokročilé selektory + úkol 18                                            |
+| 16:47 | Pseudotřídy + úkol 19                                                    |
+| _17:05_ | _přestávka_                                                            |
+| 17:15 | Odrážkový seznam + úkol 20                                               |
+| 17:30 | Blokové, řádkové, řádkově-blokové elementy + úkol 21                     |
+| 17:45 | úkol 22                                                                  |
+| 18:00 | úkol 23 (lze vynechat pokud se nestíhá)                                  |
+| 18:13 | Publikace +  Publikujeme hotový web na internet                          |
+| 18:19 | Co dál, závěr                                                            |
+| _18:25_ | _konec_                                                                |
 
 # Autoři
 
