@@ -26,6 +26,18 @@
 
 ---
 
+## Shrnutí výkladu
+
+```html
+<h1>Hlavní nadpis</h1>
+
+<p>odstavec</p>
+
+<strong>důležitý text</strong>
+```
+
+----
+
 # 02 Zkusíme si první tagy
 
 1. Vytvoř nadpis 1. úrovně (název webu): „Web Kryštůfka Robina“.
@@ -35,7 +47,27 @@
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189042)
 
+----
+
+## Bonus
+
+Něco. test
+
 ---
+
+## Shrnutí výkladu
+
+```html
+<h1>Hlavní nadpis</h1>
+
+<h2>Nadpis druhé úrovně</h2>
+
+<h3>Nadpis třetí úrovně</h3>
+
+<a href="https://google.com">odkaz na Google.com</a>
+```
+
+----
 
 # 03 Přidáme _Kontakt_
 
@@ -57,12 +89,20 @@
 
 ----
 
-# Bonus (pokud máš hotovo)
+## Bonus (pokud máš hotovo)
 
 1. Slovo „e-mail“ udělej jako odkaz na medvídkův mail (pooh@example.com) [najdi si jak](https://google.com).
 1. Přidej stejnému odkazu další atribut `title` s hodnotou _Když pošleš med, budu radši._. Co to dělá zjištíš tak, že zaparkuješ šipku myši (kurzor) nad odkazem v náhledu stránky.
 
 ---
+
+## Shrnutí výkladu
+
+```html
+<img src="pu.jpg" alt="medvěd">
+```
+
+----
 
 # 04 Přidáme mapu
 
@@ -101,6 +141,18 @@ stopy.jpg
 
 ---
 
+## Shrnutí výkladu
+
+```html
+<head>
+    …
+    <title>Název stránky</title>
+    …
+</head>
+```
+
+----
+
 # 06 Doplníme titulek
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189058)
@@ -115,11 +167,23 @@ Abys viděla výsledek, je třeba stránku publikovat (tlačítko vpravo nahoře
 
 ----
 
-# Bonus
+## Bonus
 
 Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůfka Robina o medvídkovi Pú a jeho kamarádech.` [najdi si jak](https://www.google.cz/search?q=meta+description)
 
 ---
+
+## Shrnutí výkladu
+
+```html
+<head>
+    …
+    <link rel="stylesheet" href="nazevsouboru.css">
+    …
+</head>
+```
+
+----
 
 # 07 Připojíme styly
 
@@ -132,6 +196,22 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189082/)
 
 ---
+
+## Shrnutí výkladu
+
+```css
+p {
+	font-style: italic;  /* nebo normal */
+
+	font-weight: bold; /* nebo normal */
+
+	font-family: sans-serif; /* nebo serif */
+
+	text-align: center; /* nebo left nebo right */
+}
+```
+
+----
 
 # 08 Upravíme písmo
 
@@ -146,11 +226,23 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 ----
 
-# Bonus
+## Bonus
 
 1. vycentruj hlavní nadpis
 
 ---
+
+## Shrnutí výkladu
+
+```css
+font-size: 20px;
+
+/* nebo */
+
+font-size: 150%;
+```
+
+----
 
 # 09 Měníme velikosti písma
 
@@ -164,13 +256,23 @@ Nadpisy udělej o něco větší než byly doposud.
 
 ----
 
-# Bonus
+## Bonus
 
 1. Lépe by vypadalo, kdyby mezi řádky bylo trochu více volného místa. Typografové by řekli že je potřeba větší _řádkový proklad_, anglicky _line height_.
 
-_Tip: Tato vlastnost se také dědí, lze ji tedy nastavit nějakému nadřrazenému prvku._
+_Tip: Tato vlastnost se také dědí, lze ji tedy nastavit nějakému nadřazenému prvku._
 
 ---
+
+## Shrnutí výkladu
+
+```css
+p { background-color: green; }
+
+h1 { background-color: #008000; }
+```
+
+----
 
 # 10 Nastavíme barvu pozadí
 
@@ -183,6 +285,18 @@ _Tip: Tato vlastnost se také dědí, lze ji tedy nastavit nějakému nadřrazen
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/297097)
 
 ---
+
+## Shrnutí výkladu
+
+```html
+<h1 class="tip">Tip</h1>
+```
+
+```css
+.tip { color: blue; }
+```
+
+----
 
 # 11 Přidáme třídy
 
@@ -198,12 +312,23 @@ Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
 
 ----
 
-# Bonus
+## Bonus
 
 1. V patičce vycentruj text
 1. Přidej třídu `.small` a s její pomocí zmenši text odstavci s licencí v patičce.
 
 ---
+
+## Shrnutí výkladu
+
+```css
+.tip {
+	width: 300px;
+	height: 100px;
+}
+```
+
+----
 
 # 12 Nastavíme obrázkům šířku
 
@@ -217,11 +342,28 @@ Nastav obrázkům šířku 300 pixelů.
 
 ----
 
-# Bonus
+## Bonus
 
 1. Obrázku mapy nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent.
 
 ---
+
+## Shrnutí výkladu
+
+```css
+div {
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+
+/* to samé pomocí shorthandu */
+div {
+    border: 1px solid black;
+}
+```
+
+----
 
 # 13 Orámujeme obrázky
 
@@ -235,11 +377,19 @@ Nastav obrázkům šířku 300 pixelů.
 
 ----
 
-# Bonus
+## Bonus
 
 Změň barvu horního ohraničení (nebo dolního, nebo pravého anebo levého)
 
 ---
+
+## Shrnutí výkladu
+
+```css
+.tip { padding: 25px; }
+```
+
+----
 
 # 14 Vnitřní odsazení obrázků
 
@@ -253,11 +403,19 @@ Přidej vnitřní odsazení (padding) 10px.
 
 ----
 
-# Bonus
+## Bonus
 
 1. Nastav obrázkům také barvu pozadí, díky paddingu bude i vidět.
 
 ---
+
+## Shrnutí výkladu
+
+```css
+.tip { margin: 10px; }
+```
+
+----
 
 # 15 Větší mezery mezi obrázky
 
@@ -271,7 +429,7 @@ Přidej obrázkům vnější odsazení 5px, aby na sebe nebyly tak nalepené.
 
 ----
 
-# Bonus
+## Bonus
 
 Nastav obrázkům větší padding dole než na ostatních stranách.
 
@@ -290,7 +448,7 @@ Nastav obrázkům větší padding dole než na ostatních stranách.
 
 ----
 
-# Bonus
+## Bonus
 
 Vycentruj *vodorovně* (vlevo a vpravo bude stejně volného místa) Galerii a Kontakt ‒ [najdi si jak](https://www.google.cz/search?q=horizontální%20centrování%20css)
 
@@ -313,12 +471,23 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 
 ----
 
-# Bonus
+## Bonus
 
 1. Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba nyní stejným způsobem vycentrovat _div_ s třídou `obsah`.
 1. Původní centrování můžeš odebrat, nemá na nic vliv.
 
 ---
+
+## Shrnutí výkladu
+
+```css
+h1,
+h2 { color: green; }
+
+.tip h2 { color: blue; }
+```
+
+----
 
 # 18 Zjednodušujeme kód
 
@@ -332,11 +501,29 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 
 ----
 
-# Bonus
+## Bonus
 
 1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
 
 ---
+
+## Shrnutí výkladu
+
+```css
+a { color: navy; }
+
+a:link { color: blue; } /* nenavštívený */
+
+a:visited { color: purple; } /* navštívený */
+
+a:hover { color: red; } /* najetí myší */
+
+a:focus { color: green; } /* aktivovaný */
+
+a:active { color: yellow; } /* při kliknutí */
+```
+
+----
 
 # 19 Měníme barvu odkazů po najetí myši
 
@@ -349,12 +536,23 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 
 ----
 
-# Bonus
+## Bonus
 
 1. Uprav všechny odkazy na stránce tak, aby jim po najetí myši zmizelo podtržení.
 1. Odkazy v patičce udělej bílou barvou, po najetí myši nějakou jinou a zároveň jinou než v kontaktech.
 
 ---
+
+## Shrnutí výkladu
+
+```html
+<ul>
+    <li>odrážkový</li>
+    <li>seznam</li>
+</ul>
+```
+
+----
 
 # 20 Přidáme navigaci (menu)
 
@@ -368,6 +566,18 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189138)
 
 ---
+
+## Shrnutí výkladu
+
+```html
+a { display: block; }
+
+div { display: inline; }
+
+span { display: inline-block; }
+```
+
+----
 
 # 21 Odkazy v navigaci na jeden řádek
 
@@ -404,7 +614,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
 ----
 
-# Bonus
+## Bonus
 
 Obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadal, kdyby byl přes celou šířku stránky. 
 
@@ -432,7 +642,7 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 ----
 
-# Bonus
+## Bonus
 
 1. Na každé stránce zvýrazni (odliš) v navigaci odkaz na aktuální stránku (musíš přidat novou třídu a přiřadit ji na každé stránce u jiného odkazu).
 1. Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout. Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
