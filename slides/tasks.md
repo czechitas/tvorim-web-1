@@ -47,12 +47,6 @@
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189042)
 
-----
-
-## Bonus
-
-Něco. test
-
 ---
 
 ## Shrnutí výkladu
@@ -190,7 +184,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/297089)
 
 1. Připoj si `styly.css` k HTML.
-1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou). Třeba 
+1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou).
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189082/)
