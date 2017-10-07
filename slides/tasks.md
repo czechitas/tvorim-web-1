@@ -377,6 +377,8 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 1. Přidej jiné podbarvení celé položky po najetí na ni.
 1. Dej hotovo.
 
+Tip: podívej se, co dělá vlastnost `list-style-type`.
+
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189139)
 
 ---
