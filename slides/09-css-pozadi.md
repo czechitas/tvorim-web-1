@@ -9,7 +9,8 @@
 ```css
 p {
     background-color: green;
-    background-color: #008000; 
+    background-color: #00FF00;
+    background-color: rgb(0, 255, 0);
 }
 ```
 
