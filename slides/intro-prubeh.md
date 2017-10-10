@@ -65,9 +65,9 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 
 # Plán
 
-- začátek 17.00
-- konec 21.00
+- začátek teď
+- konec ~18h
 
-a zhruba každou hodinu 10 minut pauza
+a zhruba každou hodinu bude 10 minut pauza
 
 <!-- .element: class="c-text-left" -->
