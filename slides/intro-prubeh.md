@@ -9,7 +9,7 @@
 
 # 2. Zkusíte si
 
-- Zadání se objeví v aplikaci.
+- Zadání se objeví v aplikaci: czchts.link/web
 - Času bude kolik je potřeba.
 
 
@@ -39,7 +39,7 @@ Dej Chci poradit
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hned si to vyzkoušíme
+# Hned si to <a href="https://czechitas.herokuapp.com/coach">vyzkoušíme</a>
 
 >>>
 Super. Někdo si dejte červený lísteček… : )
