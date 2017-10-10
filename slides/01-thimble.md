@@ -85,7 +85,7 @@
 
 odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
 
-<kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazení celého souboru (Thimble)
+Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazení celého souboru (Thimble)
 
 >>>
 Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
@@ -98,7 +98,7 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
 * <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
 * <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
-* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ na anglické klávesnici…
+* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ <kbd>/</kbd> tam, kde je na US klávesnici
 
 ----
 
