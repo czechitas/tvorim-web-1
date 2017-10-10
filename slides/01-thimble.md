@@ -39,7 +39,7 @@
 
 >>>
 * Pokud otevřeš textový soubor s kódem, zobrazí se ti uprostřed a můžeš ho rovnou upravovat.
-* Pokud se ti zdá špatně čitelný po kliknutí na ozubené kolečko vpravo nahoře se objeví možnost si kód zvětšit, případně přepnout pozadí na tmavé nebo světlé, dle toho co ti vyhovuje.
+* Pokud se ti zdá špatně čitelný, po kliknutí na ozubené kolečko vpravo nahoře se objeví možnost si kód zvětšit, případně přepnout pozadí na tmavé nebo světlé, dle toho co ti vyhovuje.
 * nastavení (ozubené kolečko) => Automatické doplňování kódu: vypnout (zelená na šedo)
 * tamtéž lze vypnout Automaticky uzavírat značky (kdyby nás to zlobilo)
 * tamtéž zapnout _Zobrazit mezery_
@@ -60,15 +60,17 @@
 
 ### Práce s textem
 * <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
-* <kbd class="nichtvergissmeinnicht">Ctrl+→</kbd> Posun po slovech doprava
-* <kbd class="nichtvergissmeinnicht">Ctrl+←</kbd> Posun po slovech doleva
-* <kbd>Ctrl+Shift+→</kbd> Výběr po slovech doprava
-* <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
-* <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
+* <kbd>Ctrl+→</kbd> <kbd class="nichtvergissmeinnicht">Alt+→</kbd> Posun po slovech doprava
+* <kbd>Ctrl+←</kbd> <kbd class="nichtvergissmeinnicht">Alt+←</kbd> Posun po slovech doleva
+* <kbd>Ctrl+Shift+→</kbd> <kbd class="nichtvergissmeinnicht">Alt+Shift+→</kbd> Výběr po slovech doprava
+* <kbd>Ctrl+Shift+←</kbd> <kbd class="nichtvergissmeinnicht">Alt+Shift+←</kbd> Výběr po slovech doleva
+* <kbd>Ctrl+A</kbd> <kbd class="nichtvergissmeinnicht">Cmd+A</kbd> Výběr všeho
 
 >>>
 * Tyto jsou univerzální, fungují i v jiných programech.
+* Ty světle modré jsou pro Mac
 * Pokud neznáte, osvojte si je. Ohromně šetří čas.
+* Také jde klikat 2x pro výběr slova, 3x pro výběr řádku
 
 
 ----
@@ -76,7 +78,7 @@
 ## Klávesové zkratky
 
 <kbd>Ctrl+C</kbd> Kopírovat
- 
+
 <kbd>Ctrl+V</kbd> Vložit
 
 <kbd>Ctrl+X</kbd> Kopírovat a smazat (vyjmout) <br> _výběr nebo bez výběru pro celý řádek_ <!-- .element: class="c-text-sm" -->
@@ -84,6 +86,9 @@
 odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
 
 <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazení celého souboru (Thimble)
+
+>>>
+Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 
 ----
 
