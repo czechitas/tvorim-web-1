@@ -39,7 +39,7 @@
 * Z posloupnost mezer a zalomení řádku se stane 1 mezera => text se slije, pokud ho nestrukturujeme pomocí tagů.
 * Přesto si dejte na formátování kódu (odsazování, odřádkování) záležet, jinak se v tom nejde vyznat:
  * Jeden element na řádek.
- * Zanořujeme-li, odsadíme začátek řádku tabelátorem.
+ * Zanořujeme-li, odsadíme začátek řádku tabulátorem.
 
 ----
 
