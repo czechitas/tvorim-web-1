@@ -1,12 +1,10 @@
 # Todo list <!-- .element: class="c-sr-only" -->
 
-<div class="c-text-sm">
-<p>Nahlaš se XY z Czechitas (vyřeší s tebou placení aj.)</p>
-<!-- <p>Mrkni na zasedací pořádek, kam si máš sednout.</p> -->
-<!-- <p>Pokud jsi s Macem u stolu, co nemá napsáno „Mac“, dej vědět.</p> -->
-<!-- <p>Pokud si hrozně moc chceš sednout s kamarádkou, dej vědět.</p> -->
-<p>Zapoj si počítač do zásuvky, pozor aby se nezakopávalo o kabely.</p>
-<p><b>Připoj se na wifi: <code>DOPLNIT</code>, heslo je <code>DOPLNIT</code>.</b></p>
-<p>Zkontroluj, jestli máš prohlížeč Chrome (pokud ne, nainstaluj) a spusť ho.</p>
-<p>Otevři si v Chrome <b>http://czchts.link/web</b> a vyplň svoje jméno podle toho, na kterém místě sedíš.</p>
-</div>
+1. Právě jsi přišla?
+   <br />_Nahlaš se Blance nebo Barče z Czechitas_ <!-- .element: class="c-text-sm" -->
+2. Zapoj si počítač do zásuvky
+   <br />_a pozor, aby se nezakopávalo o kabely_ <!-- .element: class="c-text-sm" -->
+3. Připoj se na wifi: <strong>DOPLNIT</strong>, heslo: <strong>DOPLNIT</strong>
+4. Máš nainstalován a spuštěn Chrome?
+5. Otevři si v Chrome <b>czchts.link/web</b>
+   <br />_a vyplň svoje jméno podle toho, na kterém místě sedíš_ <!-- .element: class="c-text-sm" -->
