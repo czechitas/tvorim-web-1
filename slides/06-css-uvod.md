@@ -54,6 +54,8 @@
 
 >>>
 * Přibydou nám další méně obvyklé znaky: `{ } ;`
+* selektor říká, co chceme barvit
+* deklarace jak
 * chyby:
  * neukončíme-li středníkem, pravidlo se ignoruje
  * neuzavřeme-li závorku, všechna následující pravidla se ignorují
@@ -71,8 +73,6 @@
 </code></pre>
 
 >>>
-* selektor říká, co chceme barvit
-* deklarace jak
 * Barvy lze zapisovat více způsoby, my budeme používat tzv. pojmenovaných barev. Jejich počet je omezený.
 * Libovolnou barvu lze získat číselným zápisem, např. hexadecimálním.
 * Editor nám pomáhá, když upravujeme barvy, nabídne nám seznam barev s ukázkou.
