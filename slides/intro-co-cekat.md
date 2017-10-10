@@ -9,6 +9,9 @@
 
 # Kdo všechno na webu pracuje?
 
+>>>
+Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do tvorby webů typicky zapojí.
+
 ----
 
 ## Zadavatelka (zákaznice)
@@ -18,6 +21,10 @@
 ## Výzkumnice
 ## Analytička
 ## UX designérka
+
+>>>
+
+Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, budoucí čtenáře nebo uživatele. Už se podaří cílovou skupinu webu popsat, tak designéři mohou navrhovat.
 
 ----
 
