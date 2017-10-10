@@ -72,7 +72,6 @@
 
 >>>
 * Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
-* Sbalování kódu: trojúhelníček vlevo vedle čísel řádku. Lze si ověřit, zda správně zanořujeme.
 
 ----
 
