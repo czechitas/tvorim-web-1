@@ -54,8 +54,6 @@ Přehled toho, co v nejbližší době bude
 <br><small>proces tvorby webu, méně technikálií, pro zadavatele i tvůrce</small>
 * Dobrý designér to všechno ví!
 <br><small>Opět zaměřeno spíš na design</small>
-* Na volné noze
-<br><small>obecná příručka pro nezávislé profesionálky</small>
 
 ----
 
