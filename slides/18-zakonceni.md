@@ -10,60 +10,82 @@
 * Intenzivní kurz Czechitas
 
 >>>
-Czechita by měla mít přehled co teď bude
+Přehled toho, co v nejbližší době bude
 
 ----
 
-# Online
+# Kde se poradit?
 
-* Hledat na Google
-* Dotazy: Facebook: Czechitas - Úvod do HTML a CSS
-* **pozor** [Jak psát web](https://www.jakpsatweb.cz/) už zastarává, nicméně část o HTML je stále velmi platná
-
-----
-
-## Čtení
-
-* praktická reference v češtině [jecas.cz](http://jecas.cz/)
-* v angličtině [cssreference.io](http://cssreference.io/), [marksheet.io](http://marksheet.io/)
-
-## Videokurzy
-
-* [codecademy.com](https://www.codecademy.com/)
-* [Lynda.com](https://www.lynda.com/), YouTube (kriticky)
-
->>>
-* angličtina (pasivní) nutná
+* Ptej se na Facebooku ve skupině:<br>[Czechitas - Úvod do HTML a CSS](https://www.facebook.com/groups/700368416798259/)
+* V češtině je také [diskuse.jakpsatweb.cz](https://diskuse.jakpsatweb.cz/)
+* Hledej na Google
+<br><small>(opatrně s výsledky, nedoporučujeme např. w3schools.com)</small>
 
 ----
 
-# Knihy
+# Zdroje v češtině
 
-* **Web ostrý jak břitva** ‒  proces tvorby webu, méně technikálií, pro zadavatele i tvůrce
-* **Vzhůru do CSS3** ‒ pokročilejší techniky
-* **Vzhůru do (responzivního) webdesignu** ‒ aktuální, opět pokročilejší
-* **Dobrý designér to všechno ví!**
-* **Na volné noze** ‒ obecná příručka pro nezávislé profesionálky
+* Tradiční zdroj [jakpsatweb.cz](https://www.jakpsatweb.cz/), **sice&nbsp;zastarává**, ale část o HTML je stále platná
+* Na [jecas.cz](http://jecas.cz/) jsou aktuálnější články a také reference (přehled) HTML i CSS
+* Pro pokročilejší [vzhurudolu.cz](https://www.vzhurudolu.cz)
 
 ----
 
-# Programy
+# Zdroje v angličtině
+ 
+* [codecademy.com](https://www.codecademy.com/): základní kurzy zdarma
+* Reference CSS&nbsp;[cssreference.io](http://cssreference.io/) a HTML&nbsp;[htmlreference.io](http://htmlreference.io/)
+<br><small>hezky popisují nejpoužívanější prvky a vlastnosti</small>
+* Videokurzy na [udemy.com](https://www.udemy.com) nebo [Lynda.com](https://www.lynda.com/)
+<br><small>nutno vybírat, placené, ale občas mají akce se slevami nebo omezenou dobu zdarma</small>
+* Přehled kurzů a tutoriálů: [hackr.io](https://hackr.io/)
+* [developer.mozilla.org](https://developer.mozilla.org/) 
+<br><small>návody i reference pro všechny úrovně</small>
 
-* editory: VS Studio Code, Atom (zdarma), Sublime text (placený)
-* prohlížeče: je třeba testovat stránky pro zaostalejší prohížeče
+----
+
+# Knihy v češtině
+
+* Vzhůru do (responzivního) webdesignu
+<br><small>jak se dnes tvoří weby, vhodné i pro středně pokročilé</small>
+* Vzhůru do CSS3
+<br><small>pokročilejší techniky</small>
+* Web ostrý jako břitva
+<br><small>proces tvorby webu, méně technikálií, pro zadavatele i tvůrce</small>
+* Dobrý designér to všechno ví!
+<br><small>Opět zaměřeno spíš na design</small>
+* Na volné noze
+<br><small>obecná příručka pro nezávislé profesionálky</small>
+
+----
+
+# Editory kódu
+
+### Zdarma
+**VS Studio Code**
+
+**Atom**
+
+### Placené
+**Sublime Text**
+<br><small>lze používat zdarma a zaplatit kdykoli</small>
+
+**WebStorm**
+<br><small>poměrně komplexní (pro studenty s ISIC na rok zdarma)</small>
 
 ----
 
 # DevTools
 
-* **Nástroje pro vývojáře** (developer tools) umí každý slušný prohlížeč
-* zobrazí kód stránky, styly a další užitečné info
-* buď <kbd>F12</kbd>, popř. <kbd>Ctrl+Shift+I</kbd> nebo pravým myšítkem na prvek, který vás zajímá a vybrat _Prozkoumat/Inspect element_
-* změny které uděláte vydrží jen do obnovení stránky
+**Nástroje pro vývojáře** (Developer tools) má každý moderní prohlížeč
+
+* zobrazí kód stránky, CSS a další užitečné informace
+<br><small>buď <kbd>F12</kbd>, popř. <kbd>Ctrl+Shift+I</kbd> (na Macu <kbd>Cmd+Shift+I</kbd>) nebo pravým myšítkem na prvek, který vás zajímá a vybrat _Prozkoumat/Inspect element_</small>
+* umožňuje dělat změny v aktuálně načtené stránce, ty ale vydrží jen dokud na ní zůstáváš
 
 >>>
 * Určitě zkuste: ideální na naší hotové stránce (je jednoduchá), ale jde na libovolné, kterou zrovna máte v prohlížeči.
-* Zkuste si něco změnit, prozkoumejte strukturu HTML.
+* Zkuste si v Developer tools něco změnit v CSS, prozkoumejte strukturu HTML.
 
 ----
 
@@ -75,15 +97,13 @@ Czechita by měla mít přehled co teď bude
 * neformální setkání, s krátkými přednáškami
 * výměna zkušeností
 * informace o pracovních nabídkách, "pohovor v hospodě"
-* Frontendisti na FB (spíše pokročilejší témata)
 
 ----
 
-# Kódujte
+# Kódujte!
 
-* svůj web, web pro kamarádku/kamaráda => reálný obsah
-* skutečný web vás donutí najít řešení a omezí hraní si
-* je spousta hotových řešení => nemusíte se hned učit vše
+* svůj web, web pro kamarádku/kamaráda: skutečný web vás donutí najít řešení
+* _tip_: nemusíte vše psát samy (ani profesionálové to nedělají): je spousta hotových řešení (knihovny, frameworky) 
 
 ----
 
