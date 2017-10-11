@@ -4,7 +4,7 @@
 
 ----
 
-# Tag img <!-- .element: class="c-sr-only" -->
+# Tag img
 
 ```html
 <img>

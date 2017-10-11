@@ -9,6 +9,9 @@
 
 # Kdo všechno na webu pracuje?
 
+>>>
+Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do tvorby webů typicky zapojí.
+
 ----
 
 ## Zadavatelka (zákaznice)
@@ -18,6 +21,10 @@
 ## Výzkumnice
 ## Analytička
 ## UX designérka
+
+>>>
+
+Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, budoucí čtenáře nebo uživatele. Už se podaří cílovou skupinu webu popsat, tak designéři mohou navrhovat.
 
 ----
 
@@ -58,23 +65,3 @@
 * Pokud chcete za půl roku spustit nějaký vážně míněný projekt, tak si najměte zkušeného profesionála nebo použijte hotové řešení. Je jich spousta a jsou čím dál lepší. Ostatně já bych to udělal také tak. I když to umím, tak udělat to pořádně je hodně práce a nezbyl by čas na další role.
 * Je v přední linii (na frontě), proto frontend.
 * Naproti tomu backend se týká programování a práce s databázemi.
-
-----
-
-## Obory webdesignu 
-
-----
-
-<!-- .slide: data-background="img/software-development-continuum.png" -->
-
->>>
-* obory z hlediska technologií
-* zleva doprava je směr od designu k technologii
-
-----
-
-<!-- .slide: data-background="img/front-end-developers.png" -->
-
->>>
-* zaměření tohoto kurzu bude ještě užší
-* zdroj obrázků: http://blog.salsitasoft.com/the-shifting-definition-of-front-end-developer/
