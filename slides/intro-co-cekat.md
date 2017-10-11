@@ -24,7 +24,7 @@ Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do t
 
 >>>
 
-Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, budoucí čtenáře nebo uživatele. Už se podaří cílovou skupinu webu popsat, tak designéři mohou navrhovat.
+Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, budoucí čtenáře nebo uživatele. Jakmile se podaří cílovou skupinu webu popsat, tak designéři mohou navrhovat.
 
 ----
 
