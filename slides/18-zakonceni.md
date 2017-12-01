@@ -40,6 +40,7 @@ Přehled toho, co v nejbližší době bude
 <br><small>nutno vybírat, placené, ale občas mají akce se slevami nebo omezenou dobu zdarma</small>
 * Přehled kurzů a tutoriálů: [hackr.io](https://hackr.io/)
 * [developer.mozilla.org](https://developer.mozilla.org/) 
+* [Can I use...?][https://caniuse.com/]: obsáhlá databáze kompatibility CSS a JavaScriptových funkcí
 <br><small>návody i reference pro všechny úrovně</small>
 
 ----
