@@ -474,7 +474,7 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
   display: none; }
 
 .c-slide-half .slide-background {
-  background-image: url("/css/theme/czechitas/czechitas-tile.png");
+  background-image: url("czechitas/czechitas-tile.png");
   background-position: bottom;
   background-size: auto 30%;
   background-repeat: repeat-x; }
