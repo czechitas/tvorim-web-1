@@ -89,6 +89,17 @@ _Tip: Neotvírat více než jeden projekt najednou (do tabů např.) Thimble to 
 
 Není to nutné, ale pokud si chceš ušetřit práci s obnovováním stránky při změně CSS nebo HTML, spusť v `/cviceni/` příkaz `yarn install` a pomocí `yarn watch` se spustí Browsersync. 
 
+# TODO před začátkem
+
+- Briefing se zástupkyní czechitas:
+  - pravidla a průběh jsou ve slidech a říká to lektor hned po ní (je to i ve speaker notes)
+  - na kdy načasovat oběd
+- Otevři si v prohlížeči:
+  - slajdy
+  - admin pro lístečky
+  - reklamu na sponzora (ideálně vložit logo do úvodního slajdu, viz. jeho speaker notes)
+- Kdyby Lístečky nefungovaly, tak mít nachystané papírové
+
 # Časový rozvrh
 
 Počítá se s zhruba hodinovými bloky a desetiminutovými přestávkami. 
