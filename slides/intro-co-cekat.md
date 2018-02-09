@@ -16,6 +16,9 @@ Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do t
 
 ## Zadavatelka (zákaznice)
 
+>>>
+Kdo si už tuhle roli vyzkoušel?
+
 ----
 
 ## Výzkumnice
@@ -32,15 +35,22 @@ Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, bud
 ## Fotografka
 ## Vizuální designérka
 
+>>>
+Podle zadání UX designérky pak...
+
 ----
 
 ## Programátorka
 ## Kodérka
 ## Testerka
 
+>>>
+Jaký je rozdíl mezi programováním a kódováním?
+
 ----
 
 ## Administrátorka serverů
+## DevOps
 
 ----
 
@@ -48,20 +58,26 @@ Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, bud
 ## Specialistka na SEO
 ## Specialistka na PPC
 
+>>>
+Marketingové profese
+
 ----
 
 ## Správkyně obsahu
 
+>>>
+Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udržuje obsah
+
 ----
 
 # Kodérka
-# Front end vývojářka
-# Frontendistka
+## ~ Front end vývojářka
+## ~ Frontendistka
 
 >>>
 * To je role, kterou si dnes vyzkoušíte.
 * Určitě to znamená, že si podobný jednoduchý web můžete samy kdykoli udělat.
 * Určitě to znamená, že na tom, co tu dnes probereme, můžete dál stavět a pokračovat. Je to start.
 * Pokud chcete za půl roku spustit nějaký vážně míněný projekt, tak si najměte zkušeného profesionála nebo použijte hotové řešení. Je jich spousta a jsou čím dál lepší. Ostatně já bych to udělal také tak. I když to umím, tak udělat to pořádně je hodně práce a nezbyl by čas na další role.
-* Je v přední linii (na frontě), proto frontend.
+* Tipnete si proč "frontend"? Co to znamená?
 * Naproti tomu backend se týká programování a práce s databázemi.
