@@ -97,7 +97,7 @@ Není to nutné, ale pokud si chceš ušetřit práci s obnovováním stránky p
 - Otevři si v prohlížeči:
   - slajdy
   - admin pro lístečky
-  - reklamu na sponzora (ideálně vložit logo do úvodního slajdu, viz. jeho speaker notes)
+  - reklamu na sponzora (ideálně vložit logo do úvodního slajdu, viz jeho speaker notes)
 - Kdyby Lístečky nefungovaly, tak mít nachystané papírové
 
 # Časový rozvrh
