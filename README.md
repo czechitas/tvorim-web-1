@@ -160,3 +160,4 @@ Smyslem přehledu níže je mít možnost si zkontrolovat, zda vše zhruba prob�
 - Daniel Srb [@benabraham](https://github.com/benabraham)
 - Tomáš Kout [@Kout](https://github.com/Kout)
 - Jan Vlnas [@jnv](https://github.com/jnv)
+- Jan Pobořil [@iBobik](https://github.com/iBobik)
