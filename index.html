@@ -90,7 +90,7 @@
 
 		<script>
 			if(isPrint) {
-				document.querySelectorAll("section[data-print='noprint']").forEach(a => a.remove());
+				document.querySelectorAll("section[data-print='noprint']").forEach(function(element) { element.remove(); });
 			}
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
