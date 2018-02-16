@@ -3,33 +3,39 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+		<!-- To print user URL http://localhost:8000/?print-pdf -->
 
 		<title>Tvořím web: HTML/CSS (Czechitas)</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/czechitas.css">
-		<!-- pro tisk zakomentuj predchozi radek a odkomentuj nasledujici -->
-		<!--<link rel="stylesheet" href="css/theme/white.css">-->
-    <style> .print-pdf .reveal .slide-background { background-size: contain; } </style>
+    	<style> .print-pdf .reveal .slide-background { background-size: contain; } </style>
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/idea.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
+			function addStylestheet(href) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = href;
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+
+			var isPrint = !!window.location.search.match( /print-pdf/gi );
+
+			addStylestheet(isPrint ? 'css/theme/white.css' : 'css/theme/czechitas.css');
+			addStylestheet(isPrint ? 'css/print/pdf.css' : 'css/print/paper.css');
 		</script>
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
 
-				<section data-markdown="slides/00-ovladani.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
-				<section data-markdown="slides/00-todolist.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$" contenteditable class="put-image-to-top-right"></section>
+				<section data-markdown="slides/00-ovladani.md" data-print="noprint" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
+				<section data-markdown="slides/00-todolist.md" data-print="noprint" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$" contenteditable class="put-image-to-top-right"></section>
 
 				<section data-markdown="slides/intro-czechitas.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
 
@@ -66,7 +72,7 @@
 
 				<section data-markdown="slides/blank.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
 
-				<section data-markdown="slides/tasks.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
+				<section data-markdown="slides/tasks.md" data-print="noprint" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
 
 <!--
 
@@ -83,12 +89,14 @@
 		<script src="js/reveal.js"></script>
 
 		<script>
+			if(isPrint) {
+				document.querySelectorAll("section[data-print='noprint']").forEach(function(element) { element.parentNode.removeChild(element); });
+			}
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				history: true,
-				width: 1024, height: 768,
-				// Uncomment for printing
-				// width: 297*5, height: 210*5,
+				width: isPrint ? 297*5 : 1024, height: isPrint ? 210*5 : 768,
+				pdfMaxPagesPerSlide: 1,
 				// Factor of the display size that should remain empty around the content
 				margin: 0.05,
 
@@ -106,7 +114,7 @@
 				// dev settings
 //				fragments: false,   // vypnout postupné zobrazování prvků s třídou fragment
 				transition: 'none', // vypnout efekty na přechodu mezi slajdy
-//				showNotes: true,    // zapnout viditelné poznámky
+  				showNotes: isPrint,    // zapnout viditelné poznámky
 
 
 				menu: {
