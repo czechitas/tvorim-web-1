@@ -39,7 +39,7 @@ Dej Chci poradit
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hned si to <a href="https://czechitas.herokuapp.com/coach">vyzkoušíme</a>
+# Hned si to <a href="https://czechitas.herokuapp.com/">vyzkoušíme</a>
 
 >>>
 Super. Někdo si dejte červený lísteček… : )
