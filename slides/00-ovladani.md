@@ -12,10 +12,13 @@ Navigace mezi úrovněmi slidů<br>
 
 <kbd>F</kbd> Na celou obrazovku<br>
 
-<kbd>O</kbd> Přehled slidů<br>
+<kbd>O</kbd> Přehled slidů jako zmenšeniny<br>
 
 <kbd>S</kbd> Poznámky přednášejícího<br>
 
 <kbd>?</kbd> Nápověda ke klávesovým zkratkám<br>
+
+<kbd>M</kbd> Menu s textovým přehledem slajdů<br>
+
 
 </div>
