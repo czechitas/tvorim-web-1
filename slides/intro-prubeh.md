@@ -9,7 +9,7 @@
 
 # 2. Zkusíte si
 
-- Zadání se objeví v aplikaci: czchts.link/web
+- Zadání se objeví v aplikaci: bit.ly/4me280
 - Času bude kolik je potřeba.
 
 
