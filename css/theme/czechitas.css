@@ -47,7 +47,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #b82c7f;
+  color: #5715b8;
   font-family: "Roboto Condensed", sans-serif;
   font-weight: 700;
   line-height: 1.2;
@@ -469,23 +469,12 @@ code.c-fragment-hiding .fragment:not(.current-fragment):not(.visible) {
 .reveal .slide-background {
   background-size: contain; }
 
-/* Umístit obrázek v slajdu do rohu, použitelné pro logo sponzora dočasně vložené do contenteditable. */
-.put-image-to-top-right img {
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 40%;
-  height: auto;
-  border: none !important;
-  box-shadow: none !important;
-}
-
 /* věci extra, které standardně neučíme */
 .c-extra {
   display: none; }
 
 .c-slide-half .slide-background {
-  background-image: url("czechitas/czechitas-tile.png");
+  background-image: url("/css/theme/czechitas/czechitas-tile.png");
   background-position: bottom;
   background-size: auto 30%;
   background-repeat: repeat-x; }
@@ -512,7 +501,7 @@ body.print-pdf .c-slide-video .slide-background, body.print-pdf
   background-color: green; }
 
 .c-slide-inter .slide-background {
-  background: #b82c7f; }
+  background: #361fb8; }
 
 .c-slide-inter .reveal h1, .c-slide-inter .reveal h2, .c-slide-inter .reveal h3, .c-slide-inter .reveal h4, .c-slide-inter .reveal h5, .c-slide-inter .reveal h6 {
   line-height: 0.8; }
