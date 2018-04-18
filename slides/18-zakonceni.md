@@ -1,23 +1,19 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Co dál?
+# Na doma
 
-----
+1. Připrav si HTML pro stránku o tvém oblíbeném filmovém hrdinovi nebo o čem chceš.
+1. Můžeš si stránku zkusit i nastylovat pomocí CSS, které už umíš. 
+1. Na papír si namaluj, jak si představuješ layout té stránky.
 
-# Kurzy Czechitas
-
-* Jak na web (několikatýdenní)
-* Intenzivní kurz Czechitas
-
->>>
-Přehled toho, co v nejbližší době bude
+Příště si ukážeme, jak ho snadno udělat.
+ 
 
 ----
 
 # Kde se poradit?
 
-* Ptej se na Facebooku ve skupině:<br>[Czechitas - Úvod do HTML a CSS](https://www.facebook.com/groups/700368416798259/)
-* V češtině je také [diskuse.jakpsatweb.cz](https://diskuse.jakpsatweb.cz/)
+* Jsme na Slacku.
 * Hledej na Google
 <br><small>(opatrně s výsledky, nedoporučujeme např. w3schools.com)</small>
 
@@ -33,34 +29,17 @@ Přehled toho, co v nejbližší době bude
 
 # Zdroje v angličtině
  
-* [codecademy.com](https://www.codecademy.com/): základní kurzy zdarma
 * Reference CSS&nbsp;[cssreference.io](http://cssreference.io/) a HTML&nbsp;[htmlreference.io](http://htmlreference.io/)
 <br><small>hezky popisují nejpoužívanější prvky a vlastnosti</small>
-* Videokurzy na [udemy.com](https://www.udemy.com) nebo [Lynda.com](https://www.lynda.com/)
-<br><small>nutno vybírat, placené, ale občas mají akce se slevami nebo omezenou dobu zdarma</small>
-* Přehled kurzů a tutoriálů: [hackr.io](https://hackr.io/)
 * [developer.mozilla.org](https://developer.mozilla.org/) 
 <br><small>návody i reference pro všechny úrovně</small>
-
-----
-
-# Knihy v češtině
-
-* Vzhůru do (responzivního) webdesignu
-<br><small>jak se dnes tvoří weby, vhodné i pro středně pokročilé</small>
-* Vzhůru do CSS3
-<br><small>pokročilejší techniky</small>
-* Web ostrý jako břitva
-<br><small>proces tvorby webu, méně technikálií, pro zadavatele i tvůrce</small>
-* Dobrý designér to všechno ví!
-<br><small>Opět zaměřeno spíš na design</small>
 
 ----
 
 # Editory kódu
 
 ### Zdarma
-**VS Studio Code**
+**VS Studio Code** (doporučujeme)
 
 **Atom**
 
@@ -84,24 +63,6 @@ Přehled toho, co v nejbližší době bude
 >>>
 * Určitě zkuste: ideální na naší hotové stránce (je jednoduchá), ale jde na libovolné, kterou zrovna máte v prohlížeči.
 * Zkuste si v Developer tools něco změnit v CSS, prozkoumejte strukturu HTML.
-
-----
-
-# Srazy
-
-* Frontendisti.cz (Praha, Brno, Ostrava, Plzeň)
-
->>>
-* neformální setkání, s krátkými přednáškami
-* výměna zkušeností
-* informace o pracovních nabídkách, "pohovor v hospodě"
-
-----
-
-# Kódujte!
-
-* svůj web, web pro kamarádku/kamaráda: skutečný web vás donutí najít řešení
-* _tip_: nemusíte vše psát samy (ani profesionálové to nedělají): je spousta hotových řešení (knihovny, frameworky) 
 
 ----
 
