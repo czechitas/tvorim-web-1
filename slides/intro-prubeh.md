@@ -65,9 +65,6 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 
 # Plán
 
-- začátek teď
-- konec ~18h
-
-a zhruba každou hodinu bude 10 minut pauza
+Zhruba každou hodinu bude 10 minut pauza.
 
 <!-- .element: class="c-text-left" -->
