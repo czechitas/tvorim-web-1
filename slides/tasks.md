@@ -641,6 +641,16 @@ Tip: podívej se, co dělá vlastnost `list-style-type`.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://21--tvorimweb1.repl.co/)
 
+----
+
+## Bonus
+
+K témuž cíli často vede více cest. Shodného výsledku dosáhneš i [pomocí **flexboxu**](https://www.vzhurudolu.cz/prirucka/css3-flexbox#sup-na-zakladni-pojmy-flex-kontejner-a-flex-polozka-hlavni-a-pricna-osa).
+
+1. Nastav seznamu s odkazy `display: flex;`.
+1. Pomocí vlastnosti `justify-content` změň výchozí uspořádání odkazů. [Podívej se jak na to.](https://www.vzhurudolu.cz/prirucka/css3-flexbox-kontejner#justify-content) Když si podbarvíš položky seznamu nějakou výraznější barvou, bude ti možná jasnější, co jednotlivé hodnoty `justify-content` způsobují.
+1. Ponechej uspořádání, které ti vyhovuje. Odstraň případné podbarvení položek seznamu a máš hotovo.
+
 ---
 
 # 22 Přidáme sekci _O mně_
