@@ -269,7 +269,7 @@ p {
 
 1. Vycentruj hlavní nadpis.
 1. Použij zajímavější písma. Na nadpisy písmo _Mali_ a pro všechen ostatní text nastav písmo _Nunito_.
-1. Abys je mohla používat, je potřeba připojit fonty a CSS ze služby Google Fonts. Do hlavičky dokumentu přidej následující `link`, který písma načte:
+1. Abys je mohla používat, je potřeba připojit fonty ze služby Google Fonts. To se udělá připojením CSS (získá se na jejich stránce v závislosti na požadovaných písmech a jejich řezech). Do hlavičky dokumentu přidej následující `link`, který písma načte:
 `<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mali:400,700|Nunito:400,700&amp;subset=latin-ext">`
 1. Odteď s nimi můžeš v CSS pracovat, upravuj vlastnost `font-family`.
 
