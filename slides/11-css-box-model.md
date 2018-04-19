@@ -126,6 +126,7 @@ img {
 * `margin` se do šířky nezapočítává, ale ovlivňuje, kolik místa prvek ve výsledku zabere
 * **Pozor při výpočtech**: nezpomeňte násobit 2: <br>
     `margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
+* výše uvedené platí pouze pokud mají všechny prvky nastaven `box-sizing: border-box;`, viz začátek CSS souboru na Thimble
 
 ----
 
