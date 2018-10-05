@@ -33,11 +33,11 @@ Obsah slajdů se nachází v adresáři [slides/](slides/) ve formátu Markdown 
 
 Další speciální vlastnosti jsou popsané v dokumentaci pro [Reveal.js Markdown](https://github.com/hakimel/reveal.js#markdown).
 
-Pro práci na prezentaci je vhodné mít nainstalovaný [Node.js](https://nodejs.org/) a volitelně [Yarn](https://yarnpkg.com).
+Pro práci na prezentaci je vhodné mít nainstalovaný [Node.js](https://nodejs.org/) (včetně `npm`).
 
 1. Naklonujte repozitář
-2. Nainstalujte závislosti příkazem `yarn` ve složce repozitáře
-3. Spusťte vývojový server přes `yarn start`
+2. Nainstalujte závislosti příkazem `npm i` ve složce repozitáře
+3. Spusťte vývojový server přes `npm start`
 
 
 ### Poznámky a ovládání na samostatném zařízení
@@ -87,7 +87,7 @@ _Tip: Neotvírat více než jeden projekt najednou (do tabů např.) Thimble to 
 
 #### Automatické obnovení
 
-Není to nutné, ale pokud si chceš ušetřit práci s obnovováním stránky při změně CSS nebo HTML, spusť v `/cviceni/` příkaz `yarn install` a pomocí `yarn watch` se spustí Browsersync. 
+Není to nutné, ale pokud si chceš ušetřit práci s obnovováním stránky při změně CSS nebo HTML, spusť v `/cviceni/` příkaz `npm install` a pomocí `npm run watch` se spustí Browsersync. 
 
 # TODO před začátkem
 
