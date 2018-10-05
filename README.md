@@ -39,6 +39,9 @@ Pro práci na prezentaci je vhodné mít nainstalovaný [Node.js](https://nodejs
 2. Nainstalujte závislosti příkazem `npm i` ve složce repozitáře
 3. Spusťte vývojový server přes `npm start`
 
+### Export do PDF
+
+Do adresy stránky přidej `?print-pdf`, tj. například: `http://localhost:8000/?print-pdf` nebo i <https://czechitas.github.io/tvorim-web-1/?print-pdf>. Zobrazí se verze vhodná pro tisk a uložení do PDF.
 
 ### Poznámky a ovládání na samostatném zařízení
 
