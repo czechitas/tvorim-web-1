@@ -56,11 +56,11 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 # 01 Osaháme si Repl.it a klávesové zkratky
 
 1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/00) a nahoře klikni na _fork_.
-1. Podívej se pod ozubené kolečko (nastavení): nastav si velikost textu a barevné schéma tak, abys kód dobře viděla.
-1. Dále pod ozubeným kolečkem nastav:
-	- „Automaticky uzavírat značky“: ne
-	- „Automatické doplňování kódu“: ne
-1. Zkopíruj si následující text <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd>.
+1. Podívej se pod ozubené kolečko (nastavení): nastav si velikost textu (_font size_) a barevné schéma (_theme_) tak, abys kód dobře viděla.
+	- 
+1. Dále si případně pod ozubeným kolečkem nastav:
+	- _code intelligence_ na _disabled_
+1. Zkopíruj si následující text <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd> místo komentáře v souboru.
 	```
 	Web Kryštůfka Robina
 
