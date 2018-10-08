@@ -1,4 +1,4 @@
-# Založíme si účet na Thimble
+# Založíme si účet na Repl.it
 
 1. [otevři si Repl](https://repl.it)
 1. Vpravo nahoře klikni na _Vytvořit účet_
@@ -28,8 +28,6 @@
 
 odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více řádků najednou_ 
 
-Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazení celého souboru (Thimble při vložení kódu automaticky odsazuje)
-
 
 ### Další 
 
@@ -55,7 +53,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 
 ----
 
-# 01 Osaháme si Thimble a klávesové zkratky
+# 01 Osaháme si Repl.it a klávesové zkratky
 
 1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/01) a nahoře klikni na _fork_.
 1. Podívej se pod ozubené kolečko (nastavení): nastav si velikost textu a barevné schéma tak, abys kód dobře viděla.
@@ -200,7 +198,7 @@ stopy.jpg
 
 Doplň titulek: `Kryštůfek Robin a medvídek Pú`
 
-Abys viděla výsledek, je třeba stránku publikovat (tlačítko vpravo nahoře) a otevřít vytvořený odkaz. To je protože v _Thimble_ vidíme vlastně **náhled stránky** což stačí na vše, co dnes budeme dělat, kromě zobrazení titulku.
+Abys viděla výsledek, je třeba stránku v samostatném okně. Klikni na ikonu se šipkou vpravo vedle adresního řádku v podokně s náhledem. V _Repl.it_ totiž vidíme vlastně **náhled stránky** což stačí na vše, co dnes budeme dělat, kromě zobrazení titulku, kdy potřebujeme vidět stránku samostatně.
 
 **Dej hotovo.**
 
@@ -669,9 +667,9 @@ Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a p
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/23)
 
-1. V Thimble vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci, kde už je index.html, klikni do šedé plochy pravým tlačítkem myši a vyber _Nový soubor_ a vyplň jeho název včetně `.html` na konci.
+1. V _Repl.it_ vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci, kde už je index.html, klikni do šedé plochy pravým tlačítkem myši a vyber _Nový soubor_ a vyplň jeho název včetně `.html` na konci.
 1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na `index.html`.
-1. Zkopíruj do nich všechen stávající HTML kód z `index.html` (kód, který ti vložil _Thimble_ do nových souborů přepiš).
+1. Zkopíruj do nich všechen stávající HTML kód z `index.html` (kód, který ti vložil _Repl.it_ do nových souborů přepiš).
 1. Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
 1. Zruš barevné pozadí pro jednotlivé sekce. Teď už není potřeba je odlišovat, když každá je na stránce sama. (Stačí odmazat daná pravidla.)
 1. Proklikej si svůj nový web.
@@ -694,8 +692,8 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 # Publikujeme hotový web na internet
 
-1. Vpravo nahoře klikni na _Publikovat_ a _Aktualizovat publikovanou verzi_.
-1. Thimble ti ukáže adresu, na které tvůj web bude veřejně k vidění.
+1. V podokně s náhledem stránky klikni na iknou se šipkou vpravo vddle adresního řádku.
+1. Na nové záložce vidíš svou stránku. Na adrese, kterou vidíš v adresním řádku bude tvůj web veřejně k vidění.
 1. Dej hotovo.
 
 ---
