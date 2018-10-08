@@ -8,9 +8,9 @@
 
 ```css
 .tip {
-    width: 300px;
-    height: 100px;
-    max-width: 100%;
+	width: 300px;
+	height: 100px;
+	max-width: 100%;
 }
 ```
 <!-- .element: class="c-text-sm " contenteditable="true" -->
@@ -36,9 +36,9 @@
 
 ```css
 img {
-    border-width: 2px;
-    border-style: solid;
-    border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
 }
 ```
 
@@ -46,7 +46,7 @@ img {
 
 ```css
 img {
-    border: 2px solid black;
+	border: 2px solid black;
 }
 
 ```
@@ -125,7 +125,7 @@ img {
 * vlastnost `width` určuje, jak má být prvek široký *včetně* ohraničení (`border`) a výplně (`padding`)
 * `margin` se do šířky nezapočítává, ale ovlivňuje, kolik místa prvek ve výsledku zabere
 * **Pozor při výpočtech**: nezpomeňte násobit 2: <br>
-    `margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
+	`margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
 
 ----
 

@@ -3,9 +3,9 @@
 1. [otevři si Repl](https://repl.it)
 1. Vpravo nahoře klikni na _Vytvořit účet_
 1. Heslo musí
-    * být nejméně 8 znaků dlouhé,
-    * obsahovat číslo,
-    * obsahovat VERZÁLKY i minusky.
+	* být nejméně 8 znaků dlouhé,
+	* obsahovat číslo,
+	* obsahovat VERZÁLKY i minusky.
 1. Až se dostaneš zpátky na zelenou stránku, kde bude vpravo nahoře uživatelské jméno, které jsi zadala, stránku zavři.
 1. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
 
@@ -14,22 +14,22 @@
 ## Shrnutí zkratek
 
 
-### Základní 
+### Základní
 
 <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
 
 <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
 
 <kbd>Ctrl+C</kbd> Kopírovat
- 
+
 <kbd>Ctrl+V</kbd> Vložit
 
-<kbd>Ctrl+X</kbd> Kopírovat a smazat (vyjmout) _výběr nebo bez výběru pro celý řádek_ 
+<kbd>Ctrl+X</kbd> Kopírovat a smazat (vyjmout) _výběr nebo bez výběru pro celý řádek_
 
-odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více řádků najednou_ 
+odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více řádků najednou_
 
 
-### Další 
+### Další
 
 <kbd class="nichtvergissmeinnicht">Ctrl+→</kbd> Posun po slovech doprava
 
@@ -57,16 +57,16 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 
 1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/01) a nahoře klikni na _fork_.
 1. Podívej se pod ozubené kolečko (nastavení): nastav si velikost textu a barevné schéma tak, abys kód dobře viděla.
-1. Dále pod ozubeným kolečkem nastav: 
-    - „Automaticky uzavírat značky“: ne 
-    - „Automatické doplňování kódu“: ne
+1. Dále pod ozubeným kolečkem nastav:
+	- „Automaticky uzavírat značky“: ne
+	- „Automatické doplňování kódu“: ne
 1. Zkopíruj si následující text <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd>.
-    ```
-    Web Kryštůfka Robina 
-    
-    Představím vám zde své dobré kamarády: 
-    medvídka Pú, Tygříka, Íjáčka a Prasátko.
-    ```
+	```
+	Web Kryštůfka Robina
+
+	Představím vám zde své dobré kamarády:
+	medvídka Pú, Tygříka, Íjáčka a Prasátko.
+	```
 1. Opět dej prosím „Hotovo“.
 
 ---
@@ -113,13 +113,13 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/03)
 
 1. Vytvoř sekci Kontakt, tedy
-    * nadpis `Kontakt`
-    * a text
-    ```
-    Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
+	* nadpis `Kontakt`
+	* a text
+	```
+	Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
 
-    To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
-    ```
+	To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
+	```
 1. Ze slova „Facebooku“ udělej odkaz na Facebook.
 1. Vyzkoušej, že odkaz funguje.
 1. Dej hotovo.
@@ -161,7 +161,7 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/05)
 
-**Před** nadpis _Kontakt_ dej další nadpis „Galerie“ a pod něj text `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a tyto obrázky (můžeš si zkopírovat) 
+**Před** nadpis _Kontakt_ dej další nadpis „Galerie“ a pod něj text `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a tyto obrázky (můžeš si zkopírovat)
 ```
 drak.jpg
 koupel.jpg
@@ -184,9 +184,9 @@ stopy.jpg
 
 ```html
 <head>
-    …
-    <title>Název stránky</title>
-    …
+	…
+	<title>Název stránky</title>
+	…
 </head>
 ```
 
@@ -216,9 +216,9 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 ```html
 <head>
-    …
-    <link rel="stylesheet" href="nazevsouboru.css">
-    …
+	…
+	<link rel="stylesheet" href="nazevsouboru.css">
+	…
 </head>
 ```
 
@@ -229,7 +229,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 > Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/07)
 
 1. Připoj si `styly.css` k HTML.
-1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou). Třeba 
+1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou). Třeba
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://07--tvorimweb1.repl.co/)
@@ -240,13 +240,13 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 ```css
 p {
-    font-style: italic;  /* nebo normal */
+	font-style: italic;  /* nebo normal */
 
-    font-weight: bold; /* nebo normal */
+	font-weight: bold; /* nebo normal */
 
-    font-family: sans-serif; /* nebo serif */
+	font-family: sans-serif; /* nebo serif */
 
-    text-align: center; /* nebo left nebo right */
+	text-align: center; /* nebo left nebo right */
 }
 ```
 
@@ -362,8 +362,8 @@ Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
 
 ```css
 .tip {
-    width: 300px;
-    height: 100px;
+	width: 300px;
+	height: 100px;
 }
 ```
 
@@ -391,14 +391,14 @@ Nastav obrázkům šířku 300 pixelů.
 
 ```css
 div {
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
 }
 
 /* to samé pomocí shorthandu */
 div {
-    border: 1px solid black;
+	border: 1px solid black;
 }
 ```
 
@@ -500,10 +500,10 @@ Vycentruj *vodorovně* (vlevo a vpravo bude stejně volného místa) Galerii a K
 Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah. Tip: nelze to vyřešit jen pomocí CSS.
 
 1. Je třeba **uvnitř** _divu_ `galerie` všechny obrázky obalit novým `<div>`, třeba s třídou `obsah`.
-1. Pro `.kontakt` a `.galerie` odstraň nastavení maximální šířky… 
+1. Pro `.kontakt` a `.galerie` odstraň nastavení maximální šířky…
 1. … a nastavit ji pro `<div class="obsah">`
 1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí `margin` pro prvek `<body>` na nulu.
-1. Hlavní nadpis (h1) a odstavec pod ním je ale teď do kraje, chtělo by to vyřešit… 
+1. Hlavní nadpis (h1) a odstavec pod ním je ale teď do kraje, chtělo by to vyřešit…
 1. Dej hotovo.
 
 > Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://17--tvorimweb1.repl.co/)
@@ -586,8 +586,8 @@ a:active { color: yellow; } /* při kliknutí */
 
 ```html
 <ul>
-    <li>odrážkový</li>
-    <li>seznam</li>
+	<li>odrážkový</li>
+	<li>seznam</li>
 </ul>
 ```
 
@@ -639,12 +639,12 @@ Tip: podívej se, co dělá vlastnost `list-style-type`.
 Všechno, co je potřeba pro tenhle úkol už umíš.
 
 1. Přidej další sekci, tentokrát `O mně` nad Galerii.
-1. Dej do ní text 
-    ```
-    Ahoj. Jmenuji se Kryštůfek Robin a jsem malý chlapec, se kterým se zvířátka ze Stokorcového lesa spřátelila a hrají si se mnou jako s jediným člověkem z lidského světa. Kamarádím se s Medvídkem Pú, Prasátkem, Ijáčkem, Tygrem, Králíčkem se všemi jeho přáteli a příbuznými, Sovou a Klokanicí s Klokánkem.
+1. Dej do ní text
+	```
+	Ahoj. Jmenuji se Kryštůfek Robin a jsem malý chlapec, se kterým se zvířátka ze Stokorcového lesa spřátelila a hrají si se mnou jako s jediným člověkem z lidského světa. Kamarádím se s Medvídkem Pú, Prasátkem, Ijáčkem, Tygrem, Králíčkem se všemi jeho přáteli a příbuznými, Sovou a Klokanicí s Klokánkem.
 
-    Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
-    ```
+	Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
+	```
 1. Přidej obrázek `krystufek-robin.png`
 1. Dej hotovo.
 
@@ -655,7 +655,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
 ## Bonus
 
-Obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadal, kdyby byl přes celou šířku stránky. 
+Obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadal, kdyby byl přes celou šířku stránky.
 
 Pokud už jsi to udělala pro mapu, není nic snazšího než přidat stejnou třídu i tomuhle obrázku.
 
