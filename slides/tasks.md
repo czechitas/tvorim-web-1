@@ -92,7 +92,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 1. Protože kamarádství je pro medvídka Pú podstatné, označ text „dobré kamarády“ jako velmi důležitý.
 1. Nezapomeň dát vědět, že máš hotovo a nezapomeň na to ani až dokončíš další úkoly.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189042)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://02--tvorimweb1.repl.co/)
 
 ---
 
@@ -126,7 +126,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 1. Vyzkoušej, že odkaz funguje.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189046)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://04--tvorimweb1.repl.co/)
 
 ----
 
@@ -147,7 +147,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 
 # 04 Přidáme mapu
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189046)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/04)
 
 1. Přidej obrázek mapy do kontaktu za text, který už tam máš.
 1. Přidej za mapu licencí vyžadované texty:`Autorem skenů je Paul K. pod licencí CC 2.0`.
@@ -155,7 +155,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 1. Vytvoř odkaz na licenci z textu „licencí CC 2.0“ `https://creativecommons.org/licenses/by/2.0/`
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189053)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://04--tvorimweb1.repl.co/)
 
 ---
 
@@ -178,7 +178,7 @@ stopy.jpg
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189058)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://05--tvorimweb1.repl.co/)
 
 ---
 
@@ -204,7 +204,7 @@ Abys viděla výsledek, je třeba stránku publikovat (tlačítko vpravo nahoře
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/297089)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://06--tvorimweb1.repl.co/)
 
 ----
 
@@ -234,7 +234,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou). Třeba 
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189082/)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://07--tvorimweb1.repl.co/)
 
 ---
 
@@ -262,7 +262,7 @@ p {
 1. nastav odkazům tučný řez písma
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189083/)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://08--tvorimweb1.repl.co/)
 
 
 ----
@@ -293,7 +293,7 @@ Nadpisy udělej o něco větší než byly doposud.
 
 **Dej hotovo**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189084)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://09--tvorimweb1.repl.co/)
 
 ----
 
@@ -323,7 +323,7 @@ h1 { background-color: #008000; }
 1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/297097)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://10--tvorimweb1.repl.co/)
 
 ---
 
@@ -349,7 +349,7 @@ Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/297080)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://11--tvorimweb1.repl.co/)
 
 ----
 
@@ -379,7 +379,7 @@ Nastav obrázkům šířku 300 pixelů.
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189098)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://12--tvorimweb1.repl.co/)
 
 ----
 
@@ -414,7 +414,7 @@ div {
 1. Mapě nastav rámeček hnědý.
 1. Dej hotovo
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189099)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://13--tvorimweb1.repl.co/)
 
 ----
 
@@ -440,7 +440,7 @@ Přidej vnitřní odsazení (padding) 10px.
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189100)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://14--tvorimweb1.repl.co/)
 
 ----
 
@@ -466,7 +466,7 @@ Přidej obrázkům vnější odsazení 5px, aby na sebe nebyly tak nalepené.
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189101)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://15--tvorimweb1.repl.co/)
 
 ----
 
@@ -485,7 +485,7 @@ Nastav obrázkům větší padding dole než na ostatních stranách.
 1. Nastav maximální šířku 960px sekcím Kontakt a Galerie.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189105)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://16--tvorimweb1.repl.co/)
 
 ----
 
@@ -508,7 +508,7 @@ Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl
 1. Hlavní nadpis (h1) a odstavec pod ním je ale teď do kraje, chtělo by to vyřešit… 
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189107)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://17--tvorimweb1.repl.co/)
 
 ----
 
@@ -538,7 +538,7 @@ h2 { color: green; }
 1. Zkus využít vícenásobný selektor i pro nastavení stejného paddingu hlavních sekcí.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189109)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://18--tvorimweb1.repl.co/)
 
 ----
 
@@ -573,7 +573,7 @@ a:active { color: yellow; } /* při kliknutí */
 1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189137)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://19--tvorimweb1.repl.co/)
 
 ----
 
@@ -604,7 +604,7 @@ a:active { color: yellow; } /* při kliknutí */
 1. Odkaz na stránku (atribut `href`) zatím nechej prázdný, to znamená jen napsat uvozovky a nic mezi ně.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189138)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://20--tvorimweb1.repl.co/)
 
 ---
 
@@ -630,7 +630,7 @@ span { display: inline-block; }
 
 Tip: podívej se, co dělá vlastnost `list-style-type`.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189139)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://21--tvorimweb1.repl.co/)
 
 ---
 
@@ -651,7 +651,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 1. Dej hotovo.
 
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189143)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://22--tvorimweb1.repl.co/)
 
 ----
 
@@ -679,7 +679,7 @@ Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a p
 
 Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://thimbleprojects.org/czechitas/189146)
+> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://23--tvorimweb1.repl.co/)
 
 ----
 
