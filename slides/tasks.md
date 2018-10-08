@@ -1,6 +1,6 @@
 # Založíme si účet na Thimble
 
-1. [otevři si Thimble](https://thimble.mozilla.org/cs)
+1. [otevři si Repl](https://repl.it)
 1. Vpravo nahoře klikni na _Vytvořit účet_
 1. Heslo musí
     * být nejméně 8 znaků dlouhé,
@@ -57,7 +57,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 
 # 01 Osaháme si Thimble a klávesové zkratky
 
-1. Otevři si [výchozí cvičení](https://thimbleprojects.org/czechitas/140019/) a klikni vpravo na _Upravit/Remix_.
+1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/01) a nahoře klikni na _fork_.
 1. Podívej se pod ozubené kolečko (nastavení): nastav si velikost textu a barevné schéma tak, abys kód dobře viděla.
 1. Dále pod ozubeným kolečkem nastav: 
     - „Automaticky uzavírat značky“: ne 
@@ -112,7 +112,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 
 # 03 Přidáme _Kontakt_
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189042)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/03)
 
 1. Vytvoř sekci Kontakt, tedy
     * nadpis `Kontakt`
@@ -161,7 +161,7 @@ Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazen�
 
 # 05 Přidáme obrázkovou galerii
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189053)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/05)
 
 **Před** nadpis _Kontakt_ dej další nadpis „Galerie“ a pod něj text `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a tyto obrázky (můžeš si zkopírovat) 
 ```
@@ -196,7 +196,7 @@ stopy.jpg
 
 # 06 Doplníme titulek
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189058)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/06)
 
 Doplň titulek: `Kryštůfek Robin a medvídek Pú`
 
@@ -228,7 +228,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 # 07 Připojíme styly
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/297089)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/07)
 
 1. Připoj si `styly.css` k HTML.
 1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou). Třeba 
@@ -256,7 +256,7 @@ p {
 
 # 08 Upravíme písmo
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189082)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/08)
 
 1. nastav celé stránce bezpatkové písmo
 1. nastav odkazům tučný řez písma
@@ -287,7 +287,7 @@ font-size: 150%;
 
 # 09 Měníme velikosti písma
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189083)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/09)
 
 Nadpisy udělej o něco větší než byly doposud.
 
@@ -317,7 +317,7 @@ h1 { background-color: #008000; }
 
 # 10 Nastavíme barvu pozadí
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189084)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/10)
 
 1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička jsou texty na konci stránky (odkaz na FB a informaci o licenci).
 1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí.
@@ -341,7 +341,7 @@ h1 { background-color: #008000; }
 
 # 11 Přidáme třídy
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/297097)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/11)
 
 1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
 
@@ -373,7 +373,7 @@ Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
 
 # 12 Nastavíme obrázkům šířku
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/297080)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/12)
 
 Nastav obrázkům šířku 300 pixelů.
 
@@ -408,7 +408,7 @@ div {
 
 # 13 Orámujeme obrázky
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189098)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/13)
 
 1. Nastav obrázkům šedý rámeček 2 pixely široký.
 1. Mapě nastav rámeček hnědý.
@@ -434,7 +434,7 @@ Změň barvu horního ohraničení (nebo dolního, nebo pravého anebo levého)
 
 # 14 Vnitřní odsazení obrázků
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189099)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/14)
 
 Přidej vnitřní odsazení (padding) 10px.
 
@@ -460,7 +460,7 @@ Přidej vnitřní odsazení (padding) 10px.
 
 # 15 Větší mezery mezi obrázky
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189100)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/15)
 
 Přidej obrázkům vnější odsazení 5px, aby na sebe nebyly tak nalepené.
 
@@ -478,7 +478,7 @@ Nastav obrázkům větší padding dole než na ostatních stranách.
 
 # 16 Odsadíme obsah od okrajů
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189101)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/16)
 
 1. Odsaď obsah kontaktu, galerie a patičky od okraje jejich boxu, ať na něj není tak nalepený.
 1. V patičce odsaď text od horního a dolního okraje víc než po stranách.
@@ -497,7 +497,7 @@ Vycentruj *vodorovně* (vlevo a vpravo bude stejně volného místa) Galerii a K
 
 # 17 Roztáhneme pozadí až do okraje
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189105)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/17)
 
 Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah. Tip: nelze to vyřešit jen pomocí CSS.
 
@@ -532,7 +532,7 @@ h2 { color: green; }
 
 # 18 Zjednodušujeme kód
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189107)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/18)
 
 1. Uprav CSS pro barvu nadpisů tak, aby využíval vícenásobný selektor.
 1. Zkus využít vícenásobný selektor i pro nastavení stejného paddingu hlavních sekcí.
@@ -568,7 +568,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 # 19 Měníme barvu odkazů po najetí myši
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189109)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/19)
 
 1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech
 1. Dej hotovo.
@@ -597,7 +597,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 # 20 Přidáme navigaci (menu)
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189137)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/20)
 
 1. Navigace jako odrážkový seznam, se 3 položkami podle sekcí stránky.
 1. Nezapomeň na odkaz na úvodní stránku!
@@ -622,7 +622,7 @@ span { display: inline-block; }
 
 # 21 Odkazy v navigaci na jeden řádek
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189138)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/21)
 
 1. Nastyluj menu tak, aby položky byly vedle sebe.
 1. Přidej jiné podbarvení celé položky po najetí na ni.
@@ -636,7 +636,7 @@ Tip: podívej se, co dělá vlastnost `list-style-type`.
 
 # 22 Přidáme sekci _O mně_
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189139)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/22)
 
 Všechno, co je potřeba pro tenhle úkol už umíš.
 
@@ -667,7 +667,7 @@ Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a p
 
 # 23 Rozdělíme web na jednotlivé stránky
 
-> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _Upravit/Remix_](https://thimbleprojects.org/czechitas/189143)
+> Pokud jsi nestihla předchozí cvičení, [udělej si znovu _fork_](https://repl.it/@tvorimweb1/23)
 
 1. V Thimble vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci, kde už je index.html, klikni do šedé plochy pravým tlačítkem myši a vyber _Nový soubor_ a vyplň jeho název včetně `.html` na konci.
 1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na `index.html`.
@@ -704,4 +704,4 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 [Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/s/BylzJbePx)
 
-[Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://thimbleprojects.org/czechitas/189149/).
+[Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://24--tvorimweb1.repl.co/).
