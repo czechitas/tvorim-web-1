@@ -1,49 +1,62 @@
-/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+/* Moderní box model - nastavená šířka boxu v této verzi zahrnuje padding a border */
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
 
 body {
-  color: darkslategrey;
-  font-family: sans-serif;
+	font-family: sans-serif;
+	color: hsl(0, 0%, 40%);
 }
 
 h1 {
-  color: #2e616b;
-  font-size: 48px;
+	font-size: 3.5rem;
+	color: hsl(100, 50%, 40%);
 }
 
 h2 {
-  color: #2e616b;
-  font-size: 30px;
+	font-size: 2.5rem;
+	color: hsl(100, 50%, 40%);
 }
 
 a {
-  font-weight: bold;
-}
-
-.galerie {
-  max-width: 960px;
-  padding: 10px;
-  background-color: #dee8c9;
+	font-weight: bold;
 }
 
 img {
-  width: 300px;
-  padding: 10px;
-  border: 2px solid #888;
-  margin: 5px;
-}
-
-.kontakt {
-  max-width: 960px;
-  padding: 10px;
-  background-color: #ecd9c6;
+	width: 300px;
+	margin: 0.3rem;
+	padding: 0.6rem;
+	border: 2px solid hsl(100, 50%, 40%);
 }
 
 .mapa {
-  border-color: brown;
+	border-color: hsl(50, 100%, 70%);
+}
+
+.galerie {
+	max-width: 960px;
+	padding: 1rem;
+	background-color: hsl(50, 90%, 90%);
+}
+
+.kontakt {
+	max-width: 960px;
+	padding: 1rem;
+	background-color: hsl(100, 90%, 90%);
 }
 
 .paticka {
-  padding: 20px;
-  background-color: #74593e;
-  color: #fff;
+	padding: 1.25rem 1rem;
+	color: hsl(0, 0%, 100%);
+	background-color: hsl(30, 100%, 25%);
+}
+
+.licence {
+	font-size: 80%;
 }

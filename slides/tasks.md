@@ -90,7 +90,7 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 1. Protože kamarádství je pro medvídka Pú podstatné, označ text „dobré kamarády“ jako velmi důležitý.
 1. Nezapomeň dát vědět, že máš hotovo a nezapomeň na to ani až dokončíš další úkoly.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://02--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://02--tvorimweb1.repl.co/)
 
 ---
 
@@ -124,7 +124,7 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 1. Vyzkoušej, že odkaz funguje.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://04--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://04--tvorimweb1.repl.co/)
 
 ----
 
@@ -153,7 +153,7 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 1. Vytvoř odkaz na licenci z textu „licencí CC 2.0“ `https://creativecommons.org/licenses/by/2.0/`
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://04--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://04--tvorimweb1.repl.co/)
 
 ---
 
@@ -176,7 +176,7 @@ stopy.jpg
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://05--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://05--tvorimweb1.repl.co/)
 
 ---
 
@@ -202,7 +202,7 @@ Abys viděla výsledek, je třeba stránku v samostatném okně. Klikni na ikonu
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://06--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://06--tvorimweb1.repl.co/)
 
 ----
 
@@ -229,10 +229,11 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/07)
 
 1. Připoj si `styly.css` k HTML.
-1. Nastav barvu písma pro celou stránku a jinou nastav nadpisům (všem stejnou). Třeba
+1. Nastav barvu písma pro celou stránku (třeba šedou `hsl(0, 0%, 40%)`)
+1. Nastav oběma nadpisům jinou barvu (třeba zelenou `hsl(100, 50%, 40%)`)
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://07--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://07--tvorimweb1.repl.co/)
 
 ---
 
@@ -256,24 +257,28 @@ p {
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/08)
 
-1. nastav celé stránce bezpatkové písmo
-1. nastav odkazům tučný řez písma
+1. Nastav celé stránce bezpatkové písmo.
+1. Nastav odkazům tučný řez písma.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://08--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://08--tvorimweb1.repl.co/)
 
 
 ----
 
 ## Bonus
 
-1. vycentruj hlavní nadpis
+1. Vycentruj hlavní nadpis.
 
 ---
 
 ## Shrnutí výkladu
 
 ```css
+font-size: 1.5rem;
+
+/* nebo */
+
 font-size: 20px;
 
 /* nebo */
@@ -287,11 +292,11 @@ font-size: 150%;
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/09)
 
-Nadpisy udělej o něco větší než byly doposud.
+Nadpisy udělej o něco větší než byly doposud, třeba `3.5rem` a `2.5rem`
 
 **Dej hotovo**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://09--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://09--tvorimweb1.repl.co/)
 
 ----
 
@@ -309,6 +314,8 @@ _Tip: Tato vlastnost se také dědí, lze ji tedy nastavit nějakému nadřazen�
 p { background-color: green; }
 
 h1 { background-color: #008000; }
+
+h2 { background-color: color: hsl(120, 100%, 25%); }
 ```
 
 ----
@@ -318,10 +325,10 @@ h1 { background-color: #008000; }
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/10)
 
 1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička jsou texty na konci stránky (odkaz na FB a informaci o licenci).
-1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí.
+1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí, třeba `hsl(50, 90%, 90%)`
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://10--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://10--tvorimweb1.repl.co/)
 
 ---
 
@@ -337,24 +344,30 @@ h1 { background-color: #008000; }
 
 ----
 
-# 11 Přidáme třídy
+# 11 Využijeme třídy
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/11)
 
 1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
 
-Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
+Doporučené názvy tříd: `galerie`, `kontakt`, `paticka`.
+
+Můžeš použít třeba tyto barvy: ` hsl(50, 90%, 90%)`, `hsl(100, 90%, 90%)`, `hsl(0, 0%, 100%)`.
+
+_Tip: Poslední barva je hodně tmavá a text nebyl čitelný, nastav proto barvu textu v patičce na bílou._
+
+Nezapomeň smazat nastavení barvy pozadí pro všechny prvků `<div>`, které už není potřeba.
 
 **Dej hotovo.**
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://11--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://11--tvorimweb1.repl.co/)
 
 ----
 
 ## Bonus
 
 1. V patičce vycentruj text
-1. Přidej třídu `.small` a s její pomocí zmenši text odstavci s licencí v patičce.
+1. Přidej třídu `.licence` a s její pomocí zmenši text odstavci s licencí v patičce.
 
 ---
 
@@ -373,11 +386,10 @@ Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/12)
 
-Nastav obrázkům šířku 300 pixelů.
+1. Nastav obrázkům šířku 300 pixelů.
+1. Dej hotovo.
 
-**Dej hotovo.**
-
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://12--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://12--tvorimweb1.repl.co/)
 
 ----
 
@@ -408,17 +420,17 @@ div {
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/13)
 
-1. Nastav obrázkům šedý rámeček 2 pixely široký.
-1. Mapě nastav rámeček hnědý.
-1. Dej hotovo
+1. Nastav obrázkům zelený rámeček (třeba `hsl(100, 50%, 40%)`) široký 2 pixely.
+1. Mapě nastav rámeček žlutý, třeba `hsl(50, 100%, 70%)`.
+1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://13--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://13--tvorimweb1.repl.co/)
 
 ----
 
 ## Bonus
 
-Změň barvu horního ohraničení (nebo dolního, nebo pravého anebo levého)
+Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `hsl(100, 50%, 20%)`.
 
 ---
 
@@ -434,11 +446,10 @@ Změň barvu horního ohraničení (nebo dolního, nebo pravého anebo levého)
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/14)
 
-Přidej vnitřní odsazení (padding) 10px.
+1. Přidej vnitřní odsazení (padding) `0.6rem`.
+1. Dej hotovo.
 
-**Dej hotovo.**
-
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://14--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://14--tvorimweb1.repl.co/)
 
 ----
 
@@ -460,11 +471,10 @@ Přidej vnitřní odsazení (padding) 10px.
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/15)
 
-Přidej obrázkům vnější odsazení 5px, aby na sebe nebyly tak nalepené.
+1. Přidej obrázkům vnější odsazení `0.3rem`, aby na sebe nebyly tak nalepené.
+1. Dej hotovo.
 
-**Dej hotovo.**
-
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://15--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://15--tvorimweb1.repl.co/)
 
 ----
 
@@ -478,12 +488,12 @@ Nastav obrázkům větší padding dole než na ostatních stranách.
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/16)
 
-1. Odsaď obsah kontaktu, galerie a patičky od okraje jejich boxu, ať na něj není tak nalepený.
+1. Odsaď obsah kontaktu, galerie a patičky od okraje jejich boxu, ať na něj není tak nalepený, třeba `1rem`.
 1. V patičce odsaď text od horního a dolního okraje víc než po stranách.
-1. Nastav maximální šířku 960px sekcím Kontakt a Galerie.
+1. Nastav maximální šířku `960px` sekcím Kontakt a Galerie.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://16--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://16--tvorimweb1.repl.co/)
 
 ----
 
@@ -497,23 +507,25 @@ Vycentruj *vodorovně* (vlevo a vpravo bude stejně volného místa) Galerii a K
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/17)
 
-Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah. Tip: nelze to vyřešit jen pomocí CSS.
+Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah.
+
+Nelze to vyřešit jen v CSS:
 
 1. Je třeba **uvnitř** _divu_ `galerie` všechny obrázky obalit novým `<div>`, třeba s třídou `obsah`.
 1. Pro `.kontakt` a `.galerie` odstraň nastavení maximální šířky…
 1. … a nastavit ji pro `<div class="obsah">`
 1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí `margin` pro prvek `<body>` na nulu.
-1. Hlavní nadpis (h1) a odstavec pod ním je ale teď do kraje, chtělo by to vyřešit…
+1. Hlavní nadpis (h1) a odstavec pod ním je ale teď do kraje a chtělo by to vyřešit, třeba vycentrováním jejich textu.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://17--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://17--tvorimweb1.repl.co/)
 
 ----
 
 ## Bonus
 
 1. Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba nyní stejným způsobem vycentrovat _div_ s třídou `obsah`.
-1. Původní centrování můžeš odebrat, nemá na nic vliv.
+1. Původní centrování můžeš odebrat, nemá už na nic vliv.
 
 ---
 
@@ -536,7 +548,7 @@ h2 { color: green; }
 1. Zkus využít vícenásobný selektor i pro nastavení stejného paddingu hlavních sekcí.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://18--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://18--tvorimweb1.repl.co/)
 
 ----
 
@@ -571,7 +583,7 @@ a:active { color: yellow; } /* při kliknutí */
 1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://19--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://19--tvorimweb1.repl.co/)
 
 ----
 
@@ -602,7 +614,7 @@ a:active { color: yellow; } /* při kliknutí */
 1. Odkaz na stránku (atribut `href`) zatím nechej prázdný, to znamená jen napsat uvozovky a nic mezi ně.
 1. Dej hotovo.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://20--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://20--tvorimweb1.repl.co/)
 
 ---
 
@@ -628,7 +640,7 @@ span { display: inline-block; }
 
 Tip: podívej se, co dělá vlastnost `list-style-type`.
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://21--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://21--tvorimweb1.repl.co/)
 
 ---
 
@@ -649,7 +661,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 1. Dej hotovo.
 
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://22--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://22--tvorimweb1.repl.co/)
 
 ----
 
@@ -677,7 +689,7 @@ Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a p
 
 Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
 
-> Pokud nevíš, jak má výsledek vypadat, [podívej se sem](https://23--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://23--tvorimweb1.repl.co/)
 
 ----
 
@@ -702,4 +714,4 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 [Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/s/BylzJbePx)
 
-[Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://24--tvorimweb1.repl.co/).
+[Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://24--tvorimweb1.repl.co/) a jeho [zdrojové kódy](https://repl.it/@tvorimweb1/24)

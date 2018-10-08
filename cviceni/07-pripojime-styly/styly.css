@@ -1,13 +1,22 @@
-/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+/* Moderní box model - nastavená šířka boxu v této verzi zahrnuje padding a border */
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
 
 body {
-  color: darkslategrey;
+	color: hsl(0, 0%, 40%);
 }
 
 h1 {
-  color: #2e616b;
+	color: hsl(100, 50%, 40%);
 }
 
 h2 {
-  color: #2e616b;
+	color: hsl(100, 50%, 40%);
 }

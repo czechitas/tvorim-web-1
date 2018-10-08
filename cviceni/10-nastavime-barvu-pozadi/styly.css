@@ -1,23 +1,33 @@
-/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+/* Moderní box model - nastavená šířka boxu v této verzi zahrnuje padding a border */
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
 
 body {
-  color: darkslategrey;
-  font-family: sans-serif;
-  color: darkslategrey;
+	font-family: sans-serif;
+	color: hsl(0, 0%, 40%);
 }
 
 h1 {
-  color: #2e616b;
+	font-size: 3.5rem;
+	color: hsl(100, 50%, 40%);
 }
 
 h2 {
-  color: #2e616b;
+	font-size: 2.5rem;
+	color: hsl(100, 50%, 40%);
 }
 
 a {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 div {
-  background-color: #dee8c9;
+	background-color: hsl(50, 90%, 90%);
 }
