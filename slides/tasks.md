@@ -240,13 +240,13 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 ```css
 p {
-	font-style: italic;  /* nebo normal */
+    font-style: italic;  /* nebo normal */
 
-	font-weight: bold; /* nebo normal */
+    font-weight: bold; /* nebo normal */
 
-	font-family: sans-serif; /* nebo serif */
+    font-family: sans-serif; /* nebo serif */
 
-	text-align: center; /* nebo left nebo right */
+    text-align: center; /* nebo left nebo right */
 }
 ```
 
@@ -362,8 +362,8 @@ Doporučené názvy tříd: `kontakt`, `galerie`, `paticka`.
 
 ```css
 .tip {
-	width: 300px;
-	height: 100px;
+    width: 300px;
+    height: 100px;
 }
 ```
 
@@ -391,9 +391,9 @@ Nastav obrázkům šířku 300 pixelů.
 
 ```css
 div {
-	border-width: 1px;
-	border-style: solid;
-	border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
 }
 
 /* to samé pomocí shorthandu */

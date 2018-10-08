@@ -8,8 +8,8 @@
 
 ```css
 .tip {
-	width: 300px;
-	height: 100px;
+    width: 300px;
+    height: 100px;
     max-width: 100%;
 }
 ```
@@ -36,9 +36,9 @@
 
 ```css
 img {
-	border-width: 2px;
-	border-style: solid;
-	border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
 }
 ```
 
