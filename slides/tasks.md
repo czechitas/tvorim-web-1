@@ -85,8 +85,8 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 
 # 02 Zkusíme si první tagy
 
-1. Vytvoř nadpis nejvyšší úrovně (název webu): „Web Kryštůfka Robina“.
-1. Větu označkuj jako odstavec.
+1. Vytvoř nadpis nejvyšší úrovně (název webu) z textu „Web Kryštůfka Robina“.
+1. Zbývající větu označkuj jako odstavec.
 1. Protože kamarádství je pro medvídka Pú podstatné, označ text „dobré kamarády“ jako velmi důležitý.
 1. Nezapomeň dát vědět, že máš hotovo a nezapomeň na to ani až dokončíš další úkoly.
 
