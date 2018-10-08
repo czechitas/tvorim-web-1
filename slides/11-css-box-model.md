@@ -73,7 +73,7 @@ img {
 
 ```css
 .tip {
-	padding: 25px;
+	padding: 1.5rem;
 }
 ```
 <!-- .element: class="c-text-md " contenteditable="true" -->
@@ -96,7 +96,7 @@ img {
 
 ```css
 .tip {
-	margin: 10px;
+	margin: 1rem;
 }
 ```
 <!-- .element: class="c-text-md " contenteditable="true" -->
