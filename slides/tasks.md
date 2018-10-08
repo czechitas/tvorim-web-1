@@ -55,7 +55,7 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 
 # 01 Osaháme si Repl.it a klávesové zkratky
 
-1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/01) a nahoře klikni na _fork_.
+1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/00) a nahoře klikni na _fork_.
 1. Podívej se pod ozubené kolečko (nastavení): nastav si velikost textu a barevné schéma tak, abys kód dobře viděla.
 1. Dále pod ozubeným kolečkem nastav:
 	- „Automaticky uzavírat značky“: ne
