@@ -702,7 +702,7 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 
 # Publikujeme hotový web na internet
 
-1. V podokně s náhledem stránky klikni na iknou se šipkou vpravo vddle adresního řádku.
+1. V podokně s náhledem stránky klikni na iknou se šipkou vpravo vedle adresního řádku.
 1. Na nové záložce vidíš svou stránku. Na adrese, kterou vidíš v adresním řádku bude tvůj web veřejně k vidění.
 1. Dej hotovo.
 
