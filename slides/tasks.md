@@ -5,7 +5,7 @@
 1. Uživatelské jméno musí být 2‒15 znaků dlouhé.
 1. Zadej e-mail, na který máš přístup, přijde ti na něj ověřovací odkaz.
 1. Heslo musí být nejméně 6 znaků dlouhé.
-1. V dalším okně si můžeš vyplnit svůj profil, ale to lze přeskočit kliknutím na _skip_ (vpravo nad obrázkem).
+1. V dalším okně vyplň svůj profil (stačí skutečné jméno a příjmení ‒ zjednoduší to komunikaci).
 1. Podívej se do doručené pošty (prohledej i spam) a najdi e-mail od Repl.it s textem _Verify your e-mail_. Klikni na odkaz v něm obsažený a účet máš ověřen.
 1. Zpátky na stránku Repl.it! Klikni na tlačítko _Start Coding Now_.
 1. Do vyhledávacího pole zadej HTML a zvol jedinou možnost, která se nabídne.
