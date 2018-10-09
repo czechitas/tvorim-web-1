@@ -1,6 +1,6 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Thimble
+# Repl.it
 
 ----
 
@@ -8,22 +8,23 @@
 
 >>>
 * Soubory, ze kterých se web skládá musíme někde upravovat, editovat.
-* Pomocí Thimble můžeme snadno upravovat textové soubory.
+* Pomocí Repl.it můžeme snadno upravovat textové soubory.
 * Přestože je to hlavně výukový nástroj, má některé vlastnosti a podobné principy, které jsou běžné v profesionálních editorech.
-* Pomáhá nám: zvýrazňuje místo, na kterém pracujeme, upozorňuje na chyby.
+* Pomáhá nám: upozorňuje na chyby v pravopise kódu
 
 ----
 
 ## Online
 
 >>>
-* Thimble je online, není si třeba nic instalovat.
+* Repl.it je online, není si třeba nic instalovat.
+* Pouze je třeba zvolit jaký jazyk se chceme učit. V našem případě je to HTML, CSS, JS.
 
 ----
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Založíme si účet na Thimble
+# Založíme si účet na Repl.it
 
 ----
 
@@ -39,20 +40,16 @@
 
 >>>
 * Pokud otevřeš textový soubor s kódem, zobrazí se ti uprostřed a můžeš ho rovnou upravovat.
-* Pokud se ti zdá špatně čitelný, po kliknutí na ozubené kolečko vpravo nahoře se objeví možnost si kód zvětšit, případně přepnout pozadí na tmavé nebo světlé, dle toho co ti vyhovuje.
-* nastavení (ozubené kolečko) => Automatické doplňování kódu: vypnout (zelená na šedo)
-* tamtéž lze vypnout Automaticky uzavírat značky (kdyby nás to zlobilo)
-* tamtéž zapnout _Zobrazit mezery_
+* Pokud se ti zdá špatně čitelný, po kliknutí na ozubené kolečko v levé liště se objeví možnost si kód zvětšit, přepnout pozadí na tmavé nebo světlé, případně změnit uspořádání jednotlivých podoken, podle toho co ti vyhovuje.
+* Na horní liště podokna s kódem je ikona, která spustí „auto-format“. To znamená, že hezky zarovná a odsadí kód. To oceníš, jakmile kódu začne přibývat. Nestyď se a klikej na ni často.
 
 ----
 
 ## Náhled stránky
 
 >>>
-* Úplně vpravo je náhled stránky, který se automaticky obnovuje, pokud uděláš nějakou změnu.
-* Může se stát, že se automatické obnovování rozbije a je potřeba obnovit stránku. Zmáčkni prostě F5 nebo Ctrl+R (Cmd+R na Macu)
-* Vpravo nahoře je možnost přepnout si mezi náhledem na mobilu a na počítači.
-* Poslední tlačítko je náhled přes celou obrazovku, to využiješ hlavně pokud máš menší displej.
+* Úplně vpravo je náhled stránky. Abys viděla změny, které provedeš v editoru kódu, musíš napoprvé nahoře kliknout na tlačítko _run_. Pak už stačí po provedení změn kliknout na ikonu _refresh_ (zatočená šipka) v podokně s náhledem.
+* Poslední tlačítko za adresním řádkem otevře tvou stránku do nové záložky. Uvidíš stránku tak, jak ji uvidí běžní návštěvníci.
 
 ----
 
@@ -83,9 +80,6 @@
 
 <kbd>Ctrl+X</kbd> Kopírovat a smazat (vyjmout) <br> _výběr nebo bez výběru pro celý řádek_ <!-- .element: class="c-text-sm" -->
 
-odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
-
-Postupně <kbd>Ctrl+A</kbd> <kbd>Ctrl+C</kbd> <kbd>Ctrl+V</kbd> srovná odsazení celého souboru (Thimble)
 
 >>>
 Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
@@ -94,9 +88,10 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 
 ## Klávesové zkratky
 
-### Pouze Thimble
-* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
-* <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
+### Pouze Repl.it
+* odsazení <kbd>Ctrl+]</kbd> přidat <kbd>Ctrl+[</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
+* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Najde další výskyt vybraného (označeného) textu
+* <kbd class="nichtvergissmeinnicht">Ctrl+I</kbd> vybere celý řádek
 * <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
 * <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ <kbd>/</kbd> tam, kde je na US klávesnici
 

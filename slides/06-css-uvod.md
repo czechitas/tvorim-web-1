@@ -60,7 +60,7 @@
  * neukončíme-li středníkem, pravidlo se ignoruje
  * neuzavřeme-li závorku, všechna následující pravidla se ignorují
 * editor chyby signalizuje změnou zvýrazňovacích barev
-
+* Repl.it ti zvýrazní uzavírací závorku předpisu, když zaparkuješ kurzor těsně za otevírací závorku.
 
 ----
 

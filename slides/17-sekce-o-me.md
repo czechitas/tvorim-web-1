@@ -16,4 +16,4 @@
 * Pozor, není automatická: pokud se něco změní, je opět nutné publikovat.
 
 >>>
-* Thimble umožňuje i jednoduchou publikaci veřejně na internet.
+* Repl.it umožňuje i jednoduchou publikaci veřejně na internet.

@@ -77,8 +77,7 @@
 
 ----
 
-## Další funkce Thimble
+## Další funkce Repl.it
 
-* Zvýraznění prvku, na jehož kódu je kurzor; lze přepnout v podokně s náhledem webu (ikona se šipkou přes obdélník).
-* Nalezení kódu k prvku, na nějž dám kurzor
+* HTML: Zvýraznění párové značky/tagu k té, kde je právě kurzor.
 * Změní barvu textu, narazí-li na chybu.

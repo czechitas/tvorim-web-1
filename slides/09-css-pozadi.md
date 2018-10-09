@@ -17,11 +17,13 @@ p {
 <!-- .element: class="c-text-sm" contenteditable="true" -->
 
 >>>
-* barvy slovně (jak to nabízí Thimble)
+* barvy slovně (jak to nabízí Repl.it)
 * v praxi spíše číselně, hexadecimálně
 * HSL: hue, saturation, luminescence ~ odstín, sytost, jas
 * #rrggbb => vždy dvojciferné číslo pro barevnou složku červená|zelená|modrá
 * hodnoty 0‒255, ale šestnáctkově 0‒ff
+* Repl.it ti nabídne pohodlný výběr barvy, když zaparkuješ kurzor nad řádkem, kde barvu nastavuješ. (asi ukázat)
+
 
 ----
 

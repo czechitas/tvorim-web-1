@@ -26,8 +26,7 @@
 
 <kbd>Ctrl+X</kbd> Kopírovat a smazat (vyjmout) _výběr nebo bez výběru pro celý řádek_
 
-odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více řádků najednou_
-
+odsazení <kbd>Ctrl+]</kbd> přidat <kbd>Ctrl+[</kbd> ubrat <br> _lze odsazovat více řádků najednou_
 
 ### Další
 
@@ -44,12 +43,11 @@ odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat _lze odsazovat více
 
 <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ (<kbd>/</kbd> tam, kde je na US klávesnici)
 
-<kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
+<kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Najde další výskyt vybraného (označeného) textu
 
-<kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
+<kbd class="nichtvergissmeinnicht">Ctrl+I</kbd> vybere celý řádek
 
-<kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
-
+<kbd class="nichtvergissmeinnicht">Alt+G</kbd> přenese kurzor na zadané číslo řádku
 
 ----
 
