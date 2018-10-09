@@ -92,14 +92,14 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * odsazení <kbd>Ctrl+]</kbd> přidat <kbd>Ctrl+[</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
 * <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Najde další výskyt vybraného (označeného) textu
 * <kbd class="nichtvergissmeinnicht">Ctrl+I</kbd> vybere celý řádek
-* <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
+* <kbd class="nichtvergissmeinnicht">Alt+G</kbd> přenese kurzor na zadané číslo řádku
 * <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ <kbd>/</kbd> tam, kde je na US klávesnici
 
 ----
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Osaháme si Thimble a klávesové zkratky
+# Osaháme si Repl.it a klávesové zkratky
 
 >>>
 * Všimni si, že text je v náhledu slitý do jednoho bloku.
