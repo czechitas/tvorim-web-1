@@ -1,12 +1,15 @@
 # Založíme si účet na Repl.it
 
 1. [otevři si Repl](https://repl.it)
-1. Vpravo nahoře klikni na _Vytvořit účet_
-1. Heslo musí
-	* být nejméně 8 znaků dlouhé,
-	* obsahovat číslo,
-	* obsahovat VERZÁLKY i minusky.
-1. Až se dostaneš zpátky na zelenou stránku, kde bude vpravo nahoře uživatelské jméno, které jsi zadala, stránku zavři.
+1. Dole klikni na _Sign up_.
+1. Uživatelské jméno musí být 2‒15 znaků dlouhé.
+1. Zadej e-mail, na který máš přístup, přijde ti na něj ověřovací odkaz.
+1. Heslo musí být nejméně 6 znaků dlouhé.
+1. V dalším okně si můžeš vyplnit svůj profil, ale to lze přeskočit kliknutím na _skip_ (vpravo nad obrázkem).
+1. Podívej se do doručené pošty (prohledej i spam) a najdi e-mail od Repl.it s textem _Verify your e-mail_. Klikni na odkaz v něm obsažený a účet máš ověřen.
+1. Zpátky na stránku Repl.it! Klikni na tlačítko _Start Coding Now_.
+1. Do vyhledávacího pole zadej HTML a zvol jedinou možnost, která se nabídne.
+1. Otevře se ti stránka s editorem a dalšími pod okny, což pro tuto chvíli stačí.
 1. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
 
 ---
