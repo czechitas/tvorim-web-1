@@ -47,14 +47,14 @@
 
 ```html
 <a>
-    nejlepší přítel
+	nejlepší přítel
 </a>
 ```
 <!-- .element: class="c-text-md fragment current-visible fade-out" contenteditable="true" -->
 
 ```html
 <a href="https://google.com">
-    nejlepší přítel
+	nejlepší přítel
 </a>
 ```
 <!-- .element: class="c-text-nd fragment current-visible" contenteditable="true" -->
