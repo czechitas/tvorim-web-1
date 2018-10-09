@@ -24,6 +24,7 @@ p {
 * zkuste všechny použít
 * **dědičnost**: některé vlastnosti se dědí a tyto jsou mezi nimi
 * kvůli (nejen) dědičnosti existují hodnoty `normal`, slouží k „vynulování“ vlastnosti.
+* Lze nastavit i konkrétní fonty, ale musí být buď na uživatelově počítači, nebo se musí ke stránce připojit (podobně jako obrázky, nebo soubory CSS). Když ho nenajde vezme výchozí písmo daného operačního systému. Proto je vhodné uvést univerzální hodnoty `serif`/`sans-serif`, aby prohlížeč alespoň věděl, jaký typ zástupného fontu použít. Vždy ale musíš respektovat licenční podmínky. V praxi se využívají služby jako Typekit, nebo Google Fonts, které mají licenční podmínky ošetřeny.
 
 ----
 
