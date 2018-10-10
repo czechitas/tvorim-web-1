@@ -113,7 +113,6 @@ img {
 }
 
 .kontakt a:hover {
-	text-decoration: none;
 	color: hsl(100, 50%, 40%);
 }
 

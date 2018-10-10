@@ -558,7 +558,6 @@ h2 { color: green; }
 ## Bonus
 
 1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
-1. Těm samým odkazům nastav po najetí myší, žlutou barvu, třeba `hsl(50, 100%, 70%)`.
 
 ---
 
@@ -584,7 +583,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/19)
 
-1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech
+1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech, třeba zelenou `hsl(100, 50%, 40%)`. 
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://19--tvorimweb1.repl.co/)
@@ -594,7 +593,9 @@ a:active { color: yellow; } /* při kliknutí */
 ## Bonus
 
 1. Uprav všechny odkazy na stránce tak, aby jim po najetí myši zmizelo podtržení.
-1. Odkazy v patičce udělej bílou barvou, po najetí myši nějakou jinou a zároveň jinou než v kontaktech.
+1. Odkazy v patičce udělej bílou barvou, pokud už to nemáš z předchozího cvičení.
+1. Odkazům v patičce při najetí myši nastav jinou barvu (jinou než v kontaktech), třeba žlutou `hsl(50, 100%, 70%)`.
+
 
 ---
 
