@@ -558,6 +558,7 @@ h2 { color: green; }
 ## Bonus
 
 1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
+1. Těm samým odkazům nastav po najetí myší, žlutou barvu, třeba `hsl(50, 100%, 70%)`.
 
 ---
 
