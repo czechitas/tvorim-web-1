@@ -692,7 +692,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 
 	Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
 	```
-1. Přidej obrázek `krystufek-robin.png`
+1. Před text dej obrázek `krystufek-robin.png`.
 1. Dej hotovo.
 
 
@@ -706,7 +706,7 @@ Obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadal, kdyby byl 
 
 Pokud už jsi to udělala pro mapu, není nic snazšího než přidat stejnou třídu i tomuhle obrázku.
 
-Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent jak obrázku v _O mně_, tak mapě v _Kontakt_.
+Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent jak obrázku v _O mně_, tak mapě v sekci _Kontakt_.
 
 ---
 
