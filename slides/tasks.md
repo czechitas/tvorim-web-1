@@ -548,7 +548,7 @@ h2 { color: green; }
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/18)
 
 1. Uprav CSS pro barvu nadpisů tak, aby využíval vícenásobný selektor.
-1. Zkus využít vícenásobný selektor i pro nastavení stejného paddingu hlavních sekcí.
+1. Využij vícenásobný selektor i pro nastavení stejného paddingu jednotlivých sekcí (Galerie a Kontakt).
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://18--tvorimweb1.repl.co/)

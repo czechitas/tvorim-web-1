@@ -1,61 +1,77 @@
-/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+/* Moderní box model - nastavená šířka boxu v této verzi zahrnuje padding a border */
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
 
 body {
-  margin: 0;
-  color: darkslategrey;
-  font-family: sans-serif;
+	font-family: sans-serif;
+	color: hsl(0, 0%, 40%);
+	margin: 0;
 }
 
 h1,
 h2 {
-  color: #2e616b;
+	color: hsl(100, 50%, 40%);
 }
 
 h1 {
-  font-size: 48px;
+	font-size: 3.5rem;
 }
 
 h2 {
-  font-size: 30px;
+	font-size: 2.5rem;
 }
 
 a {
-  font-weight: bold;
-}
-
-.obsah {
-  max-width: 960px;
-}
-
-.uvod,
-.galerie,
-.kontakt,
-.paticka {
-  padding: 10px;
-}
-
-.galerie {
-  background-color: #dee8c9;
+	font-weight: bold;
 }
 
 img {
-  width: 300px;
-  padding: 10px;
-  border: 2px solid #888;
-  margin: 5px;
-}
-
-.kontakt {
-  background-color: #ecd9c6;
+	width: 300px;
+	margin: 0.3rem;
+	padding: 0.6rem;
+	border: 2px solid hsl(100, 50%, 40%);
 }
 
 .mapa {
-  border-color: brown;
+	border-color: hsl(50, 100%, 70%);
+}
+
+.obsah {
+	max-width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.uvod {
+	text-align: center;
+}
+
+.galerie,
+.kontakt {
+	padding: 1rem;
+}
+
+.galerie {
+	background-color: hsl(50, 90%, 90%);
+}
+
+.kontakt {
+	background-color: hsl(100, 90%, 90%);
 }
 
 .paticka {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: #74593e;
-  color: #fff;
+	padding: 1.25rem 1rem;
+	color: hsl(0, 0%, 100%);
+	background-color: hsl(30, 100%, 25%);
+}
+
+.licence {
+	font-size: 80%;
 }
