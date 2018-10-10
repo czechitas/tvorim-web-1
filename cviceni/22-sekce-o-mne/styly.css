@@ -54,7 +54,6 @@ img {
 }
 
 .menu {
-	margin: 0;
 	padding: 0;
 	text-align: center;
 }
@@ -73,6 +72,10 @@ img {
 .galerie,
 .kontakt {
 	padding: 1rem;
+}
+
+.o-mne {
+	background-color: hsl(195, 100%, 90%);
 }
 
 .galerie {

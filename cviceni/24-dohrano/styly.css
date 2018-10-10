@@ -59,14 +59,11 @@ a:hover {
 	background-color: hsl(100, 50%, 40%);
 	margin: 0;
 	padding: 0;
-	list-style: none;
 	text-align: center;
 }
 
 .menu li {
 	display: inline-block;
-	margin: 0;
-	padding: 0;
 }
 
 .menu a,
@@ -93,6 +90,18 @@ a:hover {
 .kontakt,
 .paticka {
 	padding: 1rem;
+}
+
+.o-mne {
+	background-color: hsl(195, 100%, 90%);
+}
+
+.galerie {
+	background-color: hsl(50, 90%, 90%);
+}
+
+.kontakt {
+	background-color: hsl(100, 90%, 90%);
 }
 
 img {

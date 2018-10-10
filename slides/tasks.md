@@ -693,6 +693,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 	Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
 	```
 1. Před text dej obrázek `krystufek-robin.png`.
+1. Nastav barvu pozadí nové sekce na nějakou světle modrou, třeba `hsl(195, 100%, 90%)`.
 1. Dej hotovo.
 
 
@@ -714,15 +715,14 @@ Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a p
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/23)
 
-1. V _Repl.it_ vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci, kde už je index.html, klikni do šedé plochy pravým tlačítkem myši a vyber _Nový soubor_ a vyplň jeho název včetně `.html` na konci.
+1. V _Repl.it_ vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci nahoře je ikona dokumentu se symbolem plus a po kliknutí vyplň jeho název včetně `.html` na konci.
 1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na `index.html`.
-1. Zkopíruj do nich všechen stávající HTML kód z `index.html` (kód, který ti vložil _Repl.it_ do nových souborů přepiš).
-1. Odmaž na každé ze 3 stránek obsah, který tam nepatří (záhlaví a patičku budou mít všechny stránky shodnou).
-1. Zruš barevné pozadí pro jednotlivé sekce. Teď už není potřeba je odlišovat, když každá je na stránce sama. (Stačí odmazat daná pravidla.)
+1. Zkopíruj do obou všechen HTML kód z `index.html`.
+1. Odmaž na každé ze 3 stránek obsah, který tam nepatří. O mně bude na stránce _Úvod_. Záhlaví a patičku budou mít všechny stránky stejnou.
 1. Proklikej si svůj nový web.
 1. Dej hotovo.
 
-Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!
+_Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!_
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://23--tvorimweb1.repl.co/)
 
@@ -733,20 +733,18 @@ Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tag
 1. Na každé stránce zvýrazni (odliš) v navigaci odkaz na aktuální stránku (musíš přidat novou třídu a přiřadit ji na každé stránce u jiného odkazu).
 1. Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout. Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
 
-1. Nastav celé stránce jinou než bílou barvu pozadí.
-
 ---
 
 # Publikujeme hotový web na internet
 
 1. V podokně s náhledem stránky klikni na iknou se šipkou vpravo vedle adresního řádku.
-1. Na nové záložce vidíš svou stránku. Na adrese, kterou vidíš v adresním řádku bude tvůj web veřejně k vidění.
+1. Na nové záložce vidíš svou stránku. Na adrese, kterou vidíš v adresním řádku je tvůj web veřejně k vidění.
 1. Dej hotovo.
 
 ---
 
 # 24 Dohráno
 
-[Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/s/BylzJbePx)
+[Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/ECDLL0EdRBCdi5KTavkj4A)
 
 [Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://24--tvorimweb1.repl.co/) a jeho [zdrojové kódy](https://repl.it/@tvorimweb1/24)
