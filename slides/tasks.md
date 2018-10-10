@@ -645,12 +645,12 @@ span { display: inline-block; }
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/21)
 
+1. Přidej menu (`<ul>`) třídu `menu`.
 1. Nastyluj menu tak, aby položky byly vedle sebe.
-1. Podbarv
-1. Přidej jiné podbarvení celé položky po najetí na ni.
+1. Položky vycentruj.
+1. Aby se na ně lépe trefovalo, zvětši písmo odkazů, třeba na `1.5rem`.
+1. Aby se na ně trefovalo ještě líp, dej jim padding vertikálně i horizontálně.
 1. Dej hotovo.
-
-Tip: podívej se, co dělá vlastnost `list-style-type`.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://21--tvorimweb1.repl.co/)
 
@@ -658,11 +658,24 @@ Tip: podívej se, co dělá vlastnost `list-style-type`.
 
 ## Bonus
 
+1. Odstraň odkazům v menu podtržení.
+1. Odstraň odkazům v menu tučnost.
+
+Případně ještě můžeš změnit barevnost menu:
+
+1. Podbarvi menu třeba zelenou `hsl(100, 50%, 40%)`.
+1. Aby se daly položky přečíst, obarvi odkazy třeba na žluto `hsl(50, 100%, 70%)`.
+1. Položku v menu po najetí kurzorem nastyluj inverzně (zelený text na žlutém pozadí).
+1. Odstraň bílou mezeru mezi menu a Galerií.
+
+
 K témuž cíli často vede více cest. Podobného výsledku dosáhneš i [pomocí **flexboxu**](https://www.vzhurudolu.cz/prirucka/css3-flexbox#sup-na-zakladni-pojmy-flex-kontejner-a-flex-polozka-hlavni-a-pricna-osa).
 
 1. Nastav seznamu s odkazy `display: flex;`.
+1. Odstraň odrážky pomocí vlastnosti `list-style-type`.
 1. Pomocí vlastnosti `justify-content` změň výchozí uspořádání odkazů. [Podívej se jak na to.](https://www.vzhurudolu.cz/prirucka/css3-flexbox-kontejner#justify-content) Když si podbarvíš položky seznamu nějakou výraznější barvou, bude ti možná jasnější, co jednotlivé hodnoty `justify-content` způsobují.
-1. Ponechej uspořádání, které ti vyhovuje. Odstraň případné podbarvení položek seznamu a máš hotovo.
+1. Ponechej uspořádání, které ti vyhovuje.
+1. Odstraň případné podbarvení položek seznamu.
 
 ---
 

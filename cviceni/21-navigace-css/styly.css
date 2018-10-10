@@ -1,97 +1,97 @@
-/* Moderni box model */ *, *:before, *:after { box-sizing: border-box; }
+/* Moderní box model - nastavená šířka boxu v této verzi zahrnuje padding a border */
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
 
 body {
-  margin: 0;
-  color: darkslategrey;
-  font-family: sans-serif;
+	font-family: sans-serif;
+	color: hsl(0, 0%, 40%);
+	margin: 0;
 }
 
 h1,
 h2 {
-  color: #2e616b;
+	color: hsl(100, 50%, 40%);
 }
 
 h1 {
-  font-size: 48px;
+	font-size: 3.5rem;
 }
 
 h2 {
-  font-size: 30px;
+	font-size: 2.5rem;
 }
 
 a {
-  font-weight: bold;
-}
-
-.obsah {
-  max-width: 960px;
-}
-
-/* Menu */
-
-.menu {
-  background-color: #3c7a89;
-}
-
-.menu ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.menu li {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
-}
-
-.menu a {
-  display: block;
-  padding: 15px 30px;
-  font-size: 24px;
-  color: white;
-  text-decoration: none;
-}
-
-.menu a:hover,
-.menu a:active,
-.menu a:focus {
-  background-color: #2f606e;
-}
-
-.uvod,
-.galerie,
-.kontakt,
-.paticka {
-  padding: 10px;
-}
-
-.galerie {
-  background-color: #dee8c9;
+	font-weight: bold;
 }
 
 img {
-  width: 300px;
-  padding: 10px;
-  border: 2px solid #888;
-  margin: 5px;
-}
-
-.kontakt {
-  background-color: #ecd9c6;
-}
-
-.kontakt a:hover {
-  color: maroon;
+	width: 300px;
+	margin: 0.3rem;
+	padding: 0.6rem;
+	border: 2px solid hsl(100, 50%, 40%);
 }
 
 .mapa {
-  border-color: brown;
+	border-color: hsl(50, 100%, 70%);
+}
+
+.obsah {
+	max-width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.uvod {
+	text-align: center;
+}
+
+.menu {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+.menu a {
+	font-size: 1.5rem;
+	display: block;
+	padding: 0.5rem 2rem;
+}
+
+.galerie,
+.kontakt {
+	padding: 1rem;
+}
+
+.galerie {
+	background-color: hsl(50, 90%, 90%);
+}
+
+.kontakt {
+	background-color: hsl(100, 90%, 90%);
+}
+
+.kontakt a:hover {
+	color: hsl(100, 50%, 40%);
 }
 
 .paticka {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: #74593e;
-  color: #fff;
+	padding: 1.25rem 1rem;
+	color: hsl(0, 0%, 100%);
+	background-color: hsl(30, 100%, 25%);
+}
+
+.licence {
+	font-size: 80%;
 }
