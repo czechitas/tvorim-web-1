@@ -23,13 +23,15 @@
 
 <kbd class="nichtvergissmeinnicht">Ctrl+A</kbd> Výběr všeho
 
-<kbd>Ctrl+C</kbd> Kopírovat
+<kbd>Ctrl+C</kbd> Kopírovat _výběr nebo bez výběru pro celý řádek_
 
 <kbd>Ctrl+V</kbd> Vložit
 
 <kbd>Ctrl+X</kbd> Kopírovat a smazat (vyjmout) _výběr nebo bez výběru pro celý řádek_
 
-odsazení <kbd>Ctrl+]</kbd> přidat <kbd>Ctrl+[</kbd> ubrat <br> _lze odsazovat více řádků najednou_
+<kbd>Tab</kbd> odsazení přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_
+
+<kbd>Ctrl+Enter</kbd> spustit kód (to samé, co kliknutí na zelené tlačítko run)
 
 ### Další
 
@@ -41,10 +43,14 @@ odsazení <kbd>Ctrl+]</kbd> přidat <kbd>Ctrl+[</kbd> ubrat <br> _lze odsazovat 
 
 <kbd>Ctrl+Shift+←</kbd> Výběr po slovech doleva
 
+<kbd>Shift+Alt+F</kbd> zformátovat celý dokument
+
+<kbd>F1</kbd> nebo <kbd>Ctrl+Shift+P</kbd> vyhledávání ve všech dostupných příkazech
+
 
 ### Pokročilé
 
-<kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ (<kbd>/</kbd> tam, kde je na US klávesnici)
+<kbd class="nichtvergissmeinnicht">Ctrl+K Ctrl+C</kbd> zakomentuje/odkomentuje řádek (není nutno vybírat)
 
 <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Najde další výskyt vybraného (označeného) textu
 
@@ -640,6 +646,7 @@ span { display: inline-block; }
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/21)
 
 1. Nastyluj menu tak, aby položky byly vedle sebe.
+1. Podbarv
 1. Přidej jiné podbarvení celé položky po najetí na ni.
 1. Dej hotovo.
 
@@ -651,7 +658,7 @@ Tip: podívej se, co dělá vlastnost `list-style-type`.
 
 ## Bonus
 
-K témuž cíli často vede více cest. Shodného výsledku dosáhneš i [pomocí **flexboxu**](https://www.vzhurudolu.cz/prirucka/css3-flexbox#sup-na-zakladni-pojmy-flex-kontejner-a-flex-polozka-hlavni-a-pricna-osa).
+K témuž cíli často vede více cest. Podobného výsledku dosáhneš i [pomocí **flexboxu**](https://www.vzhurudolu.cz/prirucka/css3-flexbox#sup-na-zakladni-pojmy-flex-kontejner-a-flex-polozka-hlavni-a-pricna-osa).
 
 1. Nastav seznamu s odkazy `display: flex;`.
 1. Pomocí vlastnosti `justify-content` změň výchozí uspořádání odkazů. [Podívej se jak na to.](https://www.vzhurudolu.cz/prirucka/css3-flexbox-kontejner#justify-content) Když si podbarvíš položky seznamu nějakou výraznější barvou, bude ti možná jasnější, co jednotlivé hodnoty `justify-content` způsobují.

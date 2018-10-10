@@ -88,12 +88,27 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 
 ## Klávesové zkratky
 
-### Pouze Repl.it
-* odsazení <kbd>Ctrl+]</kbd> přidat <kbd>Ctrl+[</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
-* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Najde další výskyt vybraného (označeného) textu
+### Repl.it
+* spustit kód <kbd>Ctrl+Enter</kbd> <br> _jako kliknutí na&nbsp;tlačítko&nbsp;run_ <!-- .element: class="c-text-sm" -->
+* odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
+* zformátovat celý dokument <kbd>Shift+Alt+F</kbd>
+
+----
+
+## Klávesové zkratky
+
+### Repl.it
+* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> najde další výskyt vybraného (označeného) textu
 * <kbd class="nichtvergissmeinnicht">Ctrl+I</kbd> vybere celý řádek
-* <kbd class="nichtvergissmeinnicht">Alt+G</kbd> přenese kurzor na zadané číslo řádku
-* <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek) ‒ <kbd>/</kbd> tam, kde je na US klávesnici
+* <kbd class="nichtvergissmeinnicht">Alt+G</kbd> přesune kurzor na zadané číslo&nbsp;řádku
+* <kbd class="nichtvergissmeinnicht">Ctrl+K Ctrl+C</kbd> zakomentuje/odkomentuje řádek _(není nutno vybírat)_ <!-- .element: class="c-text-sm" -->
+
+----
+
+## Klávesové zkratky
+
+### Repl.it
+* vyhledávání ve všech dostupných příkazech <kbd>F1</kbd> nebo <kbd>Ctrl+Shift+P</kbd>
 
 ----
 
