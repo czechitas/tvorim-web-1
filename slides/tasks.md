@@ -614,9 +614,9 @@ a:active { color: yellow; } /* při kliknutí */
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/20)
 
-1. Navigace jako odrážkový seznam, se 3 položkami podle sekcí stránky.
-1. Nezapomeň na odkaz na úvodní stránku!
-1. Odkaz na stránku (atribut `href`) zatím nechej prázdný, to znamená jen napsat uvozovky a nic mezi ně.
+1. Vytvoř navigaci jako odrážkový seznam: podle sekcí stránky a nezapomeň na odkaz na úvodní stránku! Bude tedy mít celkem 3 položky.
+1. Navigaci umísti za úvod.
+1. To, kam odkazy povedou (atribut `href`) zatím neřeš a nechej ho prázdný: to znamená jen napsat uvozovky a nic mezi ně.
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://20--tvorimweb1.repl.co/)
