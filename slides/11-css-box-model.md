@@ -23,13 +23,6 @@
 * lze také nastavi šířku/výšku minimální a maximální => `min-width`, `max-height`
 * pozor na procenta u výšky: stránka je z principu nekonečná
 
-
-----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Nastavíme obrázkům v galerii šířku
-
 ----
 
 ### Ohraničení
@@ -63,12 +56,6 @@ img {
 
 ----
 
-<!-- .slide: data-state="c-slide-task" -->
-
-# Orámujeme obrázky
-
-----
-
 ### Odsazení obsahu od okraje
 
 ```css
@@ -83,12 +70,6 @@ img {
 >>>
 * „hraniční pásmo“ ‒ prostor mezi ohraničením a obsahem prvku
 * 1 hodnota nastaví shodné odsazení na všech 4 stranách prvku.
-
-----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Vnitřní odsazení obrázků
 
 ----
 
@@ -112,7 +93,10 @@ img {
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Větší mezery mezi obrázky
+- Nastavíme obrázkům v galerii šířku
+- Orámujeme obrázky
+- Vnitřní odsazení obrázků
+- Větší mezery mezi obrázky
 
 ----
 
@@ -125,21 +109,9 @@ img {
 * vlastnost `width` určuje, jak má být prvek široký *včetně* ohraničení (`border`) a výplně (`padding`)
 * `margin` se do šířky nezapočítává, ale ovlivňuje, kolik místa prvek ve výsledku zabere
 * **Pozor při výpočtech**: nezpomeňte násobit 2: <br>
-    `margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
+	`margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
 * výše uvedené platí pouze pokud mají všechny prvky nastaven `box-sizing: border-box;`, viz začátek CSS souboru na Thimble
-
-----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Odsadíme obsah od okrajů
-
-----
-
-# Přestávka
-
-<!-- .slide: data-state="c-slide-break" -->
-
+* _Přestávka?_
 
 ----
 

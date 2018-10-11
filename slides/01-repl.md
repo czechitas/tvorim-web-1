@@ -10,7 +10,7 @@
 * Soubory, ze kterých se web skládá musíme někde upravovat, editovat.
 * Pomocí Repl.it můžeme snadno upravovat textové soubory.
 * Přestože je to hlavně výukový nástroj, má některé vlastnosti a podobné principy, které jsou běžné v profesionálních editorech.
-* Pomáhá nám: upozorňuje na chyby v pravopise kódu
+* Pomáhá nám: upozorňuje na chyby v pravopise kódu, napovídá, zjednodušuje výběr barev apod.
 
 ----
 
@@ -93,6 +93,9 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
 * zformátovat celý dokument <kbd>Shift+Alt+F</kbd>
 
+>>>
+`Ctrl+Enter` můžete znát z chatovacích programů, případně e-mailového klienta, kde odesílá zprávu.
+
 ----
 
 ## Klávesové zkratky
@@ -102,6 +105,9 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * <kbd class="nichtvergissmeinnicht">Ctrl+I</kbd> vybere celý řádek
 * <kbd class="nichtvergissmeinnicht">Alt+G</kbd> přesune kurzor na zadané číslo&nbsp;řádku
 * <kbd class="nichtvergissmeinnicht">Ctrl+K Ctrl+C</kbd> zakomentuje/odkomentuje řádek _(není nutno vybírat)_ <!-- .element: class="c-text-sm" -->
+
+>>>
+Co znamená zakomentovat, si povíme později.
 
 ----
 

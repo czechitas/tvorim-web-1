@@ -74,8 +74,8 @@
 
 >>>
 * Barvy lze zapisovat více způsoby, my budeme používat tzv. pojmenovaných barev. Jejich počet je omezený.
-* Libovolnou barvu lze získat číselným zápisem, např. hexadecimálním.
-* Editor nám pomáhá, když upravujeme barvy, nabídne nám seznam barev s ukázkou.
+* Libovolnou barvu lze získat číselným zápisem, existuje více způsobů.
+* Editor nám pomáhá, když upravujeme barvy, nabídne nám seznam barev s ukázkou, případně barevnou paletu.
 
 ----
 
