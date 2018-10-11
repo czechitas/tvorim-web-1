@@ -6,7 +6,7 @@
 Ukázat DevTools
 
 * První, co si prohlížeč stahuje, je HTML soubor, který obsahuje informace o stránce.
-* Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my samozřejmě budeme používat Thimble
+* Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my samozřejmě budeme používat Repl.it
 * Oblíbené editory: Atom, Sublime Text, VS Code
 
 ---
@@ -74,7 +74,8 @@ Ukázat DevTools
 # Zkusíme si první tagy
 
 >>>
-* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
+* Všimněte si zvýrazňování otvíracích a uzavíracích značek v editoru ==> správné zanořování a uzavírání!
+* Tagy se nesmí křížit, tj. nejprve uzavřu vnořený a pak teprve vnější.
 
 ---
 
@@ -101,3 +102,4 @@ Ukázat DevTools
 * V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“. Zde budeme nyní pracovat.
 * Všimněte si odsazení. A dbejte na něj ve svém kódu.
 * Všimněte si komentářů.
+* _Přestávka?_

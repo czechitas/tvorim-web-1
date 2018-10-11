@@ -9,13 +9,14 @@
 
 # 2. Zkusíte si
 
-- Zadání se objeví v aplikaci: czchts.link/web
+- Zadání se objeví v aplikaci: `me280.herokuapp.com`
 - Času bude kolik je potřeba.
 
 
 >>>
 Jak to uděláme? Zepředu opravdu každému do monitoru nevidím.
 Proto máme aplikaci, kterou máte všechny otevřenou.
+Link si opište, pošleme i na Slack
 
 ---
 
@@ -68,6 +69,8 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 - začátek teď
 - konec ~18h
 
-a zhruba každou hodinu bude 10 minut pauza
+>>>
+přestávky po cca hodině a půl ‒ operativně
+
 
 <!-- .element: class="c-text-left" -->

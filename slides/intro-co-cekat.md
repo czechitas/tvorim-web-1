@@ -11,7 +11,7 @@
 
 >>>
 Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do tvorby webů typicky zapojí.
-
+Je to ideální stav, vždy záleží na složitosti projektu a jeho rozpočtu.
 ---
 
 ## Zadavatelka (zákaznice)
