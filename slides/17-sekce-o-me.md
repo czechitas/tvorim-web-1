@@ -2,13 +2,13 @@
 
 # Vícestránkový web
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Přidáme sekci _O&nbsp;mně_
 
-----
+---
 
 # Publikace
 

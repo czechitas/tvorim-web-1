@@ -2,7 +2,7 @@
 
 # Box-model
 
-----
+---
 
 ### Výška a šířka
 
@@ -24,13 +24,13 @@
 * pozor na procenta u výšky: stránka je z principu nekonečná
 
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Nastavíme obrázkům v galerii šířku
 
-----
+---
 
 ### Ohraničení
 
@@ -61,13 +61,13 @@ img {
 * zkrácený zápis: totéž co nad; tento nastaví stejný rámeček po všech stranách. Lze samozřejmě nastavovat ohrančení pro každou stranu zvlášť.
 * lze stylovat samostatně každou ze 4 stran: top, right, bottom, left (border-left)
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Orámujeme obrázky
 
-----
+---
 
 ### Odsazení obsahu od okraje
 
@@ -84,13 +84,13 @@ img {
 * „hraniční pásmo“ ‒ prostor mezi ohraničením a obsahem prvku
 * 1 hodnota nastaví shodné odsazení na všech 4 stranách prvku.
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Vnitřní odsazení obrázků
 
-----
+---
 
 ### Odsazení od vnějších prvků
 
@@ -108,13 +108,13 @@ img {
 * všimněte si, že margin se už do šířky prvku nezapočítává, to je důležité si uvědomit, když počítám šířku kterou mi prvky zaberou (pokud mají margin po obou stranách, zabere mi každý prvek 2 × margin + šířka)
 * poznámka pod čarou: margin může nabývat i záporných hodnot
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Větší mezery mezi obrázky
 
-----
+---
 
 ### Box-model ‒ shrnutí
 
@@ -128,20 +128,20 @@ img {
 	`margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
 * výše uvedené platí pouze pokud mají všechny prvky nastaven `box-sizing: border-box;`, viz začátek CSS souboru na Repl.it
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Odsadíme obsah od okrajů
 
-----
+---
 
 # Přestávka
 
 <!-- .slide: data-state="c-slide-break" -->
 
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 

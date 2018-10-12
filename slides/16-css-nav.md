@@ -2,7 +2,7 @@
 
 #  Navigace: CSS
 
-----
+---
 
 ## Blokové elementy
 
@@ -11,7 +11,7 @@
 >>>
 * na vaší stránce jsou to nadpisy, odstavce, divy
 
-----
+---
 
 ## Řádkové elementy
 
@@ -24,7 +24,7 @@
 * ony jim ty vlastnosti nastavit jdou, ale neprojeví se očekávaným způsobem
 * lze ale například úspěšně nastavit pravý/levý margin
 
-----
+---
 
 ## Řádkově-blokové elementy
 
@@ -34,7 +34,7 @@
 >>>
 * na vaší stránce se tak chovají obrázky
 
-----
+---
 
 ## Typ elementu v&nbsp;CSS
 
@@ -51,7 +51,7 @@ li { display: inline-block; }
 * každý element má výchozí typ
 * pomocí CSS lze ale změnit chování prvku na jiný typ
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 

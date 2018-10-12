@@ -1,25 +1,25 @@
 <!-- .slide: data-state="c-slide-inter" -->
 # Co vlastně budeme dělat?
 
-----
+---
 
 # Web
 
-----
+---
 
 # Kdo všechno na webu pracuje?
 
 >>>
 Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do tvorby webů typicky zapojí.
 
-----
+---
 
 ## Zadavatelka (zákaznice)
 
 >>>
 Kdo si už tuhle roli vyzkoušel?
 
-----
+---
 
 ## Výzkumnice
 ## Analytička
@@ -29,7 +29,7 @@ Kdo si už tuhle roli vyzkoušel?
 
 Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, budoucí čtenáře nebo uživatele. Jakmile se podaří cílovou skupinu webu popsat, tak designéři mohou navrhovat.
 
-----
+---
 
 ## Copywriterka
 ## Fotografka
@@ -38,7 +38,7 @@ Nejdříve je potřeba prozkoumat pro koho se to dělá, poznat zákazníky, bud
 >>>
 Podle zadání UX designérky pak...
 
-----
+---
 
 ## Programátorka
 ## Kodérka
@@ -47,12 +47,12 @@ Podle zadání UX designérky pak...
 >>>
 Jaký je rozdíl mezi programováním a kódováním?
 
-----
+---
 
 ## Administrátorka serverů
 ## DevOps
 
-----
+---
 
 ## Projektová manažerka
 ## Specialistka na SEO
@@ -61,14 +61,14 @@ Jaký je rozdíl mezi programováním a kódováním?
 >>>
 Marketingové profese
 
-----
+---
 
 ## Správkyně obsahu
 
 >>>
 Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udržuje obsah
 
-----
+---
 
 # Kodérka
 ## ~ Front end vývojářka

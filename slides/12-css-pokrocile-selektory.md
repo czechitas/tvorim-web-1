@@ -2,7 +2,7 @@
 
 # Pokročilé selektory
 
-----
+---
 
 # Vícenásobný selektor
 
@@ -16,7 +16,7 @@ h2 { color: green; }
 * obarví nadpisy 1. a 2. úrovně na zeleno
 * každý selektor na nový řádek, aneb za čárkou odřádkovat
 
-----
+---
 
 # Kontextový selektor
 
@@ -30,7 +30,7 @@ h2 { color: green; }
 * odpovídá zanořování v HTML
 * tady má mezera význam (jinde na nich tolik nezáleží)
 
-----
+---
 
 # Na pořadí záleží
 
@@ -45,7 +45,7 @@ h2 { color: green; }
 * platí poslední nastavená hodnota vlastnosti
 * často se stane, že zadáte znovu tutéž vlastnost. Když dbáte na úpravu 1 pravidlo na řádek, snáz to odhalíte. (Jsou i automatizované nástroje, které to hlídají za nás.)
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 

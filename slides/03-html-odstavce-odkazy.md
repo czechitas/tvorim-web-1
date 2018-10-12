@@ -2,7 +2,7 @@
 
 # Nadpisy, odstavce a odkazy
 
-----
+---
 
 ## Nadpisy
 
@@ -19,7 +19,7 @@
 * 6 úrovní nadpisů (`<h1>`…`<h6>`)
 * obvykle bývá na jednotlivé stránce jen 1 nadpis první úrovně
 
-----
+---
 
 ## Odstavec
 
@@ -41,7 +41,7 @@
  * Jeden element na řádek.
  * Zanořujeme-li, odsadíme začátek řádku tabulátorem.
 
-----
+---
 
 ## Odkazy
 
@@ -66,7 +66,7 @@
 * Pomocí atributy dodáváme prohlížeči nějaká extra data, která nevyplývají ze samotného tagu. (Např. `h1` všeříkající, `a` je málo, musíme říct **kam** odkazovat.)
 * atributy se píšou do otevíracího tagu nebo prostě do tagu
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
@@ -75,7 +75,7 @@
 >>>
 * upozornit na bonus, pokud mají hotovo
 
-----
+---
 
 ## Další funkce Repl.it
 

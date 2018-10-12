@@ -2,7 +2,7 @@
 
 # Pozadí
 
-----
+---
 
 ## Barva pozadí
 
@@ -25,7 +25,7 @@ p {
 * Repl.it ti nabídne pohodlný výběr barvy, když zaparkuješ kurzor nad řádkem, kde barvu nastavuješ. (asi ukázat)
 
 
-----
+---
 
 ## Extra prvky
 
@@ -43,7 +43,7 @@ p {
 * `div` jako division => oddělení
 * Tagem `<div>` obalíme přislušné části stránky, se kterými chceme pracovat jako s celky.
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 

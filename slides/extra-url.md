@@ -4,7 +4,7 @@
 >>>
 Pokud se někdo zeptá, jinak není nutno.
 
-----
+---
 
 ## Části URL
 

@@ -2,7 +2,7 @@
 
 # Repl.it
 
-----
+---
 
 ## Editor
 
@@ -12,7 +12,7 @@
 * Přestože je to hlavně výukový nástroj, má některé vlastnosti a podobné principy, které jsou běžné v profesionálních editorech.
 * Pomáhá nám: upozorňuje na chyby v pravopise kódu
 
-----
+---
 
 ## Online
 
@@ -20,13 +20,13 @@
 * Repl.it je online, není si třeba nic instalovat.
 * Pouze je třeba zvolit jaký jazyk se chceme učit. V našem případě je to HTML, CSS, JS.
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
 # Založíme si účet na Repl.it
 
-----
+---
 
 ## Soubory
 
@@ -34,7 +34,7 @@
 * úplně vlevo je seznam souborů
 * kliknutím si ho otevřeš
 
-----
+---
 
 ## Kód
 
@@ -43,7 +43,7 @@
 * Pokud se ti zdá špatně čitelný, po kliknutí na ozubené kolečko v levé liště se objeví možnost si kód zvětšit, přepnout pozadí na tmavé nebo světlé, případně změnit uspořádání jednotlivých podoken, podle toho co ti vyhovuje.
 * Na horní liště podokna s kódem je ikona, která spustí „auto-format“. To znamená, že hezky zarovná a odsadí kód. To oceníš, jakmile kódu začne přibývat. Nestyď se a klikej na ni často.
 
-----
+---
 
 ## Náhled stránky
 
@@ -51,7 +51,7 @@
 * Úplně vpravo je náhled stránky. Abys viděla změny, které provedeš v editoru kódu, musíš napoprvé nahoře kliknout na tlačítko _run_. Pak už stačí po provedení změn kliknout na ikonu _refresh_ (zatočená šipka) v podokně s náhledem.
 * Poslední tlačítko za adresním řádkem otevře tvou stránku do nové záložky. Uvidíš stránku tak, jak ji uvidí běžní návštěvníci.
 
-----
+---
 
 ## Klávesové zkratky
 
@@ -70,7 +70,7 @@
 * Také jde klikat 2x pro výběr slova, 3x pro výběr řádku
 
 
-----
+---
 
 ## Klávesové zkratky
 
@@ -84,7 +84,7 @@
 >>>
 Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 
-----
+---
 
 ## Klávesové zkratky
 
@@ -93,7 +93,7 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
 * zformátovat celý dokument <kbd>Shift+Alt+F</kbd>
 
-----
+---
 
 ## Klávesové zkratky
 
@@ -103,14 +103,14 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * <kbd class="nichtvergissmeinnicht">Alt+G</kbd> přesune kurzor na zadané číslo&nbsp;řádku
 * <kbd class="nichtvergissmeinnicht">Ctrl+K Ctrl+C</kbd> zakomentuje/odkomentuje řádek _(není nutno vybírat)_ <!-- .element: class="c-text-sm" -->
 
-----
+---
 
 ## Klávesové zkratky
 
 ### Repl.it
 * vyhledávání ve všech dostupných příkazech <kbd>F1</kbd> nebo <kbd>Ctrl+Shift+P</kbd>
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 

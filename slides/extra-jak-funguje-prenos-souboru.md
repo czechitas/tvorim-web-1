@@ -7,7 +7,7 @@ Co se stane, když napíšete do adresního řádku www.czechitas.cz?
 >>>
 * Prohlížeč dává požadavky a servery mu odpovídají, ale než se tak stane, tak proběhne toto.
 
-----
+---
 
 ## Zjištění IP adresy serveru: požadavek
 
@@ -16,13 +16,13 @@ Co se stane, když napíšete do adresního řádku www.czechitas.cz?
 >>>
 * Prohlížeč si zjistí „telefonní&#0160;číslo“ (IP&#0160;adresu) z&#0160;DNS&#0160;serveru
 
-----
+---
 
 ## Zjištění IP adresy serveru: odpověď
 
 <p class=" c-text-right"><q>DNS server:<br><b>„74.125.0.45“</b></q></p>
 
-----
+---
 
 ## Získání stránky: požadavek
 
@@ -31,7 +31,7 @@ Co se stane, když napíšete do adresního řádku www.czechitas.cz?
 >>>
 * Prohlížeč si zavolá o&#0160;soubor
 
-----
+---
 
 ## Získání stránky: odpověď
 

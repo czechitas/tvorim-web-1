@@ -9,7 +9,7 @@ Ukázat DevTools
 * Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my samozřejmě budeme používat Thimble
 * Oblíbené editory: Atom, Sublime Text, VS Code
 
-----
+---
 
 ## Značkovací jazyk
 
@@ -17,7 +17,7 @@ Ukázat DevTools
 * HT**ML** => mark-up language = značkovací
 * Značkovací, protože význam a strukturu dokumentu popisuje pomocí značek, anglicky tagů.
 
-----
+---
 
 ## Tag/značka
 ```html
@@ -35,7 +35,7 @@ Ukázat DevTools
 * Existují i nepárové tagy (těch je pár), upozorním, až se k nim dostaneme.
 * Tagy vytvářejí v prostředí webové stránky tzv. **elementy/prvky**, z nichž se skládá každá stránka.
 
-----
+---
 
 ## Klávesnice <!-- .element: class="c-sr-only" -->
 
@@ -47,7 +47,7 @@ Ukázat DevTools
 * Někdo může mít trochu jiné rozložení.
 * Kdo má Mac to má jednodušší - platí to co je vytištěné na klávesnici.
 
-----
+---
 
 ## Tagy
 
@@ -67,7 +67,7 @@ Ukázat DevTools
  * `h` = heading
  * `p` = paragraph
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 
@@ -76,7 +76,7 @@ Ukázat DevTools
 >>>
 * Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
 
-----
+---
 
 ## Základní struktura HTML
 

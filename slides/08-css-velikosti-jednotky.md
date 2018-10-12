@@ -2,7 +2,7 @@
 
 # Velikost textu
 
-----
+---
 
 # Ukázka jednotek <!-- .element: class="c-sr-only" -->
 
@@ -19,7 +19,7 @@
 * % = dle velikosti rodiče => opět dědičná vlastnost
 * tyto jednotky lze nastavit všem vlastnostem, kde to dává smysl (šířka, odsazení, tloušťka rámečku atp.), budeme se o nich bavit později
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 

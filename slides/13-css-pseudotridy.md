@@ -2,7 +2,7 @@
 
 ## Pseudotřídy
 
-----
+---
 
 # Ukázka <!-- .element: class="c-sr-only" -->
 
@@ -28,7 +28,7 @@ a:active { color: yellow; } /* při kliknutí */
 * Zatímco třídy si vytváří autor kódu, pseudotřídy jsou dané.
 * Narozdíl od tříd se zapisují jen do CSS, na HTML není třeba sahat.
 
-----
+---
 
 <!-- .slide: data-state="c-slide-task" -->
 

@@ -2,7 +2,7 @@
 
 # Co dál?
 
-----
+---
 
 # Kurzy Czechitas
 
@@ -12,7 +12,7 @@
 >>>
 Přehled toho, co v nejbližší době bude
 
-----
+---
 
 # Kde se poradit?
 
@@ -21,7 +21,7 @@ Přehled toho, co v nejbližší době bude
 * Hledej na Google
 <br><small>(opatrně s výsledky, nedoporučujeme např. w3schools.com)</small>
 
-----
+---
 
 # Zdroje v češtině
 
@@ -29,7 +29,7 @@ Přehled toho, co v nejbližší době bude
 * Na [jecas.cz](http://jecas.cz/) jsou aktuálnější články a také reference (přehled) HTML i CSS
 * Pro pokročilejší [vzhurudolu.cz](https://www.vzhurudolu.cz)
 
-----
+---
 
 # Zdroje v angličtině
  
@@ -42,7 +42,7 @@ Přehled toho, co v nejbližší době bude
 * [developer.mozilla.org](https://developer.mozilla.org/) 
 <br><small>návody i reference pro všechny úrovně</small>
 
-----
+---
 
 # Knihy v češtině
 
@@ -55,7 +55,7 @@ Přehled toho, co v nejbližší době bude
 * Dobrý designér to všechno ví!
 <br><small>Opět zaměřeno spíš na design</small>
 
-----
+---
 
 # Editory kódu
 
@@ -71,7 +71,7 @@ Přehled toho, co v nejbližší době bude
 **WebStorm**
 <br><small>poměrně komplexní (pro studenty s ISIC na rok zdarma)</small>
 
-----
+---
 
 # DevTools
 
@@ -85,7 +85,7 @@ Přehled toho, co v nejbližší době bude
 * Určitě zkuste: ideální na naší hotové stránce (je jednoduchá), ale jde na libovolné, kterou zrovna máte v prohlížeči.
 * Zkuste si v Developer tools něco změnit v CSS, prozkoumejte strukturu HTML.
 
-----
+---
 
 # Srazy
 
@@ -96,14 +96,14 @@ Přehled toho, co v nejbližší době bude
 * výměna zkušeností
 * informace o pracovních nabídkách, "pohovor v hospodě"
 
-----
+---
 
 # Kódujte!
 
 * svůj web, web pro kamarádku/kamaráda: skutečný web vás donutí najít řešení
 * _tip_: nemusíte vše psát samy (ani profesionálové to nedělají): je spousta hotových řešení (knihovny, frameworky) 
 
-----
+---
 
 <!-- .slide: data-state="c-slide-break" -->
 
