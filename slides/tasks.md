@@ -112,7 +112,7 @@
 
 # 03 Přidáme _Kontakt_
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/03)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/02)
 
 1. Vytvoř sekci Kontakt, tedy
 	* nadpis `Kontakt`
@@ -126,7 +126,7 @@
 1. Vyzkoušej, že odkaz funguje.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://04--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://03--tvorimweb1.repl.co/)
 
 ----
 
@@ -147,7 +147,7 @@
 
 # 04 Přidáme mapu
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/04)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/03)
 
 1. Přidej obrázek mapy do kontaktu za text, který už tam máš.
 1. Přidej za mapu licencí vyžadované texty:`Autorem skenů je Paul K. pod licencí CC 2.0`.
@@ -161,7 +161,7 @@
 
 # 05 Přidáme obrázkovou galerii
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/05)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/04)
 
 **Před** nadpis _Kontakt_ dej další nadpis „Galerie“ a pod něj text `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a tyto obrázky (můžeš si zkopírovat)
 ```
@@ -196,7 +196,7 @@ stopy.jpg
 
 # 06 Doplníme titulek
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/06)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/05)
 
 Doplň titulek: `Kryštůfek Robin a medvídek Pú`
 
@@ -228,7 +228,7 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 
 # 07 Připojíme styly
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/07)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/06)
 
 1. Připoj si `styly.css` k HTML.
 1. Nastav barvu písma pro celou stránku (třeba šedou `hsl(0, 0%, 40%)`)
@@ -257,7 +257,7 @@ p {
 
 # 08 Upravíme písmo
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/08)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/07)
 
 1. Nastav celé stránce bezpatkové písmo.
 1. Nastav odkazům tučný řez písma.
@@ -296,7 +296,7 @@ font-size: 150%;
 
 # 09 Měníme velikosti písma
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/09)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/08)
 
 Nadpisy udělej o něco větší než byly doposud, třeba `3.5rem` a `2.5rem`
 
@@ -328,7 +328,7 @@ h2 { background-color: color: hsl(120, 100%, 25%); }
 
 # 10 Nastavíme barvu pozadí
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/10)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/09)
 
 1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička jsou texty na konci stránky (odkaz na FB a informaci o licenci).
 1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí, třeba `hsl(50, 90%, 90%)`
@@ -352,7 +352,7 @@ h2 { background-color: color: hsl(120, 100%, 25%); }
 
 # 11 Využijeme třídy
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/11)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/10)
 
 1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
 
@@ -390,7 +390,7 @@ Nezapomeň smazat nastavení barvy pozadí pro všechny prvků `<div>`, které u
 
 # 12 Nastavíme obrázkům šířku
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/12)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/11)
 
 1. Nastav obrázkům šířku 300 pixelů.
 1. Dej hotovo.
@@ -424,7 +424,7 @@ div {
 
 # 13 Orámujeme obrázky
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/13)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/12)
 
 1. Nastav obrázkům zelený rámeček (třeba `#559933`) široký 2 pixely.
 1. Mapě nastav rámeček žlutý, třeba `rgb(255, 229, 102)`.
@@ -450,7 +450,7 @@ Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `#2a4d1
 
 # 14 Vnitřní odsazení obrázků
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/14)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/13)
 
 1. Přidej vnitřní odsazení (padding) `0.6rem`.
 1. Dej hotovo.
@@ -475,7 +475,7 @@ Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `#2a4d1
 
 # 15 Větší mezery mezi obrázky
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/15)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/14)
 
 1. Přidej obrázkům vnější odsazení `0.3rem`, aby na sebe nebyly tak nalepené.
 1. Dej hotovo.
@@ -492,7 +492,7 @@ Nastav obrázkům větší padding dole než na ostatních stranách.
 
 # 16 Odsadíme obsah od okrajů
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/16)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/15)
 
 1. Odsaď obsah kontaktu, galerie a patičky od okraje jejich boxu, ať na něj není tak nalepený, třeba `1rem`.
 1. V patičce odsaď text od horního a dolního okraje víc než po stranách.
@@ -511,7 +511,7 @@ Vycentruj *vodorovně* (vlevo a vpravo bude stejně volného místa) Galerii a K
 
 # 17 Roztáhneme pozadí až do okraje
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/17)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/16)
 
 Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah.
 
@@ -548,7 +548,7 @@ h2 { color: green; }
 
 # 18 Zjednodušujeme kód
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/18)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/17)
 
 1. Uprav CSS pro barvu nadpisů tak, aby využíval vícenásobný selektor.
 1. Využij vícenásobný selektor i pro nastavení stejného paddingu jednotlivých sekcí (Galerie a Kontakt).
@@ -584,7 +584,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 # 19 Měníme barvu odkazů po najetí myši
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/19)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/18)
 
 1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech, třeba zelenou `hsl(100, 50%, 40%)`. 
 1. Dej hotovo.
@@ -615,7 +615,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 # 20 Přidáme navigaci (menu)
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/20)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/19)
 
 1. Vytvoř navigaci jako odrážkový seznam: podle sekcí stránky a nezapomeň na odkaz na úvodní stránku! Bude tedy mít celkem 3 položky.
 1. Navigaci umísti za úvod.
@@ -640,7 +640,7 @@ span { display: inline-block; }
 
 # 21 Odkazy v navigaci na jeden řádek
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/21)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/20)
 
 1. Přidej menu (`<ul>`) třídu `menu`.
 1. Nastyluj menu tak, aby položky byly vedle sebe.
@@ -678,7 +678,7 @@ K témuž cíli často vede více cest. Podobného výsledku dosáhneš i [pomoc
 
 # 22 Přidáme sekci _O mně_
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/22)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/21)
 
 Všechno, co je potřeba pro tenhle úkol už umíš.
 
@@ -710,7 +710,7 @@ Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a p
 
 # 23 Rozdělíme web na jednotlivé stránky
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/23)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/22)
 
 1. V _Repl.it_ vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci nahoře je ikona dokumentu se symbolem plus a po kliknutí vyplň jeho název včetně `.html` na konci.
 1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na `index.html`.
