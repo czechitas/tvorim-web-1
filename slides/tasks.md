@@ -373,7 +373,7 @@ Nezapomeň smazat nastavení barvy pozadí pro všechny prvků `<div>`, které u
 ## Bonus
 
 1. V patičce vycentruj text
-1. Přidej třídu `.licence` a s její pomocí zmenši text odstavci s licencí v patičce.
+1. Přidej třídu `.licence` a s její pomocí zmenši text v odstavci s licencí v patičce.
 
 ---
 
@@ -426,8 +426,8 @@ div {
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/13)
 
-1. Nastav obrázkům zelený rámeček (třeba `hsl(100, 50%, 40%)`) široký 2 pixely.
-1. Mapě nastav rámeček žlutý, třeba `hsl(50, 100%, 70%)`.
+1. Nastav obrázkům zelený rámeček (třeba `#559933`) široký 2 pixely.
+1. Mapě nastav rámeček žlutý, třeba `rgb(255, 229, 102)`.
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://13--tvorimweb1.repl.co/)
@@ -436,7 +436,7 @@ div {
 
 ## Bonus
 
-Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `hsl(100, 50%, 20%)`.
+Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `#2a4d19`.
 
 ---
 
