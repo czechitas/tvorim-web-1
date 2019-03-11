@@ -358,7 +358,7 @@ h2 { background-color: color: hsl(120, 100%, 25%); }
 
 Doporučené názvy tříd: `galerie`, `kontakt`, `paticka`.
 
-Můžeš použít třeba tyto barvy: ` hsl(50, 90%, 90%)`, `hsl(100, 90%, 90%)`, `hsl(0, 0%, 100%)`.
+Můžeš použít třeba tyto barvy: ` hsl(50, 90%, 90%)`, `hsl(100, 90%, 90%)`, `hsl(0, 0%, 0%)`.
 
 _Tip: Poslední barva je hodně tmavá a text nebyl čitelný, nastav proto barvu textu v patičce na bílou._
 
