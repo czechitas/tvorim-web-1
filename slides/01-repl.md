@@ -55,25 +55,6 @@
 
 ## Klávesové zkratky
 
-### Práce s textem
-* <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
-* <kbd>Ctrl+→</kbd> <kbd class="nichtvergissmeinnicht">Alt+→</kbd> Posun po slovech doprava
-* <kbd>Ctrl+←</kbd> <kbd class="nichtvergissmeinnicht">Alt+←</kbd> Posun po slovech doleva
-* <kbd>Ctrl+Shift+→</kbd> <kbd class="nichtvergissmeinnicht">Alt+Shift+→</kbd> Výběr po slovech doprava
-* <kbd>Ctrl+Shift+←</kbd> <kbd class="nichtvergissmeinnicht">Alt+Shift+←</kbd> Výběr po slovech doleva
-* <kbd>Ctrl+A</kbd> <kbd class="nichtvergissmeinnicht">Cmd+A</kbd> Výběr všeho
-
->>>
-* Tyto jsou univerzální, fungují i v jiných programech.
-* Ty světle modré jsou pro Mac
-* Pokud neznáte, osvojte si je. Ohromně šetří čas.
-* Také jde klikat 2x pro výběr slova, 3x pro výběr řádku
-
-
----
-
-## Klávesové zkratky
-
 <kbd>Ctrl+C</kbd> Kopírovat
 
 <kbd>Ctrl+V</kbd> Vložit
@@ -85,7 +66,6 @@
 Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 
 ---
-----
 
 ## Klávesové zkratky
 
@@ -96,26 +76,6 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 
 >>>
 * `Ctrl+Enter` můžete znát z chatovacích programů, případně e-mailového klienta, kde odesílá zprávu.
-
----
-
-## Klávesové zkratky
-
-### Repl.it
-* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> najde další výskyt vybraného (označeného) textu
-* <kbd class="nichtvergissmeinnicht">Ctrl+I</kbd> vybere celý řádek
-* <kbd class="nichtvergissmeinnicht">Alt+G</kbd> přesune kurzor na zadané číslo&nbsp;řádku
-* <kbd class="nichtvergissmeinnicht">Ctrl+K Ctrl+C</kbd> zakomentuje/odkomentuje řádek _(není nutno vybírat)_ <!-- .element: class="c-text-sm" -->
-
->>>
-Co znamená zakomentovat, si povíme později.
-
----
-
-## Klávesové zkratky
-
-### Repl.it
-* vyhledávání ve všech dostupných příkazech <kbd>F1</kbd> nebo <kbd>Ctrl+Shift+P</kbd>
 
 ---
 
