@@ -62,7 +62,6 @@ Ukázat DevTools
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* jak používají web nevidomí?
 * Jména tagů jsou většinou zkratky anglických slov. Např.:
  * `h` = heading
  * `p` = paragraph

@@ -18,6 +18,7 @@
 * dodržujte pořadí nadpisů: nenechte se svést tím, jak vypadají (po `h1` vždy nejprve `h2`, pak teprve `h3`)
 * 6 úrovní nadpisů (`<h1>`…`<h6>`)
 * obvykle bývá na jednotlivé stránce jen 1 nadpis první úrovně
+* jak používají web nevidomí?
 
 ---
 
