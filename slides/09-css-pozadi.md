@@ -18,10 +18,10 @@ p {
 
 >>>
 * barvy slovně (jak to nabízí Repl.it)
-* v praxi spíše číselně, hexadecimálně
-* HSL: hue, saturation, luminescence ~ odstín, sytost, jas
+* v praxi spíše číselně, hexadecimálně, bohužel málo srozumitelné
 * #rrggbb => vždy dvojciferné číslo pro barevnou složku červená|zelená|modrá
 * hodnoty 0‒255, ale šestnáctkově 0‒ff
+* HSL: hue, saturation, luminescence ~ odstín, sytost, jas
 * Repl.it ti nabídne pohodlný výběr barvy, když zaparkuješ kurzor nad řádkem, kde barvu nastavuješ. (asi ukázat)
 
 
