@@ -95,8 +95,9 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * zformátovat celý dokument <kbd>Shift+Alt+F</kbd>
 
 >>>
-`Ctrl+Enter` můžete znát z chatovacích programů, případně e-mailového klienta, kde odesílá zprávu.
+* `Ctrl+Enter` můžete znát z chatovacích programů, případně e-mailového klienta, kde odesílá zprávu.
 
+---
 
 ## Klávesové zkratky
 
