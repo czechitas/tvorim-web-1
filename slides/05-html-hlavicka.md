@@ -40,9 +40,3 @@
 >>>
 * Mezi tagy `<head></head>`
 * Zobrazuje se na záložce v prohlížeči ‒ jediný z `<head>` je přímo vidět
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Doplníme titulek
