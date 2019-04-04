@@ -41,7 +41,7 @@ Pro práci na prezentaci je vhodné mít nainstalovaný [Node.js](https://nodejs
 
 ### Export do PDF
 
-Do adresy stránky přidej `?print-pdf`, tj. například: `http://localhost:8000/?print-pdf` nebo i <https://czechitas.github.io/tvorim-web-1/?print-pdf>. Zobrazí se verze vhodná pro tisk a uložení do PDF.
+Do adresy stránky přidej `?print-pdf`, tj. například: `http://localhost:7410/?print-pdf` nebo i <https://czechitas.github.io/tvorim-web-1/?print-pdf>. Zobrazí se verze vhodná pro tisk a uložení do PDF.
 
 ### Poznámky a ovládání na samostatném zařízení
 
