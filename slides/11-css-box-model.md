@@ -118,4 +118,4 @@ img {
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Roztáhneme pozadí až do okraje
+# Odsadíme obsah od okrajů
