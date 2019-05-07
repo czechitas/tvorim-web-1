@@ -5,6 +5,9 @@
 
 # 1. Lektor ukáže a vysvětlí
 
+>>>
+Ze začátku bude více vysvětlování, ale postupně ubyde.
+
 ---
 
 # 2. Zkusíte si
@@ -55,7 +58,7 @@ Super. Někdo si dejte červený lísteček… : )
 
 ---
 
-# Na konci budete mít…
+# Na konci budete mít web
 
 >>>
 Hotovou webovou stránku, kterou uděláte samy.

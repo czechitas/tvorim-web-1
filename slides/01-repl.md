@@ -56,12 +56,10 @@
 ## Klávesové zkratky
 
 ### Práce s textem
-* <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku
 * <kbd>Ctrl+→</kbd> <kbd class="nichtvergissmeinnicht">Alt+→</kbd> Posun po slovech doprava
 * <kbd>Ctrl+←</kbd> <kbd class="nichtvergissmeinnicht">Alt+←</kbd> Posun po slovech doleva
 * <kbd>Ctrl+Shift+→</kbd> <kbd class="nichtvergissmeinnicht">Alt+Shift+→</kbd> Výběr po slovech doprava
 * <kbd>Ctrl+Shift+←</kbd> <kbd class="nichtvergissmeinnicht">Alt+Shift+←</kbd> Výběr po slovech doleva
-* <kbd>Ctrl+A</kbd> <kbd class="nichtvergissmeinnicht">Cmd+A</kbd> Výběr všeho
 
 >>>
 * Tyto jsou univerzální, fungují i v jiných programech.
@@ -73,6 +71,16 @@
 ---
 
 ## Klávesové zkratky
+
+* <kbd>Home</kbd> <kbd>End</kbd> skok na začátek, konec řádku
+* <kbd>Ctrl+Home</kbd> <kbd>Ctrl+End</kbd> skok na začátek, konec souboru
+* <kbd>Ctrl+Shift+Home</kbd> <kbd>Ctrl+Shift+End</kbd> skok na začátek, konec souboru, přeskočený text se označí
+
+---
+
+## Klávesové zkratky
+
+<kbd>Ctrl+A</kbd> <kbd class="nichtvergissmeinnicht">Cmd+A</kbd> Výběr všeho
 
 <kbd>Ctrl+C</kbd> Kopírovat
 
@@ -92,22 +100,6 @@ Mac má tyto zkratky stejné, jen místo Ctrl je Cmd
 * spustit kód <kbd>Ctrl+Enter</kbd> <br> _jako kliknutí na&nbsp;tlačítko&nbsp;run_ <!-- .element: class="c-text-sm" -->
 * odsazení <kbd>Tab</kbd> přidat <kbd>Shift+Tab</kbd> ubrat <br> _lze odsazovat více řádků najednou_ <!-- .element: class="c-text-sm" -->
 * zformátovat celý dokument <kbd>Shift+Alt+F</kbd>
-
----
-
-## Klávesové zkratky
-
-### Repl.it
-* <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> najde další výskyt vybraného (označeného) textu
-* <kbd class="nichtvergissmeinnicht">Ctrl+I</kbd> vybere celý řádek
-* <kbd class="nichtvergissmeinnicht">Alt+G</kbd> přesune kurzor na zadané číslo&nbsp;řádku
-* <kbd class="nichtvergissmeinnicht">Ctrl+K Ctrl+C</kbd> zakomentuje/odkomentuje řádek _(není nutno vybírat)_ <!-- .element: class="c-text-sm" -->
-
----
-
-## Klávesové zkratky
-
-### Repl.it
 * vyhledávání ve všech dostupných příkazech <kbd>F1</kbd> nebo <kbd>Ctrl+Shift+P</kbd>
 
 ---

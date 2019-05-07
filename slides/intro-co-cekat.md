@@ -1,9 +1,6 @@
 <!-- .slide: data-state="c-slide-inter" -->
-# Co vlastně budeme dělat?
 
----
-
-# Web
+# Máme web!
 
 ---
 
@@ -75,9 +72,10 @@ Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udrž
 ## ~ Frontendistka
 
 >>>
-* To je role, kterou si dnes vyzkoušíte.
+* To je role, kterou jste si dnes vyzkoušely.
 * Určitě to znamená, že si podobný jednoduchý web můžete samy kdykoli udělat.
-* Určitě to znamená, že na tom, co tu dnes probereme, můžete dál stavět a pokračovat. Je to start.
+* Určitě to znamená, že na tom, co jsme dnes proberalie, můžete dál stavět a pokračovat. Je to start.
 * Pokud chcete za půl roku spustit nějaký vážně míněný projekt, tak si najměte zkušeného profesionála nebo použijte hotové řešení. Je jich spousta a jsou čím dál lepší. Ostatně já bych to udělal také tak. I když to umím, tak udělat to pořádně je hodně práce a nezbyl by čas na další role.
 * Tipnete si proč "frontend"? Co to znamená?
 * Naproti tomu backend se týká programování a práce s databázemi.
+* Paralela kuchaři a číšníci.
