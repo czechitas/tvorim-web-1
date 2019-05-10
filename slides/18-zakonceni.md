@@ -4,6 +4,20 @@
 
 ---
 
+# DevTools
+
+**Nástroje pro vývojáře** (Developer tools) má každý moderní prohlížeč
+
+* zobrazí kód stránky, CSS a další užitečné informace
+<br><small>buď <kbd>F12</kbd>, popř. <kbd>Ctrl+Shift+I</kbd> (na Macu <kbd>Cmd+Shift+I</kbd>) nebo pravým myšítkem na prvek, který vás zajímá a vybrat _Prozkoumat/Inspect element_</small>
+* umožňuje dělat změny v aktuálně načtené stránce, ty ale vydrží jen dokud na ní zůstáváš
+
+>>>
+* Určitě zkuste: ideální na naší hotové stránce (je jednoduchá), ale jde na libovolné, kterou zrovna máte v prohlížeči.
+* Zkuste si v Developer tools něco změnit v CSS, prozkoumejte strukturu HTML.
+
+---
+
 # Kurzy Czechitas
 
 * Jak na web (několikatýdenní)
@@ -70,20 +84,6 @@ Přehled toho, co v nejbližší době bude
 
 **WebStorm**
 <br><small>poměrně komplexní (pro studenty s ISIC na rok zdarma)</small>
-
----
-
-# DevTools
-
-**Nástroje pro vývojáře** (Developer tools) má každý moderní prohlížeč
-
-* zobrazí kód stránky, CSS a další užitečné informace
-<br><small>buď <kbd>F12</kbd>, popř. <kbd>Ctrl+Shift+I</kbd> (na Macu <kbd>Cmd+Shift+I</kbd>) nebo pravým myšítkem na prvek, který vás zajímá a vybrat _Prozkoumat/Inspect element_</small>
-* umožňuje dělat změny v aktuálně načtené stránce, ty ale vydrží jen dokud na ní zůstáváš
-
->>>
-* Určitě zkuste: ideální na naší hotové stránce (je jednoduchá), ale jde na libovolné, kterou zrovna máte v prohlížeči.
-* Zkuste si v Developer tools něco změnit v CSS, prozkoumejte strukturu HTML.
 
 ---
 

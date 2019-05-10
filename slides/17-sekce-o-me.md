@@ -10,10 +10,16 @@
 
 ---
 
+<!-- .slide: data-state="c-slide-task" -->
+
+# Rozdělíme web na jednotlivé stránky
+
+---
+
 # Publikace
 
-* Aneb zveřejnění na webu: váš projekt dostane adresu, kterou můžete sdílet.
-* Pozor, není automatická: pokud se něco změní, je opět nutné publikovat.
+* Aneb zveřejnění na webu: váš projekt má adresu, kterou můžete sdílet.
 
 >>>
 * Repl.it umožňuje i jednoduchou publikaci veřejně na internet.
+* Otevřete si náhled webu do nového okna a v adresním řádku vidíte adresu svého webu.

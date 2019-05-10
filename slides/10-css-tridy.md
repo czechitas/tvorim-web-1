@@ -89,6 +89,7 @@ p { color: blue; }
 >>>
 * jeden atribut `class` může mít přiřazeno více hodnot ‒ tříd
 * oddělujeme je mezerou
+* **Kratičká přestávka před box modelem?**
 
 ---
 

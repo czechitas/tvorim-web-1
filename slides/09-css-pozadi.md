@@ -8,10 +8,10 @@
 
 ```css
 p {
-	background-color: green;
-	background-color: hsl(120, 100%, 50%);
-	background-color: rgb(0, 255, 0);
-	background-color: #00FF00;
+    background-color: green;
+    background-color: hsl(120, 100%, 50%);
+    background-color: rgb(0, 255, 0);
+    background-color: #00FF00;
 }
 ```
 <!-- .element: class="c-text-sm" contenteditable="true" -->
@@ -31,9 +31,9 @@ p {
 
 ```html
 <div>
-	<h2>Nadpis</h2>
-	<p>Úryvek novinky…</p>
-	<a href="detail.html">více</a>
+    <h2>Nadpis</h2>
+    <p>Úryvek novinky…</p>
+    <a href="detail.html">více</a>
 </div>
 ```
 
@@ -42,6 +42,7 @@ p {
 * Pak se hodí tag `<div>` => abychom mohli kouzlit s CSS, musíme nejprve upravit HTML.
 * `div` jako division => oddělení
 * Tagem `<div>` obalíme přislušné části stránky, se kterými chceme pracovat jako s celky.
+* **Přestávka?**
 
 ---
 

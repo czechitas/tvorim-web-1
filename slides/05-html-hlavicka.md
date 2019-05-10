@@ -40,6 +40,8 @@
 >>>
 * Mezi tagy `<head></head>`
 * Zobrazuje se na záložce v prohlížeči ‒ jediný z `<head>` je přímo vidět
+* Abyste ho na našem webíku viděly, musíte si ho otevřít do nového okna: klikem na ikonku nad náhledem stránky.
+* **Přestávka, oběd??**
 
 ---
 

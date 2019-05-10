@@ -9,7 +9,7 @@
 		<title>Tvořím web: HTML/CSS (Czechitas)</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-    	<style> .print-pdf .reveal .slide-background { background-size: contain; } </style>
+		<style> .print-pdf .reveal .slide-background { background-size: contain; } </style>
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/idea.css">
@@ -47,7 +47,7 @@
 				<section data-markdown="slides/01-repl.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
 				<section data-markdown="slides/02-html-struktura.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
 
-				<section data-markdown="slides/prestavka.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
+				<!-- <section data-markdown="slides/prestavka.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section> -->
 
 				<section data-markdown="slides/03-html-odstavce-odkazy.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
 				<section data-markdown="slides/04-html-obrazky.md" data-separator-notes="^\r?\n>>>$" data-separator="^\r?\n---\s*\r?\n$" data-separator-vertical="^\r?\n----\s*\r?\n$"></section>
@@ -114,7 +114,7 @@
 				// dev settings
 //				fragments: false,   // vypnout postupné zobrazování prvků s třídou fragment
 				transition: 'none', // vypnout efekty na přechodu mezi slajdy
-  				showNotes: isPrint,    // zapnout viditelné poznámky
+				showNotes: isPrint,    // zapnout viditelné poznámky
 
 
 				menu: {
@@ -156,8 +156,8 @@
 					{ src: 'plugin/menu/menu.js' },
 
 					// notes-server; served via node_modules
-			        { src: 'socket.io/socket.io.js', async: true },
-			        { src: 'plugin/notes-server/client.js', async: true },
+					{ src: 'socket.io/socket.io.js', async: true },
+					{ src: 'plugin/notes-server/client.js', async: true },
 				]
 			});
 

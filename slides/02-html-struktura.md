@@ -3,7 +3,6 @@
 # HTML
 
 >>>
-Ukázat DevTools
 
 * První, co si prohlížeč stahuje, je HTML soubor, který obsahuje informace o stránce.
 * Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my samozřejmě budeme používat Thimble
@@ -22,7 +21,7 @@ Ukázat DevTools
 ## Tag/značka
 ```html
 <jmenotagu>
-	Obsah tagu
+    Obsah tagu
 </jmenotagu>
 ```
 <!-- .element: class="c-text-xl stretch" contenteditable="true" -->
@@ -83,12 +82,12 @@ Ukázat DevTools
 ```html
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<!-- vlastnosti stránky -->
-	</head>
-	<body>
-		<!-- samotný obsah stránky -->
-	</body>
+    <head>
+        <!-- vlastnosti stránky -->
+    </head>
+    <body>
+        <!-- samotný obsah stránky -->
+    </body>
 </html>
 ```
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
@@ -101,3 +100,4 @@ Ukázat DevTools
 * V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“. Zde budeme nyní pracovat.
 * Všimněte si odsazení. A dbejte na něj ve svém kódu.
 * Všimněte si komentářů.
+* **Přestávka?**
