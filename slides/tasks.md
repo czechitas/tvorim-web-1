@@ -198,6 +198,13 @@ Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůf
 </head>
 ```
 
+```css
+p {
+	color: white;
+	background-color: black;
+}
+```
+
 ----
 
 # 07 Připojíme styly
