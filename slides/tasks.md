@@ -392,6 +392,7 @@ Nezapomeň smazat nastavení barvy pozadí pro všechny prvků `<div>`, které u
 .tip {
 	width: 300px;
 	height: 100px;
+	max-width: 100%;
 }
 ```
 
