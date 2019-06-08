@@ -136,13 +136,6 @@ img {
 
 ---
 
-# Přestávka
-
-<!-- .slide: data-state="c-slide-break" -->
-
-
----
-
 <!-- .slide: data-state="c-slide-task" -->
 
 # Roztáhneme pozadí až do okraje

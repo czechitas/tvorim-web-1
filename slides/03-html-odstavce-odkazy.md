@@ -79,5 +79,5 @@
 
 ## Další funkce Repl.it
 
-* HTML: Zvýraznění párové značky/tagu k té, kde je právě kurzor.
-* Změní barvu textu, narazí-li na chybu.
+* Zvýrazní párové značky k té, kde je právě kurzor.
+* Napovídá uzavírací značku.

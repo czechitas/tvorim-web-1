@@ -6,11 +6,10 @@
 
 # Ukázka jednotek <!-- .element: class="c-sr-only" -->
 
-<pre class="c-text-xl fragment" contenteditable><code class="lang-css stretch" data-noescape>
-<span class="fragment">font-size: 1.5rem;</span>
-<span class="fragment">font-size: 20px;</span>
-
-</code></pre>
+```css
+font-size: 1.5rem;
+font-size: 20px;
+```
 
 >>>
 * rem ~ výchozí velikost písma dokumentu (velikost písma prvku `<html>`)
