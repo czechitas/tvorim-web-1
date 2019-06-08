@@ -328,7 +328,7 @@ p { background-color: green; }
 
 h1 { background-color: #008000; }
 
-h2 { background-color: color: hsl(120, 100%, 25%); }
+h2 { background-color: rgb(0, 128, 0); }
 ```
 
 ----
