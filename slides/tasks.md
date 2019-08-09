@@ -212,8 +212,8 @@ p {
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/06)
 
 1. Připoj si `styly.css` k HTML.
-1. Nastav barvu písma pro celou stránku (třeba šedou `hsl(0, 0%, 40%)`)
-1. Nastav oběma nadpisům jinou barvu (třeba zelenou `hsl(100, 50%, 40%)`)
+1. Nastav barvu písma pro celou stránku (třeba šedou `dimgrey`)
+1. Nastav oběma nadpisům jinou barvu (třeba zelenou `darkgreen`)
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://07--tvorimweb1.repl.co/)
@@ -308,7 +308,7 @@ h2 { background-color: rgb(0, 128, 0); }
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/09)
 
 1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička je odstavec na konci stránky s informací o licenci.
-1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí, třeba `hsl(50, 90%, 90%)`
+1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí, třeba `#fcf5cf`
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://10--tvorimweb1.repl.co/)
@@ -337,7 +337,7 @@ h2 { background-color: rgb(0, 128, 0); }
 
 Doporučené názvy tříd: `galerie`, `kontakt`, `paticka`.
 
-Můžeš použít třeba tyto barvy: ` #FCF5CF`, `#DEFCCF`, `#000000`.
+Můžeš použít třeba tyto barvy: `#fcf5cf`, `#defccf`, `#804000`.
 
 _Tip: Poslední barva je hodně tmavá a text nebyl čitelný, nastav proto barvu textu v patičce na bílou._
 
@@ -497,8 +497,8 @@ span { display: inline-block; }
 
 Případně ještě můžeš změnit barevnost menu:
 
-1. Podbarvi menu třeba zelenou `hsl(100, 50%, 40%)`.
-1. Aby se daly položky přečíst, obarvi odkazy třeba na žluto `hsl(50, 100%, 70%)`.
+1. Podbarvi menu třeba zelenou `#559933`.
+1. Aby se daly položky přečíst, obarvi odkazy třeba na žluto `#ffe566`.
 1. Položku v menu po najetí kurzorem nastyluj inverzně (zelený text na žlutém pozadí).
 1. Odstraň bílou mezeru mezi menu a Galerií.
 
@@ -527,7 +527,7 @@ Všechno, co je potřeba pro tenhle úkol už umíš.
 	Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
 	```
 1. Před text dej obrázek `krystufek-robin.png`.
-1. Nastav barvu pozadí nové sekce na nějakou světle modrou, třeba `hsl(195, 100%, 90%)`.
+1. Nastav barvu pozadí nové sekce na nějakou světle modrou, třeba `#ccf2ff`.
 1. Dej hotovo.
 
 
