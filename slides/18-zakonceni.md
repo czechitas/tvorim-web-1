@@ -13,7 +13,7 @@
 * umožňuje dělat změny v aktuálně načtené stránce, ty ale vydrží jen dokud na ní zůstáváš
 
 >>>
-* Určitě zkuste: ideální na naší hotové stránce (je jednoduchá), ale jde na libovolné, kterou zrovna máte v prohlížeči.
+* Určitě zkuste: ideální na naší hotové stránce (je jednoduchá) => nejprve ji otevřete do samostatného okna (bez editoru). Ale lze na libovolné, kterou zrovna máte v prohlížeči.
 * Zkuste si v Developer tools něco změnit v CSS, prozkoumejte strukturu HTML.
 
 ---
