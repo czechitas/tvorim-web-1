@@ -20,7 +20,7 @@
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* `.foo` i `.bar` dělají to samé
+* `.foo` i `.bar` dělají totéž
 
 ---
 
@@ -39,7 +39,7 @@
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* `.foo` i `.bar` dělají to samé
+* `.foo` i `.bar` dělají totéž
 
 ---
 
@@ -58,7 +58,7 @@
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* `.foo` i `.bar` dělají to samé
+* `.foo` i `.bar` dělají totéž
 
 ---
 
@@ -76,17 +76,10 @@
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
 
 >>>
-* `.foo` i `.bar` dělají to samé
+* `.foo` i `.bar` dělají totéž
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hrajem si 15!
-
-**vycházíme z [bit.ly/tvorim14](http://bit.ly/tvorim14)**
-
-* optimalizovat stávající kód
-
-**výsledek: [bit.ly/tvorim15](http://bit.ly/tvorim15)**
-<!-- .element: class="c-text-xs" -->
+# Optimalizujeme stávající kód
