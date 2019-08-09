@@ -330,7 +330,7 @@ h2 { background-color: color: hsl(120, 100%, 25%); }
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/09)
 
-1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička jsou texty na konci stránky (odkaz na FB a informaci o licenci).
+1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička je odstavec na konci stránky s informací o licenci.
 1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí, třeba `hsl(50, 90%, 90%)`
 1. Dej hotovo.
 
@@ -454,7 +454,7 @@ Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `#2a4d1
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/13)
 
-1. Přidej vnitřní odsazení (padding) `0.6rem`.
+1. Přidej obrázkům vnitřní odsazení (padding) `0.6rem`.
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://14--tvorimweb1.repl.co/)

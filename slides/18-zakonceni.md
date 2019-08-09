@@ -40,7 +40,7 @@ Přehled toho, co v nejbližší době bude
 # Zdroje v češtině
 
 * Tradiční zdroj [jakpsatweb.cz](https://www.jakpsatweb.cz/), **sice&nbsp;zastarává**, ale část o HTML je stále platná
-* Na [jecas.cz](http://jecas.cz/) jsou aktuálnější články a také reference (přehled) HTML i CSS
+* Na [jecas.cz](http://jecas.cz/) jsou aktuální články a také reference (přehled) HTML i CSS
 * Pro pokročilejší [vzhurudolu.cz](https://www.vzhurudolu.cz)
 
 ---
