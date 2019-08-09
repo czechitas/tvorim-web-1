@@ -294,9 +294,6 @@ font-size: 1.5rem;
 
 font-size: 20px;
 
-/* nebo */
-
-font-size: 150%;
 ```
 
 ----
