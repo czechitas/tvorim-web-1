@@ -342,10 +342,12 @@ h2 { background-color: color: hsl(120, 100%, 25%); }
 
 ```html
 <h1 class="tip">Tip</h1>
+<p class="perex tip"></p>
 ```
 
 ```css
 .tip { color: blue; }
+.perex { font-size: 1.2rem; }
 ```
 
 ----
