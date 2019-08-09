@@ -6,7 +6,7 @@
    <br />_a pozor, aby se nezakopávalo o kabely_ <!-- .element: class="c-text-sm" -->
 3. Připoj se na wifi: <strong>DOPLNIT</strong>, heslo: <strong>DOPLNIT</strong>
 4. Máš spuštěn Chrome nebo Firefox?
-5. Otevři si v prohlížeči <strong>czchts.link/web</strong>
+5. Otevři si v prohlížeči <strong>czechitas.herokuapp.com</strong>
    <br />_a vyplň svoje jméno podle toho, na kterém místě sedíš_ <!-- .element: class="c-text-sm" -->
 
 
