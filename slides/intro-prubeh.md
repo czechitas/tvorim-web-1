@@ -71,6 +71,7 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 - začátek teď
 - konec ~18h
 
-a zhruba každou hodinu bude 10 minut pauza
+>>>
+pauzy dle potřeby zhruba každou hodinu
 
 <!-- .element: class="c-text-left" -->
