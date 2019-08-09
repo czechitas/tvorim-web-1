@@ -9,20 +9,22 @@
 ```css
 p {
     background-color: green;
-    background-color: hsl(120, 100%, 50%);
-    background-color: rgb(0, 255, 0);
     background-color: #00FF00;
+    background-color: rgb(0, 255, 0);
+    background-color: hsl(120, 100%, 50%);
 }
 ```
 <!-- .element: class="c-text-sm" contenteditable="true" -->
 
 >>>
+* Repl.it ti nabídne pohodlný výběr barvy, když zaparkuješ kurzor nad řádkem, kde barvu nastavuješ. (asi ukázat)
 * barvy slovně (jak to nabízí Repl.it)
 * v praxi spíše číselně, hexadecimálně
+* lze doplnit i čtvrtou složku barvy: průsvitnost
+* neztrácet čas, jen zmínit, že jsou různé zápisy
 * HSL: hue, saturation, luminescence ~ odstín, sytost, jas
 * #rrggbb => vždy dvojciferné číslo pro barevnou složku červená|zelená|modrá
 * hodnoty 0‒255, ale šestnáctkově 0‒ff
-* Repl.it ti nabídne pohodlný výběr barvy, když zaparkuješ kurzor nad řádkem, kde barvu nastavuješ. (asi ukázat)
 
 
 ---
