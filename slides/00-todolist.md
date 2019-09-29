@@ -15,4 +15,4 @@
 Doplň jména Czechit, wifi a logo sponzora
 
 - Tento slajd můžeš upravit přímo v prohlížeči (contenteditable).
-- Můžeš sem i vložit obrázek ze schánky (logo sponzora), bude umístěn do pravého horního rohu.
+- Můžeš sem i vložit obrázek ze schránky (logo sponzora), bude umístěn do pravého horního rohu.
