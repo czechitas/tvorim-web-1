@@ -493,7 +493,7 @@ Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `#2a4d1
 
 ## Bonus
 
-Nastav obrázkům větší padding dole než na ostatních stranách.
+Nastav obrázkům větší margin dole než na ostatních stranách.
 
 ---
 
