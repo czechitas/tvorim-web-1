@@ -427,20 +427,14 @@ a:active { color: yellow; } /* při kliknutí */
 
 ----
 
-# 12 Nastavíme obrázkům šířku
+# 13 Nastavíme obrázkům šířku
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/11)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-11)
 
-1. Nastav obrázkům šířku 300 pixelů.
+1. Obrázky v galerii budou široké ⅓ stránky.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://12--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-1. Obrázku mapy nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent.
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-12--tvorimweb1.repl.co)
 
 ---
 
