@@ -133,7 +133,7 @@
 ## Bonus (pokud máš hotovo)
 
 1. Slovo „e-mail“ udělej jako odkaz na medvídkův mail (pooh@example.com), [najdi si jak](https://google.com).
-1. Přidej stejnému odkazu další atribut `title` s hodnotou _Když pošleš med, budu radši._. Co to dělá zjištíš tak, že zaparkuješ šipku myši (kurzor) nad odkazem v náhledu stránky.
+1. Přidej stejnému odkazu další atribut `title` s hodnotou _Když pošleš med, budu radši._. Co to dělá, zjištíš tak, že zaparkuješ šipku myši (kurzor) nad odkazem v náhledu stránky.
 
 ---
 
@@ -524,7 +524,7 @@ K témuž cíli často vede více cest. Podobného výsledku dosáhneš i [pomoc
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/21)
 
-Všechno, co je potřeba pro tenhle úkol už umíš.
+Všechno, co je potřeba pro tenhle úkol, už umíš.
 
 1. Přidej další sekci, tentokrát `O mně` nad Galerii.
 1. Dej do ní text
