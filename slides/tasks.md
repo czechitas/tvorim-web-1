@@ -404,16 +404,16 @@ a:active { color: yellow; } /* při kliknutí */
 
 ---
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://11--tvorimweb1.repl.co/)
+# 12 Změníme vzhled odkazů po najetí myši
+
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-10)
+
+1. Všechny odkazy po najetí myši změní barvu písma a pozadí.
+1. Dej hotovo
+
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-11--tvorimweb1.repl.co)
 
 ----
-
-## Bonus
-
-1. V patičce vycentruj text
-1. Přidej třídu `.licence` a s její pomocí zmenši text v odstavci s licencí v patičce.
-
----
 
 ## Shrnutí výkladu
 
