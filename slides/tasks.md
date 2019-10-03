@@ -338,33 +338,33 @@ section {
 
 ## Shrnutí výkladu
 
+```html
+<h1 class="tip">Tip</h1>
+<p class="perex tip"></p>
+```
+
 ```css
-p { background-color: green; }
-
-h1 { background-color: #008000; }
-
-h2 { background-color: color: hsl(120, 100%, 25%); }
+.tip { color: blue; }
+.perex { font-size: 1.2rem; }
 ```
 
 ----
 
-# 10 Nastavíme barvu pozadí
+# 10 Využijeme třídy
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/09)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-08)
 
-1. Obal každou ze tří sekcí webu: kontakt, galerii a patičku tagem `<div>`. Patička je odstavec na konci stránky s informací o licenci.
-1. Nastav všem třem nějakou (stejnou) světlou barvu pozadí, třeba `#fcf5cf`
-1. Dej hotovo.
+1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://10--tvorimweb1.repl.co/)
+Doporučené názvy tříd: `omne`, `fotogalerie`, `pruvodce`, `kontakt`
 
----
+Každá sekce bude mít jinou barvu pozadí. Střídavě béžovou a světle hnědou (`#fff1e6`, `#f9e3d0`). Případně vyzkoušej vlastní barvy.
 
-## Shrnutí výkladu
+**Dej hotovo.**
 
-```html
-<h1 class="tip">Tip</h1>
-<p class="perex tip"></p>
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-09--tvorimweb1.repl.co)
+
+----
 ```
 
 ```css
