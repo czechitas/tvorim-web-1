@@ -471,25 +471,20 @@ div {
 ## Shrnutí výkladu
 
 ```css
-.tip { padding: 25px; }
+.tip { padding: 1rem; }
 ```
 
 ----
 
-# 14 Vnitřní odsazení obrázků
+# 15 Odsazení sekcí
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/13)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-13)
 
-1. Přidej obrázkům vnitřní odsazení (padding) `0.6rem`.
+1. Všem sekcím na stránce nastav padding tak, aby měly naše barevné pruhy pěkné odsazení.
+1. Nastav horní a dolní padding patičce.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://14--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-1. Nastav obrázkům také barvu pozadí, díky paddingu bude i vidět.
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-14--tvorimweb1.repl.co)
 
 ---
 
