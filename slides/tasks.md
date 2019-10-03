@@ -241,16 +241,19 @@ p {
 
 ----
 
-# 07 Připojíme styly
+# 07 Připojíme styly a obarvíme nadpisy a odkazy
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/06)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-05)
 
-1. Připoj si `styly.css` k HTML.
-1. Nastav barvu písma pro celou stránku (třeba šedou `dimgrey`)
-1. Nastav oběma nadpisům jinou barvu (třeba zelenou `darkgreen`)
+Použij barvy ze souboru `podklady/barvy.txt`, ale zkus klidně i svoje vlastní barvy. Záleží jen na tobě, jak moc chceš, aby se tvůj web podobal vzorové stránce.
+
+1. Připoj si `style.css` k HTML.
+1. Hlavní nadpis obarvi na červenou.
+1. Nadpisy 2. úrovně obarvi na hnědou.
+1. Odkazy budou hnědé.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://07--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-06--tvorimweb1.repl.co)
 
 ---
 
