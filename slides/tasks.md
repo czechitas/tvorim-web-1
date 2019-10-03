@@ -59,16 +59,10 @@
 
 # 01 Osaháme si Repl.it a klávesové zkratky
 
-1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/00) a nahoře klikni na _fork_.
+1. Otevři si [výchozí cvičení](https://repl.it/@tvorimweb1/Adela-cestuje-START) a nahoře klikni na _fork_.
 1. Podívej se pod ozubené kolečko (nastavení): nastav si velikost textu (_font size_) a barevné schéma (_theme_) tak, abys kód dobře viděla.
 1. Dále si případně pod ozubeným kolečkem nastav: _code intelligence_ na _disabled_
-1. Zkopíruj si následující text <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd> **místo** komentáře v souboru (šedý text).
-	```
-	Web Kryštůfka Robina
-
-	Představím vám zde své dobré kamarády:
-	medvídka Pú, Tygříka, Íjáčka a Prasátko.
-	```
+1. Ve složce `podklady` nalezneš soubor `texty.txt`. Vyber z něj všechen text <kbd>Ctrl+A</kbd>, zkopíruj ho <kbd>Ctrl+C</kbd> a vlož ho do souboru `index.html` <kbd>Ctrl+V</kbd> **místo** komentáře v souboru (šedý text). 
 1. Opět dej prosím „Hotovo“.
 
 ---
