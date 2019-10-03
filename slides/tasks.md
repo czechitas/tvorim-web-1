@@ -149,52 +149,50 @@
 ## Bonus (pokud máš hotovo)
 
 1. Odkazem může být i telefonní číslo. Když na takový odkaz ťukneš na telefonu, vytočí se dané číslo a můžeš rovnou volat. [Podívej se, co je potřeba napsat do atributu `href`](https://jecas.cz/odkaz#href), aby to fungovalo.
-1. Přidej stejnému odkazu další atribut `title` s hodnotou _Když pošleš med, budu radši._. Co to dělá zjištíš tak, že zaparkuješ šipku myši (kurzor) nad odkazem v náhledu stránky.
 
 ---
 
 ## Shrnutí výkladu
 
 ```html
-<img src="pu.jpg" alt="medvěd">
+<img src="adela.jpg" alt="Adéla">
 ```
+
+<kbd>Alt+Shift+I</kbd> Vloží kurzor na každý řádek ve výběru
+<kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku (srovná kurzory na stejnou pozici)
 
 ----
 
-# 04 Přidáme mapu
+# 05 Přidáme obrázky
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/03)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-03)
 
-1. Přidej obrázek mapy do kontaktu za text, který už tam máš.
-1. Přidej za mapu licencí vyžadované texty:`Autorem skenů je Paul K. pod licencí CC 2.0`.
-1. Vytvoř odkaz z „Paul K.“ `https://www.flickr.com/photos/bibliodyssey/3066814584`
-1. Vytvoř odkaz na licenci z textu „licencí CC 2.0“ `https://creativecommons.org/licenses/by/2.0/`
+1. Přidej fotku Adély `foto.jpg` za nadpis O mně
+1. Přidej 9 obrázků `hory1-9.jpg` za odstavec v sekci Fotogalerie
+
+```
+hory1.jpg
+hory2.jpg
+hory3.jpg
+hory4.jpg
+hory5.jpg
+hory6.jpg
+hory7.jpg
+hory8.jpg
+hory9.jpg
+```
+
+1. Přidej obrázek `turistika.jpg` za nadpis Turistický průvodce
+1. Přidej obrázek `mapa.png` před nadpis _Kontaktní údaje_
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://04--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-04--tvorimweb1.repl.co)
 
----
+----
 
-# 05 Přidáme obrázkovou galerii
+## Bonus (pokud máš hotovo)
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/04)
-
-**Před** nadpis _Kontakt_ dej další nadpis „Galerie“ a pod něj text `Společně se svými zvířecími kamarády zažíváme bláznivá dobrodružství.` a tyto obrázky (můžeš si zkopírovat)
-```
-drak.jpg
-koupel.jpg
-oslik.jpg
-oslik-prasatko.jpg
-kralik.jpg
-protivitr.jpg
-pu-koupelna.jpg
-pu-robin.jpg
-stopy.jpg
-```
-
-**Dej hotovo.**
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://05--tvorimweb1.repl.co/)
+1. Odkazem můžeš obalit nejen text, ale třeba i obrázek. Vytvoř z obrázku mapy odkaz na mapy.cz.
 
 ---
 
