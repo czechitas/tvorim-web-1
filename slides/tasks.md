@@ -72,6 +72,10 @@
 ```html
 <h1>Nadpis nejvyšší úrovně</h1>
 
+<h2>Nadpis druhé úrovně</h2>
+
+<h3>Nadpis třetí úrovně</h3>
+
 <p>odstavec</p>
 
 <strong>důležitý text</strong>
@@ -79,14 +83,16 @@
 
 ----
 
-# 02 Zkusíme si první tagy
+# 02 Vytvoříme základní strukturu stránky
 
-1. Vytvoř nadpis nejvyšší úrovně (název webu) z textu „Web Kryštůfka Robina“.
-1. Zbývající větu označkuj jako odstavec.
-1. Protože kamarádství je pro medvídka Pú podstatné, označ text „dobré kamarády“ jako velmi důležitý.
+1. Vytvoř nadpis nejvyšší úrovně (název webu) z textu „Adéla na cestách“.
+1. Nadpisy 4 hlavních sekcí budou nadpisy 2. úrovně: _O mně, Fotogalerie, Turistický průvodce, Kontakt_
+1. Zbývající texty uvnitř sekcí jsou odstavce. Ceník zatím přeskoč.
+1. V sekcích _Průvodce_ a _Kontakt_ jsou ještě nadpisy 3. úrovně:_Orientační ceník, Oficiální kontakt_.
+1. Patička je jen odstavec. 
 1. Nezapomeň dát vědět, že máš hotovo a nezapomeň na to ani až dokončíš další úkoly.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://02--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-01--tvorimweb1.repl.co)
 
 ---
 
