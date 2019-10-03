@@ -123,34 +123,32 @@
 1. Ceník patří do tabulky. Mrkni se do taháku, jakou strukturu musí mít tabulky v HTML, a nahraď odrážkový seznam tabulkou.
 
 ---
+
+## Shrnutí výkladu
+
+```html
 <a href="https://google.com">odkaz na Google.com</a>
 ```
 
 ----
 
-# 03 Přidáme _Kontakt_
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-02)
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/02)
+# 04 Přidáme odkazy
 
-1. Vytvoř sekci Kontakt, tedy
-	* nadpis `Kontakt`
-	* a text
-	```
-	Budeme rádi, když nám napíšeš na e-mail nebo se s námi skamarádíš na Facebooku.
-
-	To je mapa, která tě dovede do Stokorcového lesa, kde s medvídkem Pú a jeho kamarády provádíme všechny naše lotroviny.
-	```
-1. Ze slova „Facebooku“ udělej odkaz na Facebook.
-1. Vyzkoušej, že odkaz funguje.
+1. V sekci _Kontakt_ vytvoř odkaz z textu „napiš na email“. Odkaz povede na e-mailovou adresu `adela@email.cz`.
+1. V témže odstavci vytvoř odkaz na Facebook z textu „ozvi na Facebooku“.
+1. V kontaktních údajích doplň znovu odkaz na Adélin e-mail.
+1. Vyzkoušej, že odkazy fungují!
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://03--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-03--tvorimweb1.repl.co)
 
 ----
 
 ## Bonus (pokud máš hotovo)
 
-1. Slovo „e-mail“ udělej jako odkaz na medvídkův mail (pooh@example.com) [najdi si jak](https://google.com).
+1. Odkazem může být i telefonní číslo. Když na takový odkaz ťukneš na telefonu, vytočí se dané číslo a můžeš rovnou volat. [Podívej se, co je potřeba napsat do atributu `href`](https://jecas.cz/odkaz#href), aby to fungovalo.
 1. Přidej stejnému odkazu další atribut `title` s hodnotou _Když pošleš med, budu radši._. Co to dělá zjištíš tak, že zaparkuješ šipku myši (kurzor) nad odkazem v náhledu stránky.
 
 ---
