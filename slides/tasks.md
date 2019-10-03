@@ -447,29 +447,24 @@ div {
 	border-color: black;
 }
 
-/* to samé pomocí shorthandu */
+/* totéž pomocí shorthandu */
 div {
 	border: 1px solid black;
+	border-radius: 6px;
 }
 ```
 
 ----
 
-# 13 Orámujeme obrázky
+# 14 Orámujeme obrázky
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/12)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-12)
 
-1. Nastav obrázkům zelený rámeček (třeba `#559933`) široký 2 pixely.
-1. Mapě nastav rámeček žlutý, třeba `#ffe566`.
+1. Nastav obrázkům v galerii hnědý rámeček (třeba `#756158`) široký 2 pixely.
+1. Zaobli obrázkům rohy.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://13--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-Změň obrázkům v galerii barvu třeba dolního ohraničení třeba na `#2a4d19`.
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-13--tvorimweb1.repl.co)
 
 ---
 
