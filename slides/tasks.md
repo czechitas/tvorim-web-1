@@ -365,30 +365,44 @@ Každá sekce bude mít jinou barvu pozadí. Střídavě béžovou a světle hn�
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-09--tvorimweb1.repl.co)
 
 ----
-```
+
+## Shrnutí výkladu
 
 ```css
-.tip { color: blue; }
-.perex { font-size: 1.2rem; }
+/* vícenásobný selektor */
+h1,
+a {
+	color: crimson;
+}
+
+/* kontextový selektor */
+.tip h2 { color: aqua; }
 ```
 
-----
+---
 
-# 11 Využijeme třídy
+# 11 Zjednodušujeme kód
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/10)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-09)
 
-1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
+1. Zjednoduš svoje CSS. Styly společné pro všechny nadpisy, nadpisy 2. a 3. úrovně spoj vždy do jednoho vícenásobného selektoru. Spoj i styly společné pro více sekcí. Pokud jsi postupovala správně, tvoje stránka se vizuálně nezměnila.
+1. Dej hotovo.
 
-Doporučené názvy tříd: `galerie`, `kontakt`, `paticka`.
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-10--tvorimweb1.repl.co)
+> 
+---
 
-Můžeš použít třeba tyto barvy: `#fcf5cf`, `#defccf`, `#804000`.
+## Shrnutí výkladu
 
-_Tip: Poslední barva je hodně tmavá a text nebyl čitelný, nastav proto barvu textu v patičce na bílou._
+```css
+a { color: navy; }
+a:hover { color: red; } /* najetí myší */
+a:focus { color: green; } /* aktivace klávesnicí */ 
+a:visited { color: purple; } /* navštívený */
+a:active { color: yellow; } /* při kliknutí */
+```
 
-Nezapomeň smazat nastavení barvy pozadí pro všechny prvků `<div>`, které už není potřeba.
-
-**Dej hotovo.**
+---
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://11--tvorimweb1.repl.co/)
 
