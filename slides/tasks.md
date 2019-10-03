@@ -267,6 +267,8 @@ p {
 
 	font-family: sans-serif; /* nebo serif */
 
+	font-size: 1.5rem;
+
 	text-align: center; /* nebo left nebo right */
 }
 ```
@@ -275,23 +277,25 @@ p {
 
 # 08 Upravíme písmo
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/07)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-06)
 
-1. Nastav celé stránce bezpatkové písmo.
-1. Nastav odkazům tučný řez písma.
+1. Všechny texty na stránce udělej bezpatkovým písmem (`sans-serif`) o velikosti `1.2rem`.
+1. Všechny nadpisy patkovým písmem (`serif`) a kurzívou.
+1. Hlavní nadpis na střed a písmem velkým `5rem`
+1. Nadpisy 2. úrovně jsou na střed a písmem velkým `3rem`.
+1. Nadpisy 3. úrovně jsou písmem velkým `1.5rem`.
+1. Odkazy kurzívou.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://08--tvorimweb1.repl.co/)
-
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-07--tvorimweb1.repl.co)
 
 ----
 
 ## Bonus
 
-1. Vycentruj hlavní nadpis.
-1. Použij zajímavější písma. Na nadpisy písmo _Mali_ a pro všechen ostatní text nastav písmo _Nunito_.
+1. Použij zajímavější písma. Na nadpisy písmo _Playfair Display_ a pro všechen ostatní text nastav písmo _Raleway_.
 1. Abys je mohla používat, je potřeba připojit fonty ze služby Google Fonts. To se udělá připojením CSS (získá se na jejich stránce v závislosti na požadovaných písmech a jejich řezech). Do hlavičky dokumentu přidej následující `link`, který písma načte:
-`<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mali:400,700|Nunito:400,700&amp;subset=latin-ext">`
+`<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Raleway:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">`
 1. Odteď s nimi můžeš v CSS pracovat, upravuj vlastnost `font-family`.
 
 ---
