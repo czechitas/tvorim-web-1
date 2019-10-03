@@ -302,34 +302,37 @@ p {
 
 ## Shrnutí výkladu
 
+```html
+<section>
+	<h2>Nadpis</h2>
+	<img src="foto.jpg" alt="fotka">
+	<p>Úryvek novinky…</p>
+</section>
+
+<header> … </header>
+
+<footer> … </footer>
+```
+
 ```css
-font-size: 1.5rem;
-
-/* nebo */
-
-font-size: 20px;
-
+section {
+	background-color: #fff1e6;
+}
 ```
 
 ----
 
-# 09 Měníme velikosti písma
+# 09 Rozdělení stránky
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/08)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-07)
 
-Nadpisy udělej o něco větší než byly doposud, třeba `3.5rem` a `2.5rem`
+1. Obal hlavní nadpis značkou pro záhlaví.
+1. Obal odstavec s patičkou značkou pro zápatí.
+1. Rozděl zbytek stránky na sekce pomocí značek pro sekci
+1. Všechny sekce budou mít žlutou barvu pozadí (později změníme).
+1. Dej hotovo
 
-**Dej hotovo**
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://09--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-1. Lépe by vypadalo, kdyby mezi řádky bylo trochu více volného místa. Typografové by řekli že je potřeba větší _řádkový proklad_, anglicky _line height_.
-
-_Tip: Tato vlastnost se také dědí, lze ji tedy nastavit nějakému nadřazenému prvku._
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-08--tvorimweb1.repl.co)
 
 ---
 
