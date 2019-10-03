@@ -210,23 +210,17 @@ hory9.jpg
 
 # 06 Doplníme titulek
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/05)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-04)
 
-Doplň titulek: `Kryštůfek Robin a medvídek Pú`
+Doplň titulek: `Adéliny cesty po horách`
 
 Abys viděla výsledek, je třeba stránku v samostatném okně. Klikni na ikonu se šipkou vpravo vedle adresního řádku v podokně s náhledem. V _Repl.it_ totiž vidíme vlastně **náhled stránky** což stačí na vše, co dnes budeme dělat, kromě zobrazení titulku, kdy potřebujeme vidět stránku samostatně.
 
 **Dej hotovo.**
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://06--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-05--tvorimweb1.repl.co)
 
 ----
-
-## Bonus
-
-Doplň do hlavičky ještě popis stránky pro vyhledavače `To je web Kryštůfka Robina o medvídkovi Pú a jeho kamarádech.` [najdi si jak](https://www.google.cz/search?q=meta+description)
-
----
 
 ## Shrnutí výkladu
 
