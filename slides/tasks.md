@@ -99,12 +99,30 @@
 ## Shrnutí výkladu
 
 ```html
-<h1>Nadpis nejvyšší úrovně</h1>
+<ul>
+	<li>položka seznamu</li>
+	<li>další položka seznamu</li>
+</ul>
+```
 
-<h2>Nadpis druhé úrovně</h2>
+---
 
-<h3>Nadpis třetí úrovně</h3>
+# 03 _Ceník_ jako odrážkový seznam
 
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-01)
+ 
+1. Z ceníku vytvoř odrážkový seznam.
+1. Dej hotovo a jestli chceš, můžeš se pustit do bonusového úkolu. 
+
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-02--tvorimweb1.repl.co)
+
+----
+
+## Bonus (pokud máš hotovo)
+
+1. Ceník patří do tabulky. Mrkni se do taháku, jakou strukturu musí mít tabulky v HTML, a nahraď odrážkový seznam tabulkou.
+
+---
 <a href="https://google.com">odkaz na Google.com</a>
 ```
 
