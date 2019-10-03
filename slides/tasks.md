@@ -159,6 +159,13 @@
 
 ---
 
+## Připomínka užitečných zkratek
+
+<kbd>Alt+Shift+I</kbd> Vloží kurzor na každý řádek ve výběru
+<kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku (srovná kurzory na stejnou pozici)
+
+----
+
 # 05 Přidáme obrázkovou galerii
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/04)
@@ -541,7 +548,7 @@ Obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadal, kdyby byl 
 
 Pokud už jsi to udělala pro mapu, není nic snazšího než přidat stejnou třídu i tomuhle obrázku.
 
-Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent jak obrázku v _O mně_, tak mapě v sekci _Kontakt_.
+Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky`, které nastavíš šířku v procentech. Udělej to jak s obrázkem v _O mně_, tak mapou v sekci _Kontakt_.
 
 ---
 
