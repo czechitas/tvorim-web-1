@@ -607,37 +607,18 @@ li { display: inline-block; }
 
 ----
 
-## Bonus
+# 20 Vylepšíme tabulku
 
-Obrázek Kryštůfka Robina není moc dobře vidět. Líp by vypadal, kdyby byl přes celou šířku stránky.
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-18)
 
-Pokud už jsi to udělala pro mapu, není nic snazšího než přidat stejnou třídu i tomuhle obrázku.
+Abys web odpovídal předloze, zbývá dotáhnout tabulku.
 
-Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky` a procent jak obrázku v _O mně_, tak mapě v sekci _Kontakt_.
+1. Buňkám v pravém sloupci přidej třídu `cena`.
+1. Buňky s třídou `cena` zarovnej doprava.
+1. Aby bylo zarovnání doprava výrazné, přidej ještě levý padding asi 3rem.
+1. Všem buňkám přidej spodní ohraničení hnědou barvou (třeba `#756158`)
 
----
-
-# 23 Rozdělíme web na jednotlivé stránky
-
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/22)
-
-1. V _Repl.it_ vytvoř nové HTML soubory `kontakt.html` a `galerie.html`. V levém sloupci nahoře je ikona dokumentu se symbolem plus a po kliknutí vyplň jeho název včetně `.html` na konci.
-1. Do navigace přidej odkazy na tyto soubory a nezapomeň taky na odkaz na `index.html`.
-1. Zkopíruj do obou všechen HTML kód z `index.html`.
-1. Odmaž na každé ze 3 stránek obsah, který tam nepatří. O mně bude na stránce _Úvod_. Záhlaví a patičku budou mít všechny stránky stejnou.
-1. Proklikej si svůj nový web.
-1. Dej hotovo.
-
-_Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací tagy!_
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://23--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-1. Na každé stránce zvýrazni (odliš) v navigaci odkaz na aktuální stránku (musíš přidat novou třídu a přiřadit ji na každé stránce u jiného odkazu).
-1. Nahraď aktivní odkazy elementem `span` (řádková obdoba neutrálního `div`), aby na aktivní odkaz nešlo kliknout. Pomocí pokročilých selektorů zachovej pro takto změněný prvek vzhled aktivního odkazu.
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-19--tvorimweb1.repl.co)
 
 ---
 
@@ -648,9 +629,3 @@ _Pozor, aby při odmazávání nezůstaly nadbytečné otvírací/uzavírací ta
 1. Dej hotovo.
 
 ---
-
-# 24 Dohráno
-
-[Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/ECDLL0EdRBCdi5KTavkj4A)
-
-[Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://24--tvorimweb1.repl.co/) a jeho [zdrojové kódy](https://repl.it/@tvorimweb1/24)
