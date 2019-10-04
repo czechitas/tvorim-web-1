@@ -20,23 +20,8 @@
 * CSS říká, jak mají jednotlivé prvky stránky vypadat => forma
 * HTML a CSS jsou provázané, některé úpravy vzhledu v CSS závisí na konkrétní struktuře v HTML.
 * Hranice mezi formou a obsahem se občas překračuje, ale tím se nyní nemusíme znepokojovat.
+* netextový obsah je tzv. nahrazovaný obsah
 * Javascript je programovací jazyk, který umožňuje manipulovat s prvky stránky.
-
----
-
-## Připojení CSS
-
-```html
-<link
-    rel="stylesheet"
-    href="nazevsouboru.css"
->
-```
-<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
-
->>>
-* Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.
-* `link` je další nepárový tag (nemá co obalovat, pouze říká, že a odkud se má stylopis načíst)
 
 ---
 
@@ -74,12 +59,51 @@
 </code></pre>
 
 >>>
-* Barvy lze zapisovat více způsoby, my budeme používat tzv. pojmenovaných barev. Jejich počet je omezený.
+* Barvy lze zapisovat více způsoby, 
+* Tzv. pojmenovaných barev je omezenýpočet.
 * Libovolnou barvu lze získat číselným zápisem, např. hexadecimálním.
-* Editor nám pomáhá, když upravujeme barvy, nabídne nám seznam barev s ukázkou.
+* Repl.it ti nabídne pohodlný výběr barvy, když zaparkuješ kurzor nad řádkem, kde barvu nastavuješ. (asi ukázat)
+
+---
+
+## Barvy v CSS
+
+```css
+p {
+    background-color: green;
+    background-color: #00FF00;
+    background-color: rgb(0, 255, 0);
+    background-color: hsl(120, 100%, 50%);
+}
+```
+<!-- .element: class="c-text-sm" contenteditable="true" -->
+
+>>>
+* v praxi spíše číselně, hexadecimálně
+* neztrácet čas, jen zmínit, že jsou různé zápisy
+* HSL: hue, saturation, luminescence ~ odstín, sytost, jas
+* #rrggbb => vždy dvojciferné číslo pro barevnou složku červená|zelená|modrá
+* hodnoty 0‒255, ale šestnáctkově 0‒ff
+* lze doplnit i čtvrtou složku barvy: průsvitnost
+
+---
+
+## Připojení CSS
+
+```html
+<link
+    rel="stylesheet"
+    href="nazevsouboru.css"
+>
+```
+<!-- .element: class="c-text-lg stretch" contenteditable="true" -->
+
+>>>
+* Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.
+* `link` je další nepárový tag (nemá co obalovat, pouze říká, že a odkud se má stylopis načíst)
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Připojíme styly
+# Připojíme styly a obarvíme nadpisy a odkazy

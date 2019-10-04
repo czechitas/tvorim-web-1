@@ -95,4 +95,4 @@ p { color: blue; }
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Přidáme třídy
+# Využijeme třídy k odlišení sekcí

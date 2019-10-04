@@ -4,24 +4,51 @@
 
 ---
 
-## Odrážkový seznam
+## Navigace s odkazy
 
 ```html
-<ul>
-    <li>odrážkový</li>
-    <li>seznam</li>
-</ul>
+<nav>
+  <a href="">O mně</a>
+  <a href="">Fotogalerie</a>
+</nav>
 ```
 
 >>>
-* `ul` = unordered list
-* `li` = list item
-* Pamatujeme na správné zanořování a odsazování vnořených prvků.
-* `li` vždy musí být přímo zanořené v `ul` (nebo `ol`)
-* Uvnitř `li` mohou být další prvky (nadpis, odstavec, dokonce další odrážkový seznam). My si vystačíme s odkazy.
+* `nav` je sémantický prvek pro sadu navigačních odkazů
+* často se také používá odrážkový seznam
+
+---
+
+## Identifikátor
+
+```html
+<section id="fotogalerie">
+    <h2>Fotogalerie</h2>
+    <p>Fotím od mala a ráda.</p>
+</section>
+```
+
+>>>
+* Hodnotu `id` si podobně jako u `class` můžeš vymyslet, jak libo **ale na rozdíl od třídy se nesmí opakovat** (jinak by pak nebyl identifikátorem).
+* Protože je v rámci jedné stránky (jednoho HTML dokumentu) unikátní, hodí se třeba k tomu, že na něj můžeme odkazovat.
+
+---
+
+## Odkazy na sekce (kotvy)
+
+```html
+<nav>
+  <a href="#omne">O mně</a>
+  <a href="#galerie">Galerie</a>
+</nav>
+```
+
+>>>
+* Proto je značou pro odkaz `a` => z _anchor_ ~ kotva
+* Hodnota `href` musí začínat `#` (hash, dvojkřížek). Tím říkáš prohlížeči: toto je kotva, odroluj stránku. Kdyby tam hash nebyl prohlížeč, by se pokusil by stáhnout soubor `omne` z internetu.
 
 ---
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Přidáme navigaci (menu)
+# Přidáme navigaci

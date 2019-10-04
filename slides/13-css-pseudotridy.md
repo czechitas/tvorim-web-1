@@ -32,4 +32,4 @@ a:active { color: yellow; } /* při kliknutí */
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Měníme barvu odkazů po najetí myši
+# Změníme barvu odkazů po najetí myši

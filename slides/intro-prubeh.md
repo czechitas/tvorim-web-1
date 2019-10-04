@@ -12,7 +12,7 @@ Ze začátku bude více vysvětlování, ale postupně ubyde.
 
 # 2. Zkusíte si
 
-- Zadání se objeví v aplikaci: czechitas.herokuapp.com/web
+- Zadání se objeví v aplikaci: czechitas.herokuapp.com
 - Času bude kolik je potřeba.
 
 

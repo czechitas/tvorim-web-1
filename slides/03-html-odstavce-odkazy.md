@@ -1,6 +1,6 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Nadpisy, odstavce a odkazy
+# Struktura textu
 
 ---
 
@@ -25,11 +25,11 @@
 
 ```html
 <p>
-	A Kryštůfek Robin a Králíček
-	a všichni Králíčkovi příbuzní
-	a známí se svalili… A navrch
-	na tu hromadu se svalil
-	vysvobozený Pú!
+    A Kryštůfek Robin a Králíček
+    a všichni Králíčkovi příbuzní
+    a známí se svalili… A navrch
+    na tu hromadu se svalil
+    vysvobozený Pú!
 </p>
 ```
 <!-- .element: class="c-text-md stretch" contenteditable="true" -->
@@ -38,8 +38,43 @@
 * Jednou z nejčastěji používaných značek je vyznačování odstavce.
 * Z posloupnost mezer a zalomení řádku se stane 1 mezera => text se slije, pokud ho nestrukturujeme pomocí tagů.
 * Přesto si dejte na formátování kódu (odsazování, odřádkování) záležet, jinak se v tom nejde vyznat:
- * Jeden element na řádek.
- * Zanořujeme-li, odsadíme začátek řádku tabulátorem.
+* Jeden element na řádek.
+* Zanořujeme-li, odsadíme začátek řádku tabulátorem.
+* `<br>` v adrese, abychom vynutili zalomení
+
+---
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Vytvoříme základní strukturu stránky
+
+>>>
+* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
+
+---
+
+## Odrážkový seznam
+
+```html
+<ul>
+    <li>odrážkový</li>
+    <li>seznam</li>
+</ul>
+```
+
+>>>
+* `ul` = unordered list
+* `li` = list item
+* Pamatujeme na správné zanořování a odsazování vnořených prvků.
+* `li` vždy musí být přímo zanořené v `ul` (nebo `ol`)
+* Uvnitř `li` mohou být další prvky (nadpis, odstavec, dokonce další odrážkový seznam). My si vystačíme s odkazy.
+* Bonusový úkol: nejprve dej hotovo a pak se pusť do bonusu. Není nutné bonusy vypracovat, Adélin web se bez nich obejde.
+
+---
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Ceník jako odrážkový seznam
 
 ---
 
@@ -47,14 +82,14 @@
 
 ```html
 <a>
-	nejlepší přítel
+    nejlepší přítel
 </a>
 ```
 <!-- .element: class="c-text-md fragment current-visible fade-out" contenteditable="true" -->
 
 ```html
 <a href="https://google.com">
-	nejlepší přítel
+    nejlepší přítel
 </a>
 ```
 <!-- .element: class="c-text-nd fragment current-visible" contenteditable="true" -->
@@ -68,12 +103,21 @@
 
 ---
 
-<!-- .slide: data-state="c-slide-task" -->
-
-# Přidáme sekci _Kontakt_
+```html
+<a href="mailto:adela@czchts.cz">
+    napište mi e-mail
+</a>
+```
 
 >>>
-* upozornit na bonus, pokud mají hotovo
+* před dvojtečkou je tzv. protokol (pro přenos stránek `http(s)`, pro e-mail `mailto`)
+* nespoléhejte na to, že to bude fungovat (i když na mobilech a tabletech téměř stoprocentně): v počítači uživatele musí být nějaký poštovní program
+
+---
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Přidáme odkazy
 
 ---
 

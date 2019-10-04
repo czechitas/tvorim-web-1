@@ -30,6 +30,9 @@
 
 # Nastavíme obrázkům v galerii šířku
 
+>>>
+* **Pozor** třetina (33,33%) nebude fungovat, kvůli mezerám mezi obrázky. Odkude se tam mezery berou? V HTML se všechno bílé místo zdrcne na délku jedné mezery. Takže obrázky, které máme v řádcích pod sebou, mezi sebou mají právě jednu mezeru. Je vícero řešení, jak se zbavit mezer, ale my to vyřešíme šířkou 32&nbsp;%.
+
 ---
 
 ### Ohraničení
@@ -60,6 +63,7 @@ img {
 * rámeček kolem prvku: různé hodnoty `border-style` (dotted, dashed, inset)
 * zkrácený zápis: totéž co nad; tento nastaví stejný rámeček po všech stranách. Lze samozřejmě nastavovat ohrančení pro každou stranu zvlášť.
 * lze stylovat samostatně každou ze 4 stran: top, right, bottom, left (border-left)
+* `border-radius` zadávají se mu délkové jednotky (rem/px/% aj.)
 
 ---
 
@@ -88,7 +92,7 @@ img {
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Vnitřní odsazení obrázků
+# Odsazení sekcí
 
 ---
 
@@ -104,15 +108,9 @@ img {
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
 
 >>>
-* za hranicí prvku, v rodičovském prvku (`div`, `body`)
+* za hranicí prvku, v rodičovském prvku (`section`, `body`)
 * všimněte si, že margin se už do šířky prvku nezapočítává, to je důležité si uvědomit, když počítám šířku kterou mi prvky zaberou (pokud mají margin po obou stranách, zabere mi každý prvek 2 × margin + šířka)
-* poznámka pod čarou: margin může nabývat i záporných hodnot
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Větší mezery mezi obrázky
+* poznámka pod čarou: margin může nabývat i záporných hodnot (jako jediná vlastnost box modelu)
 
 ---
 
@@ -121,28 +119,9 @@ img {
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
 
 >>>
-* všechny prvky na stránce bez ohledu na vizuální tvar jsou krabice/boxy
+* všechny prvky na stránce bez ohledu na vizuální tvar jsou krabice/boxy/obdélníky
 * vlastnost `width` určuje, jak má být prvek široký *včetně* ohraničení (`border`) a výplně (`padding`)
 * `margin` se do šířky nezapočítává, ale ovlivňuje, kolik místa prvek ve výsledku zabere
 * **Pozor při výpočtech**: nezpomeňte násobit 2: <br>
 	`margin: 5px;` ubere na šířku (resp. výšku) úhrnem `10 px` => vlevo a vpravo (resp. nahoře a dole). Platí i pro `padding` a `border`.
 * výše uvedené platí pouze pokud mají všechny prvky nastaven `box-sizing: border-box;`, viz začátek CSS souboru na Repl.it
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Odsadíme obsah od okrajů
-
----
-
-# Přestávka
-
-<!-- .slide: data-state="c-slide-break" -->
-
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Roztáhneme pozadí až do okraje

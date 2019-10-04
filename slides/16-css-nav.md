@@ -41,7 +41,7 @@
 ```css
 a { display: block; }
 
-div { display: inline; }
+section { display: inline; }
 
 li { display: inline-block; }
 ```
@@ -55,4 +55,4 @@ li { display: inline-block; }
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Odkazy v navigaci na jeden řádek
+# Odkazy v navigaci do pruhu

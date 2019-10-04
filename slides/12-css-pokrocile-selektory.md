@@ -38,7 +38,7 @@ h2 {
 
 # Na pořadí záleží
 
-<pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="stretch lang-css" data-noescape><span class="fragment">p {
+<pre class="c-text-md fragment" contenteditable data-fragment-index="10"><code class="stretch lang-css" data-noescape><span class="fragment ">p {
     color: red;
     background-color: pink;
 }</span>

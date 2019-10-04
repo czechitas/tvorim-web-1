@@ -9,15 +9,15 @@
 ```html
 <img>
 ```
-<!-- .element: class="c-text-lg fragment fade-out" contenteditable="true" -->
-
-```html
-<img src="pu.jpg">
-```
 <!-- .element: class="c-text-lg fragment fade-out current-visible" contenteditable="true" -->
 
 ```html
-<img src="pu.jpg" alt="medvěd">
+<img src="meda.jpg">
+```
+<!-- .element: class="c-text-lg fragment fade-out fade-in current-visible" contenteditable="true" -->
+
+```html
+<img src="meda.jpg" alt="medvěd">
 ```
 <!-- .element: class="c-text-md fragment current-visible" contenteditable="true" -->
 
@@ -33,11 +33,11 @@
 
 >>>
 * Zkuste si sami vyhledat obrázky na Google
-	* práva k použití: jen nekomerční
-	* velikost: střední
-	* zobrazit rozměry
-	* pravým tlačítkem: kopírovat adresu obrázku
-	* rozměry: nejsou nutné, ale je to lepší, je možné napsat jen jeden
+    * práva k použití: jen nekomerční
+    * velikost: střední
+    * zobrazit rozměry
+    * pravým tlačítkem: kopírovat adresu obrázku
+    * rozměry: nejsou nutné, ale je to lepší, je možné napsat jen jeden
 
 
 
@@ -45,15 +45,9 @@
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Přidáme mapu
-
----
-
-<!-- .slide: data-state="c-slide-task" -->
-
-# Přidáme obrázkovou galerii
+# Přidáme obrázky
 
 >>>
 * Opáčko tagu `<img>` (a práce s editorem)
-* několikanásobný kurzor `Ctrl+click`
+* Upozornit na několikanásobný kurzor `Ctrl+click` nebo výběr textu a `Alt+Shift+I` nebo `Alt+Shift+↑`/`Alt+Shift+↓`
 

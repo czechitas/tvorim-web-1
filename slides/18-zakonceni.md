@@ -2,19 +2,21 @@
 
 # Co dál?
 
+>>>
+* Dokončení webu
+* Jsou ještě 2 bonusové úkoly, abys mohla dotáhnout web podle zadání.
+* To si zkusíte doma v klidu.
+* Dostanete prezentaci i soupis všech úkolů
+
 ---
 
-# DevTools
+# Publikace
 
-**Nástroje pro vývojáře** (Developer tools) má každý moderní prohlížeč
-
-* zobrazí kód stránky, CSS a další užitečné informace
-<br><small>buď <kbd>F12</kbd>, popř. <kbd>Ctrl+Shift+I</kbd> (na Macu <kbd>Cmd+Shift+I</kbd>) nebo pravým myšítkem na prvek, který vás zajímá a vybrat _Prozkoumat/Inspect element_</small>
-* umožňuje dělat změny v aktuálně načtené stránce, ty ale vydrží jen dokud na ní zůstáváš
+* Aneb zveřejnění na webu: váš projekt má adresu, kterou můžete sdílet.
 
 >>>
-* Určitě zkuste: ideální na naší hotové stránce (je jednoduchá) => nejprve ji otevřete do samostatného okna (bez editoru). Ale lze na libovolné, kterou zrovna máte v prohlížeči.
-* Zkuste si v Developer tools něco změnit v CSS, prozkoumejte strukturu HTML.
+* Repl.it umožňuje i jednoduchou publikaci veřejně na internet.
+* Otevřete si náhled webu do nového okna a v adresním řádku vidíte adresu svého webu.
 
 ---
 
@@ -89,7 +91,7 @@ Přehled toho, co v nejbližší době bude
 
 # Srazy
 
-* Frontendisti.cz (Praha, Brno, Ostrava, Plzeň)
+* Frontendisti.cz (Praha, Brno, Ostrava, Plzeň, Hradec)
 
 >>>
 * neformální setkání, s krátkými přednáškami
@@ -107,10 +109,14 @@ Přehled toho, co v nejbližší době bude
 
 <!-- .slide: data-state="c-slide-break" -->
 
-# Konec
+# Konec?
 
-<!-- .element: class="c-text-xs" -->
+<!-- .element: class="c-text-xs fragment fade-out" -->
+
+# Začátek!
+<!-- .element: class="c-text-xl fragment current-visible" -->
 
 >>>
-Díky za pozornost
+* Díky za pozornost
+* Díky koučkám a koučům
 -> hospoda?

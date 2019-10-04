@@ -68,15 +68,6 @@
 
 ---
 
-<!-- .slide: data-state="c-slide-task" -->
-
-# Zkusíme si první tagy
-
->>>
-* Všimněte si zvýrazňování bloků v živém náhledu ==> správné zanořování a uzavírání!
-
----
-
 ## Základní struktura HTML
 
 ```html

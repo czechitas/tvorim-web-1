@@ -2,6 +2,9 @@
 
 # Jak funguje web?
 
+>>>
+* Přejdeme pomalu k technologii, ale stále ještě teoreticky
+
 ---
 
 # Webová stránka se skládá ze souborů
@@ -22,10 +25,10 @@
 
 ---
 
-# Prohlížeč je stahuje a nakreslí z&nbsp;nich web
+# Prohlížeč je stahuje a vykreslí z&nbsp;nich web
 
 >>>
-* Prohlížeč si soubory přečte, pochopí je a pak podle nich nakreslí stránku, pokud je v pořádku.
+* Prohlížeč si soubory přečte, pochopí je a pak podle nich vykreslí stránku, pokud je v pořádku.
 * Nejdříve se načte HTML, v kterém se prohlížeč dočte, jestli nepotřebuje další soubory, pokud ano, řekne si o ně stejně jako o HTML.
 * Ne každý prohlížeč je pochopí správně. Tím se dnes ale zabývat nebudeme.
 
