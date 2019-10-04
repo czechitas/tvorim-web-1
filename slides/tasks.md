@@ -553,40 +553,34 @@ div {
 ```html
 a { display: block; }
 
-div { display: inline; }
+p { display: inline; }
 
-span { display: inline-block; }
+li { display: inline-block; }
 ```
 
 ----
 
-# 21 Odkazy v navigaci na jeden řádek
+# 18 Odkazy v navigaci do pruhu
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/20)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-16)
 
-1. Přidej navigaci (`<ul>`) třídu `menu`.
-1. Nastyluj navigaci tak, aby položky byly vedle sebe.
-1. Položky vycentruj.
-1. Aby se na ně lépe trefovalo, zvětši písmo odkazů, třeba na `1.5rem`.
-1. Aby se na ně trefovalo ještě líp, dej jim padding vertikálně i horizontálně.
+1. Odkazy vycentruj.
+1. Aby se na ně lépe trefovalo, bylo by fajn jim dát nějaký padding. Ale aby to fungovalo, musíš jim změnit vlastnost `display`.
+1. Podbarvi navigaci hnědou barvou (třeba `#282425`).
+1. Odkazům dej bílou barvu písma, aby byly čitelné.
+1. Změň odkazům barvu pozadí po najetí myši (třeba `#756158`).
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://21--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-17--tvorimweb1.repl.co)
 
 ----
 
 ## Bonus
 
-1. Odstraň odkazům v menu podtržení.
-1. Odstraň odkazům v menu tučnost.
+1. Abys dodržela předlohu, doplň navigaci horní ohraničení. Ohraničení má být světle hnědé (třeba `#9c8175`).
+1. Odstraň odkazům v navigaci podtržení pomocí vlastnosti `text-decoration`. [Zjisti si jak.](https://www.jakpsatweb.cz/css/text-decoration.html)
 
-Případně ještě můžeš změnit barevnost menu:
-
-1. Podbarvi menu třeba zelenou `#559933`.
-1. Aby se daly položky přečíst, obarvi odkazy třeba na žluto `#ffe566`.
-1. Položku v menu po najetí kurzorem nastyluj inverzně (zelený text na žlutém pozadí).
-1. Odstraň bílou mezeru mezi menu a Galerií.
-
+---
 
 K témuž cíli často vede více cest. Podobného výsledku dosáhneš i [pomocí **flexboxu**](https://www.vzhurudolu.cz/prirucka/css3-flexbox#sup-na-zakladni-pojmy-flex-kontejner-a-flex-polozka-hlavni-a-pricna-osa).
 
