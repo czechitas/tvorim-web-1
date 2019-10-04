@@ -582,35 +582,28 @@ li { display: inline-block; }
 
 ---
 
-K témuž cíli často vede více cest. Podobného výsledku dosáhneš i [pomocí **flexboxu**](https://www.vzhurudolu.cz/prirucka/css3-flexbox#sup-na-zakladni-pojmy-flex-kontejner-a-flex-polozka-hlavni-a-pricna-osa).
+## Shrnutí (místo) výkladu
 
-1. Nastav seznamu s odkazy `display: flex;`.
-1. Odstraň odrážky pomocí vlastnosti `list-style-type`.
-1. Pomocí vlastnosti `justify-content` změň výchozí uspořádání odkazů. [Podívej se jak na to.](https://www.vzhurudolu.cz/prirucka/css3-flexbox-kontejner#justify-content) Když si podbarvíš položky seznamu nějakou výraznější barvou, bude ti možná jasnější, co jednotlivé hodnoty `justify-content` způsobují.
-1. Ponechej uspořádání, které ti vyhovuje.
-1. Odstraň případné podbarvení položek seznamu.
+```css
+	background-image: url('obrazky/hlavicka.jpg');
+	background-position: center;
+	background-repeat: no-repeat; /* nebo repeat, pokud chceme, aby se obrázek opakoval */
+```
 
 ---
 
-# 22 Přidáme sekci _O mně_
+# 19 Záhlaví s fotkou na pozadí
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/21)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-17)
 
-Všechno, co je potřeba pro tenhle úkol už umíš.
-
-1. Přidej další sekci, tentokrát `O mně` nad Galerii.
-1. Dej do ní text
-	```
-	Ahoj. Jmenuji se Kryštůfek Robin a jsem malý chlapec, se kterým se zvířátka ze Stokorcového lesa spřátelila a hrají si se mnou jako s jediným člověkem z lidského světa. Kamarádím se s Medvídkem Pú, Prasátkem, Ijáčkem, Tygrem, Králíčkem se všemi jeho přáteli a příbuznými, Sovou a Klokanicí s Klokánkem.
-
-	Znám a mám nejrůznější věci, které svým kamarádům rád půjčuji a rád je všemu naučím. Rád pořádám nebezpečné výpravy, ale všechna zvířátka se se mnou cítí v bezpečí. Občas cestuji do Afriky a zase zpátky, a mám moc rád svého medvídka. Dopoledne trávím hledáním Hnetubuda.
-	```
-1. Před text dej obrázek `krystufek-robin.png`.
-1. Nastav barvu pozadí nové sekce na nějakou světle modrou, třeba `#ccf2ff`.
+1. Záhlaví přidej obrázek na pozadí pomocí vlastnosti `background-image`. 
+1. Nechceme, aby se obrázek opakoval, proto mu nastav `background-repeat` na `no-repeat`.
+1. Obrázek na pozadí vycentruj.
+1. Aby byl obrázek vidět celý, dej hlavnímu nadpisu opravud velký svislý padding (aspoň 150px).
+1. Jestli chceš mít obrázek roztažený pěkně do kraje, vynuluj margin na prvku `body`.
 1. Dej hotovo.
 
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://22--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-18--tvorimweb1.repl.co)
 
 ----
 
