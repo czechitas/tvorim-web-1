@@ -520,63 +520,31 @@ div {
 
 ## Shrnutí výkladu
 
-```css
-a { color: navy; }
+```html
+<nav>
+	<a href="#omne">O mně</a>
+	<a href="#fotogalerie">Fotogalerie</a>
+</nav>
 
-a:link { color: blue; } /* nenavštívený */
+…
 
-a:visited { color: purple; } /* navštívený */
+<section id="omne"> … </section>
 
-a:hover { color: red; } /* najetí myší */
-
-a:focus { color: green; } /* aktivovaný */
-
-a:active { color: yellow; } /* při kliknutí */
 ```
-
-----
-
-# 19 Měníme barvu odkazů po najetí myši
-
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/18)
-
-1. Udělej jinou barvou odkaz(y) po najetí kurzorem v kontaktech, třeba zelenou `#559933`. 
-1. Dej hotovo.
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://repl.it/@tvorimweb1/19)
-
-----
-
-## Bonus
-
-1. Uprav všechny odkazy na stránce tak, aby jim po najetí myši zmizelo podtržení.
-1. Odkazy v patičce udělej bílou barvou, pokud už to nemáš z předchozího cvičení.
-1. Odkazům v patičce při najetí myši nastav jinou barvu (jinou než v kontaktech), třeba žlutou `#ffe566`.
-
 
 ---
 
-## Shrnutí výkladu
+# 17 Přidáme navigaci
 
-```html
-<ul>
-	<li>odrážkový</li>
-	<li>seznam</li>
-</ul>
-```
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-15)
 
-----
-
-# 20 Přidáme navigaci (menu)
-
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/19)
-
-1. Vytvoř navigaci jako odrážkový seznam: podle sekcí stránky a nezapomeň na odkaz na úvodní stránku! Bude tedy mít celkem 3 položky.
+1. Vytvoř navigaci pomocí tagu `<nav>`.
 1. Navigaci umísti za úvod.
-1. To, kam odkazy povedou (atribut `href`) zatím neřeš a nechej ho prázdný: to znamená jen napsat uvozovky a nic mezi ně.
+1. Dovnitř vlož odkazy pro všechny sekce stránky.
+1. Aby ti navigace fungovala, musíš ještě přidat atribut `id` jednotlivým sekcím.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://20--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-16--tvorimweb1.repl.co)
 
 ---
 
