@@ -491,99 +491,30 @@ div {
 ## Shrnutí výkladu
 
 ```css
-.tip { margin: 10px; }
+.tip { 
+	float: left; /* nebo right */
+	margin-bottom: 1rem; /* -top, -right, -bottom -left */
+}
 ```
 
 ----
 
-# 15 Větší mezery mezi obrázky
+# 16 Obtékání obrázků
 
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/14)
+> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-14)
 
-1. Přidej obrázkům vnější odsazení `0.3rem`, aby na sebe nebyly tak nalepené.
+1. Obrázkům v sekci _O mně_, _Turistický průvodce_ a _Kontakt_ přidej CSS třídy `foto-omne`, `foto-pruvodce`, `foto-kontakt`.
+1. Pro jednotlivé třídy nastav obtékání zprava nebo zleva podle grafického návrhu stránky ve složce `podklady`.
 1. Dej hotovo.
 
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://15--tvorimweb1.repl.co/)
+> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-15--tvorimweb1.repl.co)
 
 ----
 
 ## Bonus
 
-Nastav obrázkům větší margin dole než na ostatních stranách.
-
----
-
-# 16 Odsadíme obsah od okrajů
-
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/15)
-
-1. Odsaď obsah kontaktu, galerie a patičky od okraje jejich boxu, ať na něj není tak nalepený, třeba `1rem`.
-1. V patičce odsaď text od horního a dolního okraje víc než po stranách.
-1. Nastav maximální šířku `960px` sekcím Kontakt a Galerie.
-1. Dej hotovo.
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://16--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-Vycentruj *vodorovně* (vlevo a vpravo bude stejně volného místa) Galerii a Kontakt ‒ [najdi si jak](https://www.google.cz/search?q=horizontální%20centrování%20css)
-
----
-
-# 17 Roztáhneme pozadí až do okraje
-
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/16)
-
-Roztáhni pozadí Galerie až do kraje obrazovky, aniž by se zároveň roztáhl i její obsah.
-
-Nelze to vyřešit jen v CSS:
-
-1. Je třeba **uvnitř** _divu_ `galerie` všechny obrázky obalit novým `<div>`, třeba s třídou `obsah`.
-1. Pro `.kontakt` a `.galerie` odstraň nastavení maximální šířky…
-1. … a nastavit ji pro `<div class="obsah">`
-1. Aby to bylo opravdu až do kraje, je třeba také přepsat výchozí `margin` pro prvek `<body>` na nulu.
-1. Hlavní nadpis (h1) a odstavec pod ním je ale teď do kraje a chtělo by to vyřešit, třeba vycentrováním jejich textu.
-1. Dej hotovo.
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://17--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-1. Pokud máš Galerii a Kontakt vycentrovanou z předchozího Bonusu, je třeba nyní stejným způsobem vycentrovat _div_ s třídou `obsah`.
-1. Původní centrování můžeš odebrat, nemá už na nic vliv.
-
----
-
-## Shrnutí výkladu
-
-```css
-h1,
-h2 { color: green; }
-
-.tip h2 { color: blue; }
-```
-
-----
-
-# 18 Zjednodušujeme kód
-
-> Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/17)
-
-1. Uprav CSS pro barvu nadpisů tak, aby využíval vícenásobný selektor.
-1. Využij vícenásobný selektor i pro nastavení stejného paddingu jednotlivých sekcí (Galerie a Kontakt).
-1. Dej hotovo.
-
-> Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://18--tvorimweb1.repl.co/)
-
-----
-
-## Bonus
-
-1. Obarvi všechny odkazy v patičce bíle aniž bys přidávala novou třídu.
+1. Nastav fotce v sekci _O mně_ takový `border-radius`, aby byla úplně kulatá. Tip: použij procenta.
+1. Fotce v sekci _Turistický průvodce_ nastav `border-radius` jen pro 3 rohy.
 
 ---
 
