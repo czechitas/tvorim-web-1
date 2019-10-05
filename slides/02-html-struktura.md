@@ -5,7 +5,7 @@
 >>>
 
 * První, co si prohlížeč stahuje, je HTML soubor, který obsahuje informace o stránce.
-* Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my samozřejmě budeme používat Thimble
+* Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my budeme používat Repl.it
 * Oblíbené editory: Atom, Sublime Text, VS Code
 
 ---

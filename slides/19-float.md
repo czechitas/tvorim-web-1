@@ -50,5 +50,5 @@ section {
 <!-- .element: class="c-text-md fragment" contenteditable="true" -->
 
 >>>
-* Vlastnost overflow řeší, co se má stát, když obash prvku přeteče.
+* Vlastnost overflow řeší, co se má stát, když obsah prvku přeteče.
 * Nám si teď stačí zapamatovat, že když používám float, je dobré přidat rodičovskému prvku `overflow: auto`

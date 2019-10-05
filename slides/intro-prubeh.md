@@ -17,22 +17,23 @@ Ze začátku bude více vysvětlování, ale postupně ubyde.
 
 
 >>>
-Jak to uděláme? Zepředu opravdu každému do monitoru nevidím.
+* Jak to uděláme? Zepředu opravdu každému do monitoru nevidím.
 Proto máme aplikaci, kterou máte všechny otevřenou.
+* Zadat úkol
 
 ---
 
 # 3. Máš hotovo?
 
 >>>
-Zmáčkni tlačítko Hotovo
+* Zmáčkni tlačítko Hotovo
 
 ---
 
 # Chceš poradit?
 
 >>>
-Dej Chci poradit
+* Dej Chci poradit
 
 ---
 
@@ -55,6 +56,7 @@ Super. Někdo si dejte červený lísteček… : )
 * Nemělo by se stát, čekáme na poslední
 * Může se stát, že si to celé nějak rozbiješ a hodně by nás to zdržovalo.
 * Máme po každém cvičení záchytný bod, z kterého začneš, jako bys tu část udělala.
+* A naopak, u některých úkolů jsou i bonusy, kdybys měla hotovo rychle. Jen nezapomeň dát nejprve hotovo a pak se pusť do úkolu navíc.
 
 ---
 

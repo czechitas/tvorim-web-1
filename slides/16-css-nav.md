@@ -9,7 +9,7 @@
 * zaberou celou dostupnou šířku => řadí se pod sebe
 
 >>>
-* na vaší stránce jsou to nadpisy, odstavce, divy
+* na vaší stránce jsou to nadpisy, odstavce, section, footer
 
 ---
 

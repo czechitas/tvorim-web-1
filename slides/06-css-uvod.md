@@ -99,6 +99,7 @@ p {
 <!-- .element: class="c-text-lg stretch" contenteditable="true" -->
 
 >>>
+* Aby nám to fungovalo, HTML musí o CSS vědět. Musíme je propojit.
 * Je více způsobů, jak aplikovat CSS, my použijeme nejběžnější a to samostatný CSS soubor, připojený pomocí tagu link v hlavičce.
 * `link` je další nepárový tag (nemá co obalovat, pouze říká, že a odkud se má stylopis načíst)
 
@@ -107,3 +108,8 @@ p {
 <!-- .slide: data-state="c-slide-task" -->
 
 # Připojíme styly a obarvíme nadpisy a odkazy
+
+>>>
+* píšeme do souboru `style.css`, který už máte od nás připravený
+* to, co v něm je, nemažte, naopak si to uschovejte pro své vlastní stránky
+* nevysvětlovat nyní proč, prostě to tam chceme mít

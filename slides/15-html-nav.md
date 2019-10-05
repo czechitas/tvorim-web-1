@@ -42,10 +42,11 @@
   <a href="#galerie">Galerie</a>
 </nav>
 ```
+<!-- .element: contenteditable="true" -->
 
 >>>
 * Proto je značou pro odkaz `a` => z _anchor_ ~ kotva
-* Hodnota `href` musí začínat `#` (hash, dvojkřížek). Tím říkáš prohlížeči: toto je kotva, odroluj stránku. Kdyby tam hash nebyl prohlížeč, by se pokusil by stáhnout soubor `omne` z internetu.
+* Hodnota `href` musí začínat `#` (hash, dvojkřížek). Tím říkáš prohlížeči: toto je kotva, odroluj stránku. Kdyby tam hash nebyl, prohlížeč by se pokusil stáhnout soubor `omne` z internetu.
 
 ---
 

@@ -48,6 +48,5 @@
 # Přidáme obrázky
 
 >>>
-* Opáčko tagu `<img>` (a práce s editorem)
 * Upozornit na několikanásobný kurzor `Ctrl+click` nebo výběr textu a `Alt+Shift+I` nebo `Alt+Shift+↑`/`Alt+Shift+↓`
 

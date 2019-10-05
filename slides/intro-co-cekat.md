@@ -1,21 +1,5 @@
 <!-- .slide: data-state="c-slide-inter" -->
 
-# Co vlastně budeme dělat?
-
----
-
-# Web
-
-<p class="c-text-md fragment" data-fragment-index="10" style="text-align: right">
-    …no jasně
-</p>
-
->>>
-* Představte si, že vaše kamarádka Adéla, nadšená cestovatelka a horolezkyně,  touží po tom, mít svůj web. Protože je aktivní, má už napsané texty, spoustu krásných fotek a od další své kamarádky i grafický návrh, jak by web měl vypadat.
-* Ukázat návrh webu a zeptat se, kdo by to dal?
-
----
-
 # Kdo všechno na webu pracuje?
 
 >>>
@@ -90,3 +74,22 @@ Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udrž
 * Tipnete si proč "frontend"? Co to znamená?
 * Naproti tomu backend se týká programování a práce s databázemi.
 * Paralela kuchaři a číšníci.p
+
+---
+
+# Co vlastně budeme dělat?
+
+---
+
+# Web
+
+<p class="c-text-md fragment" data-fragment-index="10" style="text-align: right">
+    …no jasně
+</p>
+
+>>>
+* Představte si, že vaše kamarádka Adéla, nadšená cestovatelka a horolezkyně,  touží po tom, mít svůj web. Protože je aktivní, má už napsané texty, spoustu krásných fotek a od další své kamarádky i grafický návrh, jak by web měl vypadat.
+* Ukázat návrh webu a zeptat se, kdo by to dal?
+
+---
+
