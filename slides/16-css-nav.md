@@ -17,7 +17,7 @@
 
 * zaberou jen tolik místa, kolik potřebují
 * nejsou samostatně na řádku => řadí se za sebou jako slova ve větě
-* nejde jim nastavit některé vlastnosti z box modelu (šířka, výška, horní/dolní okraj)
+* nejde jim nastavit některé vlastnosti z box modelu (např. šířka, výška, horní/dolní okraj)
 
 >>>
 * na vaší stránce jsou to například odkazy, nebo důležitý text  (`strong`)

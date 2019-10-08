@@ -92,15 +92,6 @@ img {
 
 ---
 
-<!-- .slide: data-state="c-slide-task" -->
-
-- Nastavíme obrázkům v galerii šířku
-- Orámujeme obrázky
-- Vnitřní odsazení obrázků
-- Větší mezery mezi obrázky
-
----
-
 ### Box-model ‒ shrnutí
 
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">

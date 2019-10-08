@@ -74,8 +74,8 @@ p { color: blue; }
 # Vícenásobné třídy
 
 ```css
-.tip { color: red; }
-.cool { background-color: blue; }
+.tip { color: blue; }
+.cool { background-color: red; }
 ```
 <!-- .element: class="c-text-md " contenteditable="true" -->
 
