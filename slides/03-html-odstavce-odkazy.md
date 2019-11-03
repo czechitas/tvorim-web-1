@@ -7,7 +7,7 @@
 ## Nadpisy
 
 ```html
-<h1>Web Kryštůvka Robina</h1>
+<h1>Web Kryštůfka Robina</h1>
 
 <h2>Kontakt</h2>
 

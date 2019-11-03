@@ -87,15 +87,21 @@
 # 02 Vytvoříme základní strukturu stránky
 
 1. Vytvoř nadpis nejvyšší úrovně (název webu) z textu „Adéla na cestách“.
-1. Nadpisy 4 hlavních sekcí budou nadpisy 2. úrovně: _O mně, Fotogalerie, Turistický průvodce, Kontakt_
+1. Nadpisy 4 hlavních sekcí budou nadpisy 2. úrovně: _O mně, Fotogalerie_, _Turistický průvodce_, _Kontakt_
+1. V sekcích _Průvodce_ a _Kontakt_ jsou ještě nadpisy 3. úrovně:_Orientační ceník_, _Kontaktní údaje_.
 1. Zbývající texty uvnitř sekcí jsou odstavce. Ceník zatím přeskoč.
-1. V sekcích _Průvodce_ a _Kontakt_ jsou ještě nadpisy 3. úrovně:_Orientační ceník, Oficiální kontakt_.
 1. Patička je jen odstavec. 
 1. Nezapomeň dát vědět, že máš hotovo a nezapomeň na to ani až dokončíš další úkoly.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-01--tvorimweb1.repl.co)
 
 ---
+
+## Bonus (pokud máš hotovo)
+
+1. Označ nadpisy _E-mail_ a _Mobil_ v sekci _Kontakty_ jako důležitý text
+
+----
 
 ## Shrnutí výkladu
 
@@ -159,7 +165,7 @@
 <img src="adela.jpg" alt="Adéla">
 ```
 
-<kbd>Alt+Shift+↑</kbd>/<kbd>Alt+Shift+↓</kbd> Pohybem nahoru/dolů se přidávají kurzory.
+<kbd>Ctr+Alt+Shift+↑</kbd>/<kbd>Ctrl+Alt+Shift+↓</kbd> Pohybem nahoru/dolů se přidávají kurzory.
 <kbd>Alt+Shift+I</kbd> Vloží kurzor na každý řádek ve výběru
 <kbd>Home</kbd> <kbd>End</kbd> začátek, konec řádku (srovná kurzory na stejnou pozici)
 
@@ -169,10 +175,10 @@
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-03)
 
-1. Přidej fotku Adély `foto.jpg` za nadpis O mně
-1. Přidej obrázek `turistika.jpg` za nadpis Turistický průvodce
+1. Přidej fotku Adély `foto.jpg` za nadpis _O mně_
+1. Přidej obrázek `turistika.jpg` za nadpis _Turistický průvodce_
 1. Přidej obrázek `mapa.png` před nadpis _Kontaktní údaje_
-1. Přidej 9 obrázků `hory1-9.jpg` za odstavec v sekci Fotogalerie. Ale použij vícenásobný kurzor! Nevíš, co to je? Za chvíli ti to předvedeme.
+1. Přidej 9 obrázků `hory1-9.jpg` za odstavec v sekci _Fotogalerie_. Ale použij vícenásobný kurzor! Nevíš, co to je? Za chvíli ti to předvedeme.
 ```
 hory1.jpg
 hory2.jpg
@@ -538,8 +544,7 @@ p {
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-15)
 
-1. Vytvoř navigaci pomocí tagu `<nav>`.
-1. Navigaci umísti za úvod.
+1. Mezi hlavičku stránky a sekci _O mně_ přidej navigaci pomocí tagu `<nav>`.
 1. Dovnitř vlož odkazy pro všechny sekce stránky.
 1. Aby ti navigace fungovala, musíš ještě přidat atribut `id` jednotlivým sekcím.
 1. Dej hotovo.
