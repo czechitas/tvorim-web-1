@@ -32,12 +32,6 @@ Kdo se neptá, nic se nedozví.
 
 ---
 
-# Tykáme si
-
-ale nemusíme
-
----
-
 # Jsme tu pro vás
 
 Pokud je něco problém, řekněte to hned.
