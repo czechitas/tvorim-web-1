@@ -95,14 +95,14 @@
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-01--tvorimweb1.repl.co)
 
----
+----
 
 ## Bonus (pokud máš hotovo)
 
 1. Označ nadpisy _E-mail_ a _Mobil_ v sekci _Kontakty_ jako důležitý text
 1. Zalom adresu na víc řádku pomocí značky `<br>` (nový řádek)
 
-----
+---
 
 ## Shrnutí výkladu
 
