@@ -43,7 +43,7 @@ Proto máme aplikaci, kterou máte všechny otevřenou.
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Hned si to <a href="https://czechitas.herokuapp.com/">vyzkoušíme</a>
+# Hned si to <a href="https://listecky-tvorimweb.herokuapp.com/">vyzkoušíme</a>
 
 >>>
 Super. Někdo si dejte červený lísteček… : )
