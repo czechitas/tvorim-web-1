@@ -128,7 +128,7 @@
 
 ## Bonus (pokud máš hotovo)
 
-1. Ceník patří do tabulky. Mrkni se do taháku, jakou strukturu musí mít tabulky v HTML, a nahraď odrážkový seznam tabulkou.
+1. Ceník patří do tabulky. [Mrkni se, jakou strukturu mají tabulky v HTML](https://jecas.cz/html-tabulky#znacky), a nahraď odrážkový seznam tabulkou.
 
 ---
 
