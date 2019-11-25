@@ -605,11 +605,18 @@ background-repeat: no-repeat; /* nebo repeat, pokud chceme, aby se obrázek opak
 1. Záhlaví přidej obrázek na pozadí pomocí vlastnosti `background-image`. 
 1. Nechceme, aby se obrázek opakoval, proto mu nastav `background-repeat` na `no-repeat`.
 1. Obrázek na pozadí vycentruj.
-1. Aby byl obrázek vidět celý, dej hlavnímu nadpisu opravud velký svislý padding (aspoň 150px).
+1. Aby byl obrázek vidět celý, dej hlavnímu nadpisu opravdu velký svislý padding (aspoň 150px).
 1. Jestli chceš mít obrázek roztažený pěkně do kraje, vynuluj margin na prvku `body`.
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-18--tvorimweb1.repl.co)
+
+----
+
+## Bonus
+
+1. Pro lepší kontrast změň barvu hlavního nadpisu na bílou.
+1. Vlasnost `background-size` umožňuje nastavit velikost pozadí. Nastav ji na hodnotu `cover`, aby obrázek vždy vyplnil celou hlavičku (i kdyby měl prohlížeč obrázek zvětšit víc, než na 100%)
 
 ---
 
