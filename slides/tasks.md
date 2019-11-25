@@ -219,11 +219,9 @@ hory9.jpg
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-04)
 
-Doplň titulek: `Adéliny cesty po horách`
-
-Abys viděla výsledek, je třeba stránku v samostatném okně. Klikni na ikonu se šipkou vpravo vedle adresního řádku v podokně s náhledem. V _Repl.it_ totiž vidíme vlastně **náhled stránky** což stačí na vše, co dnes budeme dělat, kromě zobrazení titulku, kdy potřebujeme vidět stránku samostatně.
-
-**Dej hotovo.**
+1. Doplň titulek: `Adéliny cesty po horách`
+1. Abys viděla výsledek, je třeba stránku v samostatném okně. Klikni na ikonu se šipkou vpravo vedle adresního řádku v podokně s náhledem. V _Repl.it_ totiž vidíme vlastně **náhled stránky** což stačí na vše, co dnes budeme dělat, kromě zobrazení titulku, kdy potřebujeme vidět stránku samostatně.
+1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-05--tvorimweb1.repl.co)
 
@@ -361,13 +359,9 @@ section {
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-08)
 
-1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast).
-
-Doporučené názvy tříd: `omne`, `fotogalerie`, `pruvodce`, `kontakt`
-
-Každá sekce bude mít jinou barvu pozadí. Střídavě béžovou a světle hnědou (`#fff1e6`, `#f9e3d0`). Případně vyzkoušej vlastní barvy.
-
-**Dej hotovo.**
+1. Pomocí tříd nastav každé sekci jinou barvu pozadí (dej si pozor na dostatečný kontrast). Doporučené názvy tříd: `omne`, `fotogalerie`, `pruvodce`, `kontakt`
+1. Každá sekce bude mít jinou barvu pozadí. Střídavě béžovou a světle hnědou (`#fff1e6`, `#f9e3d0`). Případně vyzkoušej vlastní barvy.
+1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-09--tvorimweb1.repl.co)
 
