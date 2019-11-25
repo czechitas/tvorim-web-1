@@ -618,7 +618,7 @@ background-repeat: no-repeat; /* nebo repeat, pokud chceme, aby se obrázek opak
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-18)
 
-Abys web odpovídal předloze, zbývá dotáhnout tabulku.
+Aby web odpovídal předloze, zbývá dotáhnout tabulku.
 
 1. Buňkám v pravém sloupci přidej třídu `cena`.
 1. Buňky s třídou `cena` zarovnej doprava.
