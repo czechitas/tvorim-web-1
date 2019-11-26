@@ -91,5 +91,3 @@ Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udrž
 * Představte si, že vaše kamarádka Adéla, nadšená cestovatelka a horolezkyně,  touží po tom, mít svůj web. Protože je aktivní, má už napsané texty, spoustu krásných fotek a od další své kamarádky i grafický návrh, jak by web měl vypadat.
 * Ukázat návrh webu a zeptat se, kdo by to dal?
 
----
-
