@@ -344,8 +344,8 @@ section {
 ## Shrnutí výkladu
 
 ```html
-<h1 class="tip">Tip</h1>
-<p class="perex tip"></p>
+<h1 class="tip">Nadpis článku</h1>
+<p class="perex tip">Úvodní odstavec článku…</p>
 ```
 
 ```css
