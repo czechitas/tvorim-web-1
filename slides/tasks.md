@@ -2,11 +2,24 @@
 
 1. [otevři si Repl](https://repl.it)
 1. Klikni na _Sign up_.
+1. Nyní máš 2 možnosti: přihlásit se prostřednictvím svého účtu na Facebooku či Googlu, anebo vytvořit účet.
+
+## 1. varianta: prostřednictvím Facebooku/Googlu
+
+1. Klikni na správnou ikonku.
+1. Dotazníkem se nezabývej.
+1. Nic dalšího v Repl.it nepodnikej, stránku klidně zavři. 
+1. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
+
+## 2. varianta: vytvořit účet na Repl.it
+
 1. Uživatelské jméno musí být 2‒15 znaků dlouhé.
 1. Zadej e-mail, na který máš přístup, přijde ti na něj ověřovací odkaz.
 1. Heslo musí být nejméně 6 znaků dlouhé.
 1. V dalším okně vyplň svůj profil (stačí skutečné jméno a příjmení ‒ zjednoduší to komunikaci).
+1. Dotazníkem se nezabývej.
 1. Podívej se do doručené pošty (prohledej i spam) a najdi e-mail od Repl.it s textem _Verify your e-mail_. Klikni na odkaz v něm obsažený a účet máš ověřen.
+1. Nic dalšího v Repl.it nepodnikej, stránku klidně zavři. 
 1. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
 
 ---
