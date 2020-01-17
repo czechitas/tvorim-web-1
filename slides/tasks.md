@@ -242,14 +242,6 @@ hory9.jpg
 
 ## Shrnutí výkladu
 
-```html
-<head>
-	…
-	<link rel="stylesheet" href="nazevsouboru.css">
-	…
-</head>
-```
-
 ```css
 p {
 	color: white;
@@ -265,13 +257,30 @@ p {
 
 Použij barvy ze souboru `podklady/barvy.txt`, ale zkus klidně i svoje vlastní barvy. Záleží jen na tobě, jak moc chceš, aby se tvůj web podobal vzorové stránce.
 
-1. Připoj si `style.css` k HTML.
 1. Hlavní nadpis obarvi na červenou.
 1. Nadpisy 2. úrovně obarvi na hnědou.
 1. Odkazy budou hnědé.
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-06--tvorimweb1.repl.co)
+
+---
+
+## Shrnutí výkladu
+
+```html
+<head>
+	…
+	<link rel="stylesheet" href="nazev-stylopisu.css">
+	…
+</head>
+```
+
+----
+
+# 08 Připojíme styly (a obarvíme nadpisy a odkazy)
+
+1. Připoj si `style.css` k HTML.
 
 ---
 
@@ -293,7 +302,7 @@ p {
 
 ----
 
-# 08 Upravíme písmo
+# 09 Upravíme písmo
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-06)
 
@@ -340,7 +349,7 @@ section {
 
 ----
 
-# 09 Rozdělení stránky
+# 10 Rozdělení stránky
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-07)
 
@@ -368,7 +377,7 @@ section {
 
 ----
 
-# 10 Využijeme třídy
+# 11 Využijeme třídy
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-08)
 
@@ -395,7 +404,7 @@ a {
 
 ----
 
-# 11 Zjednodušujeme kód
+# 12 Zjednodušujeme kód
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-09)
 
@@ -418,7 +427,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 ----
 
-# 12 Změníme vzhled odkazů po najetí myši
+# 13 Změníme vzhled odkazů po najetí myši
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-10)
 
@@ -441,7 +450,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 ----
 
-# 13 Nastavíme obrázkům v galerii šířku
+# 14 Nastavíme obrázkům v galerii šířku
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-11)
 
@@ -470,7 +479,7 @@ p {
 
 ----
 
-# 14 Orámujeme obrázky
+# 15 Orámujeme obrázky
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-12)
 
@@ -490,7 +499,7 @@ p {
 
 ----
 
-# 15 Odsazení sekcí
+# 16 Odsazení sekcí
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-13)
 
@@ -513,7 +522,7 @@ p {
 
 ----
 
-# 16 Obtékání obrázků
+# 17 Obtékání obrázků
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-14)
 
@@ -548,7 +557,7 @@ p {
 
 ----
 
-# 17 Přidáme navigaci
+# 18 Přidáme navigaci
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-15)
 
@@ -573,7 +582,7 @@ li { display: inline-block; }
 
 ----
 
-# 18 Odkazy v navigaci do pruhu
+# 19 Odkazy v navigaci do pruhu
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-16)
 
@@ -605,7 +614,7 @@ background-repeat: no-repeat; /* nebo repeat, pokud chceme, aby se obrázek opak
 
 ----
 
-# 19 Záhlaví s fotkou na pozadí
+# 20 Záhlaví s fotkou na pozadí
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-17)
 
@@ -627,7 +636,7 @@ background-repeat: no-repeat; /* nebo repeat, pokud chceme, aby se obrázek opak
 
 ---
 
-# 20 Vylepšíme tabulku
+# 21 Vylepšíme tabulku
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-18)
 
