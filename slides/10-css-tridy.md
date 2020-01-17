@@ -68,6 +68,8 @@ p { color: blue; }
 >>>
 * třída se tedy použije pokud má nějaký prvek speciální vlastnosti
 * nebo se skupina vlastností opakuje a chceme si tak ušetřit zápis
+* třída není ničím jiným než dalším atributem
+* zatímco `alt`, `src`, `href` lze přidat jen některým značkám, atribut `class` lze přidat kterékoliv značce
 
 ---
 
@@ -89,7 +91,6 @@ p { color: blue; }
 >>>
 * jeden atribut `class` může mít přiřazeno více hodnot ‒ tříd
 * oddělujeme je mezerou
-* **Kratičká přestávka před box modelem?**
 
 ---
 

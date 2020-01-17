@@ -6,7 +6,7 @@
 
 * První, co si prohlížeč stahuje, je HTML soubor, který obsahuje informace o stránce.
 * Je to textový soubor, takže ho můžete upravovat v jakémkoli textovém editoru jako je Poznámkový blok (Notepad) apod., my budeme používat Repl.it
-* Oblíbené editory: Atom, Sublime Text, VS Code
+* Oblíbené editory: VS Code, Sublime Text, Atom
 
 ---
 
@@ -90,5 +90,5 @@
 * V hlavičce (`<head>`) jsou definovány vlastnosti pro celou stránku. Většinou „nejsou vidět“. O hlavičce později.
 * V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“. Zde budeme nyní pracovat.
 * Všimněte si odsazení. A dbejte na něj ve svém kódu.
-* Všimněte si komentářů.
+* Všimněte si komentářů. Všimněte si jak tagy obalují jiné tagy.
 * **Přestávka?**

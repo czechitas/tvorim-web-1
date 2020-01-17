@@ -71,7 +71,7 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 # Plán
 
 - začátek teď
-- konec ~18h
+- konec ~17.30h
 
 >>>
 pauzy dle potřeby zhruba každou hodinu

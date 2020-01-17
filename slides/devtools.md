@@ -2,6 +2,9 @@
 
 # DevTools
 
+>>>
+* Ukážeme si jak náš zdrojový kód interpretuje prohlížeč.
+
 ---
 
 ## Nástroje pro vývojáře
