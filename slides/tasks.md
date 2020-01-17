@@ -157,7 +157,7 @@
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-02)
 
-1. V sekci _Kontakt_ vytvoř odkaz z textu „napiš na email“. Odkaz povede na e-mailovou adresu `adela@email.cz`.
+1. V sekci _Kontakt_ (uvnitř odstavce) vytvoř odkaz z textu „napiš na email“. Odkaz povede na e-mailovou adresu `adela@email.cz`.
 1. V témže odstavci vytvoř odkaz na Facebook z textu „ozvi na Facebooku“.
 1. V kontaktních údajích doplň znovu odkaz na Adélin e-mail.
 1. Vyzkoušej, že odkazy fungují!
@@ -356,7 +356,7 @@ section {
 1. Obal hlavní nadpis značkou pro záhlaví.
 1. Obal odstavec s patičkou značkou pro zápatí.
 1. Rozděl zbytek stránky na sekce pomocí značek pro sekci
-1. Všechny sekce budou mít žlutou barvu pozadí (později změníme).
+1. Všechny sekce stránky (_O mně_, _Fotogalerie_, _Turistický průvodce_ a _Kontakt_) budou mít žlutou barvu pozadí (později změníme).
 1. Dej hotovo
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-08--tvorimweb1.repl.co)
