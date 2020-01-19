@@ -48,5 +48,8 @@
 # Přidáme obrázky
 
 >>>
-* Upozornit na několikanásobný kurzor `Ctrl+click` nebo výběr textu a `Alt+Shift+I` nebo `Alt+Shift+↑`/`Alt+Shift+↓`
+* Upozornit na několikanásobný kurzor, existují 3 způsoby:
+    1. `Ctrl+click` 
+    2. výběr několika řádek textu a `Alt+Shift+I` 
+    3. `Alt+Shift+↑`/`Alt+Shift+↓`
 

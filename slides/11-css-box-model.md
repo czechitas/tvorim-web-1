@@ -18,9 +18,8 @@
 <img src="img/box-model-width-height.svg" style="border:0 none;box-shadow:none;">
 
 >>>
-* přestaneme pomalu mluvit o značkách a začneme mluvit o prvcích/elementech, které prohlížeč na stránce (na základě značek) vytvoří
 * z jednotlivých prvků skládáme komponenty a z nich pak stránky
-* lze také nastavi šířku/výšku minimální a maximální => `min-width`, `max-height`
+* lze také nastavit šířku/výšku minimální a maximální => `min-width`, `max-height`
 * pozor na procenta u výšky: stránka je z principu nekonečná
 
 

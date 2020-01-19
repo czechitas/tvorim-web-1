@@ -15,7 +15,7 @@
 
 >>>
 * **ukázat** základní rozvržení okna (DOM, CSS, webová stránka)
-* pozor, toto už není váš kód (i když se mu podobá), nýbrž jeho interpretace prohlížečem
+* pozor, toto už není váš kód (i když se mu podobá), nýbrž jeho **interpretace prohlížečem**
 
 ---
 
