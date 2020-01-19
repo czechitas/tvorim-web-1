@@ -38,4 +38,4 @@
 
 >>>
 Někdo je musí napsat. Ano, prostě je napíšete na klávesnici.
-Dokonce i některé obrázky napíšete.
+Dokonce i některé obrázky napíšete (SVG).

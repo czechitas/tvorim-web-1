@@ -33,9 +33,9 @@ Přehled toho, co v nejbližší době bude
 # Kde se poradit?
 
 * Ptej se na Facebooku ve skupině:<br>[Czechitas - Úvod do HTML a CSS](https://www.facebook.com/groups/700368416798259/)
-* V češtině je také [diskuse.jakpsatweb.cz](https://diskuse.jakpsatweb.cz/)
-* Hledej na Google
-<br><small>(opatrně s výsledky, nedoporučujeme např. w3schools.com)</small>
+* Nebo ve skupině [Frontendisti](https://www.facebook.com/groups/frontendisti)
+* Hledej na Google: 
+<br><small>(opatrně s výsledky, nedoporučujeme např. w3schools.com</small>
 
 ---
 
@@ -44,6 +44,8 @@ Přehled toho, co v nejbližší době bude
 * Tradiční zdroj [jakpsatweb.cz](https://www.jakpsatweb.cz/), **sice&nbsp;zastarává**, ale část o HTML je stále platná
 * Na [jecas.cz](http://jecas.cz/) jsou aktuální články a také reference (přehled) HTML i CSS
 * Pro pokročilejší [vzhurudolu.cz](https://www.vzhurudolu.cz)
+* Videokurz [Czechitas](https://www.czechitas.cz/cs/blog/zaciname-s-it/online-kurz-uvod-do-html-css-1-lekce)
+* Videokurz [Webrebel (slovensky)](https://www.youtube.com/watch?v=TSdaPU1mTBk)
 
 ---
 
@@ -52,7 +54,7 @@ Přehled toho, co v nejbližší době bude
 * [codecademy.com](https://www.codecademy.com/): základní kurzy zdarma
 * Reference CSS&nbsp;[cssreference.io](http://cssreference.io/) a HTML&nbsp;[htmlreference.io](http://htmlreference.io/)
 <br><small>hezky popisují nejpoužívanější prvky a vlastnosti</small>
-* Videokurzy na [udemy.com](https://www.udemy.com) nebo [Lynda.com](https://www.lynda.com/)
+* Videokurzy na [udemy.com](https://www.udemy.com)
 <br><small>nutno vybírat, placené, ale občas mají akce se slevami nebo omezenou dobu zdarma</small>
 * Přehled kurzů a tutoriálů: [hackr.io](https://hackr.io/)
 * [developer.mozilla.org](https://developer.mozilla.org/) 
