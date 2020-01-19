@@ -4,7 +4,6 @@
 
 >>>
 - Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do tvorby webů typicky zapojí.
-- Zeptat se do pléna a pak projít následující blány.
 - Je to ideální situace. Často na podobný luxus nejsou peníze.
 - U menších projektů zase více rolí obstará 1 osoba.
 - Velmi pěkně ideální postup při výrobě webu popisuje kniha _Web ostrý jako břitva_ od Jana Řezáče.
@@ -12,9 +11,6 @@
 ---
 
 ## Zadavatelka (zákaznice)
-
->>>
-Kdo si už tuhle roli vyzkoušel?
 
 ---
 
@@ -40,9 +36,6 @@ Podle zadání UX designérky pak...
 ## Programátorka
 ## Kodérka
 ## Testerka
-
->>>
-Jaký je rozdíl mezi programováním a kódováním?
 
 ---
 
@@ -90,6 +83,5 @@ Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udrž
 
 >>>
 * Představte si, že vaše kamarádka Adéla, nadšená cestovatelka a horolezkyně,  touží po tom, mít svůj web. Protože je aktivní, má už napsané texty, spoustu krásných fotek a od další své kamarádky i grafický návrh, jak by web měl vypadat.
-* Ukázat návrh webu a zeptat se, kdo by to dal?
 * Toto není úplně ideální způsob jak stavět web, ale u takhle malého webu to stačí. A hlavně, nejdůležitější je začít.
 

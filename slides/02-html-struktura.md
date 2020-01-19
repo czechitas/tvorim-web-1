@@ -91,4 +91,3 @@
 * V těle stránky (`<body>`) je vlastní text stránky, obrázky atd. Většinou „je vidět“. Zde budeme nyní pracovat.
 * Všimněte si odsazení. A dbejte na něj ve svém kódu.
 * Všimněte si komentářů. Všimněte si jak tagy obalují jiné tagy.
-* **Přestávka?**

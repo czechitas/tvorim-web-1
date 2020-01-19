@@ -2,5 +2,3 @@
 
 # Czechitas
 
->>>
-Mluví Czechita

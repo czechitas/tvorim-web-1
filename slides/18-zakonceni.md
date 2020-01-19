@@ -104,19 +104,3 @@ Přehled toho, co v nejbližší době bude
 
 * svůj web, web pro kamarádku/kamaráda: skutečný web vás donutí najít řešení
 * _tip_: nemusíte vše psát samy (ani profesionálové to nedělají): je spousta hotových řešení (knihovny, frameworky) 
-
----
-
-<!-- .slide: data-state="c-slide-break" -->
-
-# Konec?
-
-<!-- .element: class="c-text-xs fragment fade-out" -->
-
-# Začátek!
-<!-- .element: class="c-text-xl fragment current-visible" -->
-
->>>
-* Díky za pozornost
-* Díky koučkám a koučům
--> hospoda?

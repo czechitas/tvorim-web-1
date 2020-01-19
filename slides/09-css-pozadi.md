@@ -36,6 +36,3 @@
 <!-- .slide: data-state="c-slide-task" -->
 
 # Rozdělení stránky
-
->>>
-* **Přestávka?**
