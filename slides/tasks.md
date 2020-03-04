@@ -23,7 +23,7 @@ Mac: <kbd>Command+→</kbd>, <kbd>Command+←</kbd>
 
 Win: <kbd>Ctrl+A</kbd>
 
-Mac: <kbd>Cmd+A</kbd> 
+Mac: <kbd>Cmd+A</kbd>
 
 ### Kopírovat _výběr nebo bez výběru pro celý řádek_
 
@@ -37,7 +37,7 @@ Win:  <kbd>Ctrl+V</kbd>
 
 Mac:  <kbd>Cmd+V</kbd>
 
-### Kopírovat a smazat (vyjmout) 
+### Kopírovat a smazat (vyjmout)
 
 _výběr nebo bez výběru pro celý řádek_
 
@@ -52,13 +52,13 @@ Mac:  <kbd>Cmd+X</kbd>
 _lze odsazovat více řádků najednou, stačí je vybrat_
 
 
-### spustit kód 
+### spustit kód
 
 (to samé, co kliknutí na zelené tlačítko run)
 
 Win:  <kbd>Ctrl+Enter</kbd>
 
-Mac:  <kbd>Cmd+Enter</kbd> 
+Mac:  <kbd>Cmd+Enter</kbd>
 
 
 ----
@@ -545,3 +545,5 @@ Pokud ne, nastav šířku na celou šířku pomocí třídy `obrazek-siroky`, kt
 [Všechny úkoly, k dispozici tak, aby sis je mohla projít i doma](https://hackmd.io/ECDLL0EdRBCdi5KTavkj4A)
 
 [Púův web, jak by taky mohl vypadat, když se udělají všechny bonusové úkoly](https://24--tvorimweb1.repl.co/) a jeho [zdrojové kódy](https://repl.it/@tvorimweb1/24)
+
+4.&thinsp;4.&nbsp;2020 v1
