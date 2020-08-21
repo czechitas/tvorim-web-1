@@ -3,10 +3,11 @@
 # Kdo všechno na webu pracuje?
 
 >>>
-Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do tvorby webů typicky zapojí.
-Zeptat se do pléna a pak projít následující blány.
-Je to ideální situace. Často na podobný luxus nejsou peníze.
-U menších projektů zase více rolí obstará 1 osoba.
+- Než začneme kódovat, tak si uděláme stručný přehled kdo všechno se do tvorby webů typicky zapojí.
+- Zeptat se do pléna a pak projít následující blány.
+- Je to ideální situace. Často na podobný luxus nejsou peníze.
+- U menších projektů zase více rolí obstará 1 osoba.
+- Velmi pěkně ideální postup při výrobě webu popisuje kniha _Web ostrý jako břitva_ od Jana Řezáče.
 
 ---
 
@@ -73,7 +74,7 @@ Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udrž
 * To je role, kterou si dnes vyzkoušíte.
 * Tipnete si proč "frontend"? Co to znamená?
 * Naproti tomu backend se týká programování a práce s databázemi.
-* Paralela kuchaři a číšníci.p
+* Paralela kuchaři a číšníci.
 
 ---
 
@@ -90,4 +91,5 @@ Typicky pak podle doporučení designérky, copywriterky atd. vytváří a udrž
 >>>
 * Představte si, že vaše kamarádka Adéla, nadšená cestovatelka a horolezkyně,  touží po tom, mít svůj web. Protože je aktivní, má už napsané texty, spoustu krásných fotek a od další své kamarádky i grafický návrh, jak by web měl vypadat.
 * Ukázat návrh webu a zeptat se, kdo by to dal?
+* Toto není úplně ideální způsob jak stavět web, ale u takhle malého webu to stačí. A hlavně, nejdůležitější je začít.
 

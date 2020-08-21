@@ -18,9 +18,8 @@
 <img src="img/box-model-width-height.svg" style="border:0 none;box-shadow:none;">
 
 >>>
-* přestaneme pomalu mluvit o značkách a začneme mluvit o prvcích/elementech, které prohlížeč na stránce (na základě značek) vytvoří
 * z jednotlivých prvků skládáme komponenty a z nich pak stránky
-* lze také nastavi šířku/výšku minimální a maximální => `min-width`, `max-height`
+* lze také nastavit šířku/výšku minimální a maximální => `min-width`, `max-height`
 * pozor na procenta u výšky: stránka je z principu nekonečná
 
 
@@ -31,7 +30,7 @@
 # Nastavíme obrázkům v galerii šířku
 
 >>>
-* **Pozor** třetina (33,33%) nebude fungovat, kvůli mezerám mezi obrázky. Odkude se tam mezery berou? V HTML se všechno bílé místo zdrcne na délku jedné mezery. Takže obrázky, které máme v řádcích pod sebou, mezi sebou mají právě jednu mezeru. Je vícero řešení, jak se zbavit mezer, ale my to vyřešíme šířkou 32&nbsp;%.
+* **Pozor** třetina (33,33%) nebude fungovat, kvůli mezerám mezi obrázky. Odkud se tam mezery berou? Vzpomeňte si na začátek: v HTML se všechno bílé místo zdrcne na délku jedné mezery. Takže obrázky, které máme v řádcích pod sebou, mezi sebou mají právě jednu mezeru. Je vícero řešení, jak se zbavit mezer, ale my to vyřešíme šířkou 32&nbsp;%.
 * Tak je to ve fontendu často: i když nám něco přijde divné a nesmyslné, ve skutečnosti to vyplývá přesně z pravidel. Něco jako francouzská výslovnost… Takže jsou i výjimky.
 
 ---

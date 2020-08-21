@@ -2,11 +2,24 @@
 
 1. [otevři si Repl](https://repl.it)
 1. Klikni na _Sign up_.
+1. Nyní máš 2 možnosti: přihlásit se prostřednictvím svého účtu na Facebooku či Googlu, anebo vytvořit účet.
+
+## 1. varianta: prostřednictvím Facebooku/Googlu
+
+1. Klikni na správnou ikonku.
+1. Dotazníkem se nezabývej.
+1. Nic dalšího v Repl.it nepodnikej, stránku klidně zavři. 
+1. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
+
+## 2. varianta: vytvořit účet na Repl.it
+
 1. Uživatelské jméno musí být 2‒15 znaků dlouhé.
 1. Zadej e-mail, na který máš přístup, přijde ti na něj ověřovací odkaz.
 1. Heslo musí být nejméně 6 znaků dlouhé.
 1. V dalším okně vyplň svůj profil (stačí skutečné jméno a příjmení ‒ zjednoduší to komunikaci).
+1. Dotazníkem se nezabývej.
 1. Podívej se do doručené pošty (prohledej i spam) a najdi e-mail od Repl.it s textem _Verify your e-mail_. Klikni na odkaz v něm obsažený a účet máš ověřen.
+1. Nic dalšího v Repl.it nepodnikej, stránku klidně zavři. 
 1. Dej nám vědět, že máš hotovo, kliknutím na tlačítko „Hotovo“ na této stránce.
 
 ---
@@ -144,7 +157,7 @@
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-02)
 
-1. V sekci _Kontakt_ vytvoř odkaz z textu „napiš na email“. Odkaz povede na e-mailovou adresu `adela@email.cz`.
+1. V sekci _Kontakt_ (uvnitř odstavce) vytvoř odkaz z textu „napiš na email“. Odkaz povede na e-mailovou adresu `adela@email.cz`.
 1. V témže odstavci vytvoř odkaz na Facebook z textu „ozvi na Facebooku“.
 1. V kontaktních údajích doplň znovu odkaz na Adélin e-mail.
 1. Vyzkoušej, že odkazy fungují!
@@ -229,14 +242,6 @@ hory9.jpg
 
 ## Shrnutí výkladu
 
-```html
-<head>
-	…
-	<link rel="stylesheet" href="nazevsouboru.css">
-	…
-</head>
-```
-
 ```css
 p {
 	color: white;
@@ -252,13 +257,30 @@ p {
 
 Použij barvy ze souboru `podklady/barvy.txt`, ale zkus klidně i svoje vlastní barvy. Záleží jen na tobě, jak moc chceš, aby se tvůj web podobal vzorové stránce.
 
-1. Připoj si `style.css` k HTML.
 1. Hlavní nadpis obarvi na červenou.
 1. Nadpisy 2. úrovně obarvi na hnědou.
 1. Odkazy budou hnědé.
 1. Dej hotovo.
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-06--tvorimweb1.repl.co)
+
+---
+
+## Shrnutí výkladu
+
+```html
+<head>
+	…
+	<link rel="stylesheet" href="nazev-stylopisu.css">
+	…
+</head>
+```
+
+----
+
+# 08 Připojíme styly (a obarvíme nadpisy a odkazy)
+
+1. Připoj si `style.css` k HTML.
 
 ---
 
@@ -280,7 +302,7 @@ p {
 
 ----
 
-# 08 Upravíme písmo
+# 09 Upravíme písmo
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-06)
 
@@ -327,14 +349,14 @@ section {
 
 ----
 
-# 09 Rozdělení stránky
+# 10 Rozdělení stránky
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-07)
 
 1. Obal hlavní nadpis značkou pro záhlaví.
 1. Obal odstavec s patičkou značkou pro zápatí.
 1. Rozděl zbytek stránky na sekce pomocí značek pro sekci
-1. Všechny sekce budou mít žlutou barvu pozadí (později změníme).
+1. Všechny sekce stránky (_O mně_, _Fotogalerie_, _Turistický průvodce_ a _Kontakt_) budou mít žlutou barvu pozadí (později změníme).
 1. Dej hotovo
 
 > Pokud si nejsi jista, podívej se, jak má [výsledek vypadat](https://Adela-cestuje-08--tvorimweb1.repl.co)
@@ -355,7 +377,7 @@ section {
 
 ----
 
-# 10 Využijeme třídy
+# 11 Využijeme třídy
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-08)
 
@@ -382,7 +404,7 @@ a {
 
 ----
 
-# 11 Zjednodušujeme kód
+# 12 Zjednodušujeme kód
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-09)
 
@@ -405,7 +427,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 ----
 
-# 12 Změníme vzhled odkazů po najetí myši
+# 13 Změníme vzhled odkazů po najetí myši
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-10)
 
@@ -428,7 +450,7 @@ a:active { color: yellow; } /* při kliknutí */
 
 ----
 
-# 13 Nastavíme obrázkům v galerii šířku
+# 14 Nastavíme obrázkům v galerii šířku
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-11)
 
@@ -457,7 +479,7 @@ p {
 
 ----
 
-# 14 Orámujeme obrázky
+# 15 Orámujeme obrázky
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-12)
 
@@ -477,7 +499,7 @@ p {
 
 ----
 
-# 15 Odsazení sekcí
+# 16 Odsazení sekcí
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-13)
 
@@ -500,7 +522,7 @@ p {
 
 ----
 
-# 16 Obtékání obrázků
+# 17 Obtékání obrázků
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-14)
 
@@ -535,7 +557,7 @@ p {
 
 ----
 
-# 17 Přidáme navigaci
+# 18 Přidáme navigaci
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-15)
 
@@ -560,7 +582,7 @@ li { display: inline-block; }
 
 ----
 
-# 18 Odkazy v navigaci do pruhu
+# 19 Odkazy v navigaci do pruhu
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-16)
 
@@ -592,7 +614,7 @@ background-repeat: no-repeat; /* nebo repeat, pokud chceme, aby se obrázek opak
 
 ----
 
-# 19 Záhlaví s fotkou na pozadí
+# 20 Záhlaví s fotkou na pozadí
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-17)
 
@@ -614,7 +636,7 @@ background-repeat: no-repeat; /* nebo repeat, pokud chceme, aby se obrázek opak
 
 ---
 
-# 20 Vylepšíme tabulku
+# 21 Vylepšíme tabulku
 
 > Pokud jsi nestihla předchozí cvičení, udělej si znovu _fork_ [z této verze](https://repl.it/@tvorimweb1/Adela-cestuje-18)
 

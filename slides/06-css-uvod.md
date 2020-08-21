@@ -60,7 +60,7 @@
 
 >>>
 * Barvy lze zapisovat více způsoby, 
-* Tzv. pojmenovaných barev je omezenýpočet.
+* Tzv. pojmenovaných barev je omezený počet.
 * Libovolnou barvu lze získat číselným zápisem, např. hexadecimálním.
 * Repl.it ti nabídne pohodlný výběr barvy, když zaparkuješ kurzor nad řádkem, kde barvu nastavuješ. (asi ukázat)
 
@@ -88,6 +88,17 @@ p {
 
 ---
 
+<!-- .slide: data-state="c-slide-task" -->
+
+# Obarvíme nadpisy a odkazy
+
+>>>
+* píšeme do souboru `style.css`, který už máte od nás připravený
+* to, co v něm je, nemažte, naopak si to uschovejte pro své vlastní stránky
+* nevysvětlovat nyní proč, prostě to tam chceme mít
+
+---
+
 ## Připojení CSS
 
 ```html
@@ -107,9 +118,4 @@ p {
 
 <!-- .slide: data-state="c-slide-task" -->
 
-# Připojíme styly a obarvíme nadpisy a odkazy
-
->>>
-* píšeme do souboru `style.css`, který už máte od nás připravený
-* to, co v něm je, nemažte, naopak si to uschovejte pro své vlastní stránky
-* nevysvětlovat nyní proč, prostě to tam chceme mít
+# Připojíme styly (a obarvíme nadpisy a odkazy)

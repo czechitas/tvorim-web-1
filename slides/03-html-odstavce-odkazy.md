@@ -38,7 +38,7 @@
 * Jednou z nejčastěji používaných značek je vyznačování odstavce.
 * Z posloupnost mezer a zalomení řádku se stane 1 mezera => text se slije, pokud ho nestrukturujeme pomocí tagů.
 * Přesto si dejte na formátování kódu (odsazování, odřádkování) záležet, jinak se v tom nejde vyznat:
-* Jeden element na řádek.
+* Jeden blok se značkou na řádek. Pamatuj: nová otvírací značka ~ nový řádek
 * Zanořujeme-li, odsadíme začátek řádku tabulátorem.
 * `<br>` v adrese, abychom vynutili zalomení
 
@@ -95,11 +95,11 @@
 <!-- .element: class="c-text-nd fragment current-visible" contenteditable="true" -->
 
 >>>
-* naučíme se jak udělat odkaz
+* naučíme se jak udělat odkaz: **HT**ML první část zkratky
 * atribut je `href`, jeho hodnotou je odkaz
 * hodnota do "uvozovek"
-* Pomocí atributy dodáváme prohlížeči nějaká extra data, která nevyplývají ze samotného tagu. (Např. `h1` všeříkající, `a` je málo, musíme říct **kam** odkazovat.)
-* atributy se píšou do otevíracího tagu nebo prostě do tagu
+* Prostřednictvím atributů dodáváme prohlížeči doplňující údaje, která nevyplývají ze samotného tagu. (Např. `h1` všeříkající, `a` je málo, musíme říct **kam** odkazovat.)
+* Atributy se píšou do otevíracího tagu nebo prostě do tagu, nikdy ne do uzavíracího.
 
 ---
 
