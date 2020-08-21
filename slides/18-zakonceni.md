@@ -34,8 +34,7 @@ Přehled toho, co v nejbližší době bude
 
 * Ptej se na Facebooku ve skupině:<br>[Czechitas - Úvod do HTML a CSS](https://www.facebook.com/groups/700368416798259/)
 * Nebo ve skupině [Frontendisti](https://www.facebook.com/groups/frontendisti)
-* Hledej na Google: 
-<br><small>(opatrně s výsledky, nedoporučujeme např. w3schools.com</small>
+* Hledej na Google
 
 ---
 
@@ -71,7 +70,7 @@ Přehled toho, co v nejbližší době bude
 * Web ostrý jako břitva
 <br><small>proces tvorby webu, méně technikálií, pro zadavatele i tvůrce</small>
 * Dobrý designér to všechno ví!
-<br><small>Opět zaměřeno spíš na design</small>
+<br><small>opět zaměřeno spíš na design</small>
 
 ---
 
@@ -93,12 +92,12 @@ Přehled toho, co v nejbližší době bude
 
 # Srazy
 
-* Frontendisti.cz (Praha, Brno, Ostrava, Plzeň, Hradec)
+* Frontendisti.cz (Praha, Brno, Plzeň)
 
 >>>
 * neformální setkání, s krátkými přednáškami
 * výměna zkušeností
-* informace o pracovních nabídkách, "pohovor v hospodě"
+* informace o pracovních nabídkách, „pohovor v hospodě“
 
 ---
 
