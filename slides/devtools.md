@@ -22,7 +22,7 @@
 ## Prohlížeč ze zdrojového HTML vytvoří prvky (elementy).
 
 >>>
-* Ze značek v našem zdrojovém kód vzninout HTML prvky webové stránky.
+* Ze značek v našem zdrojovém kód vzniknou HTML prvky webové stránky.
 * **ukázat** zvýrazění prvku na stránce při pohybu v DOMu.
 * DOM ~ Document Object Model = objektový model dokumentu
 * Může se to zdát poněkud abstraktní, ale brzy se to objasní.
