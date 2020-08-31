@@ -28,7 +28,7 @@ p { color: blue; }
 # Řešení: jak odlišit elementy <!-- .element: class="c-sr-only" -->
 
 ```html
-<p class="tip">A víte, že…?</p>
+<p class="uvodnik">A víte, že…?</p>
 
 <p>Ještě jeden odstavec</p>
 
@@ -36,7 +36,7 @@ p { color: blue; }
 <!-- .element: class="c-text-md" contenteditable="true" -->
 
 ```css
-.tip { color: blue; }
+.uvodnik { color: blue; }
 ```
 <!-- .element: class="c-text-md fragment" contenteditable="true" -->
 
@@ -51,9 +51,9 @@ p { color: blue; }
 # Třída platí pro více elementů <!-- .element: class="c-sr-only" -->
 
 ```html
-<h1 class="tip">Tip</h1>
+<h1 class="uvodnik">Tip</h1>
 
-<p class="tip">A víte, že…?</p>
+<p class="uvodnik">A víte, že…?</p>
 
 <p>Ještě jeden odstavec</p>
 
@@ -61,7 +61,7 @@ p { color: blue; }
 <!-- .element: class="c-text-md" contenteditable="true" -->
 
 ```css
-.tip { color: blue; }
+.uvodnik { color: blue; }
 ```
 <!-- .element: class="c-text-md" contenteditable="true" -->
 
