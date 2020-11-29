@@ -12,8 +12,9 @@ Ze začátku bude více vysvětlování, ale postupně ubyde.
 
 # 2. Zkusíte si
 
-- Zadání se objeví v aplikaci: czechitas.herokuapp.com
-- Času bude kolik je potřeba.
+- Zadání se objeví ve sdíleném dokumentu
+- Rozdělíte se do breakout místností.
+- Času bude kolik je potřeba (budeme se ptát).
 
 
 >>>
@@ -71,7 +72,7 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 # Plán
 
 - začátek teď
-- konec ~17.00h
+- konec ~17.30
 
 >>>
 pauzy dle potřeby zhruba každou hodinu
