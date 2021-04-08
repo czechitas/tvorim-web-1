@@ -22,8 +22,9 @@
 
 # Kurzy Czechitas
 
-* Jak na web (několikatýdenní)
-* Intenzivní kurz Czechitas
+* Tvořím web A–Z 1 a 2 (oba 12týdenní)
+* Digitální akademie Czechitas
+* Staň se kódérkou (online kurz)
 
 >>>
 Přehled toho, co v nejbližší době bude
