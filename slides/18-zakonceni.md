@@ -96,6 +96,7 @@ Přehled toho, co v nejbližší době bude
 * Frontendisti.cz (Praha, Brno, Plzeň)
 
 >>>
+* příští středu, 14. dubna o vzdělávání
 * neformální setkání, s krátkými přednáškami
 * výměna zkušeností
 * informace o pracovních nabídkách, „pohovor v hospodě“
