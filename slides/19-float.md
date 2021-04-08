@@ -44,11 +44,11 @@ img {
  
 ```css
 section { 
-	overflow: auto;
+	display: flow-root;
 }
 ```
-<!-- .element: class="c-text-md fragment" contenteditable="true" -->
+<!-- .element: class="c-text-sm fragment" contenteditable="true" -->
 
 >>>
-* Vlastnost overflow řeší, co se má stát, když obsah prvku přeteče.
-* Nám si teď stačí zapamatovat, že když používám float, je dobré přidat rodičovskému prvku `overflow: auto`
+* Vlastnost `display` právě s touto hodnotou ošetří, aby plovoucí prvek nepřetekl.
+* Nám si teď stačí zapamatovat, že když používám float, je dobré přidat rodičovskému prvku `display: flow-root`
