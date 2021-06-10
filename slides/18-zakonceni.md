@@ -34,6 +34,7 @@ Přehled toho, co v nejbližší době bude
 # Kde se poradit?
 
 * Ptej se na Facebooku ve skupině:<br>[Czechitas - Úvod do HTML a CSS](https://www.facebook.com/groups/700368416798259/)
+* Přidej se k [Junior.guru](https://junior.guru/)
 * Nebo ve skupině [Frontendisti](https://www.facebook.com/groups/frontendisti)
 * Hledej na Google
 
