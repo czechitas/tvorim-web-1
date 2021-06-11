@@ -42,6 +42,7 @@
 * Pokud otevřeš textový soubor s kódem, zobrazí se ti uprostřed a můžeš ho rovnou upravovat.
 * Pokud se ti zdá špatně čitelný, po kliknutí na ozubené kolečko v levé liště se objeví možnost si kód zvětšit, přepnout pozadí na tmavé nebo světlé, případně změnit uspořádání jednotlivých podoken, podle toho co ti vyhovuje.
 * Na horní liště podokna s kódem je ikona, která spustí „auto-format“. To znamená, že hezky zarovná a odsadí kód. To oceníš, jakmile kódu začne přibývat. Nestyď se a klikej na ni často.
+* Online kurz: vpravo nahoře je tlačítko _Share_. Jeho pomocí získáš odkaz na svůj projekt, který pošleš kouči, který ti pomůže odhalit, kde je případná chyba.
 
 ---
 

@@ -17,7 +17,7 @@ Ze začátku bude více vysvětlování, ale postupně ubyde.
 
 
 >>>
-* Jak to uděláme? Zepředu opravdu každému do monitoru nevidím.
+* Jak to uděláme? Na dálku vám nemůžeme koukat přes rameno.
 Proto máme aplikaci, kterou máte všechny otevřenou.
 * Zadat úkol
 
@@ -25,15 +25,18 @@ Proto máme aplikaci, kterou máte všechny otevřenou.
 
 # 3. Máš hotovo?
 
->>>
 * Zmáčkni tlačítko Hotovo
+
+>>>
 
 ---
 
 # Chceš poradit?
 
+* Zmáčkni tlačítko _Chci poradit_
+* Ozvi se do chatu, nebo vstup do hovoru a popiš svůj problém.
+
 >>>
-* Dej Chci poradit
 
 ---
 
@@ -71,7 +74,8 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 # Plán
 
 - začátek teď
-- konec ~17.00h
+- konec ~13.00
+- zítra rovněž tak
 
 >>>
 pauzy dle potřeby zhruba každou hodinu
